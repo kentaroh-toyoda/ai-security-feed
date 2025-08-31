@@ -1,0 +1,532 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Web Article Collection</title>
+    <link>https://your-domain.com/</link>
+    <description>Collected and summarized articles from various sources</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>Web Article Collection Agent</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 31 Aug 2025 20:42:35 +0000</lastBuildDate>
+    <item>
+      <title>0DIN Secures the Future of AI Shopping</title>
+      <description>0DIN researchers identified a significant security flaw in Amazon's AI assistant Rufus, revealing that malicious requests could bypass its protective guardrails. This finding underscores the critical need for thorough testing as companies rapidly adopt Generative AI technologies in their products.</description>
+      <guid isPermaLink="false">0DIN Secures the Future of AI Shopping</guid>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>Generative AI</category>
+      <category>Technology Testing</category>
+      <category>E-commerce</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:41 +0000</pubDate>
+      <source url="https://0din.ai/blog">0din.ai</source>
+    </item>
+    <item>
+      <title>Quantifying the Unruly: A Scoring System for Jailbreak Tactics</title>
+      <link>https://0din.ai/blog/0din-s-real-world-jailbreak-benchmark-the-gold-standard-for-llm-security-evaluation</link>
+      <description>The article discusses the development of JEF, a Jailbreak Evaluation Framework created by 0DIN.ai to systematically score and compare jailbreak tactics used to bypass safeguards in large language models. JEF quantifies these adversarial methods based on severity, flexibility, and real-world impact, moving beyond informal hacks to a structured assessment approach.</description>
+      <guid isPermaLink="false">https://0din.ai/blog/0din-s-real-world-jailbreak-benchmark-the-gold-standard-for-llm-security-evaluation</guid>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>Natural Language Processing</category>
+      <category>Adversarial Machine Learning</category>
+      <category>Software Development</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:41 +0000</pubDate>
+      <source url="https://0din.ai/blog">0din.ai</source>
+    </item>
+    <item>
+      <title>ODIN Product Launch: Threat Intelligence Feed &amp; Model Scanner</title>
+      <link>https://0din.ai/blog/0din-s-real-world-jailbreak-benchmark-the-gold-standard-for-llm-security-evaluation</link>
+      <description>0DIN has launched two integrated products—the Threat Intelligence Feed and the Model Scanner—aimed at helping security, ML-ops, and governance teams proactively address emerging threats in Generative AI. These tools work together to enhance threat detection and remediation for large language model deployments.</description>
+      <guid isPermaLink="false">https://0din.ai/blog/0din-s-real-world-jailbreak-benchmark-the-gold-standard-for-llm-security-evaluation</guid>
+      <category>Cybersecurity</category>
+      <category>Artificial Intelligence</category>
+      <category>Machine Learning Operations</category>
+      <category>Threat Intelligence</category>
+      <category>Generative AI Security</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:41 +0000</pubDate>
+      <source url="https://0din.ai/blog">0din.ai</source>
+    </item>
+    <item>
+      <title>ChatGPT Guessing Game Leads To Users Extracting Free Windows OS Keys &amp; More</title>
+      <link>https://0din.ai/blog/0din-s-real-world-jailbreak-benchmark-the-gold-standard-for-llm-security-evaluation</link>
+      <description>Researchers discovered a method to bypass AI safety measures by using a guessing game format to trick models like GPT-4o into revealing sensitive information, including valid Windows product keys. This highlights the difficulty in securing AI systems against advanced social engineering techniques.</description>
+      <guid isPermaLink="false">https://0din.ai/blog/0din-s-real-world-jailbreak-benchmark-the-gold-standard-for-llm-security-evaluation</guid>
+      <category>Artificial Intelligence Security</category>
+      <category>AI Ethics</category>
+      <category>Cybersecurity</category>
+      <category>Software Licensing</category>
+      <category>Social Engineering</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:40 +0000</pubDate>
+      <source url="https://0din.ai/blog">0din.ai</source>
+    </item>
+    <item>
+      <title>Phishing For Gemini</title>
+      <link>https://0din.ai/blog/0din-s-real-world-jailbreak-benchmark-the-gold-standard-for-llm-security-evaluation</link>
+      <description>A researcher revealed a prompt-injection vulnerability in Google Gemini for Workspace that enables attackers to embed hidden malicious instructions in emails. When users click 'Summarize this email,' Gemini generates a fake phishing warning appearing to come from Google, exploiting hidden text rendering techniques. Although Google has issued mitigations, this indirect prompt attack remains a threat in 2024.</description>
+      <guid isPermaLink="false">https://0din.ai/blog/0din-s-real-world-jailbreak-benchmark-the-gold-standard-for-llm-security-evaluation</guid>
+      <category>Cybersecurity</category>
+      <category>AI Vulnerabilities</category>
+      <category>Phishing Attacks</category>
+      <category>Google Gemini</category>
+      <category>Prompt Injection</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:40 +0000</pubDate>
+      <source url="https://0din.ai/blog">0din.ai</source>
+    </item>
+    <item>
+      <title>Engineering Confidence: 14 Critical Questions for Secure LLM + RAG Deployment</title>
+      <link>https://0din.ai/blog/0din-s-real-world-jailbreak-benchmark-the-gold-standard-for-llm-security-evaluation</link>
+      <description>The article discusses the swift adoption of Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Model Protocol Context (MCP) by development teams eager to gain competitive advantages. It highlights the risks of bypassing essential controls and oversight, which can lead to significant intellectual property, privacy, and security vulnerabilities. The piece emphasizes the need for critical questions and due diligence to ensure secure deployment of these technologies.</description>
+      <guid isPermaLink="false">https://0din.ai/blog/0din-s-real-world-jailbreak-benchmark-the-gold-standard-for-llm-security-evaluation</guid>
+      <category>Artificial Intelligence</category>
+      <category>Machine Learning</category>
+      <category>Cybersecurity</category>
+      <category>Data Privacy</category>
+      <category>Technology Risk Management</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:40 +0000</pubDate>
+      <source url="https://0din.ai/blog">0din.ai</source>
+    </item>
+    <item>
+      <title>0DIN’s Real-World Jailbreak Benchmark: The Gold Standard For LLM Security Evaluation</title>
+      <link>https://0din.ai/blog/0din-s-real-world-jailbreak-benchmark-the-gold-standard-for-llm-security-evaluation</link>
+      <description>0DIN conducted a comprehensive security benchmark testing five leading large language models against over 450 real-world jailbreak attempts, identifying OpenAI’s ChatGPT o4-mini as the most resilient. The analysis highlights advanced multilayer guardrails and continuous red-teaming as essential for minimizing vulnerabilities, emphasizing that LLM security requires ongoing adaptation to emerging attack vectors. The study advocates embedding safety within models themselves and treating security as a dynamic, evolving process.</description>
+      <guid isPermaLink="false">https://0din.ai/blog/0din-s-real-world-jailbreak-benchmark-the-gold-standard-for-llm-security-evaluation</guid>
+      <category>AI Security</category>
+      <category>Large Language Models</category>
+      <category>Cybersecurity Benchmarking</category>
+      <category>Model Alignment</category>
+      <category>Red-Teaming</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:39 +0000</pubDate>
+      <source url="https://0din.ai/blog">0din.ai</source>
+    </item>
+    <item>
+      <title>Structuring Transparency for Agentic AI</title>
+      <link>https://hiddenlayer.com/innovation-hub/structuring-transparency-for-agentic-ai/</link>
+      <description>As generative AI advances into more autonomous, agent-driven systems, traditional documentation and governance methods must adapt to ensure transparency. The article emphasizes that transparency is no longer optional but a structural necessity for agentic AI models. It highlights the shift from static, prompt-based AI to dynamic, agentic systems requiring new documentation frameworks.</description>
+      <guid isPermaLink="false">https://hiddenlayer.com/?p=13415</guid>
+      <category>Artificial Intelligence</category>
+      <category>AI Transparency</category>
+      <category>Agentic AI</category>
+      <category>AI Governance</category>
+      <category>Generative AI</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:39 +0000</pubDate>
+      <source url="https://hiddenlayer.com/feed">HiddenLayer | Security for AI</source>
+    </item>
+    <item>
+      <title>HiddenLayer Appoints Chelsea Strong as Chief Revenue Officer to Accelerate Global Growth and Customer Expansion</title>
+      <link>https://hiddenlayer.com/innovation-hub/hiddenlayer-appoints-chelsea-strong-as-chief-revenue-officer-to-accelerate-global-growth-and-customer-expansion/</link>
+      <description>HiddenLayer has appointed Chelsea Strong as Chief Revenue Officer to drive global growth and expand its customer base. Strong brings over 25 years of experience in enterprise sales and business development within the cybersecurity and technology sectors.</description>
+      <guid isPermaLink="false">https://hiddenlayer.com/?p=13456</guid>
+      <category>Corporate Leadership</category>
+      <category>Cybersecurity</category>
+      <category>Artificial Intelligence Security</category>
+      <category>Business Growth</category>
+      <category>Technology Industry</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:39 +0000</pubDate>
+      <source url="https://hiddenlayer.com/feed">HiddenLayer | Security for AI</source>
+    </item>
+    <item>
+      <title>OpenSSF Model Signing for Safer AI Supply Chains</title>
+      <link>https://hiddenlayer.com/innovation-hub/openssf-model-signing-for-safer-ai-supply-chains/</link>
+      <description>The article discusses the importance of ensuring the integrity and security of AI models as they become integral to various critical applications. It highlights OpenSSF's model signing initiative as a solution to enhance trust and safety within AI supply chains. This approach aims to address challenges in verifying and securing AI models against tampering and vulnerabilities.</description>
+      <guid isPermaLink="false">https://hiddenlayer.com/?p=13331</guid>
+      <category>Artificial Intelligence Security</category>
+      <category>AI Supply Chain</category>
+      <category>Model Signing</category>
+      <category>Open Source Security</category>
+      <category>Trustworthy AI</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:39 +0000</pubDate>
+      <source url="https://hiddenlayer.com/feed">HiddenLayer | Security for AI</source>
+    </item>
+    <item>
+      <title>How Hidden Prompt Injections Can Hijack AI Code Assistants Like Cursor</title>
+      <link>https://hiddenlayer.com/innovation-hub/how-hidden-prompt-injections-can-hijack-ai-code-assistants-like-cursor/</link>
+      <description>HiddenLayer's research uncovers a significant security vulnerability in AI code assistants like Cursor, where attackers can use hidden prompt injections to manipulate these tools into executing malicious actions. This threat can be embedded in seemingly harmless sources such as GitHub README files, posing risks to software development processes.</description>
+      <guid isPermaLink="false">https://hiddenlayer.com/?p=13498</guid>
+      <category>AI Security</category>
+      <category>Prompt Injection</category>
+      <category>Software Development</category>
+      <category>Cybersecurity Threats</category>
+      <category>AI Code Assistants</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:39 +0000</pubDate>
+      <source url="https://hiddenlayer.com/feed">HiddenLayer | Security for AI</source>
+    </item>
+    <item>
+      <title>AI Coding Assistants at Risk</title>
+      <link>https://hiddenlayer.com/innovation-hub/ai-coding-assistants-at-risk/</link>
+      <description>AI-powered coding assistants like Cursor are revolutionizing software development by providing fast and intuitive code generation trusted by major brands. However, research from HiddenLayer's security team reveals vulnerabilities where attackers can exploit seemingly harmless files, posing significant security risks to these AI tools.</description>
+      <guid isPermaLink="false">https://hiddenlayer.com/?p=13495</guid>
+      <category>Artificial Intelligence</category>
+      <category>Software Development</category>
+      <category>Cybersecurity</category>
+      <category>AI Security</category>
+      <category>Technology Innovation</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:39 +0000</pubDate>
+      <source url="https://hiddenlayer.com/feed">HiddenLayer | Security for AI</source>
+    </item>
+    <item>
+      <title>LLM Security 101: Guardrails, Alignment, and the Hidden Risks of GenAI</title>
+      <link>https://hiddenlayer.com/innovation-hub/llm-security-101-the-hidden-risks-of-genai/</link>
+      <description>The article discusses the security challenges associated with large language models (LLMs) and generative AI, emphasizing the importance of implementing guardrails and alignment to mitigate hidden risks. It highlights how AI systems, while beneficial across various industries, are increasingly targeted by threat actors aiming to exploit vulnerabilities.</description>
+      <guid isPermaLink="false">https://hiddenlayer.com/?p=13554</guid>
+      <category>AI Security</category>
+      <category>Generative AI</category>
+      <category>Large Language Models</category>
+      <category>Cybersecurity Risks</category>
+      <category>AI Alignment</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:39 +0000</pubDate>
+      <source url="https://hiddenlayer.com/feed">HiddenLayer | Security for AI</source>
+    </item>
+    <item>
+      <title>Visual Input based Steering for Output Redirection (VISOR)</title>
+      <link>https://hiddenlayer.com/innovation-hub/visual-input-based-steering-for-output-redirection-visor/</link>
+      <description>The article discusses Visual Input based Steering for Output Redirection (VISOR), a technique aimed at improving security in generative AI systems by controlling and redirecting AI outputs based on visual inputs. It highlights recent AI security incidents, such as data leaks and unsafe advice from AI models, emphasizing the need for robust output management solutions like VISOR.</description>
+      <guid isPermaLink="false">https://hiddenlayer.com/?p=13569</guid>
+      <category>Artificial Intelligence Security</category>
+      <category>Generative AI</category>
+      <category>Output Steering</category>
+      <category>AI Safety</category>
+      <category>Machine Learning</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:39 +0000</pubDate>
+      <source url="https://hiddenlayer.com/feed">HiddenLayer | Security for AI</source>
+    </item>
+    <item>
+      <title>Top 5 AI Threat Vectors in 2025</title>
+      <link>https://hiddenlayer.com/innovation-hub/top-5-ai-threat-vectors-in-2025/</link>
+      <description>The article discusses the top five AI threat vectors anticipated in 2025, highlighting the increasing risks as AI becomes integral to business operations. It is based on a survey of 250 IT leaders focused on securing and developing AI systems amid growing exploitation incentives. The report emphasizes the need for robust AI security measures to protect against emerging threats.</description>
+      <guid isPermaLink="false">https://hiddenlayer.com/?p=13581</guid>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>Technology Trends</category>
+      <category>Risk Management</category>
+      <category>IT Leadership</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:39 +0000</pubDate>
+      <source url="https://hiddenlayer.com/feed">HiddenLayer | Security for AI</source>
+    </item>
+    <item>
+      <title>Persistent Backdoors</title>
+      <link>https://hiddenlayer.com/innovation-hub/persistent-backdoors/</link>
+      <description>The article discusses the Shadowlogic technique discovered by the HiddenLayer SAI team, which creates persistent backdoors in AI models that remain effective even after model conversion or fine-tuning. This method ensures that backdoors survive transformations such as PyTorch to ONNX or ONNX to TensorRT, posing ongoing security risks.</description>
+      <guid isPermaLink="false">https://hiddenlayer.com/?p=13327</guid>
+      <category>AI Security</category>
+      <category>Model Backdoors</category>
+      <category>Machine Learning</category>
+      <category>Cybersecurity</category>
+      <category>Model Robustness</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:39 +0000</pubDate>
+      <source url="https://hiddenlayer.com/feed">HiddenLayer | Security for AI</source>
+    </item>
+    <item>
+      <title>Integrating AI Security into the SDLC</title>
+      <link>https://hiddenlayer.com/innovation-hub/integrating-ai-security-into-the-sdlc/</link>
+      <description>The article discusses the unique security challenges posed by AI and ML systems, such as model theft, adversarial attacks, and data poisoning, which traditional application security methods cannot fully address. It emphasizes the need to integrate AI-specific security measures directly into the Software Development Lifecycle (SDLC) to effectively mitigate these risks.</description>
+      <guid isPermaLink="false">https://hiddenlayer.com/?p=13650</guid>
+      <category>AI Security</category>
+      <category>Software Development Lifecycle</category>
+      <category>Machine Learning Security</category>
+      <category>Cybersecurity</category>
+      <category>Application Security</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:39 +0000</pubDate>
+      <source url="https://hiddenlayer.com/feed">HiddenLayer | Security for AI</source>
+    </item>
+    <item>
+      <title>Hello World!</title>
+      <link>https://www.guardrailsai.com/blog/hello-world</link>
+      <guid isPermaLink="false">https://www.guardrailsai.com/blog/hello-world</guid>
+      <pubDate>Sun, 31 Aug 2025 20:42:39 +0000</pubDate>
+      <source url="https://www.guardrailsai.com/blog">guardrailsai.com</source>
+    </item>
+    <item>
+      <title>Announcing Guardrails AI 0.2.0</title>
+      <link>https://www.guardrailsai.com/blog/announcing-guardrails-ai-0-2-0</link>
+      <guid isPermaLink="false">https://www.guardrailsai.com/blog/announcing-guardrails-ai-0-2-0</guid>
+      <pubDate>Sun, 31 Aug 2025 20:42:39 +0000</pubDate>
+      <source url="https://www.guardrailsai.com/blog">guardrailsai.com</source>
+    </item>
+    <item>
+      <title>Navigating the Shift: From Traditional Machine Learning Governance to LLM-centric AI Governance</title>
+      <link>https://www.guardrailsai.com/blog/navigating-the-shift-from-traditional-machine-learning-governance-to-llm-centric-ai-governance</link>
+      <description>The article discusses the shift from traditional machine learning governance frameworks to governance models tailored for Large Language Models (LLMs). It highlights the unique challenges LLMs present and outlines evolving strategies for their responsible and effective deployment within organizations.</description>
+      <guid isPermaLink="false">https://www.guardrailsai.com/blog/navigating-the-shift-from-traditional-machine-learning-governance-to-llm-centric-ai-governance</guid>
+      <category>Artificial Intelligence</category>
+      <category>Machine Learning Governance</category>
+      <category>Large Language Models</category>
+      <category>AI Ethics</category>
+      <category>Technology Management</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:39 +0000</pubDate>
+      <source url="https://www.guardrailsai.com/blog">guardrailsai.com</source>
+    </item>
+    <item>
+      <title>How to Generate Synthetic Structured Data with Cohere</title>
+      <link>https://www.guardrailsai.com/blog/how-to-generate-synthetic-structured-data-with-cohere</link>
+      <guid isPermaLink="false">https://www.guardrailsai.com/blog/how-to-generate-synthetic-structured-data-with-cohere</guid>
+      <pubDate>Sun, 31 Aug 2025 20:42:39 +0000</pubDate>
+      <source url="https://www.guardrailsai.com/blog">guardrailsai.com</source>
+    </item>
+    <item>
+      <title>Reducing Hallucinations with Provenance Guardrails</title>
+      <link>https://www.guardrailsai.com/blog/reducing-hallucinations-with-provenance-guardrails</link>
+      <description>The article discusses methods to automatically detect and correct hallucinations in Large Language Models using Guardrails AI's validator framework. It highlights the importance of provenance guardrails in improving the reliability of AI-generated content.</description>
+      <guid isPermaLink="false">https://www.guardrailsai.com/blog/reducing-hallucinations-with-provenance-guardrails</guid>
+      <category>Artificial Intelligence</category>
+      <category>Natural Language Processing</category>
+      <category>Machine Learning</category>
+      <category>AI Safety</category>
+      <category>Model Validation</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:38 +0000</pubDate>
+      <source url="https://www.guardrailsai.com/blog">guardrailsai.com</source>
+    </item>
+    <item>
+      <title>Product problem considerations when building LLM based applications</title>
+      <link>https://www.guardrailsai.com/blog/product-problem-considerations-when-building-llm-based-applications</link>
+      <description>The article discusses key challenges in developing applications powered by large language models (LLMs), focusing on ensuring stability, maintaining accuracy, enhancing developer control, and addressing critical issues. It also explores innovative approaches to overcome these product-related problems for more reliable and effective LLM integration.</description>
+      <guid isPermaLink="false">https://www.guardrailsai.com/blog/product-problem-considerations-when-building-llm-based-applications</guid>
+      <category>Large Language Models</category>
+      <category>Application Development</category>
+      <category>AI Stability and Accuracy</category>
+      <category>Developer Tools</category>
+      <category>Product Management</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:38 +0000</pubDate>
+      <source url="https://www.guardrailsai.com/blog">guardrailsai.com</source>
+    </item>
+    <item>
+      <title>Announcing Guardrails AI 0.3.0</title>
+      <link>https://www.guardrailsai.com/blog/announcing-guardrails-ai-0-3-0</link>
+      <guid isPermaLink="false">https://www.guardrailsai.com/blog/announcing-guardrails-ai-0-3-0</guid>
+      <pubDate>Sun, 31 Aug 2025 20:42:38 +0000</pubDate>
+      <source url="https://www.guardrailsai.com/blog">guardrailsai.com</source>
+    </item>
+    <item>
+      <title>How to validate LLM responses continuously in real time</title>
+      <link>https://www.guardrailsai.com/blog/how-to-validate-llm-responses-continuously-in-real-time</link>
+      <description>The article explains how to ensure high-quality responses from large language models (LLMs) by validating their outputs in real-time. It demonstrates a practical approach using simple Python code to continuously check and improve LLM responses without causing delays for users.</description>
+      <guid isPermaLink="false">https://www.guardrailsai.com/blog/how-to-validate-llm-responses-continuously-in-real-time</guid>
+      <category>Artificial Intelligence</category>
+      <category>Natural Language Processing</category>
+      <category>Machine Learning</category>
+      <category>Software Development</category>
+      <category>Python Programming</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:38 +0000</pubDate>
+      <source url="https://www.guardrailsai.com/blog">guardrailsai.com</source>
+    </item>
+    <item>
+      <title>Accurate AI Information Retrieval with Guardrails</title>
+      <link>https://www.guardrailsai.com/blog/accurate-ai-information-retrieval</link>
+      <description>The article discusses how Guardrails AI enables accurate extraction of key information from unstructured text documents automatically, ensuring high-quality data retrieval. It highlights the effectiveness of using Guardrails to improve AI information retrieval processes.</description>
+      <guid isPermaLink="false">https://www.guardrailsai.com/blog/accurate-ai-information-retrieval</guid>
+      <category>Artificial Intelligence</category>
+      <category>Information Retrieval</category>
+      <category>Natural Language Processing</category>
+      <category>Data Extraction</category>
+      <category>Automation</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:38 +0000</pubDate>
+      <source url="https://www.guardrailsai.com/blog">guardrailsai.com</source>
+    </item>
+    <item>
+      <title>How Well Do LLMs Generate Structured Data?</title>
+      <link>https://www.guardrailsai.com/blog/how-well-do-llms-generate-structured-data</link>
+      <description>The article evaluates the performance of various Large Language Models (LLMs) in generating structured data, specifically in JSON format. It compares their accuracy and effectiveness to determine which model produces the best structured outputs.</description>
+      <guid isPermaLink="false">https://www.guardrailsai.com/blog/how-well-do-llms-generate-structured-data</guid>
+      <category>Large Language Models</category>
+      <category>Structured Data Generation</category>
+      <category>JSON</category>
+      <category>Artificial Intelligence</category>
+      <category>Natural Language Processing</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:38 +0000</pubDate>
+      <source url="https://www.guardrailsai.com/blog">guardrailsai.com</source>
+    </item>
+    <item>
+      <title>The Future of AI Reliability Is Open and Collaborative: Introducing Guardrails Hub</title>
+      <link>https://hub.guardrailsai.com</link>
+      <description>Guardrails Hub is a new platform designed to enable developers worldwide to collaboratively address challenges in AI reliability. By fostering open cooperation, it aims to improve the robustness and trustworthiness of AI systems.</description>
+      <guid isPermaLink="false">https://hub.guardrailsai.com</guid>
+      <category>Artificial Intelligence</category>
+      <category>AI Reliability</category>
+      <category>Software Development</category>
+      <category>Collaboration Platforms</category>
+      <category>Technology Innovation</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:37 +0000</pubDate>
+      <source url="https://www.guardrailsai.com/blog">guardrailsai.com</source>
+    </item>
+    <item>
+      <title>Guardrails AI's Commitment to Responsible Vulnerability Disclosure</title>
+      <link>https://www.guardrailsai.com/blog/commitment-to-vulnerability-disclosure</link>
+      <description>Guardrails AI emphasizes the importance of collaborating with the security research community to enhance its systems continuously. The company is committed to responsible vulnerability disclosure to ensure improved security and trust.</description>
+      <guid isPermaLink="false">https://www.guardrailsai.com/blog/commitment-to-vulnerability-disclosure</guid>
+      <category>Cybersecurity</category>
+      <category>Vulnerability Disclosure</category>
+      <category>Collaboration</category>
+      <category>Responsible AI</category>
+      <category>Information Security</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:37 +0000</pubDate>
+      <source url="https://www.guardrailsai.com/blog">guardrailsai.com</source>
+    </item>
+    <item>
+      <title>Leverage LiteLLM in Guardrails to Validate Any LLM's Output</title>
+      <link>https://www.guardrailsai.com/blog/leverage-litellm</link>
+      <description>The article discusses integrating LiteLLM with Guardrails to enable querying over 100 Large Language Models (LLMs) while ensuring consistent and validated outputs. This combination enhances reliability and accuracy in responses from various LLMs.</description>
+      <guid isPermaLink="false">https://www.guardrailsai.com/blog/leverage-litellm</guid>
+      <category>Artificial Intelligence</category>
+      <category>Large Language Models</category>
+      <category>Natural Language Processing</category>
+      <category>Machine Learning Tools</category>
+      <category>Software Integration</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:37 +0000</pubDate>
+      <source url="https://www.guardrailsai.com/blog">guardrailsai.com</source>
+    </item>
+    <item>
+      <title>Guardrails 🤝 OTEL: Monitor LLM Application Performance with Existing Observability Tools</title>
+      <link>https://www.guardrailsai.com/blog/guardrails-otel</link>
+      <description>The article discusses how Guardrails integrates with OpenTelemetry (OTEL) to monitor the performance and response accuracy of AI-powered applications, particularly those using large language models (LLMs). It highlights the benefits of leveraging existing observability tools to ensure reliable and efficient AI application operation.</description>
+      <guid isPermaLink="false">https://www.guardrailsai.com/blog/guardrails-otel</guid>
+      <category>AI Monitoring</category>
+      <category>Observability</category>
+      <category>Large Language Models</category>
+      <category>Application Performance</category>
+      <category>OpenTelemetry</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:37 +0000</pubDate>
+      <source url="https://www.guardrailsai.com/blog">guardrailsai.com</source>
+    </item>
+    <item>
+      <title>Generating Guaranteed JSON from open source models with constrained decoding</title>
+      <link>https://www.guardrailsai.com/blog/generating-guaranteed-json</link>
+      <description>Guardrails AI introduces a method to reliably generate structured JSON data from any open source large language models (LLMs) using constrained decoding techniques. This approach ensures that outputs conform to specified formats, improving data consistency and usability.</description>
+      <guid isPermaLink="false">https://www.guardrailsai.com/blog/generating-guaranteed-json</guid>
+      <category>Artificial Intelligence</category>
+      <category>Natural Language Processing</category>
+      <category>Open Source Software</category>
+      <category>Data Structuring</category>
+      <category>Machine Learning</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:37 +0000</pubDate>
+      <source url="https://www.guardrailsai.com/blog">guardrailsai.com</source>
+    </item>
+    <item>
+      <title>Using LangChain and LCEL with Guardrails AI</title>
+      <link>https://www.guardrailsai.com/blog/using-langchain-and-lcel</link>
+      <description>Guardrails AI has integrated support for LangChain's LCEL syntax, simplifying the process of adding validation to large language model (LLM) chains. This enhancement streamlines the development and reliability of LLM applications.</description>
+      <guid isPermaLink="false">https://www.guardrailsai.com/blog/using-langchain-and-lcel</guid>
+      <category>Artificial Intelligence</category>
+      <category>Natural Language Processing</category>
+      <category>Software Development</category>
+      <category>Machine Learning Tools</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:37 +0000</pubDate>
+      <source url="https://www.guardrailsai.com/blog">guardrailsai.com</source>
+    </item>
+    <item>
+      <title>Introducing Guardrails Server</title>
+      <link>https://www.guardrailsai.com/blog/0.5.0-release</link>
+      <description>Guardrails Server is an open-source, centralized solution designed to enhance safety and control within Generative AI platforms. It provides a unified framework to implement and manage guardrails effectively across AI applications.</description>
+      <guid isPermaLink="false">https://www.guardrailsai.com/blog/0.5.0-release</guid>
+      <category>Artificial Intelligence</category>
+      <category>Open Source</category>
+      <category>AI Safety</category>
+      <category>Generative AI</category>
+      <category>Software Development</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:36 +0000</pubDate>
+      <source url="https://www.guardrailsai.com/blog">guardrailsai.com</source>
+    </item>
+    <item>
+      <title>The new Uptime for LLM apps</title>
+      <link>https://www.guardrailsai.com/blog/the-new-uptime-for-llm-apps</link>
+      <description>The article discusses key metrics essential for monitoring the uptime and performance of Large Language Model (LLM) applications. It also provides guidance on effective methods to track these metrics to ensure reliable and efficient app operation.</description>
+      <guid isPermaLink="false">https://www.guardrailsai.com/blog/the-new-uptime-for-llm-apps</guid>
+      <category>Large Language Models</category>
+      <category>Application Performance Monitoring</category>
+      <category>Uptime Metrics</category>
+      <category>Software Development</category>
+      <category>AI Applications</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:36 +0000</pubDate>
+      <source url="https://www.guardrailsai.com/blog">guardrailsai.com</source>
+    </item>
+    <item>
+      <title>Construction Derby: Structured Data Generation with JSON Mode</title>
+      <link>https://www.guardrailsai.com/blog/json-mode-all-i-want-is-structured-data</link>
+      <description>The article discusses techniques for extracting structured data from unstructured text using a JSON mode approach. It highlights methods to efficiently convert free-form text into organized, machine-readable formats.</description>
+      <guid isPermaLink="false">https://www.guardrailsai.com/blog/json-mode-all-i-want-is-structured-data</guid>
+      <category>Data Extraction</category>
+      <category>Natural Language Processing</category>
+      <category>Structured Data</category>
+      <category>JSON</category>
+      <category>Text Analysis</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:36 +0000</pubDate>
+      <source url="https://www.guardrailsai.com/blog">guardrailsai.com</source>
+    </item>
+    <item>
+      <title>Latency and usability upgrades for ML-based validators</title>
+      <link>https://www.guardrailsai.com/blog/validator-latencies</link>
+      <description>The article discusses improvements in latency and usability for machine learning-based validators, focusing on performance metrics and operational enhancements. It highlights the quantitative data supporting these upgrades to demonstrate increased efficiency and user experience.</description>
+      <guid isPermaLink="false">https://www.guardrailsai.com/blog/validator-latencies</guid>
+      <category>Machine Learning</category>
+      <category>Validators</category>
+      <category>Performance Optimization</category>
+      <category>Usability</category>
+      <category>Latency Reduction</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:36 +0000</pubDate>
+      <source url="https://www.guardrailsai.com/blog">guardrailsai.com</source>
+    </item>
+    <item>
+      <title>How we rewrote LLM Streaming to deal with validation failures</title>
+      <link>https://www.guardrailsai.com/blog/how-we-rewrote-llm-streaming-to-deal-with-validation-failures</link>
+      <description>The article discusses improvements made to the LLM Streaming pipeline by introducing mechanisms to merge fixes across data chunks following validation. This approach enhances the handling of validation failures, ensuring more robust and accurate streaming processes.</description>
+      <guid isPermaLink="false">https://www.guardrailsai.com/blog/how-we-rewrote-llm-streaming-to-deal-with-validation-failures</guid>
+      <category>Machine Learning</category>
+      <category>Natural Language Processing</category>
+      <category>Software Engineering</category>
+      <category>Data Validation</category>
+      <category>Streaming Technology</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:36 +0000</pubDate>
+      <source url="https://www.guardrailsai.com/blog">guardrailsai.com</source>
+    </item>
+    <item>
+      <title>Handling fix results for streaming</title>
+      <link>https://www.guardrailsai.com/blog/handling-fix-results-for-streaming</link>
+      <description>The article discusses the approach used in Guardrails to manage fix results for streaming data. It outlines the processes and considerations involved in handling streaming fixes effectively within the system.</description>
+      <guid isPermaLink="false">https://www.guardrailsai.com/blog/handling-fix-results-for-streaming</guid>
+      <category>Streaming Data</category>
+      <category>Software Development</category>
+      <category>Error Handling</category>
+      <category>Data Processing</category>
+      <category>Guardrails</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:36 +0000</pubDate>
+      <source url="https://www.guardrailsai.com/blog">guardrailsai.com</source>
+    </item>
+    <item>
+      <title>Meet Guardrails Pro: Responsible AI for the Enterprise</title>
+      <link>https://www.guardrailsai.com/blog/guardrails-pro</link>
+      <description>Guardrails Pro is a managed service designed to enhance responsible AI practices within enterprises, built upon a leading open source guardrails platform. It aims to provide robust oversight and control for AI deployments in business environments.</description>
+      <guid isPermaLink="false">https://www.guardrailsai.com/blog/guardrails-pro</guid>
+      <category>Artificial Intelligence</category>
+      <category>Enterprise Software</category>
+      <category>Responsible AI</category>
+      <category>Managed Services</category>
+      <category>Open Source</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:36 +0000</pubDate>
+      <source url="https://www.guardrailsai.com/blog">guardrailsai.com</source>
+    </item>
+    <item>
+      <title>New State-of-the-Art Guardrails: Introducing Advanced PII Detection and Jailbreak Prevention on Guardrails Hub</title>
+      <link>https://www.guardrailsai.com/blog/advanced-pii-and-jailbreak</link>
+      <description>The article announces the release of two new open-source validators on the Guardrails Hub: Advanced PII Detection and Jailbreak Prevention. These tools aim to enhance data security and protect systems from unauthorized access or manipulation.</description>
+      <guid isPermaLink="false">https://www.guardrailsai.com/blog/advanced-pii-and-jailbreak</guid>
+      <category>Data Security</category>
+      <category>Privacy Protection</category>
+      <category>Open-Source Software</category>
+      <category>Cybersecurity</category>
+      <category>Software Development</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:35 +0000</pubDate>
+      <source url="https://www.guardrailsai.com/blog">guardrailsai.com</source>
+    </item>
+    <item>
+      <title>Introducing the AI Guardrails Index</title>
+      <link>https://www.guardrailsai.com/blog/introducing-the-ai-guardrails-index</link>
+      <description>The article introduces the AI Guardrails Index, a framework designed to help enterprises implement responsible AI practices by establishing safety guardrails. It emphasizes the importance of navigating ethical and operational challenges to ensure AI systems are safe and trustworthy.</description>
+      <guid isPermaLink="false">https://www.guardrailsai.com/blog/introducing-the-ai-guardrails-index</guid>
+      <category>Artificial Intelligence</category>
+      <category>Enterprise Technology</category>
+      <category>AI Ethics</category>
+      <category>Risk Management</category>
+      <category>Technology Frameworks</category>
+      <pubDate>Sun, 31 Aug 2025 20:42:35 +0000</pubDate>
+      <source url="https://www.guardrailsai.com/blog">guardrailsai.com</source>
+    </item>
+  </channel>
+</rss>
