@@ -27,10 +27,31 @@ class BrowserConfig:
     static_timeout: int = field(default_factory=lambda: int(os.getenv("STATIC_FETCH_TIMEOUT", "30")))
 
 @dataclass
+class FullContentConfig:
+    """Configuration for full content fetching"""
+    enabled: bool = field(default_factory=lambda: os.getenv("FETCH_FULL_CONTENT", "false").lower() == "true")
+    request_delay: float = field(default_factory=lambda: float(os.getenv("REQUEST_DELAY", "3.0")))
+    max_article_pages: int = field(default_factory=lambda: int(os.getenv("MAX_ARTICLE_PAGES", "50")))
+    skip_existing: bool = field(default_factory=lambda: os.getenv("SKIP_EXISTING_FULL_CONTENT", "true").lower() == "true")
+
+@dataclass
+class QdrantConfig:
+    """Configuration for Qdrant vector database"""
+    enabled: bool = field(default_factory=lambda: os.getenv("QDRANT_ENABLED", "false").lower() == "true")
+    url: str = field(default_factory=lambda: os.getenv("QDRANT_URL", ""))
+    api_key: Optional[str] = field(default_factory=lambda: os.getenv("QDRANT_API_KEY"))
+    collection: str = field(default_factory=lambda: os.getenv("QDRANT_COLLECTION", "web-articles"))
+    embedding_model: str = field(default_factory=lambda: os.getenv("EMBEDDING_MODEL", "sentence-transformers/all-MiniLM-L6-v2"))
+    embedding_dimension: int = field(default_factory=lambda: int(os.getenv("EMBEDDING_DIMENSION", "384")))
+    batch_size: int = field(default_factory=lambda: int(os.getenv("QDRANT_BATCH_SIZE", "32")))
+
+@dataclass
 class AppConfig:
     """Main application configuration"""
     llm: LLMConfig = field(default_factory=LLMConfig)
     browser: BrowserConfig = field(default_factory=BrowserConfig)
+    full_content: FullContentConfig = field(default_factory=FullContentConfig)
+    qdrant: QdrantConfig = field(default_factory=QdrantConfig)
     request_timeout: int = 120
     max_articles_per_source: int = 1000
     output_file: str = "articles.rss"

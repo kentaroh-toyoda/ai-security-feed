@@ -1,5 +1,6 @@
 [
-  { "url": "https://www.guardrailsai.com/blog" },
-  { "url": "https://hiddenlayer.com/feed" },
-  { "url": "https://0din.ai/blog" }
+  { 
+    "name": "SPLX AI Blog",
+    "url": "https://splx.ai/blog" 
+  }
 ]

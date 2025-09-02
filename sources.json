@@ -1,12 +1,21 @@
 [
-  { "name": "Singapore AI Safety Institute", "url": "https://sgaisi.sg/resources/" },
+  {
+    "name": "Singapore AI Safety Institute",
+    "url": "https://sgaisi.sg/resources/"
+  },
   { "url": "https://www.guardrailsai.com/blog" },
   { "url": "https://www.holisticai.com/blog" },
   { "url": "https://www.troj.ai/blog" },
   { "url": "https://www.giskard.ai/knowledge-categories/blog" },
-  { "url": "https://www.lasso.security/blog" },
+  {
+    "name": "Lasso AI Blog",
+    "url": "https://www.lasso.security/blog"
+  },
   { "url": "https://neuraltrust.ai/blog" },
-  { "url": "https://splx.ai/blog" },
+  { 
+    "name": "SPLX AI Blog",
+    "url": "https://splx.ai/blog" 
+  },
   { "url": "https://splx.ai/blog" },
   { "url": "https://splx.ai/blog" },
   { "url": "https://splx.ai/blog" },

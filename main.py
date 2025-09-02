@@ -26,6 +26,7 @@ from modules.feed_detector import detect_feed_type
 from modules.rss_processor import (
     process_rss_feed,
     process_custom_page,
+    fetch_individual_articles,
     enrich_articles_with_llm
 )
 from modules.rss_generator import (
@@ -119,13 +120,18 @@ def process_source(source: Dict, use_llm: bool = True, verbose: bool = False, ht
 @click.argument('sources_file', type=click.Path(exists=False))
 @click.option('--output', '-o', default=None, help='Output RSS file path')
 @click.option('--no-llm', is_flag=True, help='Skip LLM processing (no summaries or categories)')
-@click.option('--max-articles', '-m', default=None, type=int, help='Maximum articles per source')
+@click.option('--max-articles-per-feed', '-m', default=None, type=int, help='Maximum articles per source/feed (default: 1000)')
 @click.option('--verbose', '-v', is_flag=True, help='Print detailed output including HTML content')
 @click.option('--validate-only', is_flag=True, help='Only validate the sources file format')
-@click.option('--html-format', type=click.Choice(['markdown', 'simple_tags', 'urls']), default='markdown',
-              help='HTML preprocessing format: markdown (default), simple_tags, or urls')
-def main(sources_file: str, output: str, no_llm: bool, max_articles: int, verbose: bool,
-         validate_only: bool, html_format: str):
+@click.option('--html-format', type=click.Choice(['markdown', 'simple_tags', 'urls']), default='urls',
+              help='HTML preprocessing format: markdown, simple_tags, or urls (default)')
+@click.option('--fetch-full-content', is_flag=True, help='Fetch full content from individual article pages')
+@click.option('--request-delay', type=float, default=None, help='Delay between requests in seconds (default: 3.0)')
+@click.option('--max-article-pages', type=int, default=None, help='Maximum individual article pages to fetch per source (default: 50)')
+@click.option('--qdrant', is_flag=True, help='Store LLM-enriched articles in Qdrant vector database')
+def main(sources_file: str, output: str, no_llm: bool, max_articles_per_feed: int, verbose: bool,
+         validate_only: bool, html_format: str, fetch_full_content: bool, request_delay: float,
+         max_article_pages: int, qdrant: bool):
     """
     Web Article Collection Agent
 
@@ -157,21 +163,40 @@ def main(sources_file: str, output: str, no_llm: bool, max_articles: int, verbos
         return
 
     # Update config if options provided
-    if max_articles:
-        config.max_articles_per_source = max_articles
+    if max_articles_per_feed:
+        config.max_articles_per_source = max_articles_per_feed
     if output:
         config.output_file = output
+    if fetch_full_content:
+        config.full_content.enabled = True
+    if request_delay is not None:
+        config.full_content.request_delay = request_delay
+    if max_article_pages is not None:
+        config.full_content.max_article_pages = max_article_pages
+    if qdrant:
+        config.qdrant.enabled = True
 
     print(f"\nStarting article collection...")
     print(f"Output file: {config.output_file}")
     print(f"LLM processing: {'Disabled' if no_llm else 'Enabled'}")
-    print(f"Max articles per source: {config.max_articles_per_source}")
+    print(f"Qdrant storage: {'Enabled' if config.qdrant.enabled else 'Disabled'}")
+    print(f"Max articles per feed: {config.max_articles_per_source}")
+    if config.full_content.enabled:
+        print(f"Full content fetching: Enabled")
+        print(f"Request delay: {config.full_content.request_delay}s")
+        print(f"Max article pages per source: {config.full_content.max_article_pages}")
 
     # Process all sources
     all_articles = []
     with tqdm(total=len(sources), desc="Processing sources") as pbar:
         for source in sources:
             articles = process_source(source, use_llm=not no_llm, verbose=verbose, html_format=html_format)
+
+            # Apply max articles per source limit as additional safety (should already be applied in processors)
+            if len(articles) > config.max_articles_per_source:
+                print(f"Applying additional limit: reducing {len(articles)} to {config.max_articles_per_source} articles from source")
+                articles = articles[:config.max_articles_per_source]
+
             all_articles.extend(articles)
             pbar.update(1)
 
@@ -180,6 +205,11 @@ def main(sources_file: str, output: str, no_llm: bool, max_articles: int, verbos
         sys.exit(1)
 
     print(f"\nCollected {len(all_articles)} total articles")
+
+    # Fetch full content from individual article pages if enabled
+    if config.full_content.enabled:
+        print(f"\nFetching full content from individual article pages...")
+        all_articles = fetch_individual_articles(all_articles, verbose=verbose)
 
     # Enrich with LLM if enabled
     if not no_llm:

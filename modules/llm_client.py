@@ -461,6 +461,87 @@ class LLMClient:
 
         return []
 
+    def extract_full_article_details(self, processed_content: str, url: str) -> Optional[Dict]:
+        """
+        Extract detailed information from a full article page.
+
+        Args:
+            processed_content: Preprocessed HTML content
+            url: The article URL
+
+        Returns:
+            Dictionary with extracted details or None if extraction fails
+        """
+        system_message = """You are an expert at extracting detailed information from web article pages.
+        Given processed HTML content, extract the most complete and accurate information about the article.
+        Focus on finding the actual article content, author, publication date, and title."""
+
+        prompt = f"""
+        Analyze this processed HTML content from {url} and extract the complete article information.
+
+        Look for:
+        1. **Title**: The main headline/title of the article
+        2. **Author**: Name of the author(s) or byline
+        3. **Published Date**: Publication or last updated date (ISO format preferred, or human readable)
+        4. **Content**: The full article text content (as much as possible, excluding ads/navigation)
+        5. **URLs**: Any relevant URLs mentioned in the article (not navigation/ads)
+
+        IMPORTANT: Focus on extracting the MAIN ARTICLE CONTENT. Ignore:
+        - Navigation menus
+        - Ads and promotional content
+        - Footer content
+        - Sidebar widgets
+        - Comments sections
+        - Related articles lists
+
+        Return ONLY a JSON object with these fields. If a field cannot be found, use an empty string or empty array.
+
+        JSON Response Format:
+        {{
+            "title": "extracted article title",
+            "author": "author name or empty string",
+            "published_date": "ISO date or human readable date",
+            "content": "full article text content",
+            "urls": ["url1", "url2", "url3"]
+        }}
+
+        Processed HTML Content:
+        {processed_content}
+
+        JSON Response:"""
+
+        response = self._call_llm(prompt, system_message)
+
+        try:
+            # Extract JSON from response
+            json_start = response.find('{')
+            json_end = response.rfind('}') + 1
+
+            if json_start != -1 and json_end > json_start:
+                json_str = response[json_start:json_end]
+                details = json.loads(json_str)
+
+                # Validate and clean the extracted data
+                cleaned_details = {
+                    'title': details.get('title', '').strip(),
+                    'author': details.get('author', '').strip(),
+                    'published_date': details.get('published_date', '').strip(),
+                    'content': details.get('content', '').strip(),
+                    'urls': details.get('urls', []) if isinstance(details.get('urls'), list) else []
+                }
+
+                # Basic validation - ensure we have some content
+                if not cleaned_details['content'] and not cleaned_details['title']:
+                    return None
+
+                return cleaned_details
+
+        except (json.JSONDecodeError, KeyError, TypeError) as e:
+            if self.verbose:
+                print(f"Failed to parse full article details response: {e}")
+
+        return None
+
     def summarize_and_categorize_article(self, title: str, content: str) -> Tuple[str, List[str]]:
         """
         Generate a summary and determine categories for an article.
