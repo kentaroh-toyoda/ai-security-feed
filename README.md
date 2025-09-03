@@ -1,259 +1,170 @@
 # Web Article Collection Agent
 
-A Python tool that collects articles from RSS feeds and custom websites, summarizes them using Large Language Models (LLMs), and generates consolidated RSS feeds.
+A tool to collect articles from RSS feeds and custom websites, summarize them using LLM, and generate RSS feeds.
 
 ## Features
 
-- 🔍 **Auto-Detection**: Automatically detects RSS feeds vs custom websites
-- 🤖 **LLM Integration**: Uses OpenRouter/LiteLLM for article extraction and summarization
-- 📊 **Smart Processing**: Handles both RSS/ATOM feeds and custom HTML pages
-- 🏷️ **Topic Classification**: LLM-powered categorization of articles
-- 📱 **RSS Generation**: Creates standards-compliant RSS feeds
-- ⚡ **Batch Processing**: Efficiently processes multiple sources
-- 📈 **Progress Tracking**: Real-time progress bars and statistics
+- RSS feed processing
+- Custom website scraping with intelligent content detection
+- LLM-powered article summarization and categorization
+- Qdrant vector database integration for semantic search
+- Automated GitLab CI/CD pipeline
 
-## Installation
+## Quick Start
 
-1. **Clone or download** this repository
-2. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Configure environment**:
-   ```bash
-   cp .env.example .env
-   # Edit .env with your API keys and settings
-   ```
+```bash
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the collector
+python main.py sources.json
+```
+
+## GitLab CI/CD Setup
+
+This project includes automated GitLab CI/CD configuration to run the article collection every 5 AM Singapore Time (21:00 UTC).
+
+### Required GitLab CI/CD Variables
+
+Set up the following variables in your GitLab project settings (Settings > CI/CD > Variables):
+
+#### Required Variables
+- `LLM_API_KEY` - Your LLM provider API key (masked)
+- `LLM_PROVIDER` - LLM provider (e.g., "openrouter", "openai")
+- `LLM_MODEL` - Model name (e.g., "openai/gpt-4o-mini")
+
+#### Optional Variables
+- `QDRANT_ENABLED` - Enable Qdrant vector storage (default: "false")
+- `QDRANT_URL` - Qdrant server URL
+- `QDRANT_API_KEY` - Qdrant API key (masked)
+- `FETCH_FULL_CONTENT` - Enable full content fetching (default: "false")
+- `GITHUB_TOKEN` - GitHub Personal Access Token for committing to GitHub repository (masked)
+
+### Setting up the Schedule
+
+1. Go to your GitLab project
+2. Navigate to **CI/CD > Schedules**
+3. Click **New schedule**
+4. Set the following:
+   - **Description**: "Daily article collection at 5 AM SGT"
+   - **Interval Pattern**: `0 21 * * *` (runs at 21:00 UTC daily)
+   - **Cron Timezone**: Leave as UTC (the cron pattern accounts for timezone)
+   - **Target Branch**: `main`
+5. Save the schedule
+
+### GitHub Repository Integration
+
+The pipeline is configured to commit the generated `articles.rss` feed to a separate GitHub repository:
+
+- **GitHub Repository**: `https://github.com/kentaroh-toyoda/ai-security-feed`
+- **Target Branch**: `gh-pages` (optimized for GitHub Pages hosting)
+- **Authentication**: Uses GitHub Personal Access Token (`GITHUB_TOKEN`)
+
+This setup allows you to:
+- Keep source code in GitLab (private/internal)
+- Publish the RSS feed publicly on GitHub
+- Use GitHub Pages to host the feed
+- Maintain separate version control for the feed
+
+### Pipeline Overview
+
+The CI/CD pipeline includes:
+
+1. **Scheduled Run** (`scheduled_run`) - Executes every 5 AM SGT
+2. **Manual Run** (`manual_run`) - For testing on main/develop branches
+3. **Commit Changes** (`commit_changes`) - Commits updated `articles.rss` to GitHub repository
+4. **Failure Notification** (`notify_failure`) - Alerts on pipeline failures
+
+### Testing the Pipeline
+
+Before enabling the scheduled run:
+
+1. Remove the `when: manual` line from the `scheduled_run` job in `.gitlab-ci.yml`
+2. Push the changes to trigger a manual pipeline run
+3. Verify the pipeline completes successfully
+4. Re-enable the schedule
 
 ## Configuration
 
-Create a `.env` file with your LLM settings:
+The application uses environment variables for configuration. See `.env.example` for all available options.
 
-```env
-# Required
-LLM_PROVIDER=openrouter
-LLM_MODEL=openai/gpt-3.5-turbo
-LLM_API_KEY=your_api_key_here
+### Key Configuration Options
 
-# Optional
-REQUEST_TIMEOUT=30
-MAX_ARTICLES_PER_SOURCE=50
-OUTPUT_FILE=articles.rss
+- **Browser Automation**: Enable headless Chrome for dynamic content
+- **LLM Integration**: Support for multiple providers (OpenRouter, OpenAI, etc.)
+- **Content Processing**: Configurable article limits and processing options
+- **Storage**: Optional Qdrant vector database integration
 
-# Page Loading (for dynamic content)
-ENABLE_PAGE_LOAD_WAIT=true
-PAGE_LOAD_WAIT_TIME=30
+## Project Structure
+
+```
+.
+├── main.py                 # Main application entry point
+├── config.py              # Configuration management
+├── sources.json           # RSS feed sources configuration
+├── requirements.txt       # Python dependencies
+├── Dockerfile            # Container configuration
+├── .gitlab-ci.yml       # GitLab CI/CD pipeline
+├── modules/              # Core application modules
+│   ├── rss_processor.py  # RSS feed processing
+│   ├── html_processor.py # HTML content extraction
+│   ├── llm_client.py     # LLM integration
+│   └── qdrant_storage.py # Vector database storage
+└── examples/             # Example scripts and utilities
 ```
 
-### Page Loading Configuration
+## Usage Examples
 
-Some websites use JavaScript or AJAX to load content dynamically after the initial page load. The page loading configuration allows you to wait for this dynamic content to load before processing:
-
-- **`ENABLE_PAGE_LOAD_WAIT`**: Enable/disable waiting for dynamic content (default: `true`)
-- **`PAGE_LOAD_WAIT_TIME`**: Seconds to wait before processing page content (default: `30`)
-
-**Why this matters:**
-- Websites like https://sgaisi.sg/resources load content via JavaScript
-- Without waiting, you might only get the initial HTML without the actual article content
-- The 30-second default provides time for most dynamic content to load
-- You can adjust this based on the specific websites you're collecting from
-
-### Browser-based Dynamic Content Fetching
-
-For websites that heavily rely on JavaScript to load content (infinite scroll, lazy loading, AJAX), the tool now includes intelligent browser automation:
-
-```env
-# Enable browser fetching for dynamic content
-BROWSER_ENABLED=true
-BROWSER_TYPE=chrome
-BROWSER_HEADLESS=true
-BROWSER_WAIT_TIME=5
-BROWSER_SCROLL_ATTEMPTS=3
-```
-
-**Key Features:**
-- **Intelligent Detection**: Automatically detects when dynamic rendering is needed
-- **Quality Comparison**: Compares static vs. browser-rendered content and uses the better version
-- **Fallback Strategy**: Tries static fetch first (fast), falls back to browser only when necessary
-- **Infinite Scroll Support**: Automatically scrolls pages to load additional content
-- **Performance Optimized**: Only uses browser when content analysis indicates it's needed
-
-**When it's useful:**
-- News sites with infinite scroll (e.g., Twitter/X, Reddit)
-- Content loaded via AJAX/API calls
-- Single-page applications (SPAs)
-- Sites with lazy-loaded images or content
-- Any site where initial HTML lacks the actual article content
-
-### Supported LLM Providers
-
-- **OpenRouter** (recommended): Access to 100+ models
-- **OpenAI**: GPT-3.5, GPT-4
-- **Anthropic**: Claude models
-- **Local models**: Ollama, LM Studio
-- **And many more** via LiteLLM
-
-## Usage
-
-### 1. Create Sources File
-
-Create a `sources.json` file with your article sources:
-
-```json
-[
-  {
-    "url": "https://example-blog.com/rss.xml"
-    "name": "Website A"
-  },
-  {
-    "url": "https://tech-site.com",
-    "name": "Website B"
-  },
-  {
-    "url": "https://news-site.com/feed",
-    "name": "Website C"
-  }
-]
-```
-
-**Note**: The `type` field is optional - the tool will auto-detect RSS feeds.
-
-### 2. Run Article Collection
-
+### Basic Usage
 ```bash
-# Basic usage
 python main.py sources.json
+```
 
-# With custom output
-python main.py sources.json --output my-feed.rss
-
+### With Options
+```bash
 # Skip LLM processing
 python main.py sources.json --no-llm
 
-# Limit articles per source
-python main.py sources.json --max-articles 10
+# Enable verbose output
+python main.py sources.json --verbose
 
-# Validate sources file
+# Custom output file
+python main.py sources.json --output custom_feed.rss
+```
+
+### Testing Sources
+```bash
 python main.py sources.json --validate-only
 ```
 
-### 3. View Results
+## Development
 
-The tool generates:
-- **RSS Feed**: `articles.rss` (or your specified output file)
-- **Statistics**: Source counts, categories, date ranges
-- **Validation**: Confirms RSS feed is well-formed
+### Local Setup
 
-## Command Line Options
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Copy environment configuration:
+   ```bash
+   cp .env.example .env
+   ```
+4. Configure your API keys and settings in `.env`
+5. Run the application:
+   ```bash
+   python main.py sources.json
+   ```
 
+### Docker Development
+
+```bash
+# Build the container
+docker build -t article-collector .
+
+# Run with your sources
+docker run --rm -v $(pwd):/app article-collector python main.py sources.json
 ```
-Usage: python main.py [OPTIONS] SOURCES_FILE
-
-Arguments:
-  sources_file  Path to JSON file containing source URLs
-
-Options:
-  -o, --output TEXT           Output RSS file path
-  --no-llm                    Skip LLM processing (no summaries or categories)
-  -m, --max-articles INTEGER  Maximum articles per source
-  --create-sample             Create a sample sources.json file and exit
-  --validate-only             Only validate the sources file format
-  --help                      Show this message and exit
-```
-
-## Output RSS Format
-
-The generated RSS feed includes:
-
-```xml
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
-  <channel>
-    <title>Web Article Collection</title>
-    <item>
-      <title>Article Title</title>
-      <link>https://source.com/article</link>
-      <description>LLM-generated summary...</description>
-      <category>Technology</category>
-      <category>AI</category>
-      <pubDate>Wed, 29 Aug 2025 12:00:00 GMT</pubDate>
-      <source url="https://source.com">Source Name</source>
-    </item>
-    <!-- More items... -->
-  </channel>
-</rss>
-```
-
-## How It Works
-
-1. **Source Detection**: Automatically determines if URLs are RSS feeds or custom pages
-2. **Content Extraction**:
-   - RSS feeds: Parsed directly using feedparser
-   - Custom pages: HTML fetched and analyzed by LLM to extract articles
-3. **Article Processing**: Each article is summarized and categorized by LLM
-4. **RSS Generation**: All articles combined into a single, standards-compliant RSS feed
-
-## Supported Source Types
-
-### RSS/ATOM Feeds
-- Standard RSS 2.0 and Atom feeds
-- Auto-detected by content-type and XML structure
-- Supports all major feed formats
-
-### Custom Websites
-- Any HTML webpage containing articles
-- LLM extracts article information from page content
-- Handles various website structures and layouts
-
-## Examples
-
-### Example 1: Tech News Aggregation
-
-```json
-[
-  {"url": "https://techcrunch.com/rss"},
-  {"url": "https://arstechnica.com/rss"},
-  {"url": "https://news.ycombinator.com/rss"}
-]
-```
-
-### Example 2: Blog Collection
-
-```json
-[
-  {"url": "https://example-blog.com"},
-  {"url": "https://another-blog.com/feed"},
-  {"url": "https://tech-blog.net/rss.xml"}
-]
-```
-
-## Troubleshooting
-
-### Common Issues
-
-1. **LLM API Errors**: Check your API key and quota in `.env`
-2. **Empty RSS Feed**: Sources may not have recent articles or be inaccessible
-3. **Slow Processing**: Reduce `--max-articles` or add delays between requests
-4. **Invalid JSON**: Use `--validate-only` to check your sources file
-
-### Debug Mode
-
-Add logging to see detailed processing:
-
-```python
-import logging
-logging.basicConfig(level=logging.DEBUG)
-```
-
-## Requirements
-
-- Python 3.8+
-- Internet connection for fetching sources
-- LLM API access (OpenRouter, OpenAI, etc.)
-
-## License
-
-MIT License - feel free to use and modify.
 
 ## Contributing
 
@@ -263,10 +174,6 @@ MIT License - feel free to use and modify.
 4. Test thoroughly
 5. Submit a pull request
 
-## Support
+## License
 
-For issues or questions:
-1. Check the troubleshooting section
-2. Validate your sources file with `--validate-only`
-3. Test with a single source first
-4. Check API provider status and qu
+This project is licensed under the MIT License.

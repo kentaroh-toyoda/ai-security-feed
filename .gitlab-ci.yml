@@ -1,0 +1,97 @@
+stages:
+  - setup
+  - execute
+  - commit
+
+variables:
+  DOCKER_DRIVER: overlay2
+  DOCKER_TLS_CERTDIR: "/certs"
+
+# Scheduled job to run every 5 AM Singapore Time (21:00 UTC)
+scheduled_run:
+  stage: setup
+  image: docker:latest
+  services:
+    - docker:dind
+  only:
+    - schedules
+  script:
+    - echo "Starting scheduled article collection at $(date)"
+    - docker build -t article-collector .
+    - docker run --rm -v $(pwd):/app -w /app
+      -e LLM_PROVIDER=$LLM_PROVIDER
+      -e LLM_MODEL=$LLM_MODEL
+      -e LLM_API_KEY=$LLM_API_KEY
+      -e QDRANT_ENABLED=$QDRANT_ENABLED
+      -e QDRANT_URL=$QDRANT_URL
+      -e QDRANT_API_KEY=$QDRANT_API_KEY
+      -e FETCH_FULL_CONTENT=$FETCH_FULL_CONTENT
+      article-collector python main.py sources.json
+  artifacts:
+    paths:
+      - articles.rss
+    expire_in: 1 week
+  when: manual  # Remove this line after testing the pipeline
+
+# Alternative manual trigger job for testing
+manual_run:
+  stage: execute
+  image: docker:latest
+  services:
+    - docker:dind
+  only:
+    - main
+    - develop
+  except:
+    - schedules
+  script:
+    - echo "Starting manual article collection at $(date)"
+    - docker build -t article-collector .
+    - docker run --rm -v $(pwd):/app -w /app
+      -e LLM_PROVIDER=$LLM_PROVIDER
+      -e LLM_MODEL=$LLM_MODEL
+      -e LLM_API_KEY=$LLM_API_KEY
+      -e QDRANT_ENABLED=$QDRANT_ENABLED
+      -e QDRANT_URL=$QDRANT_URL
+      -e QDRANT_API_KEY=$QDRANT_API_KEY
+      -e FETCH_FULL_CONTENT=$FETCH_FULL_CONTENT
+      article-collector python main.py sources.json
+  artifacts:
+    paths:
+      - articles.rss
+    expire_in: 1 week
+
+# Commit the updated RSS feed to GitHub repository
+commit_changes:
+  stage: commit
+  image: alpine/git:latest
+  only:
+    - schedules
+  dependencies:
+    - scheduled_run
+  script:
+    - git config --global user.email "gitlab-ci@onedegree.hk"
+    - git config --global user.name "GitLab CI/CD"
+    - git remote set-url origin https://x-access-token:$GITHUB_TOKEN@github.com/kentaroh-toyoda/ai-security-feed.git
+    - git checkout -b gh-pages || git checkout gh-pages
+    - git add articles.rss
+    - |
+      if git diff --staged --quiet; then
+        echo "No changes to articles.rss, skipping commit"
+      else
+        git commit -m "Update articles.rss - $(date '+%Y-%m-%d %H:%M:%S UTC')"
+        git push origin gh-pages
+        echo "Successfully committed and pushed updated articles.rss to GitHub"
+      fi
+  when: on_success
+
+# Notification job on failure
+notify_failure:
+  stage: commit
+  image: alpine:latest
+  only:
+    - schedules
+  script:
+    - echo "Article collection failed. Check the pipeline logs for details."
+    - echo "Failure occurred at $(date)"
+  when: on_failure

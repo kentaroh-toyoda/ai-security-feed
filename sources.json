@@ -3,45 +3,136 @@
     "name": "Singapore AI Safety Institute",
     "url": "https://sgaisi.sg/resources/"
   },
-  { "url": "https://www.guardrailsai.com/blog" },
-  { "url": "https://www.holisticai.com/blog" },
-  { "url": "https://www.troj.ai/blog" },
-  { "url": "https://www.giskard.ai/knowledge-categories/blog" },
+  { 
+    "name": "Guardrails AI Blog",
+    "url": "https://www.guardrailsai.com/blog" 
+  },
+  { 
+    "name": "Holistic AI Blog",
+    "url": "https://www.holisticai.com/blog" 
+  },
+  { 
+    "name": "Troj AI Blog", 
+    "url": "https://www.troj.ai/blog" 
+  },
+  {
+    "name": "Giskard Blog",
+    "url": "https://www.giskard.ai/knowledge-categories/blog"
+  },
   {
     "name": "Lasso AI Blog",
     "url": "https://www.lasso.security/blog"
   },
-  { "url": "https://neuraltrust.ai/blog" },
+  {
+    "name": "NeuralTrust Blog",
+    "url": "https://neuraltrust.ai/blog"
+  },
   { 
     "name": "SPLX AI Blog",
     "url": "https://splx.ai/blog" 
   },
-  { "url": "https://splx.ai/blog" },
-  { "url": "https://splx.ai/blog" },
-  { "url": "https://splx.ai/blog" },
-  { "url": "https://splx.ai/blog" },
-  { "url": "https://splx.ai/blog" },
-  { "url": "https://splx.ai/blog" },
-  { "url": "https://splx.ai/blog" },
-  { "url": "https://splx.ai/blog" },
-  { "url": "https://splx.ai/blog" },
-  { "url": "https://splx.ai/blog" },
-  { "url": "https://splx.ai/blog" },
-  { "url": "https://splx.ai/blog" },
-  { "url": "https://splx.ai/blog" },
-  { "url": "https://splx.ai/blog" },
-  { "url": "https://splx.ai/blog" },
-  { "url": "https://splx.ai/blog" },
-  { "url": "https://splx.ai/blog" },
-  { "url": "https://splx.ai/blog" },
-  { "url": "https://splx.ai/blog" },
-  { "url": "https://splx.ai/blog" },
-  { "url": "https://splx.ai/blog" },
-  { "url": "https://splx.ai/blog" },
-  { "url": "https://splx.ai/blog" },
-  { "url": "https://splx.ai/blog" },
-  { "url": "https://splx.ai/blog" },
-  { "url": "https://splx.ai/blog" },
-  { "url": "https://splx.ai/blog" },
-  { "url": "https://splx.ai/blog" }
+  {
+    "name": "DeepLearning.AI Blog",
+    "url": "https://www.deeplearning.ai/blog"
+  },
+  {
+    "name": "Banshie News",
+    "url": "https://banshie.com/news"
+  },
+  {
+    "name": "Detoxio Blog",
+    "url": "http://blog.detoxio.ai"
+  },
+  {
+    "name": "DeepChecks Blog",
+    "url": "https://www.deepchecks.com/blog"
+  },
+  {
+    "name": "Orq Blog",
+    "url": "https://orq.ai/blog"
+  },
+  {
+    "name": "Comet Blog",
+    "url": "https://www.comet.com/site/blog"
+  },
+  {
+    "name": "Arize Blog",
+    "url": "https://arize.com/blog"
+  },
+  {
+    "name": "Toloka Blog",
+    "url": "https://toloka.ai/blog"
+  },
+  {
+    "name": "Adversa Trusted AI Blog",
+    "url": "https://adversa.ai/topic/trusted-ai-blog"
+  },
+  {
+    "name": "TryDeepTeam Blog",
+    "url": "https://www.trydeepteam.com/blog"
+  },
+  {
+    "name": "Galtea Blog",
+    "url": "https://galtea.ai/blog/index.html"
+  },
+  {
+    "name": "MindGard Blog",
+    "url": "https://mindgard.ai/learn/blog"
+  },
+  {
+    "name": "Bosch AI Shield Blog",
+    "url": "https://www.boschaishield.com/resources/blog/"
+  },
+  {
+    "name": "Confident AI Blog",
+    "url": "https://www.confident-ai.com/blog"
+  },
+  {
+    "name": "Citadel AI Blog",
+    "url": "https://citadel-ai.com/blog"
+  },
+  {
+    "name": "PromptFoo LM Security DB",
+    "url": "https://www.promptfoo.dev/lm-security-db"
+  },
+  {
+    "name": "SentinelOne Blog",
+    "url": "https://www.sentinelone.com/blog"
+  },
+  {
+    "name": "SentinelOne Resources",
+    "url": "https://www.sentinelone.com/resources"
+  },
+  {
+    "name": "DeepKeep Blog",
+    "url": "https://www.deepkeep.ai/blog"
+  },
+  {
+    "name": "Prompt Security Blog",
+    "url": "https://www.prompt.security/blog"
+  },
+  {
+    "name": "0din Blog",
+    "url": "https://0din.ai/blog"
+  },
+  {
+    "name": "ProtectAI Insights",
+    "url": "https://protectai.com/insights"
+  },
+  {
+    "name": "HiddenLayer Feed",
+    "url": "https://hiddenlayer.com/feed"
+  },
+  {
+    "name": "Microsoft Security Blog",
+    "url": "https://www.microsoft.com/en-us/security/blog"
+  },
+  {
+    "name": "Lakera Blog",
+    "url": "https://www.lakera.ai/blog"
+  },
+  {
+    "name": "Snyk Blog",
+    "url": "https://snyk.io/blog/"
+  }
 ]
