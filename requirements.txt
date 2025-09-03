@@ -11,4 +11,5 @@ selenium==4.15.2
 webdriver-manager==4.0.1
 qdrant-client==1.7.3
 sentence-transformers==2.2.2
+huggingface_hub==0.14.1  # Compatible version with cached_download
 torch>=2.0.0
