@@ -29,7 +29,6 @@ scheduled_run:
     - docker build -t article-collector .
     - |
       docker run --rm \
-        --mount type=bind,source=.,target=/host \
         -e LLM_PROVIDER=$LLM_PROVIDER \
         -e LLM_MODEL=$LLM_MODEL \
         -e LLM_API_KEY=$LLM_API_KEY \
@@ -66,7 +65,6 @@ manual_run:
     - docker build -t article-collector .
     - |
       docker run --rm \
-        --mount type=bind,source=.,target=/host \
         -e LLM_PROVIDER=$LLM_PROVIDER \
         -e LLM_MODEL=$LLM_MODEL \
         -e LLM_API_KEY=$LLM_API_KEY \
