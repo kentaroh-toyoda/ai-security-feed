@@ -29,10 +29,7 @@ scheduled_run:
     - docker build -t article-collector .
     - |
       docker run --rm \
-        --mount type=bind,source=$(pwd)/sources.json,target=/workspace/sources.json \
-        --mount type=bind,source=$(pwd)/config.py,target=/workspace/config.py \
-        --mount type=bind,source=$(pwd)/articles.rss,target=/workspace/articles.rss \
-        -w /workspace \
+        --mount type=bind,source=$(pwd),target=/host \
         -e LLM_PROVIDER=$LLM_PROVIDER \
         -e LLM_MODEL=$LLM_MODEL \
         -e LLM_API_KEY=$LLM_API_KEY \
@@ -40,7 +37,8 @@ scheduled_run:
         -e QDRANT_URL=$QDRANT_URL \
         -e QDRANT_API_KEY=$QDRANT_API_KEY \
         -e FETCH_FULL_CONTENT=$FETCH_FULL_CONTENT \
-        article-collector python main.py sources.json
+        article-collector \
+        bash -c "mkdir -p /workspace && cp /host/sources.json /workspace/ && cp /host/config.py /workspace/ && cp /host/articles.rss /workspace/ 2>/dev/null || touch /workspace/articles.rss && cd /workspace && python main.py sources.json"
   artifacts:
     paths:
       - articles.rss
@@ -68,10 +66,7 @@ manual_run:
     - docker build -t article-collector .
     - |
       docker run --rm \
-        --mount type=bind,source=$(pwd)/sources.json,target=/workspace/sources.json \
-        --mount type=bind,source=$(pwd)/config.py,target=/workspace/config.py \
-        --mount type=bind,source=$(pwd)/articles.rss,target=/workspace/articles.rss \
-        -w /workspace \
+        --mount type=bind,source=$(pwd),target=/host \
         -e LLM_PROVIDER=$LLM_PROVIDER \
         -e LLM_MODEL=$LLM_MODEL \
         -e LLM_API_KEY=$LLM_API_KEY \
@@ -79,7 +74,8 @@ manual_run:
         -e QDRANT_URL=$QDRANT_URL \
         -e QDRANT_API_KEY=$QDRANT_API_KEY \
         -e FETCH_FULL_CONTENT=$FETCH_FULL_CONTENT \
-        article-collector python main.py sources.json
+        article-collector \
+        bash -c "mkdir -p /workspace && cp /host/sources.json /workspace/ && cp /host/config.py /workspace/ && cp /host/articles.rss /workspace/ 2>/dev/null || touch /workspace/articles.rss && cd /workspace && python main.py sources.json"
   artifacts:
     paths:
       - articles.rss
