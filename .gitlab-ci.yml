@@ -38,7 +38,7 @@ scheduled_run:
         -e QDRANT_API_KEY=$QDRANT_API_KEY \
         -e FETCH_FULL_CONTENT=$FETCH_FULL_CONTENT \
         article-collector \
-        bash -c "mkdir -p /app/workspace && ls -la /host && cp -r /host/* /app/workspace/ 2>/dev/null || cp -r /host/. /app/workspace/ && ls -la /app/workspace/ && cd /app/workspace && python main.py sources.json"
+        bash -c "pwd && ls -la && mkdir -p /app/workspace && cp -r /host/* /app/workspace/ 2>/dev/null || cp -r /host/. /app/workspace/ && cd /app/workspace && python main.py sources.json"
   artifacts:
     paths:
       - articles.rss
@@ -75,7 +75,7 @@ manual_run:
         -e QDRANT_API_KEY=$QDRANT_API_KEY \
         -e FETCH_FULL_CONTENT=$FETCH_FULL_CONTENT \
         article-collector \
-        bash -c "mkdir -p /app/workspace && ls -la /host && cp -r /host/* /app/workspace/ 2>/dev/null || cp -r /host/. /app/workspace/ && ls -la /app/workspace/ && cd /app/workspace && python main.py sources.json"
+        bash -c "pwd && ls -la && mkdir -p /app/workspace && cp -r /host/* /app/workspace/ 2>/dev/null || cp -r /host/. /app/workspace/ && cd /app/workspace && python main.py sources.json"
   artifacts:
     paths:
       - articles.rss
