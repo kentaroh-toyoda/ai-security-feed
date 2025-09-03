@@ -17,12 +17,16 @@ scheduled_run:
     - schedules
   script:
     - echo "Starting scheduled article collection at $(date)"
+    - |
+      if [ ! -f articles.rss ]; then
+        echo "Creating empty articles.rss file"
+        touch articles.rss
+      fi
     - docker build -t article-collector .
     - |
       docker run --rm \
         --mount type=bind,source=$(pwd)/sources.json,target=/workspace/sources.json \
         --mount type=bind,source=$(pwd)/config.py,target=/workspace/config.py \
-        --mount type=bind,source=$(pwd)/.env,target=/workspace/.env \
         --mount type=bind,source=$(pwd)/articles.rss,target=/workspace/articles.rss \
         -w /workspace \
         -e LLM_PROVIDER=$LLM_PROVIDER \
@@ -52,12 +56,16 @@ manual_run:
     - schedules
   script:
     - echo "Starting manual article collection at $(date)"
+    - |
+      if [ ! -f articles.rss ]; then
+        echo "Creating empty articles.rss file"
+        touch articles.rss
+      fi
     - docker build -t article-collector .
     - |
       docker run --rm \
         --mount type=bind,source=$(pwd)/sources.json,target=/workspace/sources.json \
         --mount type=bind,source=$(pwd)/config.py,target=/workspace/config.py \
-        --mount type=bind,source=$(pwd)/.env,target=/workspace/.env \
         --mount type=bind,source=$(pwd)/articles.rss,target=/workspace/articles.rss \
         -w /workspace \
         -e LLM_PROVIDER=$LLM_PROVIDER \
