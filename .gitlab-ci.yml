@@ -18,7 +18,7 @@ scheduled_run:
   script:
     - echo "Starting scheduled article collection at $(date)"
     - docker build -t article-collector .
-    - docker run --rm -v $(pwd):/app -w /app
+    - docker run --rm -v $(pwd):/workspace -w /workspace
       -e LLM_PROVIDER=$LLM_PROVIDER
       -e LLM_MODEL=$LLM_MODEL
       -e LLM_API_KEY=$LLM_API_KEY
@@ -47,7 +47,7 @@ manual_run:
   script:
     - echo "Starting manual article collection at $(date)"
     - docker build -t article-collector .
-    - docker run --rm -v $(pwd):/app -w /app
+    - docker run --rm -v $(pwd):/workspace -w /workspace
       -e LLM_PROVIDER=$LLM_PROVIDER
       -e LLM_MODEL=$LLM_MODEL
       -e LLM_API_KEY=$LLM_API_KEY
