@@ -17,6 +17,18 @@ scheduled_run:
     - schedules
   script:
     - echo "Starting scheduled article collection at $(date)"
+    - echo "=== DEBUGGING CI ENVIRONMENT ==="
+    - pwd
+    - echo "Current directory: $(pwd)"
+    - echo "Files in current directory:"
+    - ls -la
+    - echo "Looking for sources.json:"
+    - find . -name "sources.json" -type f 2>/dev/null || echo "sources.json not found"
+    - echo "Looking for config.py:"
+    - find . -name "config.py" -type f 2>/dev/null || echo "config.py not found"
+    - echo "Checking if articles.rss exists:"
+    - if [ -f articles.rss ]; then echo "articles.rss exists"; else echo "articles.rss does not exist"; fi
+    - echo "=== END DEBUGGING ==="
     - |
       if [ ! -f articles.rss ]; then
         echo "Creating empty articles.rss file"
