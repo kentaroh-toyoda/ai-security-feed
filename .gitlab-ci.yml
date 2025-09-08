@@ -98,16 +98,26 @@ commit_changes:
   image: alpine/git:latest
   script:
     - |
+      # Check if articles.rss exists
       if [ ! -f articles.rss ]; then
         echo "No articles.rss found, skipping GitHub push"
         exit 0
       fi
-    - git config --global user.email "gitlab-ci@onedegree.hk"
-    - git config --global user.name "GitLab CI/CD"
-    - git remote set-url origin https://x-access-token:$GITHUB_TOKEN@github.com/kentaroh-toyoda/ai-security-feed.git
-    - git checkout -b gh-pages || git checkout gh-pages
-    - git add articles.rss
-    - |
+
+      # Configure git
+      git config --global user.email "gitlab-ci@onedegree.hk"
+      git config --global user.name "GitLab CI/CD"
+
+      # Set up GitHub remote
+      git remote set-url origin https://x-access-token:$GITHUB_TOKEN@github.com/kentaroh-toyoda/ai-security-feed.git
+
+      # Switch to gh-pages branch
+      git checkout -b gh-pages || git checkout gh-pages
+
+      # Add RSS file
+      git add articles.rss
+
+      # Check for changes and commit/push if needed
       if git diff --staged --quiet; then
         echo "No changes to articles.rss, skipping commit"
       else
