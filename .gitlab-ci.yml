@@ -17,10 +17,6 @@ scheduled_run:
   only:
     - schedules
   timeout: 12h
-  cache:
-    key: docker-build
-    paths:
-      - .buildx-cache/
   script:
     - echo "Starting scheduled article collection at $(date)"
     - pwd
@@ -32,7 +28,7 @@ scheduled_run:
         echo "Creating empty articles.rss file"
         touch articles.rss
       fi
-    - docker build --cache-to type=local,dest=.buildx-cache --cache-from type=local,src=.buildx-cache -t article-collector .
+    - docker build -t article-collector .
     - |
       docker run --rm \
         -e LLM_PROVIDER=$LLM_PROVIDER \
@@ -67,10 +63,6 @@ manual_run:
   except:
     - schedules
   timeout: 12h
-  cache:
-    key: docker-build
-    paths:
-      - .buildx-cache/
   script:
     - echo "Starting manual article collection at $(date)"
     - |
@@ -78,7 +70,7 @@ manual_run:
         echo "Creating empty articles.rss file"
         touch articles.rss
       fi
-    - docker build --cache-to type=local,dest=.buildx-cache --cache-from type=local,src=.buildx-cache -t article-collector .
+    - docker build -t article-collector .
     - |
       docker run --rm \
         -e LLM_PROVIDER=$LLM_PROVIDER \
