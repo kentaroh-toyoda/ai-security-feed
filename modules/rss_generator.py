@@ -220,7 +220,16 @@ def print_feed_stats(articles: List[Dict]) -> None:
                         dt = datetime.fromisoformat(pub_date.replace('Z', '+00:00'))
                     else:
                         dt = datetime.strptime(pub_date, '%Y-%m-%d %H:%M:%S')
-                    dates.append(dt)
+                elif isinstance(pub_date, datetime):
+                    dt = pub_date
+                else:
+                    continue
+
+                # Ensure all datetimes are timezone-aware for comparison
+                if dt.tzinfo is None:
+                    dt = dt.replace(tzinfo=timezone.utc)
+
+                dates.append(dt)
             except:
                 continue
 
