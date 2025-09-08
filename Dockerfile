@@ -1,51 +1,41 @@
-FROM python:3.11-slim
-
-# Set working directory
-WORKDIR /app
-
-# Install system dependencies and Chrome for browser automation
+# Stage 1: apt-stage - System dependencies and Chrome
+FROM python:3.11-slim as apt-stage
 RUN apt-get update && apt-get install -y \
-    wget \
-    gnupg \
-    curl \
-    unzip \
-    libglib2.0-0 \
-    libnss3 \
-    libatk-bridge2.0-0 \
-    libdrm2 \
-    libxkbcommon0 \
-    libxcomposite1 \
-    libxdamage1 \
-    libxrandr2 \
-    libgbm1 \
-    libxss1 \
-    libasound2 \
-    libgtk-3-0 \
-    libx11-xcb1 \
-    libxcb-dri3-0 \
-    libxcb-shm0 \
-    libxcb1 \
+    wget gnupg curl unzip \
+    libglib2.0-0 libnss3 libatk-bridge2.0-0 libdrm2 \
+    libxkbcommon0 libxcomposite1 libxdamage1 libxrandr2 \
+    libgbm1 libxss1 libasound2 libgtk-3-0 libx11-xcb1 \
+    libxcb-dri3-0 libxcb-shm0 libxcb1 \
     && wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | gpg --dearmor -o /usr/share/keyrings/google-chrome.gpg \
     && echo "deb [arch=amd64 signed-by=/usr/share/keyrings/google-chrome.gpg] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list \
-    && apt-get update \
-    && apt-get install -y google-chrome-stable \
+    && apt-get update && apt-get install -y google-chrome-stable \
     && rm -rf /var/lib/apt/lists/*
 
-# Install Python dependencies
+# Stage 2: pip-stage - Python dependencies
+FROM python:3.11-slim as pip-stage
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy project files
-COPY . .
+# Stage 3: runtime - Final application image
+FROM python:3.11-slim
 
-# Create non-root user for security
-RUN useradd --create-home --shell /bin/bash app \
-    && chown -R app:app /app
+# Copy Chrome and system libs from apt-stage
+COPY --from=apt-stage /usr/bin/google-chrome-stable /usr/bin/google-chrome-stable
+COPY --from=apt-stage /usr/lib /usr/lib
+COPY --from=apt-stage /usr/share /usr/share
+COPY --from=apt-stage /etc /etc
+
+# Copy Python packages from pip-stage
+COPY --from=pip-stage /usr/local/lib/python3.11/site-packages /usr/local/lib/python3.11/site-packages
+COPY --from=pip-stage /usr/local/bin /usr/local/bin
+
+# Application setup
+WORKDIR /app
+COPY . .
+RUN useradd --create-home --shell /bin/bash app && chown -R app:app /app
 USER app
 
-# Set environment variables
 ENV PYTHONUNBUFFERED=1
 ENV PYTHONPATH=/app
 
-# Default command
 CMD ["python", "main.py", "sources.json"]
