@@ -3,8 +3,9 @@ FROM python:3.11-slim
 # Set working directory
 WORKDIR /app
 
-# Install system dependencies for browser automation and other requirements
-RUN apt-get update && apt-get install -y \
+# Install system dependencies and Chrome for browser automation
+RUN --mount=type=cache,target=/var/cache/apt,sharing=locked \
+    apt-get update && apt-get install -y \
     wget \
     gnupg \
     curl \
@@ -25,10 +26,7 @@ RUN apt-get update && apt-get install -y \
     libxcb-dri3-0 \
     libxcb-shm0 \
     libxcb1 \
-    && rm -rf /var/lib/apt/lists/*
-
-# Install Chrome for browser automation (modern GPG key approach)
-RUN wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | gpg --dearmor -o /usr/share/keyrings/google-chrome.gpg \
+    && wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | gpg --dearmor -o /usr/share/keyrings/google-chrome.gpg \
     && echo "deb [arch=amd64 signed-by=/usr/share/keyrings/google-chrome.gpg] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list \
     && apt-get update \
     && apt-get install -y google-chrome-stable \
@@ -36,7 +34,8 @@ RUN wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | gpg --dearm
 
 # Install Python dependencies
 COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+RUN --mount=type=cache,target=/root/.cache/pip \
+    pip install -r requirements.txt
 
 # Copy project files
 COPY . .
