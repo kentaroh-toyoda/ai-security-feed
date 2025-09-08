@@ -96,11 +96,12 @@ manual_run:
 commit_changes:
   stage: commit
   image: alpine/git:latest
-  only:
-    - schedules
-  dependencies:
-    - scheduled_run
   script:
+    - |
+      if [ ! -f articles.rss ]; then
+        echo "No articles.rss found, skipping GitHub push"
+        exit 0
+      fi
     - git config --global user.email "gitlab-ci@onedegree.hk"
     - git config --global user.name "GitLab CI/CD"
     - git remote set-url origin https://x-access-token:$GITHUB_TOKEN@github.com/kentaroh-toyoda/ai-security-feed.git
@@ -120,8 +121,6 @@ commit_changes:
 notify_failure:
   stage: commit
   image: alpine:latest
-  only:
-    - schedules
   script:
     - echo "Article collection failed. Check the pipeline logs for details."
     - echo "Failure occurred at $(date)"
