@@ -95,8 +95,9 @@ manual_run:
 # Commit the updated RSS feed to GitHub repository
 commit_changes:
   stage: commit
-  image: alpine/git:latest
+  image: alpine:latest
   script:
+    - apk add --no-cache git
     - |
       # Check if articles.rss exists
       if [ ! -f articles.rss ]; then
