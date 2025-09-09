@@ -88,7 +88,7 @@ manual_run:
         -e FETCH_FULL_CONTENT=$FETCH_FULL_CONTENT \
         -e GITHUB_TOKEN=$GITHUB_TOKEN \
         article-collector \
-        bash -c "python main.py test-sources.json --verbose"
+        bash -c "python main.py sources.json --verbose"
   artifacts:
     paths:
       - articles.rss
