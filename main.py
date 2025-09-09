@@ -34,6 +34,7 @@ from modules.rss_generator import (
     validate_rss_feed,
     print_feed_stats
 )
+from modules.qdrant_storage import QdrantStorage
 
 def load_sources_from_file(file_path: str) -> List[Dict]:
     """
@@ -205,6 +206,26 @@ def main(sources_file: str, output: str, no_llm: bool, max_articles_per_feed: in
         sys.exit(1)
 
     print(f"\nCollected {len(all_articles)} total articles")
+
+    # Check for duplicates against Qdrant before expensive processing
+    if config.qdrant.enabled and all_articles:
+        print(f"\n🔍 Checking for duplicates in Qdrant...")
+        qdrant_storage = QdrantStorage(verbose=verbose)
+
+        filtered_articles = []
+        duplicates_skipped = 0
+
+        for article in all_articles:
+            is_duplicate, reason = qdrant_storage._check_for_duplicate(article)
+            if not is_duplicate:
+                filtered_articles.append(article)
+            else:
+                duplicates_skipped += 1
+                if verbose:
+                    print(f"⏭️ Skipping duplicate: {article.get('title', '')[:50]}... ({reason})")
+
+        all_articles = filtered_articles
+        print(f"✅ Duplicate check complete: {duplicates_skipped} duplicates skipped, {len(all_articles)} articles to process")
 
     # Fetch full content from individual article pages if enabled
     if config.full_content.enabled:

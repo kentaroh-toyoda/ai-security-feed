@@ -129,6 +129,13 @@ class QdrantStorage:
                 field_schema=models.PayloadSchemaType.TEXT
             )
 
+            # Index for link (text search for URL lookups)
+            self.client.create_payload_index(
+                collection_name=config.qdrant.collection,
+                field_name="link",
+                field_schema=models.PayloadSchemaType.TEXT
+            )
+
             if self.verbose:
                 print("✅ Created payload indexes for chatbot filtering")
 
@@ -300,7 +307,7 @@ URL: {article.get('link', '')}"""
 
         return vectors
 
-    def store_articles(self, articles: List[Dict]) -> bool:
+    def store_articles(self, articles: List[Dict], skip_duplicate_check: bool = False) -> bool:
         """Store articles in Qdrant with vector embeddings and duplicate prevention"""
         if not self.client or not self.embedding_model:
             print("❌ Qdrant client or embedding model not initialized")
@@ -323,14 +330,15 @@ URL: {article.get('link', '')}"""
                     print(
                         f"🔄 Processing article {i+1}/{len(articles)}: {article.get('title', '')[:50]}...")
 
-                # Check for duplicates before processing
-                is_duplicate, duplicate_reason = self._check_for_duplicate(article)
+                # Check for duplicates before processing (unless skipped)
+                if not skip_duplicate_check:
+                    is_duplicate, duplicate_reason = self._check_for_duplicate(article)
 
-                if is_duplicate:
-                    duplicates_skipped += 1
-                    if self.verbose:
-                        print(f"⏭️  Skipping duplicate article: {article.get('title', '')[:50]}... ({duplicate_reason})")
-                    continue
+                    if is_duplicate:
+                        duplicates_skipped += 1
+                        if self.verbose:
+                            print(f"⏭️  Skipping duplicate article: {article.get('title', '')[:50]}... ({duplicate_reason})")
+                        continue
 
                 # Prepare payload
                 payload = self._prepare_article_payload(article)
@@ -404,37 +412,15 @@ URL: {article.get('link', '')}"""
             if query_embedding is None:
                 return []
 
-            # For Qdrant 1.7.3 with named vectors, try with vector name in SearchRequest
-            try:
-                from qdrant_client.http.models import SearchRequest
-
-                search_request = SearchRequest(
-                    vector=query_embedding[0],
-                    limit=limit,
-                    with_payload=True
-                )
-
-                # Try to add vector name if the SearchRequest supports it
-                if hasattr(search_request, 'vector_name'):
-                    search_request.vector_name = "combined_embedding"
-
-                search_result = self.client.search_batch(
-                    collection_name=config.qdrant.collection,
-                    requests=[search_request]
-                )[0]  # Get first (and only) result set
-
-            except (TypeError, AttributeError):
-                # If SearchRequest doesn't support vector_name, try a different approach
-                # Use the basic search with a different method
-                search_result = self.client.search_batch(
-                    collection_name=config.qdrant.collection,
-                    requests=[{
-                        "vector": query_embedding[0],
-                        "limit": limit,
-                        "with_payload": True,
-                        "vector_name": "combined_embedding"
-                    }]
-                )[0]
+            # Use search without specifying vector name (uses default)
+            search_result = self.client.search_batch(
+                collection_name=config.qdrant.collection,
+                requests=[{
+                    "vector": query_embedding[0],
+                    "limit": limit,
+                    "with_payload": True
+                }]
+            )[0]
 
             # Apply filtering in Python if filters are provided
             if filters:

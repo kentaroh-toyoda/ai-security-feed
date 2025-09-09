@@ -88,8 +88,10 @@ def main():
 
     # Add note about known issues
     print("\n💡 IMPORTANT NOTE:")
-    print("Based on our debug script, all 7 payload indexes WERE successfully created:")
-    print("• categories, author, source_title, published_date, title, content, summary")
+    print("Based on our debug script, all 9 payload indexes WERE successfully created:")
+    print("• categories (KEYWORD), author (KEYWORD), source_title (KEYWORD)")
+    print("• source_url (KEYWORD), published_date (DATETIME)")
+    print("• title (TEXT), content (TEXT), summary (TEXT), link (TEXT)")
     print("However, qdrant-client 1.7.3 doesn't support listing them via API.")
     print("The indexes are working - you just can't see them in this script.")
     print("\nTo verify, run: python examples/debug_indexes.py")

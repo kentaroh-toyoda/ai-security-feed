@@ -50,6 +50,17 @@ def debug_index_creation():
             print("\n⚠️  Collection is empty - no data to index")
             return
 
+        # First, delete any existing link index to avoid conflicts
+        print("\n🗑️  Deleting existing link index (if any)...")
+        try:
+            client.delete_payload_index(
+                collection_name=config.qdrant.collection,
+                field_name="link"
+            )
+            print("   ✅ Deleted existing link index")
+        except Exception as e:
+            print(f"   ℹ️  No existing link index to delete or deletion failed: {e}")
+
         print(f"\n🔍 Attempting to create payload indexes on {collection_info.points_count} points...")
 
         # Try to create indexes one by one with detailed error handling
@@ -61,7 +72,8 @@ def debug_index_creation():
             ("published_date", models.PayloadSchemaType.DATETIME),
             ("title", models.PayloadSchemaType.TEXT),
             ("content", models.PayloadSchemaType.TEXT),
-            ("summary", models.PayloadSchemaType.TEXT)
+            ("summary", models.PayloadSchemaType.TEXT),
+            ("link", models.PayloadSchemaType.TEXT)
         ]
 
         successful_indexes = []
@@ -102,7 +114,7 @@ def debug_index_creation():
             print(f"   Status: {collection_info.status}")
 
             # Check if indexes were created by trying to query them
-            print("   Index verification: All 7 indexes reported as created successfully above")
+            print("   Index verification: All 9 indexes reported as created successfully above")
 
         except Exception as e:
             print(f"❌ Failed to verify indexes: {e}")

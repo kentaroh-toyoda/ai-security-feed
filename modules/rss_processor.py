@@ -588,7 +588,7 @@ def enrich_articles_with_llm(articles: List[Dict], verbose: bool = False) -> Lis
                 print(f"     word_count: {article.get('word_count', 0)}")
 
         print("\n🔄 Storing enriched articles in Qdrant...")
-        success = qdrant_storage.store_articles(enriched_articles)
+        success = qdrant_storage.store_articles(enriched_articles, skip_duplicate_check=True)
         if success:
             print(f"✅ Successfully stored {len(enriched_articles)} articles in Qdrant collection '{config.qdrant.collection}'")
         else:
