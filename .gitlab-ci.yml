@@ -41,6 +41,7 @@ scheduled_run:
         -e QDRANT_ENABLED=$QDRANT_ENABLED \
         -e QDRANT_URL=$QDRANT_URL \
         -e QDRANT_API_KEY=$QDRANT_API_KEY \
+        -e QDRANT_COLLECTION=$QDRANT_COLLECTION \
         -e FETCH_FULL_CONTENT=$FETCH_FULL_CONTENT \
         -e GITHUB_TOKEN=$GITHUB_TOKEN \
         article-collector \
@@ -83,6 +84,7 @@ manual_run:
         -e QDRANT_ENABLED=$QDRANT_ENABLED \
         -e QDRANT_URL=$QDRANT_URL \
         -e QDRANT_API_KEY=$QDRANT_API_KEY \
+        -e QDRANT_COLLECTION=$QDRANT_COLLECTION \
         -e FETCH_FULL_CONTENT=$FETCH_FULL_CONTENT \
         -e GITHUB_TOKEN=$GITHUB_TOKEN \
         article-collector \
