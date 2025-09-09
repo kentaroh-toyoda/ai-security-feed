@@ -31,7 +31,7 @@ scheduled_run:
     - docker build -t article-collector .
     - |
       docker run --rm \
-        -v ${CI_PROJECT_DIR}/articles.rss:/app/articles.rss \
+        -v ${CI_PROJECT_DIR}:/host \
         -e LLM_PROVIDER=$LLM_PROVIDER \
         -e LLM_MODEL=$LLM_MODEL \
         -e LLM_API_KEY=$LLM_API_KEY \
@@ -46,7 +46,7 @@ scheduled_run:
         -e FETCH_FULL_CONTENT=$FETCH_FULL_CONTENT \
         -e GITHUB_TOKEN=$GITHUB_TOKEN \
         article-collector \
-        bash -c "python main.py sources.json --qdrant --verbose && cp articles.rss /app/articles.rss"
+        bash -c "python main.py sources.json --qdrant --verbose && cp articles.rss /host/articles.rss"
   artifacts:
     paths:
       - articles.rss
@@ -74,7 +74,7 @@ manual_run:
     - docker build -t article-collector .
     - |
       docker run --rm \
-        -v ${CI_PROJECT_DIR}/articles.rss:/app/articles.rss \
+        -v ${CI_PROJECT_DIR}:/host \
         -e LLM_PROVIDER=$LLM_PROVIDER \
         -e LLM_MODEL=$LLM_MODEL \
         -e LLM_API_KEY=$LLM_API_KEY \
@@ -89,7 +89,7 @@ manual_run:
         -e FETCH_FULL_CONTENT=$FETCH_FULL_CONTENT \
         -e GITHUB_TOKEN=$GITHUB_TOKEN \
         article-collector \
-        bash -c "python main.py sources.json --qdrant --verbose && cp articles.rss /app/articles.rss"
+        bash -c "python main.py sources.json --qdrant --verbose && cp articles.rss /host/articles.rss"
   artifacts:
     paths:
       - articles.rss
