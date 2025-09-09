@@ -25,6 +25,11 @@ COPY --from=apt-stage /usr/lib /usr/lib
 COPY --from=apt-stage /usr/share /usr/share
 COPY --from=apt-stage /etc /etc
 
+# Create Chrome symlink for compatibility
+RUN ln -sf /usr/bin/google-chrome-stable /usr/bin/chrome && \
+    chmod +x /usr/bin/google-chrome-stable && \
+    /usr/bin/google-chrome-stable --version || echo "Chrome installed but may need additional setup"
+
 # Copy Python packages from pip-stage
 COPY --from=pip-stage /usr/local/lib/python3.11/site-packages /usr/local/lib/python3.11/site-packages
 COPY --from=pip-stage /usr/local/bin /usr/local/bin
