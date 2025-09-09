@@ -227,6 +227,12 @@ def main(sources_file: str, output: str, no_llm: bool, max_articles_per_feed: in
         all_articles = filtered_articles
         print(f"✅ Duplicate check complete: {duplicates_skipped} duplicates skipped, {len(all_articles)} articles to process")
 
+        # If all articles were duplicates, exit successfully without further processing
+        if not all_articles:
+            print(f"\n✅ All collected articles were duplicates - no further processing needed")
+            print("🎉 Job completed successfully!")
+            sys.exit(0)
+
     # Fetch full content from individual article pages if enabled
     if config.full_content.enabled:
         print(f"\nFetching full content from individual article pages...")
