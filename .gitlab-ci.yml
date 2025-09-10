@@ -29,22 +29,23 @@ scheduled_run:
         touch articles.rss
       fi
     - docker build -t article-collector .
-    - docker run --name temp-collector \
-        -e LLM_PROVIDER=$LLM_PROVIDER \
-        -e LLM_MODEL=$LLM_MODEL \
-        -e LLM_API_KEY=$LLM_API_KEY \
-        -e LLM_BASE_URL=$LLM_BASE_URL \
-        -e BROWSER_ENABLED=$BROWSER_ENABLED \
-        -e BROWSER_HEADLESS=$BROWSER_HEADLESS \
-        -e STATIC_FETCH_TIMEOUT=$STATIC_FETCH_TIMEOUT \
-        -e QDRANT_ENABLED=$QDRANT_ENABLED \
-        -e QDRANT_URL=$QDRANT_URL \
-        -e QDRANT_API_KEY=$QDRANT_API_KEY \
-        -e QDRANT_COLLECTION=$QDRANT_COLLECTION \
-        -e FETCH_FULL_CONTENT=$FETCH_FULL_CONTENT \
-        -e GITHUB_TOKEN=$GITHUB_TOKEN \
-        article-collector \
-        bash -c "python main.py sources.json --qdrant --verbose"
+    - |
+      docker run --name temp-collector \
+      -e LLM_PROVIDER=$LLM_PROVIDER \
+      -e LLM_MODEL=$LLM_MODEL \
+      -e LLM_API_KEY=$LLM_API_KEY \
+      -e LLM_BASE_URL=$LLM_BASE_URL \
+      -e BROWSER_ENABLED=$BROWSER_ENABLED \
+      -e BROWSER_HEADLESS=$BROWSER_HEADLESS \
+      -e STATIC_FETCH_TIMEOUT=$STATIC_FETCH_TIMEOUT \
+      -e QDRANT_ENABLED=$QDRANT_ENABLED \
+      -e QDRANT_URL=$QDRANT_URL \
+      -e QDRANT_API_KEY=$QDRANT_API_KEY \
+      -e QDRANT_COLLECTION=$QDRANT_COLLECTION \
+      -e FETCH_FULL_CONTENT=$FETCH_FULL_CONTENT \
+      -e GITHUB_TOKEN=$GITHUB_TOKEN \
+      article-collector \
+      bash -c "python main.py sources.json --qdrant --verbose"
     - docker cp temp-collector:/app/articles.rss ./articles.rss
     - docker rm temp-collector
   artifacts:
@@ -72,22 +73,23 @@ manual_run:
         touch articles.rss
       fi
     - docker build -t article-collector .
-    - docker run --name temp-collector \
-        -e LLM_PROVIDER=$LLM_PROVIDER \
-        -e LLM_MODEL=$LLM_MODEL \
-        -e LLM_API_KEY=$LLM_API_KEY \
-        -e LLM_BASE_URL=$LLM_BASE_URL \
-        -e BROWSER_ENABLED=$BROWSER_ENABLED \
-        -e BROWSER_HEADLESS=$BROWSER_HEADLESS \
-        -e STATIC_FETCH_TIMEOUT=$STATIC_FETCH_TIMEOUT \
-        -e QDRANT_ENABLED=$QDRANT_ENABLED \
-        -e QDRANT_URL=$QDRANT_URL \
-        -e QDRANT_API_KEY=$QDRANT_API_KEY \
-        -e QDRANT_COLLECTION=$QDRANT_COLLECTION \
-        -e FETCH_FULL_CONTENT=$FETCH_FULL_CONTENT \
-        -e GITHUB_TOKEN=$GITHUB_TOKEN \
-        article-collector \
-        bash -c "python main.py sources.json --qdrant --verbose"
+    - |
+      docker run --name temp-collector \
+      -e LLM_PROVIDER=$LLM_PROVIDER \
+      -e LLM_MODEL=$LLM_MODEL \
+      -e LLM_API_KEY=$LLM_API_KEY \
+      -e LLM_BASE_URL=$LLM_BASE_URL \
+      -e BROWSER_ENABLED=$BROWSER_ENABLED \
+      -e BROWSER_HEADLESS=$BROWSER_HEADLESS \
+      -e STATIC_FETCH_TIMEOUT=$STATIC_FETCH_TIMEOUT \
+      -e QDRANT_ENABLED=$QDRANT_ENABLED \
+      -e QDRANT_URL=$QDRANT_URL \
+      -e QDRANT_API_KEY=$QDRANT_API_KEY \
+      -e QDRANT_COLLECTION=$QDRANT_COLLECTION \
+      -e FETCH_FULL_CONTENT=$FETCH_FULL_CONTENT \
+      -e GITHUB_TOKEN=$GITHUB_TOKEN \
+      article-collector \
+      bash -c "python main.py sources.json --qdrant --verbose"
     - docker cp temp-collector:/app/articles.rss ./articles.rss
     - docker rm temp-collector
   artifacts:
