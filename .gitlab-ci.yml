@@ -28,6 +28,7 @@ scheduled_run:
         echo "Creating empty articles.rss file"
         touch articles.rss
       fi
+    - chown 1000:1000 articles.rss
     - docker build -t article-collector .
     - |
       docker run --rm \
@@ -71,6 +72,7 @@ manual_run:
         echo "Creating empty articles.rss file"
         touch articles.rss
       fi
+    - chown 1000:1000 articles.rss
     - docker build -t article-collector .
     - |
       docker run --rm \
