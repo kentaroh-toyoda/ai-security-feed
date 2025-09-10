@@ -38,12 +38,6 @@ COPY --from=pip-stage /usr/local/bin /usr/local/bin
 WORKDIR /app
 COPY . .
 RUN useradd --create-home --shell /bin/bash app && chown -R app:app /app
-
-# Switch to root to handle mounted volume permissions
-USER root
-RUN mkdir -p /host && chown app:app /host
-
-# Switch back to app user
 USER app
 
 ENV PYTHONUNBUFFERED=1
