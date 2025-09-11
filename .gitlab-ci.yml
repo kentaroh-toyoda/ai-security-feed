@@ -131,14 +131,10 @@ commit_changes:
       # Add RSS file
       git add articles.rss
 
-      # Check for changes and commit/push if needed
-      if git diff --staged --quiet; then
-        echo "No changes to articles.rss, skipping commit"
-      else
-        git commit -m "Update articles.rss - $(date '+%Y-%m-%d %H:%M:%S UTC')"
-        git push origin gh-pages
-        echo "Successfully committed and pushed updated articles.rss to GitHub"
-      fi
+      # Always commit and push the latest generated articles.rss
+      git commit -m "Update articles.rss - $(date '+%Y-%m-%d %H:%M:%S UTC')" --allow-empty
+      git push origin gh-pages
+      echo "Successfully committed and pushed updated articles.rss to GitHub"
   when: on_success
 
 # Notification job on failure
