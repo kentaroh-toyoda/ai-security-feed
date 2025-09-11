@@ -55,6 +55,7 @@ class AppConfig:
     request_timeout: int = 120
     max_articles_per_source: int = 1000
     output_file: str = "articles.rss"
+    feed_url: str = field(default_factory=lambda: os.getenv("FEED_URL", "https://your-domain.com/"))
     user_agent: str = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     page_load_wait_time: int = field(default_factory=lambda: int(os.getenv("PAGE_LOAD_WAIT_TIME", "10")))
     enable_page_load_wait: bool = field(default_factory=lambda: os.getenv("ENABLE_PAGE_LOAD_WAIT", "true").lower() == "true")

@@ -43,6 +43,7 @@ scheduled_run:
       -e QDRANT_API_KEY=$QDRANT_API_KEY \
       -e QDRANT_COLLECTION=$QDRANT_COLLECTION \
       -e FETCH_FULL_CONTENT=$FETCH_FULL_CONTENT \
+      -e FEED_URL=$FEED_URL \
       -e GITHUB_TOKEN=$GITHUB_TOKEN \
       article-collector \
       bash -c "python main.py sources.json --qdrant --verbose"
@@ -87,6 +88,7 @@ manual_run:
       -e QDRANT_API_KEY=$QDRANT_API_KEY \
       -e QDRANT_COLLECTION=$QDRANT_COLLECTION \
       -e FETCH_FULL_CONTENT=$FETCH_FULL_CONTENT \
+      -e FEED_URL=$FEED_URL \
       -e GITHUB_TOKEN=$GITHUB_TOKEN \
       article-collector \
       bash -c "python main.py sources.json --qdrant --verbose"
@@ -117,8 +119,14 @@ commit_changes:
       # Set up GitHub remote
       git remote set-url origin https://x-access-token:$GITHUB_TOKEN@github.com/kentaroh-toyoda/ai-security-feed.git
 
+      # Fetch latest changes from remote
+      git fetch origin
+
       # Switch to gh-pages branch
       git checkout -b gh-pages || git checkout gh-pages
+
+      # Reset local branch to match remote (prevents push conflicts)
+      git reset --hard origin/gh-pages
 
       # Add RSS file
       git add articles.rss

@@ -26,12 +26,12 @@ def generate_rss_feed(articles: List[Dict], output_file: str = None) -> str:
     fg = FeedGenerator()
     fg.title('Web Article Collection')
     fg.description('Collected and summarized articles from various sources')
-    fg.link(href='https://your-domain.com/', rel='alternate')
+    fg.link(href=config.feed_url, rel='alternate')
     fg.language('en')
     fg.generator(generator='Web Article Collection Agent', uri='https://github.com/your-repo')
 
     # Set feed metadata
-    fg.id('https://your-domain.com/articles')
+    fg.id(config.feed_url.rstrip('/') + '/articles')
     fg.updated(datetime.now(timezone.utc))
 
     # Add articles to feed
