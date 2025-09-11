@@ -125,8 +125,7 @@ commit_changes:
       # Switch to gh-pages branch
       git checkout -b gh-pages || git checkout gh-pages
 
-      # Reset local branch to match remote (prevents push conflicts)
-      git reset --hard origin/gh-pages
+
 
       # Add RSS file
       git add articles.rss
