@@ -112,6 +112,11 @@ commit_changes:
         exit 0
       fi
 
+      # Print first 20 lines of articles.rss for verification
+      echo "=== First 20 lines of articles.rss ==="
+      head -20 articles.rss
+      echo "=== End of preview ==="
+
       # Configure git
       git config --global user.email "gitlab-ci@onedegree.hk"
       git config --global user.name "GitLab CI/CD"
@@ -122,10 +127,13 @@ commit_changes:
       # Fetch latest changes from remote
       git fetch origin
 
-      # Switch to gh-pages branch
-      git checkout -b gh-pages || git checkout gh-pages
-
-
+      # Handle gh-pages branch checkout and sync
+      if git show-ref --verify --quiet refs/heads/gh-pages; then
+        git checkout gh-pages
+        git pull origin gh-pages --rebase
+      else
+        git checkout -b gh-pages origin/gh-pages
+      fi
 
       # Add RSS file
       git add articles.rss
