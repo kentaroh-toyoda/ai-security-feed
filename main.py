@@ -10,6 +10,21 @@ Usage:
     python main.py --help
 """
 
+from modules.qdrant_storage import QdrantStorage
+from modules.rss_generator import (
+    generate_rss_feed,
+    validate_rss_feed,
+    print_feed_stats
+)
+from modules.rss_processor import (
+    process_rss_feed,
+    process_custom_page,
+    fetch_individual_articles,
+    enrich_articles_with_llm
+)
+from modules.feed_detector import detect_feed_type
+from modules.reddit_processor import RedditProcessor
+from config import config
 import json
 import sys
 import os
@@ -21,20 +36,6 @@ from tqdm import tqdm
 # Add current directory to path for imports
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-from config import config
-from modules.feed_detector import detect_feed_type
-from modules.rss_processor import (
-    process_rss_feed,
-    process_custom_page,
-    fetch_individual_articles,
-    enrich_articles_with_llm
-)
-from modules.rss_generator import (
-    generate_rss_feed,
-    validate_rss_feed,
-    print_feed_stats
-)
-from modules.qdrant_storage import QdrantStorage
 
 def load_sources_from_file(file_path: str) -> List[Dict]:
     """
@@ -56,7 +57,8 @@ def load_sources_from_file(file_path: str) -> List[Dict]:
         elif isinstance(data, dict) and 'sources' in data:
             sources = data['sources']
         else:
-            print(f"Invalid JSON format in {file_path}. Expected array or object with 'sources' key.")
+            print(
+                f"Invalid JSON format in {file_path}. Expected array or object with 'sources' key.")
             return []
 
         # Validate sources
@@ -81,6 +83,7 @@ def load_sources_from_file(file_path: str) -> List[Dict]:
         print(f"Error loading sources: {e}")
         return []
 
+
 def process_source(source: Dict, use_llm: bool = True, verbose: bool = False, html_format: str = 'urls') -> List[Dict]:
     """
     Process a single source and return articles.
@@ -101,21 +104,50 @@ def process_source(source: Dict, use_llm: bool = True, verbose: bool = False, ht
 
     print(f"\nProcessing source: {url}")
 
-    # Auto-detect feed type if not specified
-    feed_type = source.get('type')
-    if not feed_type:
-        print("Auto-detecting feed type...")
-        feed_type = detect_feed_type(url)
-        print(f"Detected type: {feed_type}")
+    # Check if this is a Reddit source
+    if _is_reddit_source(url):
+        print("Detected Reddit source - using specialized Reddit processor")
 
-    # Process based on type
-    if feed_type == 'rss':
-        articles = process_rss_feed(url)
+        # Check for Reddit-specific model configuration
+        reddit_model = os.getenv("REDDIT_LLM_MODEL")
+        if reddit_model:
+            print(f"Using Reddit-specific model: {reddit_model}")
+            reddit_processor = RedditProcessor(verbose=verbose, model=reddit_model)
+        else:
+            print("Using default model for Reddit processing")
+            reddit_processor = RedditProcessor(verbose=verbose)
+
+        articles = reddit_processor.process_reddit_feed(url)
     else:
-        articles = process_custom_page(url, use_llm, verbose, html_format)
+        # Auto-detect feed type if not specified
+        feed_type = source.get('type')
+        if not feed_type:
+            print("Auto-detecting feed type...")
+            feed_type = detect_feed_type(url)
+            print(f"Detected type: {feed_type}")
+
+        # Process based on type
+        if feed_type == 'rss':
+            articles = process_rss_feed(url)
+        else:
+            articles = process_custom_page(url, use_llm, verbose, html_format)
 
     print(f"Found {len(articles)} articles")
     return articles
+
+
+def _is_reddit_source(url: str) -> bool:
+    """
+    Check if the URL is from Reddit.
+
+    Args:
+        url: URL to check
+
+    Returns:
+        True if URL is from Reddit
+    """
+    return 'reddit.com' in url.lower()
+
 
 @click.command()
 @click.argument('sources_file', type=click.Path(exists=False))
@@ -180,22 +212,26 @@ def main(sources_file: str, output: str, no_llm: bool, max_articles_per_feed: in
     print(f"\nStarting article collection...")
     print(f"Output file: {config.output_file}")
     print(f"LLM processing: {'Disabled' if no_llm else 'Enabled'}")
-    print(f"Qdrant storage: {'Enabled' if config.qdrant.enabled else 'Disabled'}")
+    print(
+        f"Qdrant storage: {'Enabled' if config.qdrant.enabled else 'Disabled'}")
     print(f"Max articles per feed: {config.max_articles_per_source}")
     if config.full_content.enabled:
         print(f"Full content fetching: Enabled")
         print(f"Request delay: {config.full_content.request_delay}s")
-        print(f"Max article pages per source: {config.full_content.max_article_pages}")
+        print(
+            f"Max article pages per source: {config.full_content.max_article_pages}")
 
     # Process all sources
     all_articles = []
     with tqdm(total=len(sources), desc="Processing sources") as pbar:
         for source in sources:
-            articles = process_source(source, use_llm=not no_llm, verbose=verbose, html_format=html_format)
+            articles = process_source(
+                source, use_llm=not no_llm, verbose=verbose, html_format=html_format)
 
             # Apply max articles per source limit as additional safety (should already be applied in processors)
             if len(articles) > config.max_articles_per_source:
-                print(f"Applying additional limit: reducing {len(articles)} to {config.max_articles_per_source} articles from source")
+                print(
+                    f"Applying additional limit: reducing {len(articles)} to {config.max_articles_per_source} articles from source")
                 articles = articles[:config.max_articles_per_source]
 
             all_articles.extend(articles)
@@ -222,14 +258,17 @@ def main(sources_file: str, output: str, no_llm: bool, max_articles_per_feed: in
             else:
                 duplicates_skipped += 1
                 if verbose:
-                    print(f"⏭️ Skipping duplicate: {article.get('title', '')[:50]}... ({reason})")
+                    print(
+                        f"⏭️ Skipping duplicate: {article.get('title', '')[:50]}... ({reason})")
 
         all_articles = filtered_articles
-        print(f"✅ Duplicate check complete: {duplicates_skipped} duplicates skipped, {len(all_articles)} articles to process")
+        print(
+            f"✅ Duplicate check complete: {duplicates_skipped} duplicates skipped, {len(all_articles)} articles to process")
 
         # If all articles were duplicates, exit successfully without further processing
         if not all_articles:
-            print(f"\n✅ All collected articles were duplicates - no further processing needed")
+            print(
+                f"\n✅ All collected articles were duplicates - no further processing needed")
             print("🎉 Job completed successfully!")
             sys.exit(0)
 
@@ -248,7 +287,8 @@ def main(sources_file: str, output: str, no_llm: bool, max_articles_per_feed: in
 
             for i in range(0, len(all_articles), batch_size):
                 batch = all_articles[i:i + batch_size]
-                enriched_batch = enrich_articles_with_llm(batch, verbose=verbose)
+                enriched_batch = enrich_articles_with_llm(
+                    batch, verbose=verbose)
                 enriched_articles.extend(enriched_batch)
                 pbar.update(len(batch))
 
@@ -274,6 +314,7 @@ def main(sources_file: str, output: str, no_llm: bool, max_articles_per_feed: in
 
     print(f"\n🎉 Success! RSS feed generated: {output_path}")
     print(f"You can now use this RSS feed in any RSS reader.")
+
 
 if __name__ == '__main__':
     main()
