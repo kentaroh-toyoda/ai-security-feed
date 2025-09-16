@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Web Article Collection</title>
+    <link>https://kentaroh-toyoda.github.io/ai-security-feed</link>
+    <description>Collected and summarized articles from various sources</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>Web Article Collection Agent</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 16 Sep 2025 21:38:42 +0000</lastBuildDate>
+    <item>
+      <title>How Do I Secure My AI Model? 6 Ways</title>
+      <link>https://mindgard.ai/blog/how-to-secure-my-ai-model</link>
+      <description>Securing AI models requires a comprehensive strategy that includes effective data management, regular testing, strict access controls, input validation, watermarking, and specialized security tools. These measures help protect AI models from theft, manipulation, adversarial attacks, and other evolving cyber threats, safeguarding organizational assets and reputation.</description>
+      <guid isPermaLink="false">https://mindgard.ai/blog/how-to-secure-my-ai-model</guid>
+      <category>AI Security</category>
+      <category>Cybersecurity</category>
+      <category>Data Management</category>
+      <category>Access Control</category>
+      <category>Model Testing</category>
+      <pubDate>Tue, 16 Sep 2025 21:38:45 +0000</pubDate>
+      <source url="https://mindgard.ai/learn/blog">mindgard.ai</source>
+    </item>
+    <item>
+      <title>25 Best AI Security Companies: Securing Models, Data &amp; Infrastructure (2025)</title>
+      <link>https://mindgard.ai/blog/best-ai-security-companies</link>
+      <description>The article highlights 25 leading AI security companies that specialize in protecting AI models, data, and infrastructure from emerging adversarial threats such as prompt injection and data poisoning. It emphasizes the limitations of traditional cybersecurity tools against AI-specific risks and showcases companies like Mindgard and Vectra AI, which offer advanced solutions including automated red teaming, AI-driven threat detection, and data security posture management. These firms help organizations secure AI systems and enhance cyber defense through tailored, AI-focused capabilities.</description>
+      <guid isPermaLink="false">https://mindgard.ai/blog/best-ai-security-companies</guid>
+      <category>AI Security</category>
+      <category>Cybersecurity</category>
+      <category>Artificial Intelligence</category>
+      <category>Threat Detection</category>
+      <category>Data Protection</category>
+      <pubDate>Tue, 16 Sep 2025 21:38:44 +0000</pubDate>
+      <source url="https://mindgard.ai/learn/blog">mindgard.ai</source>
+    </item>
+    <item>
+      <title>What is AI Red Teaming?</title>
+      <link>https://mindgard.ai/blog/what-is-ai-red-teaming</link>
+      <description>AI red teaming involves expert teams simulating adversarial attacks on AI systems to identify vulnerabilities, enhance security, and improve resilience under real-world conditions. This proactive approach is crucial for organizations deploying AI in critical sectors to ensure compliance, build trust, and safeguard against evolving threats. By stress-testing AI models beyond traditional methods, red teaming helps mitigate risks such as harmful outputs, data breaches, and bias.</description>
+      <guid isPermaLink="false">https://mindgard.ai/blog/what-is-ai-red-teaming</guid>
+      <category>Artificial Intelligence Security</category>
+      <category>Cybersecurity</category>
+      <category>Risk Management</category>
+      <category>AI Testing and Evaluation</category>
+      <category>Adversarial Machine Learning</category>
+      <pubDate>Tue, 16 Sep 2025 21:38:44 +0000</pubDate>
+      <source url="https://mindgard.ai/learn/blog">mindgard.ai</source>
+    </item>
+    <item>
+      <title>AI Under Attack: Six Key Adversarial Attacks and Their Consequences</title>
+      <link>https://mindgard.ai/blog/ai-under-attack-six-key-adversarial-attacks-and-their-consequences</link>
+      <description>The article explores six key adversarial attacks targeting AI systems, emphasizing the challenges in securing AI against manipulative inputs designed to deceive or exploit models. It provides detailed insights into prompt injection attacks, which manipulate Large Language Models through crafted inputs, and discusses the complexities of defending against such threats. Understanding these attack vectors is crucial for developers and organizations to enhance AI security and resilience.</description>
+      <guid isPermaLink="false">https://mindgard.ai/blog/ai-under-attack-six-key-adversarial-attacks-and-their-consequences</guid>
+      <category>Adversarial Machine Learning</category>
+      <category>AI Security</category>
+      <category>Cybersecurity</category>
+      <category>Large Language Models</category>
+      <category>AI Threats and Defenses</category>
+      <pubDate>Tue, 16 Sep 2025 21:38:43 +0000</pubDate>
+      <source url="https://mindgard.ai/learn/blog">mindgard.ai</source>
+    </item>
+    <item>
+      <title>Avoid Lawsuits from Enterprise AI: Why Asset Management Is Your First Line of Defense</title>
+      <link>https://splx.ai/blog/ai-assets-compliance-security-guide</link>
+      <description>The article highlights the growing risks of AI misuse in enterprises, particularly in HR tech, where regulatory actions and lawsuits are increasing due to lack of transparency and bias. It emphasizes the importance of centralized AI asset management—cataloging AI models, data, prompts, infrastructure, and governance—to mitigate compliance risks and security threats. Tailoring asset management to different AI deployment types and making it a C-level priority can help organizations stay ahead of audits and legal challenges.</description>
+      <guid isPermaLink="false">https://splx.ai/blog/ai-assets-compliance-security-guide</guid>
+      <category>Enterprise AI</category>
+      <category>AI Compliance</category>
+      <category>Risk Management</category>
+      <category>HR Technology</category>
+      <category>AI Governance</category>
+      <pubDate>Tue, 16 Sep 2025 21:38:42 +0000</pubDate>
+      <source url="https://splx.ai/blog">splx.ai</source>
+    </item>
+  </channel>
+</rss>
