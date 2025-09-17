@@ -39,12 +39,13 @@ class RedditProcessor:
         else:
             self.llm_client = LLMClient(verbose=verbose)
 
-    def process_reddit_feed(self, url: str) -> List[Dict]:
+    def process_reddit_feed(self, url: str, source_name: str = '') -> List[Dict]:
         """
         Process Reddit RSS feed with attack technique filtering.
 
         Args:
             url: Reddit RSS feed URL
+            source_name: Name of the source from sources.json
 
         Returns:
             List of filtered attack technique articles
@@ -89,6 +90,10 @@ class RedditProcessor:
                         # Create formatted content from attack technique data
                         formatted_content = self.format_attack_technique_output(attack_data)
 
+                        # Use source_name if provided, otherwise use Reddit subreddit name
+                        reddit_title = f"Reddit - {self._get_subreddit_name(url)}"
+                        final_source_name = source_name if source_name else reddit_title
+
                         # Create enriched article with attack technique data
                         article = {
                             'title': post_data['title'],
@@ -96,7 +101,8 @@ class RedditProcessor:
                             'content': formatted_content,
                             'published_date': post_data['published_date'],
                             'source_url': url,
-                            'source_title': f"Reddit - {self._get_subreddit_name(url)}",
+                            'source_name': final_source_name,
+                            'source_title': reddit_title,  # Keep original Reddit title for reference
                             'author': post_data.get('author', ''),
                             'guid': post_data.get('guid', post_data['link']),
                             'attack_technique': attack_data,

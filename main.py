@@ -89,7 +89,7 @@ def process_source(source: Dict, use_llm: bool = True, verbose: bool = False, ht
     Process a single source and return articles.
 
     Args:
-        source: Source dictionary with 'url' key
+        source: Source dictionary with 'url' and 'name' keys
         use_llm: Whether to use LLM for custom page processing
         verbose: Whether to print detailed output including HTML content
         html_format: HTML preprocessing format ('urls (default)', 'markdown' or 'simple_tags')
@@ -98,11 +98,12 @@ def process_source(source: Dict, use_llm: bool = True, verbose: bool = False, ht
         List of article dictionaries
     """
     url = source.get('url', '').strip()
+    source_name = source.get('name', '').strip()
     if not url:
         print("Skipping source with empty URL")
         return []
 
-    print(f"\nProcessing source: {url}")
+    print(f"\nProcessing source: {url} ({source_name})")
 
     # Check if this is a Reddit source
     if _is_reddit_source(url):
@@ -117,7 +118,7 @@ def process_source(source: Dict, use_llm: bool = True, verbose: bool = False, ht
             print("Using default model for Reddit processing")
             reddit_processor = RedditProcessor(verbose=verbose)
 
-        articles = reddit_processor.process_reddit_feed(url)
+        articles = reddit_processor.process_reddit_feed(url, source_name)
     else:
         # Auto-detect feed type if not specified
         feed_type = source.get('type')
@@ -128,9 +129,9 @@ def process_source(source: Dict, use_llm: bool = True, verbose: bool = False, ht
 
         # Process based on type
         if feed_type == 'rss':
-            articles = process_rss_feed(url)
+            articles = process_rss_feed(url, source_name)
         else:
-            articles = process_custom_page(url, use_llm, verbose, html_format)
+            articles = process_custom_page(url, use_llm, verbose, html_format, source_name)
 
     print(f"Found {len(articles)} articles")
     return articles

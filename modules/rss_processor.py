@@ -12,6 +12,7 @@ from modules.html_processor import preprocess_html_for_llm, get_html_stats, extr
 from modules.browser_fetcher import fetch_with_fallback
 from modules.qdrant_storage import QdrantStorage
 
+
 def resolve_url(base_url: str, url: str) -> str:
     """
     Convert relative URLs to absolute URLs using the base URL.
@@ -42,12 +43,14 @@ def resolve_url(base_url: str, url: str) -> str:
 
     return absolute_url
 
-def process_rss_feed(url: str) -> List[Dict]:
+
+def process_rss_feed(url: str, source_name: str = '') -> List[Dict]:
     """
     Process an RSS/ATOM feed and extract articles.
 
     Args:
         url: The RSS feed URL
+        source_name: Name of the source from sources.json (overrides RSS feed title)
 
     Returns:
         List of article dictionaries
@@ -58,10 +61,12 @@ def process_rss_feed(url: str) -> List[Dict]:
             'Accept': 'application/rss+xml, application/atom+xml, application/xml'
         }
 
-        response = requests.get(url, headers=headers, timeout=config.request_timeout)
+        response = requests.get(url, headers=headers,
+                                timeout=config.request_timeout)
 
         if response.status_code != 200:
-            print(f"Failed to fetch RSS feed {url}: HTTP {response.status_code}")
+            print(
+                f"Failed to fetch RSS feed {url}: HTTP {response.status_code}")
             return []
 
         # Parse the feed
@@ -73,6 +78,10 @@ def process_rss_feed(url: str) -> List[Dict]:
 
         articles = []
 
+        # Use source_name if provided, otherwise fall back to RSS feed title
+        rss_feed_title = feed.feed.get('title', '')
+        final_source_name = source_name if source_name else rss_feed_title
+
         for entry in feed.entries[:config.max_articles_per_source]:
             try:
                 article = {
@@ -81,7 +90,8 @@ def process_rss_feed(url: str) -> List[Dict]:
                     'content': _extract_content(entry),
                     'published_date': _extract_published_date(entry),
                     'source_url': url,
-                    'source_title': feed.feed.get('title', ''),
+                    'source_name': final_source_name,
+                    'source_title': rss_feed_title,  # Keep original RSS title for reference
                     'author': entry.get('author', ''),
                     'guid': entry.get('id', entry.get('link', ''))
                 }
@@ -102,6 +112,7 @@ def process_rss_feed(url: str) -> List[Dict]:
     except Exception as e:
         print(f"Error processing RSS feed {url}: {e}")
         return []
+
 
 def _extract_content(entry) -> str:
     """
@@ -141,6 +152,7 @@ def _extract_content(entry) -> str:
 
     return ""
 
+
 def _extract_published_date(entry) -> str:
     """
     Extract publication date from RSS entry.
@@ -177,7 +189,8 @@ def _extract_published_date(entry) -> str:
 
     return ""
 
-def process_custom_page(url: str, use_llm: bool = True, verbose: bool = False, html_format: str = 'urls') -> List[Dict]:
+
+def process_custom_page(url: str, use_llm: bool = True, verbose: bool = False, html_format: str = 'urls', source_name: str = '') -> List[Dict]:
     """
     Process a custom webpage by fetching HTML and optionally using LLM to extract articles.
 
@@ -186,6 +199,7 @@ def process_custom_page(url: str, use_llm: bool = True, verbose: bool = False, h
         use_llm: Whether to use LLM for article extraction
         verbose: Whether to print detailed output including HTML content
         html_format: HTML preprocessing format ('markdown' or 'simple_tags')
+        source_name: Name of the source from sources.json
 
     Returns:
         List of article dictionaries
@@ -206,7 +220,8 @@ def process_custom_page(url: str, use_llm: bool = True, verbose: bool = False, h
         # Use intelligent fetching with fallback from static to browser
         if config.browser.enabled:
             print(f"Fetching {url} with intelligent content detection...")
-            html_content, fetch_metadata = fetch_with_fallback(url, browser_config, config.browser.static_timeout)
+            html_content, fetch_metadata = fetch_with_fallback(
+                url, browser_config, config.browser.static_timeout)
 
             if not html_content:
                 print(f"Failed to fetch webpage {url}")
@@ -215,8 +230,10 @@ def process_custom_page(url: str, use_llm: bool = True, verbose: bool = False, h
             # Log fetch method used
             fetch_method = fetch_metadata.get('fetch_method', 'unknown')
             if fetch_metadata.get('dynamic_rendering_used'):
-                quality_improvement = fetch_metadata.get('quality_improvement', 0)
-                print(f"Dynamic rendering used for {url} (quality improvement: {quality_improvement:.1f}%)")
+                quality_improvement = fetch_metadata.get(
+                    'quality_improvement', 0)
+                print(
+                    f"Dynamic rendering used for {url} (quality improvement: {quality_improvement:.1f}%)")
             else:
                 print(f"Using static fetch for {url}")
         else:
@@ -226,15 +243,18 @@ def process_custom_page(url: str, use_llm: bool = True, verbose: bool = False, h
                 'User-Agent': config.user_agent,
                 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
             }
-            response = requests.get(url, headers=headers, timeout=config.request_timeout)
+            response = requests.get(
+                url, headers=headers, timeout=config.request_timeout)
             if response.status_code != 200:
-                print(f"Failed to fetch webpage {url}: HTTP {response.status_code}")
+                print(
+                    f"Failed to fetch webpage {url}: HTTP {response.status_code}")
                 return []
             html_content = response.text
 
             # Legacy wait mechanism for backward compatibility
             if config.enable_page_load_wait and config.page_load_wait_time > 0:
-                print(f"Waiting {config.page_load_wait_time} seconds for page content to load...")
+                print(
+                    f"Waiting {config.page_load_wait_time} seconds for page content to load...")
                 time.sleep(config.page_load_wait_time)
                 print("Wait completed, proceeding with content processing.")
 
@@ -248,7 +268,8 @@ def process_custom_page(url: str, use_llm: bool = True, verbose: bool = False, h
             print("📄 ORIGINAL HTML:")
             content_type = "unknown"
             if hasattr(fetch_metadata, 'get') and fetch_metadata.get('headers'):
-                content_type = fetch_metadata['headers'].get('content-type', 'unknown')
+                content_type = fetch_metadata['headers'].get(
+                    'content-type', 'unknown')
             elif 'response' in locals():
                 content_type = response.headers.get('content-type', 'unknown')
             print(f"Content-Type: {content_type}")
@@ -261,11 +282,14 @@ def process_custom_page(url: str, use_llm: bool = True, verbose: bool = False, h
 
             # Pre-process HTML and show statistics
             print(f"\n🔄 HTML PREPROCESSING:")
-            processed_content = preprocess_html_for_llm(html_content, max_length=6000, preprocessed_format=html_format)
+            processed_content = preprocess_html_for_llm(
+                html_content, max_length=6000, preprocessed_format=html_format)
             stats = get_html_stats(html_content)
 
-            print(f"Reduction: {stats['reduction_percent']}% ({stats['original_length']} → {stats['processed_length']} characters)")
-            print(f"Elements removed: {stats['script_tags']} scripts, {stats['style_tags']} styles, {stats['link_tags']} links")
+            print(
+                f"Reduction: {stats['reduction_percent']}% ({stats['original_length']} → {stats['processed_length']} characters)")
+            print(
+                f"Elements removed: {stats['script_tags']} scripts, {stats['style_tags']} styles, {stats['link_tags']} links")
             print(f"Processed lines: {stats['processed_lines']}")
 
             print(f"\n📝 PROCESSED CONTENT (sent to LLM):")
@@ -278,7 +302,8 @@ def process_custom_page(url: str, use_llm: bool = True, verbose: bool = False, h
 
         if use_llm:
             # Use LLM to extract articles from HTML
-            articles = llm_client.extract_articles_from_html(html_content, url, html_format)
+            articles = llm_client.extract_articles_from_html(
+                html_content, url, html_format)
         else:
             # Fallback: create a single article from the page title and URL
             from bs4 import BeautifulSoup
@@ -288,6 +313,9 @@ def process_custom_page(url: str, use_llm: bool = True, verbose: bool = False, h
             title = soup.title.string if soup.title else "Untitled Page"
             title = title.strip() if title else "Untitled Page"
 
+            # Use source_name if provided, otherwise use page title
+            final_source_name = source_name if source_name else title
+
             # Create a basic article entry
             articles = [{
                 'title': title,
@@ -295,7 +323,8 @@ def process_custom_page(url: str, use_llm: bool = True, verbose: bool = False, h
                 'content': f"Content from {url}",
                 'published_date': '',
                 'source_url': url,
-                'source_title': title,
+                'source_name': final_source_name,
+                'source_title': title,  # Keep original page title for reference
                 'guid': url
             }]
 
@@ -306,11 +335,13 @@ def process_custom_page(url: str, use_llm: bool = True, verbose: bool = False, h
                 resolved_link = resolve_url(url, original_link)
                 article['link'] = resolved_link
                 if original_link != resolved_link:
-                    print(f"   Resolved URL: {original_link} → {resolved_link}")
+                    print(
+                        f"   Resolved URL: {original_link} → {resolved_link}")
 
         # Apply max articles limit before returning (similar to RSS feeds)
         if len(articles) > config.max_articles_per_source:
-            print(f"Limiting articles from {len(articles)} to {config.max_articles_per_source} (max_articles_per_source)")
+            print(
+                f"Limiting articles from {len(articles)} to {config.max_articles_per_source} (max_articles_per_source)")
             articles = articles[:config.max_articles_per_source]
 
         print(f"Extracted {len(articles)} articles from custom page {url}")
@@ -319,6 +350,7 @@ def process_custom_page(url: str, use_llm: bool = True, verbose: bool = False, h
     except Exception as e:
         print(f"Error processing custom page {url}: {e}")
         return []
+
 
 def fetch_individual_articles(articles: List[Dict], verbose: bool = False) -> List[Dict]:
     """
@@ -346,7 +378,8 @@ def fetch_individual_articles(articles: List[Dict], verbose: bool = False) -> Li
             print("❌ DEBUG: No articles to process")
         return articles
 
-    print(f"\n🔍 Fetching full content for up to {config.full_content.max_article_pages} articles...")
+    print(
+        f"\n🔍 Fetching full content for up to {config.full_content.max_article_pages} articles...")
     print(f"Request delay: {config.full_content.request_delay}s")
 
     # Create LLM client for full content extraction
@@ -375,24 +408,28 @@ def fetch_individual_articles(articles: List[Dict], verbose: bool = False) -> Li
 
             if (config.full_content.skip_existing and
                 article.get('full_content') and
-                article.get('full_html')):
+                    article.get('full_html')):
                 if verbose:
-                    print(f"⏭️  Skipping {article.get('title', 'Unknown')[:30]}... (full content exists)")
+                    print(
+                        f"⏭️  Skipping {article.get('title', 'Unknown')[:30]}... (full content exists)")
                 enhanced_articles.append(article)
                 continue
 
             # Check if we've reached the limit
             if fetch_count >= config.full_content.max_article_pages:
                 if verbose:
-                    print(f"📊 Reached max article pages limit ({config.full_content.max_article_pages})")
+                    print(
+                        f"📊 Reached max article pages limit ({config.full_content.max_article_pages})")
                 enhanced_articles.append(article)
                 continue
 
-            print(f"📄 [{i+1}/{len(articles)}] Fetching: {article.get('title', 'Unknown')[:50]}...")
+            print(
+                f"📄 [{i+1}/{len(articles)}] Fetching: {article.get('title', 'Unknown')[:50]}...")
 
             # Add human-like delay before fetching
             if fetch_count > 0:  # Don't delay for the first request
-                delay = config.full_content.request_delay + random.uniform(-0.5, 0.5)  # Add some randomness
+                delay = config.full_content.request_delay + \
+                    random.uniform(-0.5, 0.5)  # Add some randomness
                 delay = max(0.1, delay)  # Minimum 0.1 second delay
                 if verbose:
                     print(f"⏳ Waiting {delay:.1f}s before request...")
@@ -414,8 +451,10 @@ def fetch_individual_articles(articles: List[Dict], verbose: bool = False) -> Li
                     continue
 
                 if verbose and fetch_metadata.get('dynamic_rendering_used'):
-                    quality_improvement = fetch_metadata.get('quality_improvement', 0)
-                    print(f"🎯 Dynamic rendering used (quality +{quality_improvement:.1f}%)")
+                    quality_improvement = fetch_metadata.get(
+                        'quality_improvement', 0)
+                    print(
+                        f"🎯 Dynamic rendering used (quality +{quality_improvement:.1f}%)")
 
             else:
                 # Static fetch only
@@ -436,7 +475,8 @@ def fetch_individual_articles(articles: List[Dict], verbose: bool = False) -> Li
                 )
 
                 if response.status_code != 200:
-                    print(f"❌ Failed to fetch {article_link}: HTTP {response.status_code}")
+                    print(
+                        f"❌ Failed to fetch {article_link}: HTTP {response.status_code}")
                     enhanced_articles.append(article)
                     continue
 
@@ -455,7 +495,8 @@ def fetch_individual_articles(articles: List[Dict], verbose: bool = False) -> Li
 
             if verbose:
                 print(f"🔧 DEBUG: About to extract full article details")
-                print(f"   Processed content length: {len(processed_content)} characters")
+                print(
+                    f"   Processed content length: {len(processed_content)} characters")
                 print(f"   Article link: {article_link}")
 
             # Extract full article details using LLM
@@ -468,11 +509,14 @@ def fetch_individual_articles(articles: List[Dict], verbose: bool = False) -> Li
                 print("🔧 DEBUG: LLM extraction result")
                 print(f"   full_details is None: {full_details is None}")
                 if full_details:
-                    print(f"   Keys in full_details: {list(full_details.keys())}")
-                    print(f"   Content length: {len(full_details.get('content', ''))}")
+                    print(
+                        f"   Keys in full_details: {list(full_details.keys())}")
+                    print(
+                        f"   Content length: {len(full_details.get('content', ''))}")
                     print(f"   Title: '{full_details.get('title', '')[:50]}'")
                     print(f"   Author: '{full_details.get('author', '')}'")
-                    print(f"   URLs count: {len(full_details.get('urls', []))}")
+                    print(
+                        f"   URLs count: {len(full_details.get('urls', []))}")
                 else:
                     print("   full_details is None or empty")
 
@@ -492,9 +536,12 @@ def fetch_individual_articles(articles: List[Dict], verbose: bool = False) -> Li
 
                 if verbose:
                     print("🔧 DEBUG: Fields updated from LLM extraction")
-                    print(f"   full_content: '{enhanced_article.get('full_content', '')[:100]}...' (len: {len(enhanced_article.get('full_content', ''))})")
-                    print(f"   urls: {enhanced_article.get('urls', [])} (count: {len(enhanced_article.get('urls', []))})")
-                    print(f"   word_count: {enhanced_article.get('word_count', 0)}")
+                    print(
+                        f"   full_content: '{enhanced_article.get('full_content', '')[:100]}...' (len: {len(enhanced_article.get('full_content', ''))})")
+                    print(
+                        f"   urls: {enhanced_article.get('urls', [])} (count: {len(enhanced_article.get('urls', []))})")
+                    print(
+                        f"   word_count: {enhanced_article.get('word_count', 0)}")
 
                 # Update title and content if better versions found
                 if full_details.get('title') and len(full_details['title']) > len(article.get('title', '')):
@@ -504,27 +551,35 @@ def fetch_individual_articles(articles: List[Dict], verbose: bool = False) -> Li
                     # Use full content as the primary content
                     enhanced_article['content'] = full_details['content']
 
-                print(f"✅ Enhanced: {enhanced_article.get('title', 'Unknown')[:50]}... ({enhanced_article.get('word_count', 0)} words)")
+                print(
+                    f"✅ Enhanced: {enhanced_article.get('title', 'Unknown')[:50]}... ({enhanced_article.get('word_count', 0)} words)")
             else:
                 # Fallback: calculate word count from original content if LLM extraction fails
                 original_content = article.get('content', '')
-                enhanced_article['word_count'] = len(original_content.split()) if original_content else 0
+                enhanced_article['word_count'] = len(
+                    original_content.split()) if original_content else 0
 
                 if verbose:
                     print("🔧 DEBUG: LLM extraction failed, using fallback")
-                    print(f"   Original content length: {len(original_content)}")
-                    print(f"   Calculated word_count: {enhanced_article.get('word_count', 0)}")
+                    print(
+                        f"   Original content length: {len(original_content)}")
+                    print(
+                        f"   Calculated word_count: {enhanced_article.get('word_count', 0)}")
 
-                print(f"⚠️  Could not extract full details from {article_link}")
+                print(
+                    f"⚠️  Could not extract full details from {article_link}")
 
             enhanced_articles.append(enhanced_article)
 
         except Exception as e:
             print(f"❌ Error fetching full content for article: {e}")
-            enhanced_articles.append(article)  # Add original article if enhancement fails
+            # Add original article if enhancement fails
+            enhanced_articles.append(article)
 
-    print(f"\n📊 Full content fetching complete: {fetch_count} articles processed")
+    print(
+        f"\n📊 Full content fetching complete: {fetch_count} articles processed")
     return enhanced_articles
+
 
 def enrich_articles_with_llm(articles: List[Dict], verbose: bool = False) -> List[Dict]:
     """
@@ -558,7 +613,8 @@ def enrich_articles_with_llm(articles: List[Dict], verbose: bool = False) -> Lis
                 continue
 
             # Generate summary and categories using LLM
-            summary, categories = llm_client.summarize_and_categorize_article(title, content)
+            summary, categories = llm_client.summarize_and_categorize_article(
+                title, content)
 
             # Add LLM-generated data to article
             enriched_article = article.copy()
@@ -570,7 +626,8 @@ def enrich_articles_with_llm(articles: List[Dict], verbose: bool = False) -> Lis
             print(f"Processed article: {title[:50]}...")
 
         except Exception as e:
-            print(f"Error enriching article {article.get('title', 'Unknown')}: {e}")
+            print(
+                f"Error enriching article {article.get('title', 'Unknown')}: {e}")
             # Add the original article if enrichment fails
             enriched_articles.append(article)
 
@@ -579,21 +636,27 @@ def enrich_articles_with_llm(articles: List[Dict], verbose: bool = False) -> Lis
         if verbose:
             print("🔧 DEBUG: About to store articles in Qdrant")
             print(f"   Number of articles to store: {len(enriched_articles)}")
-            for i, article in enumerate(enriched_articles[:3]):  # Show first 3 articles
+            # Show first 3 articles
+            for i, article in enumerate(enriched_articles[:3]):
                 print(f"   Article {i+1}:")
                 print(f"     Title: '{article.get('title', '')[:50]}'")
-                print(f"     full_content length: {len(article.get('full_content', ''))}")
-                print(f"     full_html length: {len(article.get('full_html', ''))}")
+                print(
+                    f"     full_content length: {len(article.get('full_content', ''))}")
+                print(
+                    f"     full_html length: {len(article.get('full_html', ''))}")
                 print(f"     urls count: {len(article.get('urls', []))}")
                 print(f"     word_count: {article.get('word_count', 0)}")
 
         print("\n🔄 Storing enriched articles in Qdrant...")
-        success = qdrant_storage.store_articles(enriched_articles, skip_duplicate_check=True)
+        success = qdrant_storage.store_articles(
+            enriched_articles, skip_duplicate_check=True)
         if success:
-            print(f"✅ Successfully stored {len(enriched_articles)} articles in Qdrant collection '{config.qdrant.collection}'")
+            print(
+                f"✅ Successfully stored {len(enriched_articles)} articles in Qdrant collection '{config.qdrant.collection}'")
         else:
             print("❌ Failed to store articles in Qdrant")
             if verbose:
-                print("🔧 DEBUG: Qdrant storage failed - check Qdrant connection and configuration")
+                print(
+                    "🔧 DEBUG: Qdrant storage failed - check Qdrant connection and configuration")
 
     return enriched_articles
