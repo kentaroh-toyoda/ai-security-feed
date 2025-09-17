@@ -4,6 +4,7 @@ from typing import List, Dict
 from config import config
 from modules.feed_detector import extract_feed_title
 
+
 def generate_rss_feed(articles: List[Dict], output_file: str = None) -> str:
     """
     Generate an RSS feed from a list of articles.
@@ -24,11 +25,12 @@ def generate_rss_feed(articles: List[Dict], output_file: str = None) -> str:
 
     # Create feed generator
     fg = FeedGenerator()
-    fg.title('Web Article Collection')
-    fg.description('Collected and summarized articles from various sources')
+    fg.title('AI Security Digest')
+    fg.description('Curated AI security insights and articles from various sources')
     fg.link(href=config.feed_url, rel='alternate')
     fg.language('en')
-    fg.generator(generator='Web Article Collection Agent', uri='https://github.com/your-repo')
+    fg.generator(generator='AI Security Digest Agent',
+                 uri='https://github.com/your-repo')
 
     # Set feed metadata
     fg.id(config.feed_url.rstrip('/') + '/articles')
@@ -52,10 +54,13 @@ def generate_rss_feed(articles: List[Dict], output_file: str = None) -> str:
             guid = article.get('guid', link or title)
             entry.id(guid)
 
-            # Set entry content/description
+            # Set entry content/description with enhanced HTML formatting
             summary = article.get('summary', article.get('content', ''))
             if summary:
-                entry.description(summary)
+                # Create enhanced HTML description
+                enhanced_description = _create_enhanced_description(
+                    article, summary)
+                entry.description(enhanced_description)
 
             # Set publication date
             pub_date = article.get('published_date', '')
@@ -64,9 +69,11 @@ def generate_rss_feed(articles: List[Dict], output_file: str = None) -> str:
                     if isinstance(pub_date, str):
                         # Try to parse the date
                         if 'T' in pub_date:
-                            dt = datetime.fromisoformat(pub_date.replace('Z', '+00:00'))
+                            dt = datetime.fromisoformat(
+                                pub_date.replace('Z', '+00:00'))
                         else:
-                            dt = datetime.strptime(pub_date, '%Y-%m-%d %H:%M:%S')
+                            dt = datetime.strptime(
+                                pub_date, '%Y-%m-%d %H:%M:%S')
                     elif isinstance(pub_date, datetime):
                         dt = pub_date
                     else:
@@ -108,7 +115,8 @@ def generate_rss_feed(articles: List[Dict], output_file: str = None) -> str:
                 entry.source(url=source_url, title=source_title)
 
         except Exception as e:
-            print(f"Error adding article '{article.get('title', 'Unknown')}' to RSS feed: {e}")
+            print(
+                f"Error adding article '{article.get('title', 'Unknown')}' to RSS feed: {e}")
             continue
 
     # Generate RSS feed
@@ -119,12 +127,14 @@ def generate_rss_feed(articles: List[Dict], output_file: str = None) -> str:
         with open(output_file, 'wb') as f:
             f.write(rss_content)
 
-        print(f"Generated RSS feed with {len(articles)} articles: {output_file}")
+        print(
+            f"Generated RSS feed with {len(articles)} articles: {output_file}")
         return output_file
 
     except Exception as e:
         print(f"Error generating RSS feed: {e}")
         return ""
+
 
 def validate_rss_feed(file_path: str) -> bool:
     """
@@ -175,6 +185,94 @@ def validate_rss_feed(file_path: str) -> bool:
         print(f"RSS validation failed: {e}")
         return False
 
+
+def _create_enhanced_description(article: Dict, summary: str) -> str:
+    """
+    Create an enhanced HTML description for RSS feed items.
+
+    Args:
+        article: Article dictionary with metadata
+        summary: Article summary or content
+
+    Returns:
+        HTML-formatted description string
+    """
+    # Get source information
+    source_name = article.get('source_name', article.get(
+        'source_title', 'Unknown Source'))
+    author = article.get('author', '')
+    published_date = article.get('published_date', '')
+    categories = article.get('categories', [])
+
+    # Format published date if available
+    if published_date:
+        try:
+            if isinstance(published_date, str):
+                if 'T' in published_date:
+                    dt = datetime.fromisoformat(
+                        published_date.replace('Z', '+00:00'))
+                else:
+                    dt = datetime.strptime(published_date, '%Y-%m-%d %H:%M:%S')
+                formatted_date = dt.strftime('%B %d, %Y')
+            else:
+                formatted_date = published_date
+        except:
+            formatted_date = published_date
+    else:
+        formatted_date = ''
+
+    # Build HTML description
+    html_parts = []
+
+    # Add source header with styling
+    html_parts.append(
+        '<div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;">')
+    html_parts.append(
+        '<div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;">')
+    html_parts.append(f'📄 Source: {source_name}')
+    html_parts.append('</div>')
+
+    # Add metadata if available
+    metadata_items = []
+    if author:
+        metadata_items.append(
+            f'<span style="color: #7f8c8d;">👤 Author: {author}</span>')
+    if formatted_date:
+        metadata_items.append(
+            f'<span style="color: #7f8c8d;">📅 Date: {formatted_date}</span>')
+
+    if metadata_items:
+        html_parts.append(
+            '<div style="font-size: 0.9em; margin-bottom: 8px;">')
+        html_parts.append(' | '.join(metadata_items))
+        html_parts.append('</div>')
+
+    # Add categories if available
+    if categories and isinstance(categories, list) and categories:
+        category_tags = []
+        for category in categories[:3]:  # Limit to 3 categories
+            if category and isinstance(category, str):
+                category_tags.append(
+                    f'<span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;">{category}</span>')
+
+        if category_tags:
+            html_parts.append('<div style="margin-bottom: 8px;">')
+            html_parts.append(' '.join(category_tags))
+            html_parts.append('</div>')
+
+    html_parts.append('</div>')
+
+    # Add the main content
+    html_parts.append('<div style="line-height: 1.6;">')
+    # Escape HTML in summary to prevent issues
+    escaped_summary = summary.replace('&', '&').replace(
+        '<', '<').replace('>', '>').replace('"', '"')
+    html_parts.append(escaped_summary)
+    html_parts.append('</div>')
+
+    return '\n'.join(html_parts)
+
+
 def print_feed_stats(articles: List[Dict]) -> None:
     """
     Print statistics about the generated feed.
@@ -204,10 +302,12 @@ def print_feed_stats(articles: List[Dict]) -> None:
                     categories[category] = categories.get(category, 0) + 1
 
     print(f"Unique sources: {len(sources)}")
-    print(f"Top sources: {dict(sorted(sources.items(), key=lambda x: x[1], reverse=True)[:5])}")
+    print(
+        f"Top sources: {dict(sorted(sources.items(), key=lambda x: x[1], reverse=True)[:5])}")
 
     if categories:
-        print(f"Top categories: {dict(sorted(categories.items(), key=lambda x: x[1], reverse=True)[:10])}")
+        print(
+            f"Top categories: {dict(sorted(categories.items(), key=lambda x: x[1], reverse=True)[:10])}")
 
     # Show date range
     dates = []
@@ -217,7 +317,8 @@ def print_feed_stats(articles: List[Dict]) -> None:
             try:
                 if isinstance(pub_date, str):
                     if 'T' in pub_date:
-                        dt = datetime.fromisoformat(pub_date.replace('Z', '+00:00'))
+                        dt = datetime.fromisoformat(
+                            pub_date.replace('Z', '+00:00'))
                     else:
                         dt = datetime.strptime(pub_date, '%Y-%m-%d %H:%M:%S')
                 elif isinstance(pub_date, datetime):
