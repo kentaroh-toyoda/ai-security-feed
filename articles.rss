@@ -7,188 +7,84 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Sep 2025 21:37:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 21:34:27 +0000</lastBuildDate>
     <item>
-      <title>Top MCP Security Resources — September 2025</title>
-      <link>https://adversa.ai/blog/mcp-security-resources-september-2025/</link>
+      <title>LLM Security: Best Practices, Risks &amp; Solutions</title>
+      <link>https://www.deepchecks.com/llm-security-best-practices-risks-solutions/</link>
       <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
 &lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: Adversa AI Blog
+📄 Source: DeepChecks Blog
 &lt;/div&gt;
 &lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: admin&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: September 9, 2025&lt;/span&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: Deepchecks Community Blog&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: September 11, 2025&lt;/span&gt;
 &lt;/div&gt;
 &lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Agentic AI&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Model Context Protocol&lt;/span&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;LLM Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Ethics&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div style="line-height: 1.6;"&gt;
-The article highlights the critical importance of securing the Model Context Protocol (MCP), which connects tools, agents, and actions in Agentic AI systems, likening its role to TCP/IP for autonomous workflows. It emphasizes the growing security risks as MCP adoption increases and provides a curated collection of resources, best practices, and tools to defend against threats such as prompt injection and tool hijacking.
+The article discusses the critical security challenges facing large language models (LLMs), highlighting recent high-profile breaches and prompt-injection attacks that expose vulnerabilities in data, model, infrastructure, and ethics. It emphasizes the importance of securing training data, protecting model weights, hardening infrastructure, and implementing ethical governance to mitigate risks and ensure responsible AI deployment.
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://adversa.ai/blog/mcp-security-resources-september-2025/</guid>
-      <category>AI Security</category>
-      <category>Agentic AI</category>
-      <category>Model Context Protocol</category>
+      <guid isPermaLink="false">https://www.deepchecks.com/llm-security-best-practices-risks-solutions/</guid>
+      <category>LLM Security</category>
       <category>Cybersecurity</category>
-      <category>Autonomous Systems</category>
-      <pubDate>Thu, 18 Sep 2025 21:37:47 +0000</pubDate>
-      <source url="https://adversa.ai/topic/trusted-ai-blog/">Custom Web Page</source>
+      <category>AI Ethics</category>
+      <category>Data Protection</category>
+      <category>Infrastructure Security</category>
+      <pubDate>Fri, 19 Sep 2025 21:34:27 +0000</pubDate>
+      <source url="https://www.deepchecks.com/blog">Custom Web Page</source>
     </item>
     <item>
-      <title>AI Reasoning Leakage Vulnerability: Self-betrayal attack on UAE MBZUAI G42 K2 Think</title>
-      <link>https://adversa.ai/ai-reasoning-leakage-vulnerability-uae-mbzuai-g42-k2-think-jailbreak/</link>
+      <title>The Synergy of Reinforcement Learning and, Large Language Models</title>
+      <link>https://www.deepchecks.com/synergy-reinforcement-learning-and-large-language-models/</link>
       <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
 &lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: Adversa AI Blog
+📄 Source: DeepChecks Blog
 &lt;/div&gt;
 &lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: admin&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: September 11, 2025&lt;/span&gt;
+&lt;span style="color: #7f8c8d;"&gt;📅 Date: September 16, 2025&lt;/span&gt;
 &lt;/div&gt;
 &lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Vulnerability Analysis&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Reasoning Models&lt;/span&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Reinforcement Learning&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Natural Language Processing&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div style="line-height: 1.6;"&gt;
-A critical vulnerability in the reasoning model developed by UAE’s MBZUAI and G42 allows internal system instructions to be exposed, enabling attackers to iteratively refine jailbreak attempts. The article highlights the risks of reasoning leakage and emphasizes the necessity of advanced AI red teaming and security testing to mitigate such threats.
+The article explores the integration of reinforcement learning (RL) with large language models (LLMs) to enhance model alignment with human preferences and improve decision-making capabilities. It highlights how RL techniques like RLHF enable dynamic fine-tuning of LLMs, reducing inaccuracies and ethical concerns while boosting reasoning and adaptability in real-world applications. This synergy is exemplified by systems such as ChatGPT, demonstrating practical benefits in generating accurate and context-aware responses.
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://adversa.ai/ai-reasoning-leakage-vulnerability-uae-mbzuai-g42-k2-think-jailbreak/</guid>
-      <category>AI Security</category>
-      <category>Vulnerability Analysis</category>
-      <category>AI Reasoning Models</category>
-      <category>Cybersecurity</category>
-      <category>Red Teaming</category>
-      <pubDate>Thu, 18 Sep 2025 21:37:47 +0000</pubDate>
-      <source url="https://adversa.ai/topic/trusted-ai-blog/">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Top MCP Security Resources — September 2025</title>
-      <link>https://adversa.ai/blog/mcp-security-resources-september-2025/</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: Adversa Trusted AI Blog
-&lt;/div&gt;
-&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: admin&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: September 9, 2025&lt;/span&gt;
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Agentic AI&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Model Context Protocol&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-The article highlights the critical importance of securing the Model Context Protocol (MCP), which underpins autonomous AI workflows by connecting tools, agents, and actions. It outlines the security risks posed by MCP vulnerabilities and provides a curated collection of resources, strategies, and tools to help organizations protect their agentic AI systems from emerging threats.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://adversa.ai/blog/mcp-security-resources-september-2025/</guid>
-      <category>AI Security</category>
-      <category>Agentic AI</category>
-      <category>Model Context Protocol</category>
-      <category>Cybersecurity</category>
-      <category>Autonomous Systems</category>
-      <pubDate>Thu, 18 Sep 2025 21:37:47 +0000</pubDate>
-      <source url="https://adversa.ai/topic/trusted-ai-blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>AI Reasoning Leakage Vulnerability: Self-betrayal attack on UAE MBZUAI G42 K2 Think</title>
-      <link>https://adversa.ai/ai-reasoning-leakage-vulnerability-uae-mbzuai-g42-k2-think-jailbreak/</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: Adversa Trusted AI Blog
-&lt;/div&gt;
-&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: admin&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: September 11, 2025&lt;/span&gt;
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Vulnerability Analysis&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-A critical vulnerability has been discovered in the latest reasoning model developed by UAE’s MBZUAI and G42, where the AI's internal thought processes leak system-level instructions. This flaw allows attackers to use failed jailbreak attempts to iteratively refine attacks and bypass security, highlighting the need for advanced AI Red Teaming strategies.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://adversa.ai/ai-reasoning-leakage-vulnerability-uae-mbzuai-g42-k2-think-jailbreak/</guid>
-      <category>AI Security</category>
-      <category>Vulnerability Analysis</category>
+      <guid isPermaLink="false">https://www.deepchecks.com/synergy-reinforcement-learning-and-large-language-models/</guid>
       <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
-      <category>AI Red Teaming</category>
-      <pubDate>Thu, 18 Sep 2025 21:37:47 +0000</pubDate>
-      <source url="https://adversa.ai/topic/trusted-ai-blog">Custom Web Page</source>
+      <category>Reinforcement Learning</category>
+      <category>Natural Language Processing</category>
+      <category>Machine Learning</category>
+      <category>Ethics in AI</category>
+      <pubDate>Fri, 19 Sep 2025 21:34:27 +0000</pubDate>
+      <source url="https://www.deepchecks.com/blog">Custom Web Page</source>
     </item>
     <item>
-      <title>California’s Landmark AI Bill SB 53: The CISO’s Playbook</title>
-      <link>https://splx.ai/blog/california-sb53-ciso-playbook</link>
+      <title>Best Practices for Ethical LLM, Development</title>
+      <link>https://www.deepchecks.com/ethical-llm-development/</link>
       <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
 &lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: SPLX AI Blog
+📄 Source: DeepChecks Blog
 &lt;/div&gt;
 &lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: Sandy Dunn, CISO&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: Sep 17, 2025&lt;/span&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: Deepchecks Community Blog&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: September 18, 2025&lt;/span&gt;
 &lt;/div&gt;
 &lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence Regulation&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity Governance&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Corporate Compliance&lt;/span&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Ethics in Technology&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Machine Learning&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div style="line-height: 1.6;"&gt;
-California’s SB 53, the Transparency in Frontier Artificial Intelligence Act, is a pioneering AI safety bill requiring major AI developers to publish safety frameworks, report critical incidents, and protect whistleblowers, setting new standards for AI governance. While initially targeting large frontier AI developers, the bill’s impact will extend across industries, urging CISOs to proactively implement AI governance practices to meet rising regulatory and customer expectations. The legislation is expected to influence future state and federal AI regulations, making early compliance a strategic advantage.
+The article discusses the ethical responsibilities essential in the development of Large Language Models (LLMs), emphasizing fairness, transparency, privacy, and accountability as foundational principles. It highlights common ethical challenges such as bias, privacy risks, and the need for transparency, and suggests best practices including diverse data collection, bias mitigation, user consent, and adherence to legal standards to ensure responsible and trustworthy AI deployment.
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://splx.ai/blog/california-sb53-ciso-playbook</guid>
-      <category>Artificial Intelligence Regulation</category>
-      <category>Cybersecurity Governance</category>
-      <category>Corporate Compliance</category>
-      <category>Data Privacy and Transparency</category>
-      <category>Technology Policy</category>
-      <pubDate>Thu, 18 Sep 2025 21:37:47 +0000</pubDate>
-      <source url="https://splx.ai/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>ChatGPT Agent Violates Policy and Solves Image CAPTCHAs</title>
-      <link>https://splx.ai/blog/chatgpt-agent-solves-captcha</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: SPLX AI Blog
-&lt;/div&gt;
-&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: Dorian Schultz&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: Sep 18, 2025&lt;/span&gt;
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Prompt Injection&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;CAPTCHA Bypass&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-Researchers demonstrated that prompt injection techniques can bypass ChatGPT agents' built-in policies to solve both simple and complex image-based CAPTCHAs by manipulating conversation context. This exploit highlights vulnerabilities in AI guardrails and raises concerns about weakening CAPTCHA defenses and potential enterprise security risks.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://splx.ai/blog/chatgpt-agent-solves-captcha</guid>
-      <category>AI Security</category>
-      <category>Prompt Injection</category>
-      <category>CAPTCHA Bypass</category>
-      <category>Large Language Models</category>
-      <category>Enterprise Cybersecurity</category>
-      <pubDate>Thu, 18 Sep 2025 21:37:47 +0000</pubDate>
-      <source url="https://splx.ai/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>What is Red Teaming in AI? Types, Components &amp; Best Practices</title>
-      <link>https://www.lasso.security/blog/what-is-red-teaming-in-ai</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: Lasso AI Blog
-&lt;/div&gt;
-&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: Danielle Shtainberg&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: September 18, 2025&lt;/span&gt;
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Red Teaming&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-The article explores the evolution of red teaming from traditional cybersecurity to AI-specific challenges, focusing on testing AI models like large language models and generative tools for vulnerabilities such as prompt injection and data poisoning. It highlights the importance of continuous testing, collaboration among AI developers and security teams, and best practices to mitigate risks unique to AI systems. Proactive AI red teaming is essential to ensure the safe and reliable operation of AI in critical applications.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.lasso.security/blog/what-is-red-teaming-in-ai</guid>
-      <category>Artificial Intelligence Security</category>
-      <category>Red Teaming</category>
-      <category>Cybersecurity</category>
-      <category>Generative AI</category>
-      <category>AI Risk Management</category>
-      <pubDate>Thu, 18 Sep 2025 21:37:47 +0000</pubDate>
-      <source url="https://www.lasso.security/blog">Custom Web Page</source>
+      <guid isPermaLink="false">https://www.deepchecks.com/ethical-llm-development/</guid>
+      <category>Artificial Intelligence</category>
+      <category>Ethics in Technology</category>
+      <category>Machine Learning</category>
+      <category>Data Privacy</category>
+      <category>AI Governance</category>
+      <pubDate>Fri, 19 Sep 2025 21:34:27 +0000</pubDate>
+      <source url="https://www.deepchecks.com/blog">Custom Web Page</source>
     </item>
   </channel>
 </rss>
