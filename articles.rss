@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>AI Security Digest</title>
+    <link>https://kentaroh-toyoda.github.io/ai-security-feed</link>
+    <description>Curated AI security insights and articles from various sources</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>AI Security Digest Agent</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 22 Sep 2025 21:37:00 +0000</lastBuildDate>
+    <item>
+      <title>Understanding Agentic AI: What It Is and How to Build It Securely</title>
+      <link>https://splx.ai/blog/what-is-agentic-ai-and-how-to-</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: SPLX AI Blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;📅 Date: Mar 12, 2025&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Agentic AI&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Security&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+The article explains the concept of agentic AI, which refers to AI systems capable of autonomous decision-making and goal-directed behavior. It also outlines best practices and security measures for developing such AI systems responsibly and safely.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://splx.ai/blog/what-is-agentic-ai-and-how-to-</guid>
+      <category>Artificial Intelligence</category>
+      <category>Agentic AI</category>
+      <category>AI Security</category>
+      <category>Machine Learning</category>
+      <category>Technology Development</category>
+      <pubDate>Mon, 22 Sep 2025 21:37:00 +0000</pubDate>
+      <source url="https://splx.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Deepseek-V3.1 AI Red Teaming: Smarter, Faster…Safer?</title>
+      <link>https://splx.ai/blog/deepseek-v3-1-red-teaming</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: SPLX AI Blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: Mateja Vuradin&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: Sep 22, 2025&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Safety and Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Machine Learning Models&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+DeepSeek-V3.1 introduces a hybrid inference model combining Think and Non-Think modes to enhance reasoning and response speed, marking a significant performance leap over previous versions. However, AI red teaming reveals substantial security and safety vulnerabilities in the raw model, which are significantly mitigated but not fully resolved by hardened prompt techniques, indicating further safeguards are necessary for secure enterprise deployment.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://splx.ai/blog/deepseek-v3-1-red-teaming</guid>
+      <category>Artificial Intelligence</category>
+      <category>AI Safety and Security</category>
+      <category>Machine Learning Models</category>
+      <category>Enterprise Technology</category>
+      <category>AI Red Teaming</category>
+      <pubDate>Mon, 22 Sep 2025 21:37:00 +0000</pubDate>
+      <source url="https://splx.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>The Business Risk of AI Hallucinations: How to Protect Your Brand</title>
+      <link>https://neuraltrust.ai/blog/ai-hallucinations-business-risk</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: NeuralTrust Blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: Martí Jordà&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: April 09, 2025&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Business Risk Management&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Large Language Models&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+AI hallucinations occur when large language models generate confident but false or fabricated information, posing significant risks to businesses integrating these models into workflows. The article explains why hallucinations happen, highlights their real-world business impacts, and discusses strategies to detect and prevent damage to brand reputation and financial performance.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://neuraltrust.ai/blog/ai-hallucinations-business-risk</guid>
+      <category>Artificial Intelligence</category>
+      <category>Business Risk Management</category>
+      <category>Large Language Models</category>
+      <category>AI Ethics</category>
+      <category>Technology in Customer Support</category>
+      <pubDate>Wed, 09 Apr 2025 18:00:00 +0000</pubDate>
+      <source url="https://neuraltrust.ai/blog">Custom Web Page</source>
+    </item>
+  </channel>
+</rss>
