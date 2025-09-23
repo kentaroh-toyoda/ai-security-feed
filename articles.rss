@@ -7,84 +7,211 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Sep 2025 21:37:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Sep 2025 06:23:25 +0000</lastBuildDate>
     <item>
-      <title>Understanding Agentic AI: What It Is and How to Build It Securely</title>
-      <link>https://splx.ai/blog/what-is-agentic-ai-and-how-to-</link>
+      <title>Research Aeneas transforms how historians connect the past</title>
+      <link>https://deepmind.google/discover/blog/aeneas-transforms-how-historians-connect-the-past/</link>
       <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
 &lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: SPLX AI Blog
+📄 Source: Google DeepMind Blog
 &lt;/div&gt;
 &lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;📅 Date: Mar 12, 2025&lt;/span&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: DeepMind&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2023-10-12&lt;/span&gt;
 &lt;/div&gt;
 &lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Agentic AI&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Security&lt;/span&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Historical Research&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Natural Language Processing&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div style="line-height: 1.6;"&gt;
-The article explains the concept of agentic AI, which refers to AI systems capable of autonomous decision-making and goal-directed behavior. It also outlines best practices and security measures for developing such AI systems responsibly and safely.
+DeepMind's AI system Aeneas revolutionizes historical research by using natural language processing and machine learning to analyze and connect fragmented historical documents. It aids historians in constructing timelines and genealogies by automating the cross-referencing of diverse texts, thereby enhancing interpretation and analysis. Tested on medieval manuscripts and archival records, Aeneas uncovers new insights and fosters collaboration between AI and humanities experts.
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://splx.ai/blog/what-is-agentic-ai-and-how-to-</guid>
+      <guid isPermaLink="false">https://deepmind.google/discover/blog/aeneas-transforms-how-historians-connect-the-past/</guid>
       <category>Artificial Intelligence</category>
-      <category>Agentic AI</category>
-      <category>AI Security</category>
+      <category>Historical Research</category>
+      <category>Natural Language Processing</category>
+      <category>Digital Humanities</category>
       <category>Machine Learning</category>
-      <category>Technology Development</category>
-      <pubDate>Mon, 22 Sep 2025 21:37:00 +0000</pubDate>
-      <source url="https://splx.ai/blog">Custom Web Page</source>
+      <pubDate>Tue, 23 Sep 2025 06:23:25 +0000</pubDate>
+      <source url="https://deepmind.google/discover/blog/">Custom Web Page</source>
     </item>
     <item>
-      <title>Deepseek-V3.1 AI Red Teaming: Smarter, Faster…Safer?</title>
-      <link>https://splx.ai/blog/deepseek-v3-1-red-teaming</link>
+      <title>Science AlphaEarth Foundations helps map our planet in unprecedented detail</title>
+      <link>https://deepmind.google/discover/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/</link>
       <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
 &lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: SPLX AI Blog
+📄 Source: Google DeepMind Blog
 &lt;/div&gt;
 &lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: Mateja Vuradin&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: Sep 22, 2025&lt;/span&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: DeepMind Team&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2023-11-02&lt;/span&gt;
 &lt;/div&gt;
 &lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Safety and Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Machine Learning Models&lt;/span&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Geospatial Technology&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Environmental Monitoring&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div style="line-height: 1.6;"&gt;
-DeepSeek-V3.1 introduces a hybrid inference model combining Think and Non-Think modes to enhance reasoning and response speed, marking a significant performance leap over previous versions. However, AI red teaming reveals substantial security and safety vulnerabilities in the raw model, which are significantly mitigated but not fully resolved by hardened prompt techniques, indicating further safeguards are necessary for secure enterprise deployment.
+AlphaEarth Foundations is an advanced AI system developed by DeepMind that uses machine learning to create highly detailed and accurate maps of the Earth's surface by processing diverse satellite imagery and geospatial data. This technology supports applications such as environmental monitoring, urban planning, and disaster assessment, and is designed to be accessible for global research and sustainable development efforts.
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://splx.ai/blog/deepseek-v3-1-red-teaming</guid>
+      <guid isPermaLink="false">https://deepmind.google/discover/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/</guid>
       <category>Artificial Intelligence</category>
-      <category>AI Safety and Security</category>
-      <category>Machine Learning Models</category>
-      <category>Enterprise Technology</category>
-      <category>AI Red Teaming</category>
-      <pubDate>Mon, 22 Sep 2025 21:37:00 +0000</pubDate>
-      <source url="https://splx.ai/blog">Custom Web Page</source>
+      <category>Geospatial Technology</category>
+      <category>Environmental Monitoring</category>
+      <category>Satellite Imagery</category>
+      <category>Urban Planning</category>
+      <pubDate>Tue, 23 Sep 2025 06:23:25 +0000</pubDate>
+      <source url="https://deepmind.google/discover/blog/">Custom Web Page</source>
     </item>
     <item>
-      <title>The Business Risk of AI Hallucinations: How to Protect Your Brand</title>
-      <link>https://neuraltrust.ai/blog/ai-hallucinations-business-risk</link>
+      <title>Science How AI is helping advance the science of bioacoustics to save endangered species</title>
+      <link>https://deepmind.google/discover/blog/how-ai-is-helping-advance-the-science-of-bioacoustics-to-save-endangered-species/</link>
       <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
 &lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: NeuralTrust Blog
+📄 Source: Google DeepMind Blog
 &lt;/div&gt;
 &lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: Martí Jordà&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: April 09, 2025&lt;/span&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: Katherine R. D. and team&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2023-09-21&lt;/span&gt;
 &lt;/div&gt;
 &lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Business Risk Management&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Large Language Models&lt;/span&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Bioacoustics&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Wildlife Conservation&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div style="line-height: 1.6;"&gt;
-AI hallucinations occur when large language models generate confident but false or fabricated information, posing significant risks to businesses integrating these models into workflows. The article explains why hallucinations happen, highlights their real-world business impacts, and discusses strategies to detect and prevent damage to brand reputation and financial performance.
+AI advancements are revolutionizing bioacoustics by automating the detection and classification of animal sounds, enabling more effective monitoring of endangered species and ecosystems. Projects like those by DeepMind use deep learning models and AI-powered sensors to track species, detect threats, and support conservation efforts with real-time data analysis. This interdisciplinary approach enhances biodiversity preservation by providing actionable insights and accelerating ecological research.
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://neuraltrust.ai/blog/ai-hallucinations-business-risk</guid>
+      <guid isPermaLink="false">https://deepmind.google/discover/blog/how-ai-is-helping-advance-the-science-of-bioacoustics-to-save-endangered-species/</guid>
       <category>Artificial Intelligence</category>
-      <category>Business Risk Management</category>
-      <category>Large Language Models</category>
-      <category>AI Ethics</category>
-      <category>Technology in Customer Support</category>
-      <pubDate>Wed, 09 Apr 2025 18:00:00 +0000</pubDate>
-      <source url="https://neuraltrust.ai/blog">Custom Web Page</source>
+      <category>Bioacoustics</category>
+      <category>Wildlife Conservation</category>
+      <category>Ecology</category>
+      <category>Machine Learning</category>
+      <pubDate>Tue, 23 Sep 2025 06:23:25 +0000</pubDate>
+      <source url="https://deepmind.google/discover/blog/">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Science Using AI to perceive the universe in greater depth</title>
+      <link>https://deepmind.google/discover/blog/using-ai-to-perceive-the-universe-in-greater-depth/</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: Google DeepMind Blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: DeepMind&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2023-08-24&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Astrophysics&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cosmology&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+DeepMind is leveraging advanced AI and machine learning techniques to analyze vast astronomical datasets and simulations, enabling new discoveries about the universe's structure, dark matter, and galaxy formation. Their AI-driven models and simulations accelerate research and provide deeper insights, in collaboration with astrophysicists and cosmologists. This approach aims to revolutionize our understanding of the cosmos by making AI tools accessible to the scientific community.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://deepmind.google/discover/blog/using-ai-to-perceive-the-universe-in-greater-depth/</guid>
+      <category>Artificial Intelligence</category>
+      <category>Astrophysics</category>
+      <category>Cosmology</category>
+      <category>Machine Learning</category>
+      <category>Scientific Research</category>
+      <pubDate>Tue, 23 Sep 2025 06:23:25 +0000</pubDate>
+      <source url="https://deepmind.google/discover/blog/">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Research, Gemini achieves gold-level performance at the International Collegiate Programming Contest World Finals</title>
+      <link>https://deepmind.google/discover/blog/gemini-achieves-gold-level-performance-at-the-international-collegiate-programming-contest-world-finals/</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: Google DeepMind Blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: DeepMind&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2024-05-31&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Competitive Programming&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Machine Learning&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+DeepMind's AI system Gemini achieved gold-level performance at the International Collegiate Programming Contest World Finals, showcasing advanced capabilities in complex problem-solving and algorithm design. This milestone highlights AI's potential to enhance human creativity and expertise in computer science and mathematics.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://deepmind.google/discover/blog/gemini-achieves-gold-level-performance-at-the-international-collegiate-programming-contest-world-finals/</guid>
+      <category>Artificial Intelligence</category>
+      <category>Competitive Programming</category>
+      <category>Machine Learning</category>
+      <category>Algorithm Design</category>
+      <category>Computer Science Research</category>
+      <pubDate>Tue, 23 Sep 2025 06:23:25 +0000</pubDate>
+      <source url="https://deepmind.google/discover/blog/">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Science Discovering new solutions to century-old problems in fluid dynamics</title>
+      <link>https://deepmind.google/discover/blog/discovering-new-solutions-to-century-old-problems-in-fluid-dynamics/</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: Google DeepMind Blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: DeepMind&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2023-07-18&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Fluid Dynamics&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Machine Learning&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+DeepMind is leveraging artificial intelligence and machine learning to address longstanding challenges in fluid dynamics by training models to predict fluid flow and optimize control strategies. Their AI-driven approach has demonstrated the ability to discover novel flow structures and improve efficiency in applications such as energy use, vehicle drag reduction, and climate modeling. Collaboration with experts across disciplines continues to refine these models and validate their scientific contributions.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://deepmind.google/discover/blog/discovering-new-solutions-to-century-old-problems-in-fluid-dynamics/</guid>
+      <category>Fluid Dynamics</category>
+      <category>Artificial Intelligence</category>
+      <category>Machine Learning</category>
+      <category>Physics</category>
+      <category>Engineering</category>
+      <pubDate>Tue, 23 Sep 2025 06:23:25 +0000</pubDate>
+      <source url="https://deepmind.google/discover/blog/">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Responsibility &amp; Safety Strengthening our Frontier Safety Framework</title>
+      <link>https://deepmind.google/discover/blog/strengthening-our-frontier-safety-framework/</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: Google DeepMind Blog
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Safety&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Technology Ethics&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+The article titled 'Strengthening our frontier safety framework' discusses efforts to enhance safety measures and responsibilities in managing advanced AI technologies. It emphasizes the importance of robust frameworks to ensure the safe development and deployment of frontier AI models.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://deepmind.google/discover/blog/strengthening-our-frontier-safety-framework/</guid>
+      <category>AI Safety</category>
+      <category>Technology Ethics</category>
+      <category>Artificial Intelligence</category>
+      <category>Risk Management</category>
+      <category>AI Governance</category>
+      <pubDate>Tue, 23 Sep 2025 06:23:25 +0000</pubDate>
+      <source url="https://deepmind.google/discover/blog/">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Models Genie 3: A new frontier for world models</title>
+      <link>https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: Google DeepMind Blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: DeepMind&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2024-06-12&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Reinforcement Learning&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;World Models&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+DeepMind's Genie 3 is an advanced world model that enhances AI's ability to understand and interact with complex environments by combining neural networks with reinforcement learning. It improves sample efficiency, generalization, and robustness, enabling AI agents to perform challenging tasks in simulations and promising applications in robotics, gaming, and scientific discovery. The model exemplifies the integration of model-based and model-free learning for adaptable and autonomous AI systems.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/</guid>
+      <category>Artificial Intelligence</category>
+      <category>Reinforcement Learning</category>
+      <category>World Models</category>
+      <category>Robotics</category>
+      <category>Machine Learning</category>
+      <pubDate>Tue, 23 Sep 2025 06:23:25 +0000</pubDate>
+      <source url="https://deepmind.google/discover/blog/">Custom Web Page</source>
     </item>
   </channel>
 </rss>
