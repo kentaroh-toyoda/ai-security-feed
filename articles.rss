@@ -7,344 +7,110 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Sep 2025 02:56:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 21:38:36 +0000</lastBuildDate>
     <item>
-      <title>Build It Before Breaking It !!</title>
-      <link>https://www.waterbucket.lol/blog/AD-Lab1</link>
+      <title>Trust No AI: Prompt Injection Along the CIA, Security Triad Paper</title>
+      <link>https://embracethered.com/blog/posts/2024/trust-no-ai-prompt-injection-along-the-cia-security-triad-paper/</link>
       <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
 &lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: WaterBucket Blog
+📄 Source: wunderwuzzi's blog
 &lt;/div&gt;
 &lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: WaterBucket&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 17-09-2023&lt;/span&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: Johann&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: Dec 23, 2024&lt;/span&gt;
 &lt;/div&gt;
 &lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Active Directory&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Penetration Testing&lt;/span&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Prompt Injection&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div style="line-height: 1.6;"&gt;
-This article introduces the first post in a series about creating an Active Directory home lab for red teamers, focusing on setting up and exploiting common misconfigurations. It provides step-by-step instructions to create vulnerable user accounts for attacks such as ASREP Roasting, Kerberoasting, and DC Sync using Windows Server 2019 and Kali Linux. The goal is to help readers understand and practice these attacks safely in a controlled environment.
+The paper 'Trust No AI: Prompt Injection Along The CIA Security Triad' explores how prompt injection attacks threaten the Confidentiality, Integrity, and Availability of AI systems, providing real-world examples involving major vendors like OpenAI and Google. It aims to bridge traditional cybersecurity with AI/ML research to enhance understanding and defense against these emerging threats.
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.waterbucket.lol/blog/AD-Lab1</guid>
-      <category>Cybersecurity</category>
-      <category>Active Directory</category>
-      <category>Penetration Testing</category>
-      <category>Red Teaming</category>
-      <category>Cybersecurity Labs</category>
-      <pubDate>Wed, 24 Sep 2025 02:56:15 +0000</pubDate>
-      <source url="https://www.waterbucket.lol/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Build it Before Breaking it !! — PART 2</title>
-      <link>https://www.waterbucket.lol/blog/AD-Lab2</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: WaterBucket Blog
-&lt;/div&gt;
-&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: WaterBucket&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 24-10-2023&lt;/span&gt;
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Active Directory&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Windows Server&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-This article provides a step-by-step guide on setting up an Unconstrained Delegation lab in a Windows Active Directory environment, including creating user and computer accounts and configuring delegation privileges. It also demonstrates how to verify the configuration using PowerShell and Impacket scripts, while deferring exploitation details to other resources. The next article will cover setting up Constrained Delegation.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.waterbucket.lol/blog/AD-Lab2</guid>
-      <category>Cybersecurity</category>
-      <category>Active Directory</category>
-      <category>Windows Server</category>
-      <category>Delegation and Authentication</category>
-      <category>Penetration Testing Labs</category>
-      <pubDate>Wed, 24 Sep 2025 02:56:15 +0000</pubDate>
-      <source url="https://www.waterbucket.lol/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Crafting Chaos: A deep dive into developing Shellcode Loaders!</title>
-      <link>https://www.waterbucket.lol/blog/shellcode-loader</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: WaterBucket Blog
-&lt;/div&gt;
-&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: WaterBucket&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2024-03-24&lt;/span&gt;
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Malware Development&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Shellcode Loading&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Network Programming&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-This article introduces a series focused on developing custom malware, specifically detailing the creation of a shellcode loader that downloads and executes shellcode from a remote server to evade static detection and bypass Microsoft Defender. It explains the technical implementation using Winsock2 for network communication and Early Bird APC Injection for process injection to execute the downloaded shellcode. The post provides a step-by-step guide on socket creation, connection, data reception, and the injection technique.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.waterbucket.lol/blog/shellcode-loader</guid>
-      <category>Malware Development</category>
-      <category>Shellcode Loading</category>
-      <category>Network Programming</category>
-      <category>Process Injection Techniques</category>
-      <category>Cybersecurity Evasion</category>
-      <pubDate>Wed, 24 Sep 2025 02:56:15 +0000</pubDate>
-      <source url="https://www.waterbucket.lol/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Uncovering 0-Days: The Crucial Role of RFCs in Vulnerability Research and the Recent Windows TCP/IPv6 Exploit</title>
-      <link>https://www.waterbucket.lol/blog/RFCs</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: WaterBucket Blog
-&lt;/div&gt;
-&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: WaterBucket&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2024-05-10&lt;/span&gt;
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Vulnerability Research&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Network Protocols&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-The article emphasizes the importance of understanding RFCs (Request for Comments) for vulnerability researchers, highlighting how these documents serve as foundational standards for internet protocols. It explains that deviations or misinterpretations of RFCs during implementation can lead to security vulnerabilities, illustrated by a recent critical exploit in Windows' tcpip.sys driver related to IPv6. The piece encourages researchers to study RFCs closely to identify potential 0-day vulnerabilities.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.waterbucket.lol/blog/RFCs</guid>
-      <category>Cybersecurity</category>
-      <category>Vulnerability Research</category>
-      <category>Network Protocols</category>
-      <category>Software Security</category>
-      <category>Windows Security</category>
-      <pubDate>Wed, 24 Sep 2025 02:56:15 +0000</pubDate>
-      <source url="https://www.waterbucket.lol/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>MS13–018: The TCP Bug That Made Windows Wait… and Wait… and Wait…</title>
-      <link>https://www.waterbucket.lol/blog/ms13-018</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: WaterBucket Blog
-&lt;/div&gt;
-&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: WaterBucket&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2024-03-11&lt;/span&gt;
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Network Protocols&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Vulnerability Analysis&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-The article analyzes the MS13-018 vulnerability, a denial-of-service flaw in the Windows tcpip.sys driver affecting various Windows versions by exploiting how the TCP FIN_WAIT_2 state is handled. It explains the TCP connection teardown process, how the vulnerability allows attackers to exhaust system resources by forcing connections to remain open indefinitely, and discusses the importance of RFCs and patches in mitigating such issues. The author also shares a proof-of-concept exploit to deepen understanding of this N-day vulnerability.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.waterbucket.lol/blog/ms13-018</guid>
-      <category>Cybersecurity</category>
-      <category>Network Protocols</category>
-      <category>Vulnerability Analysis</category>
-      <category>Windows Operating System</category>
-      <category>Denial-of-Service (DoS) Attacks</category>
-      <pubDate>Wed, 24 Sep 2025 02:56:15 +0000</pubDate>
-      <source url="https://www.waterbucket.lol/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Understanding IOCTLs for Windows Vulnerability Research &amp; Exploit Development</title>
-      <link>https://www.waterbucket.lol/blog/IOCTLs</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: WaterBucket Blog
-&lt;/div&gt;
-&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: WaterBucket&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 14-12-2024&lt;/span&gt;
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Windows Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Vulnerability Research&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Exploit Development&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-The article provides an in-depth theoretical overview of IOCTLs (Input/Output Controls) in Windows, explaining their structure, interaction with IRPs, and role in driver communication. It serves as a foundational guide for vulnerability researchers and exploit developers interested in Windows driver reverse engineering, with a promise of a follow-up practical exploration focused on Elevation of Privilege (EoP) scenarios.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.waterbucket.lol/blog/IOCTLs</guid>
-      <category>Windows Security</category>
-      <category>Vulnerability Research</category>
-      <category>Exploit Development</category>
-      <category>Driver Reverse Engineering</category>
-      <category>Operating Systems</category>
-      <pubDate>Wed, 24 Sep 2025 02:56:15 +0000</pubDate>
-      <source url="https://www.waterbucket.lol/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Understanding HalDispatchTable for Windows Vulnerability Research &amp; Exploit Development</title>
-      <link>https://www.waterbucket.lol/blog/haldispatchtable</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: WaterBucket Blog
-&lt;/div&gt;
-&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: WaterBucket&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2025-01-16&lt;/span&gt;
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Windows Internals&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Kernel Vulnerability Research&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Exploit Development&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-This article delves into the HalDispatchTable within the Windows Hardware Abstraction Layer (HAL), explaining its role and significance in Windows kernel internals and historical exploit development. It highlights how hal.dll operates as a kernel-mode component abstracting hardware specifics to enable modular and portable Windows kernels across diverse hardware platforms. The post also touches on the HAL's responsibilities in system initialization and low-level hardware management.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.waterbucket.lol/blog/haldispatchtable</guid>
-      <category>Windows Internals</category>
-      <category>Kernel Vulnerability Research</category>
-      <category>Exploit Development</category>
-      <category>Hardware Abstraction Layer</category>
-      <category>Cybersecurity</category>
-      <pubDate>Wed, 24 Sep 2025 02:56:15 +0000</pubDate>
-      <source url="https://www.waterbucket.lol/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Understanding Memory Descriptor Lists (MDLs) for Windows Vulnerability Research &amp; Exploit Development</title>
-      <link>https://www.waterbucket.lol/blog/MDLs</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: WaterBucket Blog
-&lt;/div&gt;
-&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: WaterBucket&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2025-01-25&lt;/span&gt;
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Windows Kernel&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Memory Management&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Security Exploits&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-The article explains Memory Descriptor Lists (MDLs) in the context of Windows vulnerability research, particularly relating to a kernel exploit involving the mskssrv.sys driver. It clarifies how MDLs map virtual memory to physical memory, enabling kernel-mode drivers to access user-mode buffers directly without costly memory copying, which is crucial for understanding certain logical vulnerabilities and exploit development.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.waterbucket.lol/blog/MDLs</guid>
-      <category>Windows Kernel</category>
-      <category>Memory Management</category>
-      <category>Security Exploits</category>
-      <category>Vulnerability Research</category>
-      <category>Driver Development</category>
-      <pubDate>Wed, 24 Sep 2025 02:56:15 +0000</pubDate>
-      <source url="https://www.waterbucket.lol/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Understanding Deferred Procedure Calls (DPCs) for Windows Vulnerability Research &amp; Exploit Development</title>
-      <link>https://www.waterbucket.lol/blog/DPCs</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: WaterBucket Blog
-&lt;/div&gt;
-&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: WaterBucket&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2025-02-02&lt;/span&gt;
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Windows Internals&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Operating System Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Vulnerability Research&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-This article explains Deferred Procedure Calls (DPCs) in Windows, a mechanism that defers lower-priority work to ensure fast and efficient interrupt handling by running at a specific Interrupt Request Level (IRQL). It also provides foundational knowledge on IRQLs and interrupt handling to help readers understand how Windows prioritizes tasks and manages system events. The author aims to clarify these niche Windows internals concepts for vulnerability research and exploit development.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.waterbucket.lol/blog/DPCs</guid>
-      <category>Windows Internals</category>
-      <category>Operating System Security</category>
-      <category>Vulnerability Research</category>
-      <category>Exploit Development</category>
-      <category>System Programming</category>
-      <pubDate>Wed, 24 Sep 2025 02:56:15 +0000</pubDate>
-      <source url="https://www.waterbucket.lol/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Understanding Callback Registration Mechanisms in Windows</title>
-      <link>https://www.waterbucket.lol/blog/callback-mechanism</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: WaterBucket Blog
-&lt;/div&gt;
-&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: WaterBucket&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2025-03-03&lt;/span&gt;
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Windows Internals&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Kernel Programming&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Security Research&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-The article explores Windows callback registration mechanisms beyond common routines, detailing how kernel-mode components register callbacks to monitor system events like process creation and registry changes. It explains key registration functions such as ObRegisterCallbacks and CmRegisterCallbackEx, their internal data structures, and the use of altitude strings to prioritize callback execution. This insight is valuable for vulnerability research, exploit development, and understanding Windows internals.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.waterbucket.lol/blog/callback-mechanism</guid>
-      <category>Windows Internals</category>
-      <category>Kernel Programming</category>
-      <category>Security Research</category>
-      <category>Callback Mechanisms</category>
-      <category>System Monitoring</category>
-      <pubDate>Wed, 24 Sep 2025 02:56:15 +0000</pubDate>
-      <source url="https://www.waterbucket.lol/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Understanding Mini-Filter Drivers for Windows Vulnerability Research &amp; Exploit Development</title>
-      <link>https://www.waterbucket.lol/blog/minifilter-drivers</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: WaterBucket Blog
-&lt;/div&gt;
-&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: WaterBucket&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2025-03-31&lt;/span&gt;
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Windows Internals&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;File System Drivers&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Kernel-Mode Programming&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-The article explores Mini-Filter Drivers within the Windows file system architecture, explaining their role in monitoring and modifying file system operations without interacting directly with lower-level drivers. It contrasts Mini-Filter Drivers with legacy filter drivers, detailing how they intercept I/O requests through the Filter Manager to provide controlled and isolated processing. The post also provides foundational knowledge on file system filter drivers, their operation with IRPs, and their significance in security and system management.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.waterbucket.lol/blog/minifilter-drivers</guid>
-      <category>Windows Internals</category>
-      <category>File System Drivers</category>
-      <category>Kernel-Mode Programming</category>
-      <category>Security Research</category>
-      <category>Exploit Development</category>
-      <pubDate>Wed, 24 Sep 2025 02:56:15 +0000</pubDate>
-      <source url="https://www.waterbucket.lol/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Understanding Path Resolution in Windows</title>
-      <link>https://www.waterbucket.lol/blog/understanding-path-resolution</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: WaterBucket Blog
-&lt;/div&gt;
-&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: WaterBucket&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2025-07-20&lt;/span&gt;
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Windows Internals&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Kernel Debugging&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Path Resolution&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-The article provides an in-depth exploration of Windows path resolution, focusing on the internal process that translates user-mode Win32 file paths into NT object namespace paths within the kernel. It explains the role of symbolic links, the ?? directory, and kernel structures involved in resolving paths, using tools like WinDbg to analyze these mechanisms for vulnerability research and exploit development.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.waterbucket.lol/blog/understanding-path-resolution</guid>
-      <category>Windows Internals</category>
-      <category>Kernel Debugging</category>
-      <category>Path Resolution</category>
-      <category>Security Research</category>
-      <category>WinDbg</category>
-      <pubDate>Wed, 24 Sep 2025 02:56:15 +0000</pubDate>
-      <source url="https://www.waterbucket.lol/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Understanding System Prompts for AI Red-Teaming</title>
-      <link>https://www.waterbucket.lol/blog/SystemPrompt</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: WaterBucket Blog
-&lt;/div&gt;
-&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: WaterBucket&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2025-09-21&lt;/span&gt;
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Red-Teaming&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Agentic AI&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-The article explores the critical role of system prompts in agentic AI, detailing how they shape AI behavior, influence reasoning, and define the operational boundaries of sub-agents. It highlights the security risks posed by exposing system prompts during AI red-teaming and explains why protecting these prompts is essential for maintaining AI safety and integrity. The piece also discusses the dynamic and multi-agent nature of system prompts and their impact on AI session management.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.waterbucket.lol/blog/SystemPrompt</guid>
+      <guid isPermaLink="false">https://embracethered.com/blog/posts/2024/trust-no-ai-prompt-injection-along-the-cia-security-triad-paper/</guid>
       <category>AI Security</category>
-      <category>Red-Teaming</category>
-      <category>Agentic AI</category>
-      <category>System Prompts</category>
-      <category>AI Behavior and Safety</category>
-      <pubDate>Wed, 24 Sep 2025 02:56:15 +0000</pubDate>
-      <source url="https://www.waterbucket.lol/blog">Custom Web Page</source>
+      <category>Cybersecurity</category>
+      <category>Prompt Injection</category>
+      <category>Confidentiality Integrity Availability (CIA) Triad</category>
+      <category>Artificial Intelligence Research</category>
+      <pubDate>Wed, 24 Sep 2025 21:38:36 +0000</pubDate>
+      <source url="https://embracethered.com/blog/">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Cross-Agent Privilege Escalation: When Agents Free Each Other</title>
+      <link>https://embracethered.com/blog/posts/2025/cross-agent-privilege-escalation-agents-that-free-each-other/</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: wunderwuzzi's blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: wunderwuzzi&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: Sep 24, 2025&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Safety&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Software Vulnerabilities&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+The article discusses a security vulnerability in agentic coding systems where one compromised agent can overwrite another agent’s configuration files, enabling a cross-agent privilege escalation that allows agents to 'free' each other from sandbox restrictions and execute arbitrary code. This design flaw, demonstrated using GitHub Copilot and Claude Code, highlights the growing security risks in multi-agent environments and calls for secure defaults and configuration isolation to mitigate such attacks.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://embracethered.com/blog/posts/2025/cross-agent-privilege-escalation-agents-that-free-each-other/</guid>
+      <category>Cybersecurity</category>
+      <category>AI Safety</category>
+      <category>Software Vulnerabilities</category>
+      <category>Agent-based Systems</category>
+      <category>Privilege Escalation</category>
+      <pubDate>Wed, 24 Sep 2025 21:38:36 +0000</pubDate>
+      <source url="https://embracethered.com/blog/">Custom Web Page</source>
+    </item>
+    <item>
+      <title>VOX-DUB: a new benchmark that puts AI dubbing to the test</title>
+      <link>https://toloka.ai/blog/ai-dubbing-benchmark/</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: Toloka Blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: Toloka team&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: September 9, 2025&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Speech Synthesis&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Dubbing&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+VOX-DUB is a newly introduced human-based benchmark designed to evaluate AI dubbing quality by focusing on nuanced aspects such as pronunciation, naturalness, emotional accuracy, and voice similarity across languages. It uses pairwise A/B comparisons with native speaker annotators to assess four commercial dubbing systems, revealing the ongoing challenges AI faces in preserving actor characteristics during dubbing. The benchmark dataset and guidelines are openly available, aiming to advance research and development in AI dubbing.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://toloka.ai/blog/ai-dubbing-benchmark/</guid>
+      <category>Artificial Intelligence</category>
+      <category>Speech Synthesis</category>
+      <category>AI Dubbing</category>
+      <category>Benchmarking</category>
+      <category>Natural Language Processing</category>
+      <pubDate>Wed, 24 Sep 2025 21:38:36 +0000</pubDate>
+      <source url="https://toloka.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>TAU-bench extension: benchmarking policy-aware agents in realistic settings</title>
+      <link>https://toloka.ai/blog/tau-bench-extension-benchmarking-policy-aware-agents-in-realistic-settings/</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: Toloka Blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: Elizaveta Yoshida, Elena Trajkova&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: September 24, 2025&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Benchmarking&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Policy-Aware AI&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Agent Evaluation&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+The article discusses the extension of the TAU benchmark to evaluate AI agents not only on task completion but also on adherence to policies in realistic, dynamic environments. It highlights the challenges of creating deterministic, auto-evaluable benchmarks that ensure AI agents correctly decide when to refuse requests based on policy constraints, emphasizing the importance of rigorous quality control and balanced policy design. This approach aims to improve the reliability and safety of AI agents deployed in real-world applications.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://toloka.ai/blog/tau-bench-extension-benchmarking-policy-aware-agents-in-realistic-settings/</guid>
+      <category>AI Benchmarking</category>
+      <category>Policy-Aware AI</category>
+      <category>Agent Evaluation</category>
+      <category>AI Safety</category>
+      <category>Reinforcement Learning</category>
+      <pubDate>Wed, 24 Sep 2025 21:38:36 +0000</pubDate>
+      <source url="https://toloka.ai/blog">Custom Web Page</source>
     </item>
   </channel>
 </rss>
