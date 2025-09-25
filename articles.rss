@@ -7,110 +7,84 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Sep 2025 21:38:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 21:39:49 +0000</lastBuildDate>
     <item>
-      <title>Trust No AI: Prompt Injection Along the CIA, Security Triad Paper</title>
-      <link>https://embracethered.com/blog/posts/2024/trust-no-ai-prompt-injection-along-the-cia-security-triad-paper/</link>
+      <title>Models VaultGemma: The world's most capable differentially private LLM</title>
+      <link>https://research.google/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm/</link>
       <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
 &lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: wunderwuzzi's blog
+📄 Source: Google DeepMind Blog
 &lt;/div&gt;
 &lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: Johann&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: Dec 23, 2024&lt;/span&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: Google Research Team&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2024-04-24&lt;/span&gt;
 &lt;/div&gt;
 &lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Prompt Injection&lt;/span&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Differential Privacy&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Large Language Models&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Natural Language Processing&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div style="line-height: 1.6;"&gt;
-The paper 'Trust No AI: Prompt Injection Along The CIA Security Triad' explores how prompt injection attacks threaten the Confidentiality, Integrity, and Availability of AI systems, providing real-world examples involving major vendors like OpenAI and Google. It aims to bridge traditional cybersecurity with AI/ML research to enhance understanding and defense against these emerging threats.
+VaultGemma is a state-of-the-art large language model trained with advanced differential privacy techniques, offering strong privacy guarantees without sacrificing performance. It achieves competitive results on various NLP tasks while ensuring data privacy, and is released open-source to promote research and adoption in privacy-preserving AI.
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://embracethered.com/blog/posts/2024/trust-no-ai-prompt-injection-along-the-cia-security-triad-paper/</guid>
-      <category>AI Security</category>
-      <category>Cybersecurity</category>
-      <category>Prompt Injection</category>
-      <category>Confidentiality Integrity Availability (CIA) Triad</category>
-      <category>Artificial Intelligence Research</category>
-      <pubDate>Wed, 24 Sep 2025 21:38:36 +0000</pubDate>
-      <source url="https://embracethered.com/blog/">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Cross-Agent Privilege Escalation: When Agents Free Each Other</title>
-      <link>https://embracethered.com/blog/posts/2025/cross-agent-privilege-escalation-agents-that-free-each-other/</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: wunderwuzzi's blog
-&lt;/div&gt;
-&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: wunderwuzzi&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: Sep 24, 2025&lt;/span&gt;
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Safety&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Software Vulnerabilities&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-The article discusses a security vulnerability in agentic coding systems where one compromised agent can overwrite another agent’s configuration files, enabling a cross-agent privilege escalation that allows agents to 'free' each other from sandbox restrictions and execute arbitrary code. This design flaw, demonstrated using GitHub Copilot and Claude Code, highlights the growing security risks in multi-agent environments and calls for secure defaults and configuration isolation to mitigate such attacks.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://embracethered.com/blog/posts/2025/cross-agent-privilege-escalation-agents-that-free-each-other/</guid>
-      <category>Cybersecurity</category>
-      <category>AI Safety</category>
-      <category>Software Vulnerabilities</category>
-      <category>Agent-based Systems</category>
-      <category>Privilege Escalation</category>
-      <pubDate>Wed, 24 Sep 2025 21:38:36 +0000</pubDate>
-      <source url="https://embracethered.com/blog/">Custom Web Page</source>
-    </item>
-    <item>
-      <title>VOX-DUB: a new benchmark that puts AI dubbing to the test</title>
-      <link>https://toloka.ai/blog/ai-dubbing-benchmark/</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: Toloka Blog
-&lt;/div&gt;
-&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: Toloka team&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: September 9, 2025&lt;/span&gt;
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Speech Synthesis&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Dubbing&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-VOX-DUB is a newly introduced human-based benchmark designed to evaluate AI dubbing quality by focusing on nuanced aspects such as pronunciation, naturalness, emotional accuracy, and voice similarity across languages. It uses pairwise A/B comparisons with native speaker annotators to assess four commercial dubbing systems, revealing the ongoing challenges AI faces in preserving actor characteristics during dubbing. The benchmark dataset and guidelines are openly available, aiming to advance research and development in AI dubbing.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://toloka.ai/blog/ai-dubbing-benchmark/</guid>
-      <category>Artificial Intelligence</category>
-      <category>Speech Synthesis</category>
-      <category>AI Dubbing</category>
-      <category>Benchmarking</category>
+      <guid isPermaLink="false">https://research.google/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm/</guid>
+      <category>Differential Privacy</category>
+      <category>Large Language Models</category>
       <category>Natural Language Processing</category>
-      <pubDate>Wed, 24 Sep 2025 21:38:36 +0000</pubDate>
-      <source url="https://toloka.ai/blog">Custom Web Page</source>
+      <category>Privacy-Preserving AI</category>
+      <category>Machine Learning</category>
+      <pubDate>Thu, 25 Sep 2025 21:39:49 +0000</pubDate>
+      <source url="https://deepmind.google/discover/blog/">Custom Web Page</source>
     </item>
     <item>
-      <title>TAU-bench extension: benchmarking policy-aware agents in realistic settings</title>
-      <link>https://toloka.ai/blog/tau-bench-extension-benchmarking-policy-aware-agents-in-realistic-settings/</link>
+      <title>Models Gemini Robotics 1.5 brings AI agents into the physical world</title>
+      <link>https://deepmind.google/discover/blog/gemini-robotics-15-brings-ai-agents-into-the-physical-world/</link>
       <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
 &lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: Toloka Blog
+📄 Source: Google DeepMind Blog
 &lt;/div&gt;
 &lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: Elizaveta Yoshida, Elena Trajkova&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: September 24, 2025&lt;/span&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: DeepMind Robotics Team&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2024-05-21&lt;/span&gt;
 &lt;/div&gt;
 &lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Benchmarking&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Policy-Aware AI&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Agent Evaluation&lt;/span&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Robotics&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Machine Learning&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div style="line-height: 1.6;"&gt;
-The article discusses the extension of the TAU benchmark to evaluate AI agents not only on task completion but also on adherence to policies in realistic, dynamic environments. It highlights the challenges of creating deterministic, auto-evaluable benchmarks that ensure AI agents correctly decide when to refuse requests based on policy constraints, emphasizing the importance of rigorous quality control and balanced policy design. This approach aims to improve the reliability and safety of AI agents deployed in real-world applications.
+DeepMind has introduced Gemini Robotics 1.5, an advanced AI agent that integrates perception, reasoning, and control to perform complex physical tasks in real-world environments. Utilizing large language models, reinforcement learning, and sophisticated sensors, it can manipulate objects, navigate cluttered spaces, and improve through interaction, marking progress toward autonomous, collaborative robots.
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://toloka.ai/blog/tau-bench-extension-benchmarking-policy-aware-agents-in-realistic-settings/</guid>
-      <category>AI Benchmarking</category>
-      <category>Policy-Aware AI</category>
-      <category>Agent Evaluation</category>
-      <category>AI Safety</category>
-      <category>Reinforcement Learning</category>
-      <pubDate>Wed, 24 Sep 2025 21:38:36 +0000</pubDate>
-      <source url="https://toloka.ai/blog">Custom Web Page</source>
+      <guid isPermaLink="false">https://deepmind.google/discover/blog/gemini-robotics-15-brings-ai-agents-into-the-physical-world/</guid>
+      <category>Artificial Intelligence</category>
+      <category>Robotics</category>
+      <category>Machine Learning</category>
+      <category>Autonomous Systems</category>
+      <category>Human-Robot Interaction</category>
+      <pubDate>Thu, 25 Sep 2025 21:39:49 +0000</pubDate>
+      <source url="https://deepmind.google/discover/blog/">Custom Web Page</source>
+    </item>
+    <item>
+      <title>AI-Driven Supply Chain Attacks: The New Frontier of Cyber Risk in 2025</title>
+      <link>https://neuraltrust.ai/blog/ai-driven-supply-chain-attacks</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: NeuralTrust Blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: Rodrigo Fernández&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: September 25, 2025&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Supply Chain Security&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+In 2025, AI has escalated supply chain attacks into highly adaptive, large-scale cyber threats by enabling rapid vulnerability identification, simultaneous multi-vendor exploitation, and self-evolving malware. These AI-driven attacks challenge traditional security defenses, exploiting digitized operations and necessitating advanced AI-based monitoring and regulatory compliance to enhance cyber resilience.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://neuraltrust.ai/blog/ai-driven-supply-chain-attacks</guid>
+      <category>Cybersecurity</category>
+      <category>Artificial Intelligence</category>
+      <category>Supply Chain Security</category>
+      <category>Cyber Risk Management</category>
+      <category>Regulatory Compliance</category>
+      <pubDate>Thu, 25 Sep 2025 12:00:00 +0000</pubDate>
+      <source url="https://neuraltrust.ai/blog">Custom Web Page</source>
     </item>
   </channel>
 </rss>
