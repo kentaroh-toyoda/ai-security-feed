@@ -7,58 +7,188 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Sep 2025 21:36:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 21:34:26 +0000</lastBuildDate>
     <item>
-      <title>TAU-bench extension: benchmarking policy-aware agents in realistic settings</title>
-      <link>https://toloka.ai/tau-bench-extension-benchmarking-policy-aware-agents-in-realistic-settings/</link>
+      <title>HiddenLayer Joins Databricks’ Data Intelligence Platform for Cybersecurity</title>
+      <link>https://hiddenlayer.com/innovation-hub/hiddenlayer-joins-databricks-data-intelligence-platform-for-cybersecurity/</link>
       <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
 &lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: Toloka Blog
+📄 Source: HiddenLayer Feed
 &lt;/div&gt;
 &lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;📅 Date: Sep 24, 2025&lt;/span&gt;
+&lt;span style="color: #7f8c8d;"&gt;📅 Date: 09.30.2025&lt;/span&gt;
 &lt;/div&gt;
 &lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Reinforcement Learning&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Agent Benchmarking&lt;/span&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Data Security&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div style="line-height: 1.6;"&gt;
-The article introduces an extension of TAU-bench aimed at benchmarking policy-aware agents within realistic environments. This extension offers enhanced insights into the performance and behavior of such agents under practical conditions.
+Databricks has launched its Data Intelligence Platform for Cybersecurity, integrating data, AI, and security to modernize security operations and enhance AI application protection. HiddenLayer partners with Databricks by providing AI model security through vulnerability scanning and adversarial attack detection, ensuring trust, compliance, and resilience in AI deployments. This collaboration addresses the growing need for secure AI adoption amid increasing cyber threats and regulatory demands.
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://toloka.ai/tau-bench-extension-benchmarking-policy-aware-agents-in-realistic-settings/</guid>
+      <guid isPermaLink="false">https://hiddenlayer.com/?p=13792</guid>
+      <category>Cybersecurity</category>
       <category>Artificial Intelligence</category>
-      <category>Reinforcement Learning</category>
-      <category>Agent Benchmarking</category>
-      <category>Machine Learning Evaluation</category>
-      <category>Policy-aware Systems</category>
-      <pubDate>Mon, 29 Sep 2025 21:36:00 +0000</pubDate>
-      <source url="https://toloka.ai/blog">Custom Web Page</source>
+      <category>Data Security</category>
+      <category>AI Governance</category>
+      <category>Technology Partnerships</category>
+      <pubDate>Tue, 30 Sep 2025 21:34:26 +0000</pubDate>
+      <source url="https://hiddenlayer.com/feed">HiddenLayer | Security for AI</source>
     </item>
     <item>
-      <title>The AI Agents That Trust Too Much: Are Your Agentic Workflows Vulnerable To Attack? PART 2</title>
-      <link>https://splx.ai/blog/indirect-prompt-injection-agentic-ai-security</link>
+      <title>Low-Resource Language Toxicity</title>
+      <link>https://www.promptfoo.dev/lm-security-db/vuln/low-resource-language-toxicity</link>
       <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
 &lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: SPLX AI Blog
+📄 Source: PromptFoo LM Security DB
 &lt;/div&gt;
 &lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: Ante Gojsalic, Andrija Dumančić&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: Sep 29, 2025&lt;/span&gt;
+&lt;span style="color: #7f8c8d;"&gt;📅 Date: 9/30/2025&lt;/span&gt;
 &lt;/div&gt;
 &lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Agentic AI&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Data Poisoning&lt;/span&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Natural Language Processing&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Safety&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Low-Resource Languages&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div style="line-height: 1.6;"&gt;
-The article explores how agentic AI workflows can be compromised through poisoned data embedded in seemingly trusted sources like web pages, without any malicious user input. It demonstrates a test case where hidden malicious instructions in raw HTML led to a full system compromise, emphasizing the need for hardened prompts, guardrails, and data sanitization to secure these AI systems. The vulnerability arises from assumptions that external data and internal agent outputs are inherently safe and that instruction-like text is always valid.
+Large Language Models show increased vulnerability to generating toxic and biased content when prompted in low-resource languages like Singlish, Malay, and Tamil, compared to high-resource languages such as English. This susceptibility is exacerbated by few-shot prompting with toxic examples, leading to a significant bypass of safety mechanisms across tasks like conversational response and content creation.
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://splx.ai/blog/indirect-prompt-injection-agentic-ai-security</guid>
-      <category>AI Security</category>
-      <category>Agentic AI</category>
-      <category>Data Poisoning</category>
+      <guid isPermaLink="false">https://www.promptfoo.dev/lm-security-db/vuln/low-resource-language-toxicity</guid>
+      <category>Natural Language Processing</category>
+      <category>AI Safety</category>
+      <category>Low-Resource Languages</category>
+      <category>Toxicity in AI</category>
+      <category>Language Model Alignment</category>
+      <pubDate>Tue, 30 Sep 2025 21:34:26 +0000</pubDate>
+      <source url="https://www.promptfoo.dev/lm-security-db">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Helpfulness-Oriented Jailbreak via Learning</title>
+      <link>https://www.promptfoo.dev/lm-security-db/vuln/helpfulness-oriented-jailbreak-via-learning-560ed069</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: PromptFoo LM Security DB
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;📅 Date: September 1, 2025&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Safety&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Large Language Models&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Adversarial Attacks&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+The article reveals a vulnerability in multiple Large Language Models (LLMs) where harmful instructions can bypass safety filters by being reframed as academic or exploratory questions, a technique called HILL. This method exploits the models' helpfulness and training on explanatory text to generate detailed, actionable harmful content, affecting a wide range of popular LLMs. While some semantic defense strategies show promise, they remain unreliable and struggle to differentiate between malicious and benign queries.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.promptfoo.dev/lm-security-db/vuln/helpfulness-oriented-jailbreak-via-learning-560ed069</guid>
+      <category>AI Safety</category>
+      <category>Large Language Models</category>
+      <category>Adversarial Attacks</category>
+      <category>Prompt Engineering</category>
+      <category>Cybersecurity</category>
+      <pubDate>Tue, 30 Sep 2025 21:34:26 +0000</pubDate>
+      <source url="https://www.promptfoo.dev/lm-security-db">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Ethical Dilemma Jailbreak TRIAL</title>
+      <link>https://www.promptfoo.dev/lm-security-db/vuln/ethical-dilemma-jailbreak-trial-e5334c3a</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: PromptFoo LM Security DB
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;📅 Date: September 1, 2025&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Ethical AI&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Large Language Models&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+The article describes a vulnerability called TRIAL that exploits Large Language Models' ethical reasoning by framing harmful requests within trolley problem-style dilemmas, causing models to justify harmful actions through utilitarian logic. This multi-turn attack bypasses safety filters, enabling the generation of malicious content such as malware instructions, and is more effective against models with advanced reasoning capabilities.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.promptfoo.dev/lm-security-db/vuln/ethical-dilemma-jailbreak-trial-e5334c3a</guid>
+      <category>Artificial Intelligence Security</category>
+      <category>Ethical AI</category>
+      <category>Large Language Models</category>
+      <category>Adversarial Attacks</category>
+      <category>AI Safety</category>
+      <pubDate>Tue, 30 Sep 2025 21:34:26 +0000</pubDate>
+      <source url="https://www.promptfoo.dev/lm-security-db">Custom Web Page</source>
+    </item>
+    <item>
+      <title>EchoLeak Zero-Click Data Exfiltration</title>
+      <link>https://www.promptfoo.dev/lm-security-db/vuln/echoleak-zero-click-data-exfiltration-a87757e2</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: PromptFoo LM Security DB
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;📅 Date: September 1, 2025&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Prompt Injection&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Data Exfiltration&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+EchoLeak is a zero-click prompt injection vulnerability (CVE-2025-32711) in Microsoft 365 Copilot that allows remote attackers to exfiltrate sensitive user data by sending crafted emails containing hidden instructions. The exploit bypasses multiple security measures, including prompt injection classifiers, link redaction, and Content Security Policy, enabling automatic data leakage without user interaction. Mitigations include strict prompt partitioning, enhanced filtering, strict CSP enforcement, least privilege access controls, and output validation.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.promptfoo.dev/lm-security-db/vuln/echoleak-zero-click-data-exfiltration-a87757e2</guid>
       <category>Cybersecurity</category>
       <category>Prompt Injection</category>
-      <pubDate>Mon, 29 Sep 2025 21:36:00 +0000</pubDate>
-      <source url="https://splx.ai/blog">Custom Web Page</source>
+      <category>Data Exfiltration</category>
+      <category>Large Language Models</category>
+      <category>Microsoft 365 Security</category>
+      <pubDate>Tue, 30 Sep 2025 21:34:26 +0000</pubDate>
+      <source url="https://www.promptfoo.dev/lm-security-db">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Content Concretization Jailbreak</title>
+      <link>https://www.promptfoo.dev/lm-security-db/vuln/content-concretization-jailbreak-0af688ce</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: PromptFoo LM Security DB
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;📅 Date: September 1, 2025&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Large Language Models&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Adversarial Attacks&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+The article describes a vulnerability called 'Content Concretization' in Large Language Models (LLMs) where attackers bypass safety filters by using a two-stage process: a lower-tier LLM generates a preliminary malicious draft, which a higher-tier LLM then refines into executable harmful code. This method significantly increases the success rate of generating malicious content, posing risks such as cyberattacks and lowering the skill barrier for adversaries. Mitigation involves detecting and analyzing requests that aim to refine or complete existing content to prevent the creation of harmful outputs.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.promptfoo.dev/lm-security-db/vuln/content-concretization-jailbreak-0af688ce</guid>
+      <category>AI Security</category>
+      <category>Large Language Models</category>
+      <category>Adversarial Attacks</category>
+      <category>Cybersecurity</category>
+      <category>Prompt Engineering</category>
+      <pubDate>Tue, 30 Sep 2025 21:34:26 +0000</pubDate>
+      <source url="https://www.promptfoo.dev/lm-security-db">Custom Web Page</source>
+    </item>
+    <item>
+      <title>AI Model Deployment Explained: Tools &amp; Best Practices</title>
+      <link>https://orq.ai/blog/ai-</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: Orq Blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;📅 Date: Mar 4, 2025&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Deployment&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Large Language Models&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Performance Optimization&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+The article outlines best practices for deploying large language models (LLMs) effectively at scale, focusing on optimizing performance, ensuring security, and maintaining compliance in production settings. It also highlights essential tools that facilitate smooth deployment processes.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://orq.ai/blog/ai-</guid>
+      <category>AI Deployment</category>
+      <category>Large Language Models</category>
+      <category>Performance Optimization</category>
+      <category>Security</category>
+      <category>Compliance</category>
+      <pubDate>Tue, 30 Sep 2025 21:34:26 +0000</pubDate>
+      <source url="https://orq.ai/blog">Custom Web Page</source>
     </item>
   </channel>
 </rss>
