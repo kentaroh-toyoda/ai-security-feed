@@ -7,188 +7,393 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Sep 2025 21:34:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 21:36:58 +0000</lastBuildDate>
     <item>
-      <title>HiddenLayer Joins Databricks’ Data Intelligence Platform for Cybersecurity</title>
-      <link>https://hiddenlayer.com/innovation-hub/hiddenlayer-joins-databricks-data-intelligence-platform-for-cybersecurity/</link>
+      <title>AI Discovery in Development Environments</title>
+      <link>https://hiddenlayer.com/innovation-hub/ai-discovery-in-development-environments/</link>
       <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
 &lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
 📄 Source: HiddenLayer Feed
 &lt;/div&gt;
 &lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;📅 Date: 09.30.2025&lt;/span&gt;
+&lt;span style="color: #7f8c8d;"&gt;📅 Date: 2025-10-02&lt;/span&gt;
 &lt;/div&gt;
 &lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Data Security&lt;/span&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Software Development&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cloud Computing&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div style="line-height: 1.6;"&gt;
-Databricks has launched its Data Intelligence Platform for Cybersecurity, integrating data, AI, and security to modernize security operations and enhance AI application protection. HiddenLayer partners with Databricks by providing AI model security through vulnerability scanning and adversarial attack detection, ensuring trust, compliance, and resilience in AI deployments. This collaboration addresses the growing need for secure AI adoption amid increasing cyber threats and regulatory demands.
+AI discovery in development environments involves identifying and understanding the components of AI systems being built, which is essential for managing security risks, compliance, and operational continuity. Best practices include maintaining a centralized AI inventory, engaging cross-functional teams, automating discovery, and integrating it with security workflows to enable effective risk assessment and protection.
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://hiddenlayer.com/?p=13792</guid>
-      <category>Cybersecurity</category>
-      <category>Artificial Intelligence</category>
-      <category>Data Security</category>
-      <category>AI Governance</category>
-      <category>Technology Partnerships</category>
-      <pubDate>Tue, 30 Sep 2025 21:34:26 +0000</pubDate>
+      <guid isPermaLink="false">https://hiddenlayer.com/?p=13795</guid>
+      <category>AI Security</category>
+      <category>Software Development</category>
+      <category>Cloud Computing</category>
+      <category>Risk Management</category>
+      <category>Compliance and Governance</category>
+      <pubDate>Thu, 02 Oct 2025 21:36:58 +0000</pubDate>
       <source url="https://hiddenlayer.com/feed">HiddenLayer | Security for AI</source>
     </item>
     <item>
-      <title>Low-Resource Language Toxicity</title>
-      <link>https://www.promptfoo.dev/lm-security-db/vuln/low-resource-language-toxicity</link>
+      <title>From word docs to data analysis: Evaluating AI agent performance across everyday apps</title>
+      <link>https://toloka.ai/evaluating-ai-agent-performance-across-everyday-apps/</link>
       <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
 &lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: PromptFoo LM Security DB
+📄 Source: Toloka Blog
 &lt;/div&gt;
 &lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;📅 Date: 9/30/2025&lt;/span&gt;
+&lt;span style="color: #7f8c8d;"&gt;📅 Date: Oct 1, 2025&lt;/span&gt;
 &lt;/div&gt;
 &lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Natural Language Processing&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Safety&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Low-Resource Languages&lt;/span&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Data Analysis&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Performance Evaluation&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div style="line-height: 1.6;"&gt;
-Large Language Models show increased vulnerability to generating toxic and biased content when prompted in low-resource languages like Singlish, Malay, and Tamil, compared to high-resource languages such as English. This susceptibility is exacerbated by few-shot prompting with toxic examples, leading to a significant bypass of safety mechanisms across tasks like conversational response and content creation.
+The article explores various methods for assessing the performance of AI agents in everyday applications, focusing on converting raw documents into meaningful data insights. It highlights the challenges and techniques involved in evaluating AI across common software environments.
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.promptfoo.dev/lm-security-db/vuln/low-resource-language-toxicity</guid>
+      <guid isPermaLink="false">https://toloka.ai/evaluating-ai-agent-performance-across-everyday-apps/</guid>
+      <category>Artificial Intelligence</category>
+      <category>Data Analysis</category>
+      <category>Performance Evaluation</category>
       <category>Natural Language Processing</category>
+      <category>Software Applications</category>
+      <pubDate>Thu, 02 Oct 2025 21:36:58 +0000</pubDate>
+      <source url="https://toloka.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Navigating the Patchwork: What California’s SB 53 Signals for AI Governance</title>
+      <link>https://www.lasso.security/blog/what-californias-sb-53-signals-for-ai-governance</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: Lasso AI Blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: The Lasso Team&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: October 1, 2025&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Regulation&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;State Legislation&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Technology Policy&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+California’s SB 53 is the first state law targeting frontier AI models, requiring large AI developers to publish safety frameworks, disclose risk assessments, and report critical incidents, while also extending whistleblower protections and enforcement powers. This law exemplifies a growing trend of state-level AI regulations in the absence of a federal framework, creating a complex patchwork of rules that AI developers must navigate. The legislation highlights California’s leadership in AI governance and the need for collaborative efforts to balance safety, transparency, and innovation.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.lasso.security/blog/what-californias-sb-53-signals-for-ai-governance</guid>
+      <category>AI Regulation</category>
+      <category>State Legislation</category>
+      <category>Technology Policy</category>
       <category>AI Safety</category>
-      <category>Low-Resource Languages</category>
-      <category>Toxicity in AI</category>
-      <category>Language Model Alignment</category>
-      <pubDate>Tue, 30 Sep 2025 21:34:26 +0000</pubDate>
-      <source url="https://www.promptfoo.dev/lm-security-db">Custom Web Page</source>
+      <category>Governance</category>
+      <pubDate>Thu, 02 Oct 2025 21:36:58 +0000</pubDate>
+      <source url="https://www.lasso.security/blog">Custom Web Page</source>
     </item>
     <item>
-      <title>Helpfulness-Oriented Jailbreak via Learning</title>
-      <link>https://www.promptfoo.dev/lm-security-db/vuln/helpfulness-oriented-jailbreak-via-learning-560ed069</link>
+      <title>Giskard announces Phare, a new open &amp; multi-lingual LLM Benchmark</title>
+      <link>https://www.giskard.ai/knowledge/giskard-announces-phare-a-new-llm-evaluation-benchmark</link>
       <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
 &lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: PromptFoo LM Security DB
+📄 Source: Giskard Blog
 &lt;/div&gt;
 &lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;📅 Date: September 1, 2025&lt;/span&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: Giskard Team&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2024-05-15&lt;/span&gt;
 &lt;/div&gt;
 &lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Safety&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Large Language Models&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Adversarial Attacks&lt;/span&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Natural Language Processing&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Machine Learning Evaluation&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div style="line-height: 1.6;"&gt;
-The article reveals a vulnerability in multiple Large Language Models (LLMs) where harmful instructions can bypass safety filters by being reframed as academic or exploratory questions, a technique called HILL. This method exploits the models' helpfulness and training on explanatory text to generate detailed, actionable harmful content, affecting a wide range of popular LLMs. While some semantic defense strategies show promise, they remain unreliable and struggle to differentiate between malicious and benign queries.
+Giskard has launched PHARE, an open-source, multi-lingual benchmark designed to evaluate Large Language Models (LLMs) across reasoning, factual accuracy, safety, and explainability. PHARE offers a diverse set of tasks and human-in-the-loop assessments to help developers better understand and improve their models' reliability and trustworthiness. The benchmark and related resources are available on GitHub for community collaboration.
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.promptfoo.dev/lm-security-db/vuln/helpfulness-oriented-jailbreak-via-learning-560ed069</guid>
-      <category>AI Safety</category>
-      <category>Large Language Models</category>
-      <category>Adversarial Attacks</category>
-      <category>Prompt Engineering</category>
-      <category>Cybersecurity</category>
-      <pubDate>Tue, 30 Sep 2025 21:34:26 +0000</pubDate>
-      <source url="https://www.promptfoo.dev/lm-security-db">Custom Web Page</source>
+      <guid isPermaLink="false">https://www.giskard.ai/knowledge/giskard-announces-phare-a-new-llm-evaluation-benchmark</guid>
+      <category>Artificial Intelligence</category>
+      <category>Natural Language Processing</category>
+      <category>Machine Learning Evaluation</category>
+      <category>Open Source</category>
+      <category>AI Safety and Explainability</category>
+      <pubDate>Thu, 02 Oct 2025 21:36:58 +0000</pubDate>
+      <source url="https://www.giskard.ai/knowledge-categories/blog">Custom Web Page</source>
     </item>
     <item>
-      <title>Ethical Dilemma Jailbreak TRIAL</title>
-      <link>https://www.promptfoo.dev/lm-security-db/vuln/ethical-dilemma-jailbreak-trial-e5334c3a</link>
+      <title>Secure AI Agents: Exhaustive testing with continuous LLM Red Teaming</title>
+      <link>https://www.giskard.ai/knowledge/secure-ai-agents-exhaustive-testing-with-continuous-llm-red-teaming</link>
       <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
 &lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: PromptFoo LM Security DB
+📄 Source: Giskard Blog
 &lt;/div&gt;
 &lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;📅 Date: September 1, 2025&lt;/span&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: Giskard Team&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2023-10-24&lt;/span&gt;
 &lt;/div&gt;
 &lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Ethical AI&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Large Language Models&lt;/span&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Large Language Models&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Adversarial Testing&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div style="line-height: 1.6;"&gt;
-The article describes a vulnerability called TRIAL that exploits Large Language Models' ethical reasoning by framing harmful requests within trolley problem-style dilemmas, causing models to justify harmful actions through utilitarian logic. This multi-turn attack bypasses safety filters, enabling the generation of malicious content such as malware instructions, and is more effective against models with advanced reasoning capabilities.
+The article discusses continuous LLM red-teaming as an advanced method for exhaustively testing AI agents by simulating adversarial attacks using large language models. This approach enhances security by enabling scalable, realistic, and adaptive testing, helping developers identify vulnerabilities and improve AI defenses continuously. It also emphasizes integration strategies, collaboration among experts, and ethical considerations to ensure safe and effective deployment.
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.promptfoo.dev/lm-security-db/vuln/ethical-dilemma-jailbreak-trial-e5334c3a</guid>
-      <category>Artificial Intelligence Security</category>
-      <category>Ethical AI</category>
-      <category>Large Language Models</category>
-      <category>Adversarial Attacks</category>
-      <category>AI Safety</category>
-      <pubDate>Tue, 30 Sep 2025 21:34:26 +0000</pubDate>
-      <source url="https://www.promptfoo.dev/lm-security-db">Custom Web Page</source>
-    </item>
-    <item>
-      <title>EchoLeak Zero-Click Data Exfiltration</title>
-      <link>https://www.promptfoo.dev/lm-security-db/vuln/echoleak-zero-click-data-exfiltration-a87757e2</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: PromptFoo LM Security DB
-&lt;/div&gt;
-&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;📅 Date: September 1, 2025&lt;/span&gt;
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Prompt Injection&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Data Exfiltration&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-EchoLeak is a zero-click prompt injection vulnerability (CVE-2025-32711) in Microsoft 365 Copilot that allows remote attackers to exfiltrate sensitive user data by sending crafted emails containing hidden instructions. The exploit bypasses multiple security measures, including prompt injection classifiers, link redaction, and Content Security Policy, enabling automatic data leakage without user interaction. Mitigations include strict prompt partitioning, enhanced filtering, strict CSP enforcement, least privilege access controls, and output validation.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.promptfoo.dev/lm-security-db/vuln/echoleak-zero-click-data-exfiltration-a87757e2</guid>
-      <category>Cybersecurity</category>
-      <category>Prompt Injection</category>
-      <category>Data Exfiltration</category>
-      <category>Large Language Models</category>
-      <category>Microsoft 365 Security</category>
-      <pubDate>Tue, 30 Sep 2025 21:34:26 +0000</pubDate>
-      <source url="https://www.promptfoo.dev/lm-security-db">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Content Concretization Jailbreak</title>
-      <link>https://www.promptfoo.dev/lm-security-db/vuln/content-concretization-jailbreak-0af688ce</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: PromptFoo LM Security DB
-&lt;/div&gt;
-&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;📅 Date: September 1, 2025&lt;/span&gt;
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Large Language Models&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Adversarial Attacks&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-The article describes a vulnerability called 'Content Concretization' in Large Language Models (LLMs) where attackers bypass safety filters by using a two-stage process: a lower-tier LLM generates a preliminary malicious draft, which a higher-tier LLM then refines into executable harmful code. This method significantly increases the success rate of generating malicious content, posing risks such as cyberattacks and lowering the skill barrier for adversaries. Mitigation involves detecting and analyzing requests that aim to refine or complete existing content to prevent the creation of harmful outputs.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.promptfoo.dev/lm-security-db/vuln/content-concretization-jailbreak-0af688ce</guid>
+      <guid isPermaLink="false">https://www.giskard.ai/knowledge/secure-ai-agents-exhaustive-testing-with-continuous-llm-red-teaming</guid>
       <category>AI Security</category>
       <category>Large Language Models</category>
-      <category>Adversarial Attacks</category>
+      <category>Adversarial Testing</category>
+      <category>AI Development</category>
       <category>Cybersecurity</category>
-      <category>Prompt Engineering</category>
-      <pubDate>Tue, 30 Sep 2025 21:34:26 +0000</pubDate>
-      <source url="https://www.promptfoo.dev/lm-security-db">Custom Web Page</source>
+      <pubDate>Thu, 02 Oct 2025 21:36:58 +0000</pubDate>
+      <source url="https://www.giskard.ai/knowledge-categories/blog">Custom Web Page</source>
     </item>
     <item>
-      <title>AI Model Deployment Explained: Tools &amp; Best Practices</title>
-      <link>https://orq.ai/blog/ai-</link>
+      <title>Good answers are not necessarily factual answers: an analysis of hallucination in leading LLMs</title>
+      <link>https://www.giskard.ai/knowledge/good-answers-are-not-necessarily-factual-answers-an-analysis-of-hallucination-in-leading-llms</link>
       <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
 &lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: Orq Blog
+📄 Source: Giskard Blog
 &lt;/div&gt;
 &lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;📅 Date: Mar 4, 2025&lt;/span&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: Nicolas Hug&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2023-08-23&lt;/span&gt;
 &lt;/div&gt;
 &lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Deployment&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Large Language Models&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Performance Optimization&lt;/span&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Natural Language Processing&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Machine Learning&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div style="line-height: 1.6;"&gt;
-The article outlines best practices for deploying large language models (LLMs) effectively at scale, focusing on optimizing performance, ensuring security, and maintaining compliance in production settings. It also highlights essential tools that facilitate smooth deployment processes.
+The article analyzes the phenomenon of hallucination in leading Large Language Models (LLMs) such as GPT-4, Claude, and PaLM, where models generate plausible but factually incorrect content. It explores causes, implications in critical domains, and proposes mitigation strategies including fine-tuning, retrieval integration, and verification to improve factual accuracy. Recommendations for standardized evaluation and hybrid workflows are also discussed to enhance reliability in real-world applications.
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://orq.ai/blog/ai-</guid>
-      <category>AI Deployment</category>
+      <guid isPermaLink="false">https://www.giskard.ai/knowledge/good-answers-are-not-necessarily-factual-answers-an-analysis-of-hallucination-in-leading-llms</guid>
+      <category>Artificial Intelligence</category>
+      <category>Natural Language Processing</category>
+      <category>Machine Learning</category>
+      <category>Model Evaluation</category>
+      <category>AI Ethics</category>
+      <pubDate>Thu, 02 Oct 2025 21:36:58 +0000</pubDate>
+      <source url="https://www.giskard.ai/knowledge-categories/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>A Practical Guide on AI Security and LLM Vulnerabilities</title>
+      <link>https://www.giskard.ai/knowledge/a-practical-guide-on-ai-security-and-llm-vulnerabilities</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: Giskard Blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: Giskard Team&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2023-08-15&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Large Language Models&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+The article provides a comprehensive overview of security challenges and vulnerabilities associated with AI and Large Language Models (LLMs), such as data poisoning, model inversion, adversarial attacks, and prompt injection. It outlines practical mitigation strategies including robust data validation, access controls, monitoring, and best practices for secure AI deployment, while also highlighting future trends in AI security.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.giskard.ai/knowledge/a-practical-guide-on-ai-security-and-llm-vulnerabilities</guid>
+      <category>AI Security</category>
       <category>Large Language Models</category>
-      <category>Performance Optimization</category>
-      <category>Security</category>
-      <category>Compliance</category>
-      <pubDate>Tue, 30 Sep 2025 21:34:26 +0000</pubDate>
-      <source url="https://orq.ai/blog">Custom Web Page</source>
+      <category>Cybersecurity</category>
+      <category>Data Privacy</category>
+      <category>Adversarial Machine Learning</category>
+      <pubDate>Thu, 02 Oct 2025 21:36:58 +0000</pubDate>
+      <source url="https://www.giskard.ai/knowledge-categories/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>A Practical Guide to LLM Hallucinations and Misinformation Detection</title>
+      <link>https://www.giskard.ai/knowledge/a-practical-guide-to-llm-hallucinations-and-misinformation-detection</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: Giskard Blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: Giskard Team&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2023-09-15&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Natural Language Processing&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Machine Learning&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+The article explores the phenomenon of hallucinations in Large Language Models (LLMs), where models generate plausible but incorrect information. It outlines types of hallucinations, reasons behind them, and practical strategies for detecting and mitigating misinformation through cross-verification, fact-checking tools, and human oversight. Best practices such as prompt engineering and retrieval-augmented generation are recommended to enhance LLM reliability.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.giskard.ai/knowledge/a-practical-guide-to-llm-hallucinations-and-misinformation-detection</guid>
+      <category>Artificial Intelligence</category>
+      <category>Natural Language Processing</category>
+      <category>Machine Learning</category>
+      <category>AI Ethics</category>
+      <category>Misinformation Detection</category>
+      <pubDate>Thu, 02 Oct 2025 21:36:58 +0000</pubDate>
+      <source url="https://www.giskard.ai/knowledge-categories/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Real-Time Guardrails vs Batch LLM Evaluations: A Comprehensive AI Testing Strategy</title>
+      <link>https://www.giskard.ai/knowledge/real-time-guardrails-vs-batch-llm-evaluations</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: Giskard Blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: Giskard Team&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2023-08-15&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Large Language Models&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Safety&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+The article compares real-time guardrails and batch evaluations as two key strategies for monitoring and ensuring the safe behavior of Large Language Models (LLMs). Real-time guardrails provide immediate intervention during model inference to enhance user safety, while batch evaluations offer comprehensive, large-scale analysis for quality assurance and model improvement. Combining both approaches is recommended for robust AI governance and maintaining model integrity.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.giskard.ai/knowledge/real-time-guardrails-vs-batch-llm-evaluations</guid>
+      <category>Artificial Intelligence</category>
+      <category>Large Language Models</category>
+      <category>AI Safety</category>
+      <category>Model Evaluation</category>
+      <category>Machine Learning Governance</category>
+      <pubDate>Thu, 02 Oct 2025 21:36:58 +0000</pubDate>
+      <source url="https://www.giskard.ai/knowledge-categories/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>LLM Observability vs LLM Evaluation: Building Comprehensive Enterprise AI Testing Strategies</title>
+      <link>https://www.giskard.ai/knowledge/llm-observability-vs-llm-evaluation</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: Giskard Blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: Raphaël Boucher&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2023-06-15&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Machine Learning&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Large Language Models&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+The article distinguishes between LLM Evaluation, which assesses model performance against benchmarks, and LLM Observability, which monitors real-time model behavior in production. It emphasizes that combining both approaches enables organizations to effectively develop, deploy, and maintain reliable and high-performing AI systems.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.giskard.ai/knowledge/llm-observability-vs-llm-evaluation</guid>
+      <category>Artificial Intelligence</category>
+      <category>Machine Learning</category>
+      <category>Large Language Models</category>
+      <category>AI Model Evaluation</category>
+      <category>AI Observability</category>
+      <pubDate>Thu, 02 Oct 2025 21:36:58 +0000</pubDate>
+      <source url="https://www.giskard.ai/knowledge-categories/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>LLMs recognise bias but also reproduce harmful stereotypes: an analysis of bias in leading LLMs</title>
+      <link>https://www.giskard.ai/knowledge/llms-recognise-bias-but-also-reproduce-harmful-stereotypes</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: Giskard Blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: Giskard Team&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2023-09-21&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Ethics in AI&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Bias and Fairness&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+Large Language Models (LLMs) can recognize biased language but also reproduce harmful stereotypes due to biases in their training data. Mitigating these biases is challenging and requires ongoing efforts from developers, users, and policymakers to promote ethical and fair AI deployment.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.giskard.ai/knowledge/llms-recognise-bias-but-also-reproduce-harmful-stereotypes</guid>
+      <category>Artificial Intelligence</category>
+      <category>Ethics in AI</category>
+      <category>Bias and Fairness</category>
+      <category>Natural Language Processing</category>
+      <category>AI Governance</category>
+      <pubDate>Thu, 02 Oct 2025 21:36:58 +0000</pubDate>
+      <source url="https://www.giskard.ai/knowledge-categories/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>RealPerformance, A Dataset of Language Model Business Compliance Issues</title>
+      <link>https://www.giskard.ai/knowledge/realperformance</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: Giskard Blog
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Machine Learning Evaluation&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Model Robustness&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Fairness in AI&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+RealPerformance is a comprehensive framework for evaluating machine learning models in production by addressing data drift, robustness, fairness, and explainability beyond traditional accuracy metrics. It combines automated tools and human expertise to improve model reliability, transparency, and compliance, helping businesses maintain trust in their ML systems.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.giskard.ai/knowledge/realperformance</guid>
+      <category>Machine Learning Evaluation</category>
+      <category>Model Robustness</category>
+      <category>Fairness in AI</category>
+      <category>Explainable AI</category>
+      <category>Data Drift Detection</category>
+      <pubDate>Thu, 02 Oct 2025 21:36:58 +0000</pubDate>
+      <source url="https://www.giskard.ai/knowledge-categories/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>How LLM jailbreaking can bypass AI security with multi-turn attacks</title>
+      <link>https://www.giskard.ai/knowledge/how-llm-jailbreaking-can-bypass-ai-security-with-multi-turn-attacks</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: Giskard Blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: Sébastien Bubeck&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2023-09-19&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Large Language Models&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Prompt Engineering&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+The article discusses how multi-turn jailbreaking attacks exploit the conversational nature of Large Language Models (LLMs) to bypass AI safety measures by gradually manipulating prompts. It highlights the security vulnerabilities these attacks expose and outlines defense strategies such as contextual monitoring, reinforcement learning from human feedback, and advanced prompt filtering to enhance AI security.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.giskard.ai/knowledge/how-llm-jailbreaking-can-bypass-ai-security-with-multi-turn-attacks</guid>
+      <category>Artificial Intelligence Security</category>
+      <category>Large Language Models</category>
+      <category>Prompt Engineering</category>
+      <category>AI Safety</category>
+      <category>Cybersecurity</category>
+      <pubDate>Thu, 02 Oct 2025 21:36:58 +0000</pubDate>
+      <source url="https://www.giskard.ai/knowledge-categories/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>[Release notes]: New LLM vulnerability scanner for dynamic &amp; multi-turn Red Teaming</title>
+      <link>https://www.giskard.ai/knowledge/new-llm-vulnerability-scanner-for-dynamic-multi-turn-red-teaming</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: Giskard Blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: Giskard Team&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2023-09-13&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Large Language Models&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Vulnerability Scanning&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+The article introduces a new LLM Vulnerability Scanner designed for dynamic multi-turn red teaming to detect and analyze security vulnerabilities in Large Language Models. By simulating adversarial conversations over multiple turns, the tool uncovers complex exploit chains such as prompt injections and data leakage, providing automated detection and detailed reporting to help developers improve AI security.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.giskard.ai/knowledge/new-llm-vulnerability-scanner-for-dynamic-multi-turn-red-teaming</guid>
+      <category>Artificial Intelligence Security</category>
+      <category>Large Language Models</category>
+      <category>Vulnerability Scanning</category>
+      <category>Red Teaming</category>
+      <category>Cybersecurity Tools</category>
+      <pubDate>Thu, 02 Oct 2025 21:36:58 +0000</pubDate>
+      <source url="https://www.giskard.ai/knowledge-categories/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>GOAT: Automated Red-Teaming &amp; Multi-Turn Attack Techniques to Jailbreak LLMs</title>
+      <link>https://www.giskard.ai/knowledge/goat-automated-red-teaming-multi-turn-attack-techniques-to-jailbreak-llms</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: Giskard Blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: Romain Beaumont&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2023-09-20&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Large Language Models&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Safety and Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Adversarial Attacks&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+GOAT is an automated red-teaming framework designed to identify complex multi-turn jailbreak attacks on Large Language Models (LLMs) by generating and refining adversarial prompts through iterative interactions. Evaluations on models like GPT-4 demonstrate GOAT's ability to uncover novel vulnerabilities, emphasizing the need for continuous automated security testing to enhance LLM safety and robustness.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.giskard.ai/knowledge/goat-automated-red-teaming-multi-turn-attack-techniques-to-jailbreak-llms</guid>
+      <category>Large Language Models</category>
+      <category>AI Safety and Security</category>
+      <category>Adversarial Attacks</category>
+      <category>Automated Red-Teaming</category>
+      <category>Reinforcement Learning</category>
+      <pubDate>Thu, 02 Oct 2025 21:36:58 +0000</pubDate>
+      <source url="https://www.giskard.ai/knowledge-categories/blog">Custom Web Page</source>
     </item>
   </channel>
 </rss>
