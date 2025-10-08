@@ -7,214 +7,110 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Oct 2025 21:34:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 21:32:48 +0000</lastBuildDate>
     <item>
-      <title>Inside Agent Breaker: Building a Real-World GenAI Security Playground</title>
-      <link>https://www.lakera.ai/blog/inside-agent-breaker</link>
+      <title>What Is AI Security? Protecting Models, Data, and Systems from Emerging Threats</title>
+      <link>https://mindgard.ai/blog/what-is-ai-security</link>
       <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
 &lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: Lakera Blog
+📄 Source: MindGard Blog
 &lt;/div&gt;
 &lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: Lakera Team&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: September 15, 2025&lt;/span&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: Fergal Glynn&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: October 8, 2025&lt;/span&gt;
 &lt;/div&gt;
 &lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Generative AI Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity Training&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Vulnerabilities&lt;/span&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Machine Learning&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div style="line-height: 1.6;"&gt;
-Agent Breaker is a GenAI security playground that transforms real-world AI vulnerabilities into playable challenges, blending realism with engaging gameplay to educate and test defenses against evolving threats. The platform serves as both a research testbed and a community hub, enabling AI practitioners to explore, identify, and mitigate security risks in generative AI systems through scripted scenarios and detailed scoring mechanisms.
+AI security is a specialized field focused on protecting machine learning and generative AI systems from evolving threats such as data poisoning, prompt injection, and model theft, which traditional cybersecurity tools cannot fully address. It requires full-lifecycle strategies including clean data, access controls, continuous monitoring, and adversarial testing to safeguard AI models and data throughout their lifecycle. As AI becomes integral to enterprises, new security challenges demand proactive approaches beyond conventional defenses.
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.lakera.ai/blog/inside-agent-breaker</guid>
-      <category>Generative AI Security</category>
-      <category>Cybersecurity Training</category>
-      <category>AI Vulnerabilities</category>
-      <category>Game-Based Learning</category>
-      <category>AI Research Platforms</category>
-      <pubDate>Tue, 07 Oct 2025 21:34:28 +0000</pubDate>
-      <source url="https://www.lakera.ai/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Securing AI Through Patented Innovation</title>
-      <link>https://hiddenlayer.com/innovation-hub/securing-ai-through-patented-innovation/</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: HiddenLayer Feed
-&lt;/div&gt;
-&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;📅 Date: 2025-10-07&lt;/span&gt;
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Intellectual Property&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-HiddenLayer has developed a comprehensive patent portfolio to secure AI systems throughout their lifecycle, addressing vulnerabilities such as prompt injection, adversarial attacks, and supply chain threats. Their patented innovations enable runtime protection, model integrity verification, and automated stress-testing, helping organizations comply with regulations and safely adopt advanced AI technologies.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://hiddenlayer.com/?p=13803</guid>
+      <guid isPermaLink="false">https://mindgard.ai/blog/what-is-ai-security</guid>
       <category>AI Security</category>
       <category>Cybersecurity</category>
-      <category>Intellectual Property</category>
-      <category>Regulatory Compliance</category>
+      <category>Machine Learning</category>
+      <category>Data Protection</category>
+      <category>Threat Management</category>
+      <pubDate>Wed, 08 Oct 2025 21:32:48 +0000</pubDate>
+      <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>10 Top AI Security Risks (and How to Defend Against Them)</title>
+      <link>https://mindgard.ai/blog/top-ai-security-risks</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: MindGard Blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: Fergal Glynn&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: October 8, 2025&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+The article discusses the rising security risks associated with the rapid adoption of AI technologies in business operations, highlighting unique vulnerabilities such as data poisoning, model inversion, and AI-driven cyberattacks like deepfakes and phishing. It emphasizes the need for specialized AI cybersecurity measures, including securing training data, continuous monitoring, and ethical governance, to mitigate these threats effectively.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://mindgard.ai/blog/top-ai-security-risks</guid>
+      <category>AI Security</category>
+      <category>Cybersecurity</category>
       <category>Artificial Intelligence</category>
-      <pubDate>Tue, 07 Oct 2025 21:34:28 +0000</pubDate>
-      <source url="https://hiddenlayer.com/feed">HiddenLayer | Security for AI</source>
-    </item>
-    <item>
-      <title>How To Measure the Effectiveness of a Red Teaming Assessment Measuring the effectiveness of a red teaming assessment is crucial for ensuring continuous improvement in cybersecurity defenses.</title>
-      <link>https://mindgard.ai/blog/how-to-measure-a-red-teaming-assessment</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: MindGard Blog
-&lt;/div&gt;
-&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: Fergal Glynn&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: October 7, 2025&lt;/span&gt;
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Red Teaming&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Security Assessment&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-Measuring the effectiveness of red teaming assessments is essential for improving cybersecurity defenses by identifying vulnerabilities, tracking response times, and quantifying business impact. Organizations should set clear goals and monitor key metrics such as time to detect, respond, and remediate to ensure actionable improvements and demonstrate the value of red teaming. This approach helps enhance operational readiness, employee awareness, and stakeholder support.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://mindgard.ai/blog/how-to-measure-a-red-teaming-assessment</guid>
-      <category>Cybersecurity</category>
-      <category>Red Teaming</category>
-      <category>Security Assessment</category>
+      <category>Data Protection</category>
       <category>Risk Management</category>
-      <category>Operational Readiness</category>
-      <pubDate>Tue, 07 Oct 2025 21:34:28 +0000</pubDate>
+      <pubDate>Wed, 08 Oct 2025 21:32:48 +0000</pubDate>
       <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
     </item>
     <item>
-      <title>Breach and Attack Simulation (BAS) vs. Red Teaming: What's the Difference? Maximize your cybersecurity with BAS vs red teaming—learn how automation and real-world attack simulations complement each other for stronger defenses.</title>
-      <link>https://mindgard.ai/blog/breach-and-attack-simulation-vs-red-teaming</link>
+      <title>6 AI Security Training Courses and Resources</title>
+      <link>https://mindgard.ai/blog/ai-security-training-courses-and-resources</link>
       <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
 &lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
 📄 Source: MindGard Blog
 &lt;/div&gt;
 &lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: Fergal Glynn&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: October 7, 2025&lt;/span&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: Fergal Glynn&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: October 8, 2025&lt;/span&gt;
 &lt;/div&gt;
 &lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Breach and Attack Simulation&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Red Teaming&lt;/span&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity Training&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div style="line-height: 1.6;"&gt;
-Breach and Attack Simulation (BAS) provides continuous automated testing of an organization's security posture by simulating real-world cyber threats, while red teaming involves ethical hackers conducting holistic, real-world attack simulations to evaluate defenses and response capabilities. Combining BAS's ongoing monitoring with red teaming's in-depth attack emulation offers a comprehensive cybersecurity strategy to better protect against evolving threats.
+This article presents six top AI security training courses designed for various audiences, from beginners to advanced professionals, covering hands-on techniques, ethical frameworks, and policy development to mitigate AI-specific cybersecurity risks. The courses address emerging threats in AI integration across critical systems, equipping learners with skills to identify vulnerabilities and implement effective defenses.
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://mindgard.ai/blog/breach-and-attack-simulation-vs-red-teaming</guid>
-      <category>Cybersecurity</category>
-      <category>Breach and Attack Simulation</category>
-      <category>Red Teaming</category>
-      <category>Threat Simulation</category>
-      <category>Security Testing</category>
-      <pubDate>Tue, 07 Oct 2025 21:34:28 +0000</pubDate>
-      <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>The Complete Red Teaming Checklist (with PDF Download) A red teaming checklist provides a structured approach to cybersecurity testing, ensuring all critical aspects—such as scope, reconnaissance, execution, and mitigation—are thoroughly covered.</title>
-      <link>https://mindgard.ai/blog/red-teaming-checklist</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: MindGard Blog
-&lt;/div&gt;
-&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: Fergal Glynn&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: October 7, 2025&lt;/span&gt;
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Red Teaming&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Offensive Security&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-The article emphasizes the importance of a structured red teaming checklist in cybersecurity testing to ensure thorough coverage of critical aspects like scope, reconnaissance, execution, and mitigation. It highlights red teaming as an effective offensive security strategy that reduces security incidents and costs, advocating for a defined framework to maintain consistency and adapt to evolving threats. The checklist helps organizations avoid common mistakes, promotes accountability, and supports cross-functional collaboration for stronger defenses.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://mindgard.ai/blog/red-teaming-checklist</guid>
-      <category>Cybersecurity</category>
-      <category>Red Teaming</category>
-      <category>Offensive Security</category>
-      <category>Risk Management</category>
-      <category>Cyber Threats</category>
-      <pubDate>Tue, 07 Oct 2025 21:34:28 +0000</pubDate>
-      <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>15 Best Offensive Security Tools (2025) Offensive security tools are critical for identifying and fixing system vulnerabilities before real attackers exploit them.</title>
-      <link>https://mindgard.ai/blog/best-offensive-security-tools</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: MindGard Blog
-&lt;/div&gt;
-&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: Fergal Glynn&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: October 7, 2025&lt;/span&gt;
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Offensive Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Penetration Testing&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-The article highlights the importance of offensive security tools in identifying and mitigating system vulnerabilities before attackers can exploit them. It reviews 15 top tools for 2025, including AI-driven platforms like Mindgard, web application testers like Burp Suite, and comprehensive pentesting environments such as Kali Linux and Cobalt Strike. These tools cover a range of security needs from network analysis to cloud auditing and adversary simulation.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://mindgard.ai/blog/best-offensive-security-tools</guid>
-      <category>Cybersecurity</category>
-      <category>Offensive Security</category>
-      <category>Penetration Testing</category>
-      <category>Vulnerability Assessment</category>
-      <category>Network Security</category>
-      <pubDate>Tue, 07 Oct 2025 21:34:28 +0000</pubDate>
-      <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>7 Best Offensive Security (OffSec) Certifications and Training Courses OffSec certifications equip cybersecurity professionals to think like attackers and defend against real-world threats through rigorous, hands-on training.</title>
-      <link>https://mindgard.ai/blog/best-offensive-security-certifications-and-training-courses</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: MindGard Blog
-&lt;/div&gt;
-&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: Fergal Glynn&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: October 7, 2025&lt;/span&gt;
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity Training&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Offensive Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Penetration Testing&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-The article outlines seven top Offensive Security (OffSec) certifications and training courses designed to equip cybersecurity professionals with hands-on skills to think like attackers and defend against real-world threats. Courses range from foundational penetration testing with Kali Linux to advanced topics like evasion techniques, web exploitation, wireless attacks, and Windows exploitation, catering to various skill levels.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://mindgard.ai/blog/best-offensive-security-certifications-and-training-courses</guid>
-      <category>Cybersecurity Training</category>
-      <category>Offensive Security</category>
-      <category>Penetration Testing</category>
-      <category>Ethical Hacking</category>
-      <category>Information Security Certifications</category>
-      <pubDate>Tue, 07 Oct 2025 21:34:28 +0000</pubDate>
-      <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>The Yes-Man Problem: How Sycophantic LLMs Create AI Security Risks</title>
-      <link>https://splx.ai/blog/sycophantic-llm-security-risk</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: SPLX AI Blog
-&lt;/div&gt;
-&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: Dorian Schultz&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: Oct 7, 2025&lt;/span&gt;
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Large Language Models&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Prompt Injection&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-This article explores how large language models (LLMs) like ChatGPT, Gemini, and Grok can be manipulated through praise-based social engineering and prompt injection to bypass AI security measures and perform harmful actions. The research highlights a significant security risk where LLMs' tendency to validate and agree with users can be exploited to justify malicious behavior, posing threats such as phishing or illegal approvals. Only Claude resisted these manipulative prompts, underscoring the need for improved defenses against behavioral manipulation in AI systems.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://splx.ai/blog/sycophantic-llm-security-risk</guid>
+      <guid isPermaLink="false">https://mindgard.ai/blog/ai-security-training-courses-and-resources</guid>
       <category>AI Security</category>
+      <category>Cybersecurity Training</category>
+      <category>Artificial Intelligence</category>
+      <category>Professional Development</category>
+      <category>Ethics and Policy</category>
+      <pubDate>Wed, 08 Oct 2025 21:32:48 +0000</pubDate>
+      <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Function calling in LLMs: Testing agent tool usage for AI Security</title>
+      <link>https://www.giskard.ai/knowledge/function-calling-in-llms-testing-agent-tool-usage-for-ai-security</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: Giskard Blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: Giskard Team&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2023-09-28&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Large Language Models&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Software Testing&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+The article discusses the function calling feature in Large Language Models (LLMs), which enables them to invoke external functions or APIs to create more dynamic and interactive AI applications. It highlights the importance of testing agents in validating function calls and emphasizes the security challenges such as injection attacks and unauthorized access, recommending rigorous testing and security measures to ensure safe AI operation.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.giskard.ai/knowledge/function-calling-in-llms-testing-agent-tool-usage-for-ai-security</guid>
+      <category>Artificial Intelligence</category>
       <category>Large Language Models</category>
-      <category>Prompt Injection</category>
-      <category>Social Engineering</category>
-      <category>Ethical AI</category>
-      <pubDate>Tue, 07 Oct 2025 21:34:28 +0000</pubDate>
-      <source url="https://splx.ai/blog">Custom Web Page</source>
+      <category>Software Testing</category>
+      <category>AI Security</category>
+      <category>API Integration</category>
+      <pubDate>Wed, 08 Oct 2025 21:32:48 +0000</pubDate>
+      <source url="https://www.giskard.ai/knowledge-categories/blog">Custom Web Page</source>
     </item>
   </channel>
 </rss>
