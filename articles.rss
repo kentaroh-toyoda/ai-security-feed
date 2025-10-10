@@ -7,84 +7,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Oct 2025 21:32:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 21:31:33 +0000</lastBuildDate>
     <item>
-      <title>Should I Use the Same LLM for My Eval as My Agent? Testing Self-Evaluation Bias</title>
-      <link>https://arize.com/blog/should-i-use-the-same-llm-for-my-eval-as-my-agent-testing-self-evaluation-bias/</link>
+      <title>Same Model, Different Hat</title>
+      <link>https://hiddenlayer.com/innovation-hub/same-model-different-hat/</link>
       <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
 &lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: Arize Blog
+📄 Source: HiddenLayer Feed
 &lt;/div&gt;
 &lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;📅 Date: October 8, 2025&lt;/span&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: Conor McCauley, Kasimir Schulz&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2025-10-10&lt;/span&gt;
 &lt;/div&gt;
 &lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Evaluation&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Large Language Models&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Bias in AI&lt;/span&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Safety&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Large Language Models&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Prompt Injection&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div style="line-height: 1.6;"&gt;
-The article investigates whether using the same large language model (LLM) for both an AI agent's reasoning and its output evaluation introduces bias or inflated scores. Through an experiment involving four different LLMs and a movie recommendation agent, the study compares self-evaluation against cross-model evaluation, incorporating human annotations and detailed trace-level analysis for comprehensive insights.
+OpenAI's Guardrails framework uses large language models (LLMs) to detect and block harmful outputs, including jailbreak and prompt injection attempts. However, research shows that relying on the same type of LLM for both generation and safety evaluation is flawed, as attackers can bypass these detectors using prompt injection techniques. This highlights the necessity for independent validation and robust adversarial testing to ensure AI safety.
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://arize.com/blog/should-i-use-the-same-llm-for-my-eval-as-my-agent-testing-self-evaluation-bias/</guid>
-      <category>AI Evaluation</category>
+      <guid isPermaLink="false">https://hiddenlayer.com/?p=13808</guid>
+      <category>AI Safety</category>
       <category>Large Language Models</category>
-      <category>Bias in AI</category>
-      <category>Model Benchmarking</category>
-      <category>Agent Design</category>
-      <pubDate>Thu, 09 Oct 2025 21:32:08 +0000</pubDate>
-      <source url="https://arize.com/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Understanding ISO/IEC 42001: Features, Types &amp; Best Practices</title>
-      <link>https://www.lasso.security/blog/iso-iec-42001</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: Lasso AI Blog
-&lt;/div&gt;
-&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: Yuval Abadi&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: October 9, 2025&lt;/span&gt;
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Standards and Compliance&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Risk Management&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-ISO/IEC 42001, introduced in late 2023, is the first international standard for Artificial Intelligence Management Systems, providing a comprehensive framework for responsible AI governance, risk management, and compliance. The article explores its features, implementation challenges, best practices, and its alignment with the EU AI Act, offering guidance for organizations to prepare for certification while balancing innovation and regulatory demands.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.lasso.security/blog/iso-iec-42001</guid>
-      <category>Artificial Intelligence</category>
-      <category>Standards and Compliance</category>
-      <category>Risk Management</category>
-      <category>Governance</category>
-      <category>Regulatory Frameworks</category>
-      <pubDate>Thu, 09 Oct 2025 21:32:08 +0000</pubDate>
-      <source url="https://www.lasso.security/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>What Is AI Red Teaming in Practice and Why It Needs to Be a Board-Level Priority</title>
-      <link>https://www.troj.ai/blog/what-is-ai-red-teaming-in-practice</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: Troj AI Blog
-&lt;/div&gt;
-&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: Saurabh Kulkarni&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2023-06-15&lt;/span&gt;
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Risk Management&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-AI red teaming is a proactive security practice that involves simulating adversarial attacks to identify vulnerabilities in AI systems before they can be exploited. It is essential for improving AI robustness, ensuring regulatory compliance, and safeguarding high-stakes applications in industries like healthcare, finance, and defense. Organizations use defined methodologies and specialized tools to detect and remediate weaknesses, making AI red teaming a critical board-level priority.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.troj.ai/blog/what-is-ai-red-teaming-in-practice</guid>
-      <category>Artificial Intelligence Security</category>
-      <category>Risk Management</category>
-      <category>Cybersecurity</category>
-      <category>AI Governance</category>
-      <category>Technology Strategy</category>
-      <pubDate>Thu, 09 Oct 2025 21:32:08 +0000</pubDate>
-      <source url="https://www.troj.ai/blog">Custom Web Page</source>
+      <category>Prompt Injection</category>
+      <category>Adversarial Attacks</category>
+      <category>AI Security Frameworks</category>
+      <pubDate>Fri, 10 Oct 2025 21:31:33 +0000</pubDate>
+      <source url="https://hiddenlayer.com/feed">HiddenLayer | Security for AI</source>
     </item>
   </channel>
 </rss>
