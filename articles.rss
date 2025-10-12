@@ -7,32 +7,81 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Oct 2025 21:31:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 21:30:56 +0000</lastBuildDate>
     <item>
-      <title>Same Model, Different Hat</title>
-      <link>https://hiddenlayer.com/innovation-hub/same-model-different-hat/</link>
+      <title>What Is AI Security? Risks, Challenges, and How to Stay Ahead</title>
+      <link>https://www.prompt.security/blog/what-is-ai-security-risks-challenges-and-how-to-stay-ahead</link>
       <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
 &lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: HiddenLayer Feed
+📄 Source: Prompt Security Blog
 &lt;/div&gt;
 &lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: Conor McCauley, Kasimir Schulz&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2025-10-10&lt;/span&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: Prompt Security Team&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2023-11-15&lt;/span&gt;
 &lt;/div&gt;
 &lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Safety&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Large Language Models&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Prompt Injection&lt;/span&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Data Protection&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div style="line-height: 1.6;"&gt;
-OpenAI's Guardrails framework uses large language models (LLMs) to detect and block harmful outputs, including jailbreak and prompt injection attempts. However, research shows that relying on the same type of LLM for both generation and safety evaluation is flawed, as attackers can bypass these detectors using prompt injection techniques. This highlights the necessity for independent validation and robust adversarial testing to ensure AI safety.
+The article discusses AI security, highlighting the unique risks such as data poisoning, model theft, and adversarial attacks that threaten AI systems. It outlines challenges like the complexity of AI models and lack of standards, and recommends strategies including robust data management, continuous model monitoring, and regulatory compliance to protect AI technologies. Emphasizing proactive measures, the article stresses the importance of safeguarding AI to maintain trust and security in AI-driven applications.
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://hiddenlayer.com/?p=13808</guid>
-      <category>AI Safety</category>
-      <category>Large Language Models</category>
-      <category>Prompt Injection</category>
-      <category>Adversarial Attacks</category>
-      <category>AI Security Frameworks</category>
-      <pubDate>Fri, 10 Oct 2025 21:31:33 +0000</pubDate>
-      <source url="https://hiddenlayer.com/feed">HiddenLayer | Security for AI</source>
+      <guid isPermaLink="false">https://www.prompt.security/blog/what-is-ai-security-risks-challenges-and-how-to-stay-ahead</guid>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>Data Protection</category>
+      <category>AI Risk Management</category>
+      <category>Technology Challenges</category>
+      <pubDate>Sun, 12 Oct 2025 21:30:56 +0000</pubDate>
+      <source url="https://www.prompt.security/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Prompt Security Named as a 2025 Gartner Cool Vendor in AI Security</title>
+      <link>https://www.prompt.security/blog/prompt-security-named-as-a-2025-gartner-cool-vendor-in-ai-security</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: Prompt Security Blog
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Gartner Cool Vendors&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+Prompt Security has been named a 2025 Gartner Cool Vendor in AI Security, recognizing its innovative solutions for securing AI systems against emerging threats. The company's platform offers real-time monitoring, threat detection, and mitigation tailored to AI environments, integrating with existing security infrastructures to ensure safe AI deployment.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.prompt.security/blog/prompt-security-named-as-a-2025-gartner-cool-vendor-in-ai-security</guid>
+      <category>AI Security</category>
+      <category>Cybersecurity</category>
+      <category>Gartner Cool Vendors</category>
+      <category>Threat Detection</category>
+      <category>AI Risk Management</category>
+      <pubDate>Sun, 12 Oct 2025 21:30:56 +0000</pubDate>
+      <source url="https://www.prompt.security/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>AI Acceptable Use Policy: What It Is, Why It Matters, and How to Create One</title>
+      <link>https://www.prompt.security/blog/ai-acceptable-use-policy-what-it-is-why-it-matters-and-how-to-create-one</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: Prompt Security Blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: Prompt Security Team&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2024-04-15&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence Governance&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Ethics in AI&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Data Privacy and Security&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+An AI Acceptable Use Policy (AUP) is a formal document that defines appropriate and inappropriate uses of AI within an organization to ensure ethical, secure, and compliant AI deployment. It helps mitigate risks such as data breaches and bias, supports regulatory compliance, and promotes responsible AI use aligned with organizational values. The article outlines key steps to create an effective AUP, including defining scope, stakeholder engagement, specifying acceptable and prohibited uses, addressing privacy and security, and establishing enforcement mechanisms.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.prompt.security/blog/ai-acceptable-use-policy-what-it-is-why-it-matters-and-how-to-create-one</guid>
+      <category>Artificial Intelligence Governance</category>
+      <category>Ethics in AI</category>
+      <category>Data Privacy and Security</category>
+      <category>Corporate Policy</category>
+      <category>Risk Management</category>
+      <pubDate>Sun, 12 Oct 2025 21:30:56 +0000</pubDate>
+      <source url="https://www.prompt.security/blog">Custom Web Page</source>
     </item>
   </channel>
 </rss>
