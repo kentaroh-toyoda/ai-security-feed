@@ -7,81 +7,573 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Oct 2025 21:30:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 21:42:11 +0000</lastBuildDate>
     <item>
-      <title>What Is AI Security? Risks, Challenges, and How to Stay Ahead</title>
-      <link>https://www.prompt.security/blog/what-is-ai-security-risks-challenges-and-how-to-stay-ahead</link>
+      <title>Gandalf: Introducing a Sleek New UI and Enhanced AI Security Education</title>
+      <link>https://www.lakera.ai/news/gandalf-new-ui-and-enhanced-ai-security-education</link>
       <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
 &lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: Prompt Security Blog
-&lt;/div&gt;
-&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: Prompt Security Team&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2023-11-15&lt;/span&gt;
+📄 Source: Lakera Blog
 &lt;/div&gt;
 &lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Data Protection&lt;/span&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;User Interface Design&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Threat Detection&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div style="line-height: 1.6;"&gt;
-The article discusses AI security, highlighting the unique risks such as data poisoning, model theft, and adversarial attacks that threaten AI systems. It outlines challenges like the complexity of AI models and lack of standards, and recommends strategies including robust data management, continuous model monitoring, and regulatory compliance to protect AI technologies. Emphasizing proactive measures, the article stresses the importance of safeguarding AI to maintain trust and security in AI-driven applications.
+Lakera.ai has launched Gandalf, a new user interface designed to improve AI security education and threat detection for enterprises. The platform features streamlined navigation, interactive educational modules, real-time anomaly detection, and customizable dashboards to help organizations effectively manage AI-related security risks.
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.prompt.security/blog/what-is-ai-security-risks-challenges-and-how-to-stay-ahead</guid>
+      <guid isPermaLink="false">https://www.lakera.ai/news/gandalf-new-ui-and-enhanced-ai-security-education</guid>
+      <category>AI Security</category>
+      <category>User Interface Design</category>
+      <category>Threat Detection</category>
+      <category>Enterprise Software</category>
+      <category>Cybersecurity Education</category>
+      <pubDate>Wed, 15 Oct 2025 21:42:11 +0000</pubDate>
+      <source url="https://www.lakera.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Securing the Future: Lakera Raises $20M Series A to Deliver Real-Time GenAI Security</title>
+      <link>https://www.lakera.ai/news/lakera-raises-20m-series-a-to-deliver-real-time-genai-security</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: Lakera Blog
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Funding &amp; Investment&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+Lakera has raised $20 million in a Series A funding round to enhance its real-time generative AI security solutions, focusing on continuous monitoring and threat detection for AI-driven systems. The company also announced a partnership with Check Point to deliver comprehensive AI security solutions, addressing the increasing need for specialized protection in the evolving AI landscape.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.lakera.ai/news/lakera-raises-20m-series-a-to-deliver-real-time-genai-security</guid>
       <category>Artificial Intelligence</category>
       <category>Cybersecurity</category>
-      <category>Data Protection</category>
-      <category>AI Risk Management</category>
-      <category>Technology Challenges</category>
-      <pubDate>Sun, 12 Oct 2025 21:30:56 +0000</pubDate>
-      <source url="https://www.prompt.security/blog">Custom Web Page</source>
+      <category>Funding &amp; Investment</category>
+      <category>Generative AI</category>
+      <category>Technology Partnerships</category>
+      <pubDate>Wed, 15 Oct 2025 21:42:11 +0000</pubDate>
+      <source url="https://www.lakera.ai/blog">Custom Web Page</source>
     </item>
     <item>
-      <title>Prompt Security Named as a 2025 Gartner Cool Vendor in AI Security</title>
-      <link>https://www.prompt.security/blog/prompt-security-named-as-a-2025-gartner-cool-vendor-in-ai-security</link>
+      <title>Lakera Raises $20M Series A to Secure Generative AI Applications</title>
+      <link>https://www.lakera.ai/news/lakera-raises-20m-series-a-to-secure-generative-ai-applications</link>
       <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
 &lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: Prompt Security Blog
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Gartner Cool Vendors&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-Prompt Security has been named a 2025 Gartner Cool Vendor in AI Security, recognizing its innovative solutions for securing AI systems against emerging threats. The company's platform offers real-time monitoring, threat detection, and mitigation tailored to AI environments, integrating with existing security infrastructures to ensure safe AI deployment.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.prompt.security/blog/prompt-security-named-as-a-2025-gartner-cool-vendor-in-ai-security</guid>
-      <category>AI Security</category>
-      <category>Cybersecurity</category>
-      <category>Gartner Cool Vendors</category>
-      <category>Threat Detection</category>
-      <category>AI Risk Management</category>
-      <pubDate>Sun, 12 Oct 2025 21:30:56 +0000</pubDate>
-      <source url="https://www.prompt.security/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>AI Acceptable Use Policy: What It Is, Why It Matters, and How to Create One</title>
-      <link>https://www.prompt.security/blog/ai-acceptable-use-policy-what-it-is-why-it-matters-and-how-to-create-one</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: Prompt Security Blog
+📄 Source: Lakera Blog
 &lt;/div&gt;
 &lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: Prompt Security Team&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2024-04-15&lt;/span&gt;
+&lt;span style="color: #7f8c8d;"&gt;📅 Date: 2023-11-15&lt;/span&gt;
 &lt;/div&gt;
 &lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence Governance&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Ethics in AI&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Data Privacy and Security&lt;/span&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Generative AI&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Security&lt;/span&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div style="line-height: 1.6;"&gt;
-An AI Acceptable Use Policy (AUP) is a formal document that defines appropriate and inappropriate uses of AI within an organization to ensure ethical, secure, and compliant AI deployment. It helps mitigate risks such as data breaches and bias, supports regulatory compliance, and promotes responsible AI use aligned with organizational values. The article outlines key steps to create an effective AUP, including defining scope, stakeholder engagement, specifying acceptable and prohibited uses, addressing privacy and security, and establishing enforcement mechanisms.
+Lakera, a cybersecurity startup specializing in securing generative AI applications, has raised $20 million in a Series A funding round led by Ten Eleven Ventures. The company provides tools to protect AI models from threats like adversarial attacks and intellectual property theft, aiming to enhance AI security as generative AI adoption grows. The funding will support product development, team expansion, and market scaling.
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.prompt.security/blog/ai-acceptable-use-policy-what-it-is-why-it-matters-and-how-to-create-one</guid>
-      <category>Artificial Intelligence Governance</category>
-      <category>Ethics in AI</category>
-      <category>Data Privacy and Security</category>
-      <category>Corporate Policy</category>
+      <guid isPermaLink="false">https://www.lakera.ai/news/lakera-raises-20m-series-a-to-secure-generative-ai-applications</guid>
+      <category>Cybersecurity</category>
+      <category>Generative AI</category>
+      <category>AI Security</category>
+      <category>Startup Funding</category>
+      <category>Technology</category>
+      <pubDate>Wed, 15 Oct 2025 21:42:11 +0000</pubDate>
+      <source url="https://www.lakera.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Lakera snags $20 million to prevent business Gen AI apps from going haywire and revealing sensitive data</title>
+      <link>https://www.lakera.ai/news/lakera-snags-20-million</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: Lakera Blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;📅 Date: 2023-11-15&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Business Technology&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+Lakera has secured $20 million in funding to advance its AI-powered security platform designed to prevent business Gen AI applications from exposing sensitive data. The investment will support product expansion, operational scaling, and global market growth, addressing the rising need for sophisticated AI-driven cybersecurity solutions.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.lakera.ai/news/lakera-snags-20-million</guid>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>Business Technology</category>
+      <category>Funding &amp; Investment</category>
+      <category>Data Protection</category>
+      <pubDate>Wed, 15 Oct 2025 21:42:11 +0000</pubDate>
+      <source url="https://www.lakera.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>While GenAI Adoption Surges, Report Shows Security Preparedness Lags</title>
+      <link>https://www.lakera.ai/news/while-genai-adoption-surges-report-shows-security-preparedness-lags</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: Lakera Blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;📅 Date: 2023-11-15&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Generative AI&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Enterprise Technology&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+A recent report by Lakera reveals that while 70% of enterprises are adopting Generative AI technologies, only 35% feel confident in securing these systems, highlighting a significant gap in AI security preparedness. The report stresses the need for specialized AI security tools, continuous monitoring, and upskilling of security teams to mitigate emerging risks such as data poisoning and model theft.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.lakera.ai/news/while-genai-adoption-surges-report-shows-security-preparedness-lags</guid>
+      <category>Generative AI</category>
+      <category>Cybersecurity</category>
+      <category>Enterprise Technology</category>
+      <category>AI Risk Management</category>
+      <category>Digital Transformation</category>
+      <pubDate>Wed, 15 Oct 2025 21:42:11 +0000</pubDate>
+      <source url="https://www.lakera.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Lakera Recognized by Gartner in 2025 Market Guide for AI-Driven Threat Intelligence and Response Solutions (AI-TRiSM)</title>
+      <link>https://www.lakera.ai/news/lakera-gartner-2025-ai-trism</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: Lakera Blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;📅 Date: 2024-06-05&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Threat Intelligence&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+Lakera has been recognized by Gartner in its 2025 Market Guide for AI-Driven Threat Intelligence and Response Solutions (AI-TRiSM), highlighting its innovative AI integration in cybersecurity. The company's platform uses advanced machine learning and natural language processing to provide real-time threat intelligence and automate responses, enhancing enterprise security and resilience. Lakera continues to expand its AI capabilities and strategic partnerships to address evolving cyber threats.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.lakera.ai/news/lakera-gartner-2025-ai-trism</guid>
+      <category>Cybersecurity</category>
+      <category>Artificial Intelligence</category>
+      <category>Threat Intelligence</category>
+      <category>Machine Learning</category>
+      <category>Enterprise Security Solutions</category>
+      <pubDate>Wed, 15 Oct 2025 21:42:11 +0000</pubDate>
+      <source url="https://www.lakera.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Lakera Launches the AI Model Risk Index: A New Standard for Evaluating LLM Security</title>
+      <link>https://www.lakera.ai/news/lakera-launches-the-ai-model-risk-index</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: Lakera Blog
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Risk Management&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Governance&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+Lakera has introduced the AI Model Risk Index, a comprehensive tool designed to evaluate AI models across security, privacy, compliance, and operational risk dimensions. This index aims to help organizations manage AI deployment risks, comply with emerging regulations, and promote responsible AI use through continuous monitoring and actionable insights.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.lakera.ai/news/lakera-launches-the-ai-model-risk-index</guid>
+      <category>AI Security</category>
       <category>Risk Management</category>
-      <pubDate>Sun, 12 Oct 2025 21:30:56 +0000</pubDate>
-      <source url="https://www.prompt.security/blog">Custom Web Page</source>
+      <category>AI Governance</category>
+      <category>Compliance</category>
+      <category>Artificial Intelligence</category>
+      <pubDate>Wed, 15 Oct 2025 21:42:11 +0000</pubDate>
+      <source url="https://www.lakera.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Before scaling GenAI, map your LLM usage and risk zones</title>
+      <link>https://www.lakera.ai/news/before-scaling-genai-map-your-llm-usage-and-risk-zones</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: Lakera Blog
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Generative AI&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Risk Management&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Enterprise Security&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+Enterprises looking to scale Generative AI must first map all large language model (LLM) usage points and assess associated risks to prevent data leakage, compliance issues, and operational disruptions. Combining usage mapping with risk assessment allows organizations to implement effective security controls and governance, enabling safe and confident GenAI adoption. Tools like Lakera.ai assist in visualizing LLM usage and risk zones to balance innovation with security and compliance.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.lakera.ai/news/before-scaling-genai-map-your-llm-usage-and-risk-zones</guid>
+      <category>Generative AI</category>
+      <category>Risk Management</category>
+      <category>Enterprise Security</category>
+      <category>Data Governance</category>
+      <category>AI Adoption Strategies</category>
+      <pubDate>Wed, 15 Oct 2025 21:42:11 +0000</pubDate>
+      <source url="https://www.lakera.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Lakera at Black Hat USA 2025: Advancing AI-Powered Cybersecurity</title>
+      <link>https://www.lakera.ai/news/lakera-black-hat-2025</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: Lakera Blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;📅 Date: 2024-06-10&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Machine Learning&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+Lakera will participate in Black Hat USA 2025 to showcase its AI-driven cybersecurity solutions that enable real-time detection and mitigation of advanced threats. The company will offer live demonstrations and expert discussions on how AI is revolutionizing security operations centers globally.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.lakera.ai/news/lakera-black-hat-2025</guid>
+      <category>Cybersecurity</category>
+      <category>Artificial Intelligence</category>
+      <category>Machine Learning</category>
+      <category>Security Operations</category>
+      <category>Technology Conferences</category>
+      <pubDate>Wed, 15 Oct 2025 21:42:11 +0000</pubDate>
+      <source url="https://www.lakera.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>GamesBeat: Lakera launches hacking sim Gandalf: Agent Breaker</title>
+      <link>https://www.lakera.ai/news/gamesbeat-lakera-launches-gandalf-agent-breaker</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: Lakera Blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: Dean Takahashi&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2023-10-10&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Gaming Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cheat Detection&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+Lakera has launched Gandalf Agent Breaker, an AI-powered tool designed to detect and prevent cheating in online games by identifying unauthorized AI agents and bots through advanced machine learning. The product aims to help game developers maintain fair play with real-time monitoring and seamless integration, addressing the growing issue of AI-assisted cheating in gaming and expanding into metaverse security solutions.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.lakera.ai/news/gamesbeat-lakera-launches-gandalf-agent-breaker</guid>
+      <category>Gaming Security</category>
+      <category>Artificial Intelligence</category>
+      <category>Cheat Detection</category>
+      <category>Online Gaming</category>
+      <category>Metaverse Technology</category>
+      <pubDate>Wed, 15 Oct 2025 21:42:11 +0000</pubDate>
+      <source url="https://www.lakera.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Cursor Vulnerability (CVE-2025-59944): How a Case-Sensitivity Bug Exposed the Risks of Agentic Developer Tools</title>
+      <link>https://www.lakera.ai/blog/cursor-vulnerability-cve-2025-59944</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: Lakera Blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: Lakera Team&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: October 9, 2025&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Software Vulnerabilities&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Developer Tools&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+A case-sensitivity bug in the AI-powered IDE Cursor (CVE-2025-59944) allowed attackers to bypass file protections on case-insensitive file systems, potentially enabling remote code execution and unauthorized configuration changes. This vulnerability highlights the critical need for stringent security measures in agentic developer tools as they increasingly influence codebases. Users of Cursor and similar tools are advised to apply patches and monitor for suspicious file activities.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.lakera.ai/blog/cursor-vulnerability-cve-2025-59944</guid>
+      <category>Cybersecurity</category>
+      <category>Software Vulnerabilities</category>
+      <category>AI Developer Tools</category>
+      <category>Case-Sensitivity Bugs</category>
+      <category>Remote Code Execution</category>
+      <pubDate>Wed, 15 Oct 2025 21:42:11 +0000</pubDate>
+      <source url="https://www.lakera.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Agentic AI Threats: Memory Poisoning &amp; Long-Horizon Goal Hijacks (Part 1)</title>
+      <link>https://www.lakera.ai/blog/agentic-ai-threats-p1</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: Lakera Blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: Lakera Team&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: October 13, 2025&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Agentic AI&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity Threats&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+The article discusses emerging security threats in agentic AI systems, focusing on memory poisoning and goal hijacks, where attackers manipulate an AI's memory or objectives over time to influence its behavior. These persistent and subtle attacks require new defense strategies such as treating memory as untrusted input, continuous monitoring, and layered guardrails to ensure system resilience.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.lakera.ai/blog/agentic-ai-threats-p1</guid>
+      <category>AI Security</category>
+      <category>Agentic AI</category>
+      <category>Cybersecurity Threats</category>
+      <category>AI Memory Management</category>
+      <category>Long-term AI Behavior</category>
+      <pubDate>Wed, 15 Oct 2025 21:42:11 +0000</pubDate>
+      <source url="https://www.lakera.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Content Concretization Jailbreak</title>
+      <link>https://www.promptfoo.dev/lm-security-db/vuln/content-concretization-jailbreak</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: PromptFoo LM Security DB
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;📅 Date: 9/30/2025&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Large Language Models&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Adversarial Attacks&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+The article discusses a vulnerability called 'Content Concretization' in Large Language Models (LLMs), where safety filters can be circumvented by progressively refining malicious prompts. This method involves using a less-restricted LLM to create an initial draft of harmful content, which is then enhanced by a more advanced LLM.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.promptfoo.dev/lm-security-db/vuln/content-concretization-jailbreak</guid>
+      <category>Artificial Intelligence Security</category>
+      <category>Large Language Models</category>
+      <category>Adversarial Attacks</category>
+      <category>AI Safety</category>
+      <category>Machine Learning Vulnerabilities</category>
+      <pubDate>Wed, 15 Oct 2025 21:42:11 +0000</pubDate>
+      <source url="https://www.promptfoo.dev/lm-security-db">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Chained Tool-Use Injections</title>
+      <link>https://www.promptfoo.dev/lm-security-db/vuln/chained-tool-use-injections-cd06eded</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: PromptFoo LM Security DB
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;📅 Date: September 1, 2025&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Large Language Models&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity Vulnerabilities&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+The article discusses a vulnerability in tool-enabled Large Language Model (LLM) agents called Sequential Tool Attack Chaining (STAC), where a series of individually harmless tool calls can be combined to execute malicious actions, such as data destruction. This attack bypasses conventional safety checks by distributing malicious intent across multiple steps, and affects various state-of-the-art LLMs. A proposed mitigation involves holistic ethical analysis of the entire conversation history before executing any tool calls to reduce attack success.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.promptfoo.dev/lm-security-db/vuln/chained-tool-use-injections-cd06eded</guid>
+      <category>AI Security</category>
+      <category>Large Language Models</category>
+      <category>Cybersecurity Vulnerabilities</category>
+      <category>Tool-Enabled Agents</category>
+      <category>Ethical AI</category>
+      <pubDate>Wed, 15 Oct 2025 21:42:11 +0000</pubDate>
+      <source url="https://www.promptfoo.dev/lm-security-db">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Camouflaged Jailbreak Prompts Benchmark</title>
+      <link>https://www.promptfoo.dev/lm-security-db/vuln/camouflaged-jailbreak-prompts-benchmark-1dd3bb39</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: PromptFoo LM Security DB
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;📅 Date: September 1, 2025&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Large Language Models&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Adversarial Attacks&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+Multiple large language models are vulnerable to 'Camouflaged Jailbreak' attacks, where harmful instructions are hidden within complex, seemingly benign prompts, bypassing keyword-based safety filters. This vulnerability enables the generation of detailed instructions for dangerous devices, posing significant real-world risks. The article highlights affected models, the high success rate of the attack, and recommends advanced defense mechanisms involving semantic understanding and ethical reasoning to mitigate these threats.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.promptfoo.dev/lm-security-db/vuln/camouflaged-jailbreak-prompts-benchmark-1dd3bb39</guid>
+      <category>Artificial Intelligence Security</category>
+      <category>Large Language Models</category>
+      <category>Adversarial Attacks</category>
+      <category>AI Ethics and Safety</category>
+      <category>Cybersecurity</category>
+      <pubDate>Wed, 15 Oct 2025 21:42:11 +0000</pubDate>
+      <source url="https://www.promptfoo.dev/lm-security-db">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Untargeted Gradient Jailbreak</title>
+      <link>https://www.promptfoo.dev/lm-security-db/vuln/untargeted-gradient-jailbreak-7f8600f2</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: PromptFoo LM Security DB
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;📅 Date: 10/13/2025&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Machine Learning Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Large Language Models&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+The article discusses a vulnerability in safety-aligned Large Language Models (LLMs) exploited by an Untargeted Jailbreak Attack (UJA), a gradient-based optimization method. Unlike targeted attacks, UJA maximizes the probability of unsafe responses using an external judge model to evaluate unsafety.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.promptfoo.dev/lm-security-db/vuln/untargeted-gradient-jailbreak-7f8600f2</guid>
+      <category>Artificial Intelligence</category>
+      <category>Machine Learning Security</category>
+      <category>Large Language Models</category>
+      <category>Adversarial Attacks</category>
+      <category>Model Safety</category>
+      <pubDate>Wed, 15 Oct 2025 21:42:11 +0000</pubDate>
+      <source url="https://www.promptfoo.dev/lm-security-db">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Overfitting-induced Benign Jailbreak</title>
+      <link>https://www.promptfoo.dev/lm-security-db/vuln/overfitting-induced-benign-jailbreak-c6018ada</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: PromptFoo LM Security DB
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;📅 Date: October 1, 2025&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Machine Learning Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Large Language Models&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Model Fine-tuning&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+The article describes a novel two-stage attack called 'Attack via Overfitting' that exploits fine-tuning vulnerabilities in Large Language Models (LLMs) to bypass safety alignments. By first fine-tuning on benign questions paired with refusal answers and then on the same questions with helpful answers, the model catastrophically forgets its refusal behavior, enabling it to generate harmful content while appearing benign to moderation systems. This stealthy attack compromises model safety on both open-source and proprietary LLMs without degrading their general performance.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.promptfoo.dev/lm-security-db/vuln/overfitting-induced-benign-jailbreak-c6018ada</guid>
+      <category>Machine Learning Security</category>
+      <category>Large Language Models</category>
+      <category>Model Fine-tuning</category>
+      <category>AI Safety and Alignment</category>
+      <category>Adversarial Attacks</category>
+      <pubDate>Wed, 15 Oct 2025 21:42:11 +0000</pubDate>
+      <source url="https://www.promptfoo.dev/lm-security-db">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Code Agent Executable Jailbreaks</title>
+      <link>https://www.promptfoo.dev/lm-security-db/vuln/code-agent-executable-jailbreaks-33af2f7c</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: PromptFoo LM Security DB
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;📅 Date: October 1, 2025&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Malware Generation&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Large Language Models&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+AI code agents integrated with large language models are susceptible to executable jailbreak attacks that enable them to generate or complete malicious code, bypassing initial safety measures. These vulnerabilities are exacerbated when agents use multi-step planning or are provided with partial malicious code, allowing attackers to create fully functional malware and potentially compromise systems. Examples include implicit prompt attacks and multi-file code completion attacks that lead to the creation of harmful software.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.promptfoo.dev/lm-security-db/vuln/code-agent-executable-jailbreaks-33af2f7c</guid>
+      <category>AI Security</category>
+      <category>Malware Generation</category>
+      <category>Large Language Models</category>
+      <category>Code Injection Attacks</category>
+      <category>Cybersecurity Vulnerabilities</category>
+      <pubDate>Wed, 15 Oct 2025 21:42:11 +0000</pubDate>
+      <source url="https://www.promptfoo.dev/lm-security-db">Custom Web Page</source>
+    </item>
+    <item>
+      <title>What Is AI Security Posture Management (AI-SPM)?</title>
+      <link>https://mindgard.ai/blog/what-is-ai-security-posture-management</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: MindGard Blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: Fergal Glynn&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: October 15, 2025&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Risk Management&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+AI Security Posture Management (AI-SPM) is a continuous, lifecycle-wide approach to securing AI systems by identifying, monitoring, and mitigating AI-specific threats such as prompt injection, model drift, and data poisoning. It involves asset discovery, threat surface analysis, policy enforcement, risk scoring, and automated remediation to maintain robust security in dynamic AI environments. AI-SPM addresses the limitations of traditional security tools by providing specialized visibility and controls tailored for AI deployments.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://mindgard.ai/blog/what-is-ai-security-posture-management</guid>
+      <category>AI Security</category>
+      <category>Cybersecurity</category>
+      <category>Risk Management</category>
+      <category>AI Lifecycle Management</category>
+      <category>DevSecOps</category>
+      <pubDate>Wed, 15 Oct 2025 21:42:11 +0000</pubDate>
+      <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>How Toloka helped poolside define and measure AI quality for developers</title>
+      <link>https://toloka.ai/how-toloka-helped-poolside-define-and-measure-ai-quality-for-developers/</link>
+      <guid isPermaLink="false">https://toloka.ai/how-toloka-helped-poolside-define-and-measure-ai-quality-for-developers/</guid>
+      <pubDate>Wed, 15 Oct 2025 21:42:11 +0000</pubDate>
+      <source url="https://toloka.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>How Safe Is Anthropic’s “Safest” Model? We Red Teamed Claude Sonnet 4.5</title>
+      <link>https://splx.ai/blog/red-teaming-claude-sonnet-4-5</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: SPLX AI Blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: Mateja Vuradin&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: Oct 15, 2025&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Safety&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Large Language Models&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Enterprise AI Security&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+Anthropic's Claude Sonnet 4.5, touted as a highly aligned AI model, was subjected to rigorous red teaming by SPLX to evaluate its safety, security, and enterprise readiness. The model failed over half of safety tests without system prompts but achieved perfect safety scores with hardened prompt protections, highlighting the necessity of external guardrails and continuous testing for secure deployment. While hallucination and trustworthiness were strong, security remained the weakest area, improving significantly only with advanced prompt hardening.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://splx.ai/blog/red-teaming-claude-sonnet-4-5</guid>
+      <category>AI Safety</category>
+      <category>Large Language Models</category>
+      <category>Enterprise AI Security</category>
+      <category>Red Teaming</category>
+      <category>Prompt Engineering</category>
+      <pubDate>Wed, 15 Oct 2025 21:42:11 +0000</pubDate>
+      <source url="https://splx.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>When AI Became the Target: An Interview with James Stewart, Co-Founder and CTO of TrojAI</title>
+      <link>https://www.troj.ai/blog/when-ai-became-the-target</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: Troj AI Blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: TrojAI Team&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2023-07-12&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Vulnerabilities&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+The article discusses the increasing targeting of AI systems by adversaries through attacks like data poisoning and evasion, which threaten the reliability and safety of AI applications. It highlights the critical security risks posed by such attacks and emphasizes the need for multi-layered defense strategies, collaboration among stakeholders, and robust safeguards to maintain trust in AI technologies.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.troj.ai/blog/when-ai-became-the-target</guid>
+      <category>Artificial Intelligence Security</category>
+      <category>Cybersecurity</category>
+      <category>AI Vulnerabilities</category>
+      <category>Adversarial Attacks</category>
+      <category>Technology Risk Management</category>
+      <pubDate>Wed, 15 Oct 2025 21:42:11 +0000</pubDate>
+      <source url="https://www.troj.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>The New Era of HR Regulation: Why AI Governance Can’t Wait</title>
+      <link>https://www.holisticai.com/blog/new-hr-regulation-why-ai-governance-cant-wait</link>
+      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
+&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
+📄 Source: Holistic AI Blog
+&lt;/div&gt;
+&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
+&lt;span style="color: #7f8c8d;"&gt;👤 Author: Holistic AI Team&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2023-11-15&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;
+&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Human Resources&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Governance&lt;/span&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="line-height: 1.6;"&gt;
+The article discusses the urgent need for robust AI governance in human resources due to new regulations focusing on transparency, fairness, and accountability in AI-driven hiring and workforce management. It highlights the risks of non-compliance and presents Holistic AI’s platform as a comprehensive solution for managing AI systems ethically and legally. Organizations are urged to act promptly to align with evolving regulatory requirements and mitigate potential legal and reputational consequences.
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.holisticai.com/blog/new-hr-regulation-why-ai-governance-cant-wait</guid>
+      <category>Human Resources</category>
+      <category>Artificial Intelligence</category>
+      <category>AI Governance</category>
+      <category>Regulatory Compliance</category>
+      <category>Workforce Management</category>
+      <pubDate>Wed, 15 Oct 2025 21:42:11 +0000</pubDate>
+      <source url="https://www.holisticai.com/blog">Custom Web Page</source>
     </item>
   </channel>
 </rss>
