@@ -7,228 +7,184 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Oct 2025 21:37:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 21:35:56 +0000</lastBuildDate>
     <item>
-      <title>Introducing the Gemini 2.5 Computer Use model</title>
-      <link>https://blog.google/technology/google-deepmind/gemini-computer-use-model/</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: Google DeepMind Blog
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Machine Learning&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Software Development&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-Google DeepMind has released the Gemini 2.5 Computer Use model via API, designed to enhance AI performance in browser and mobile tasks by better understanding and interacting with computer environments. This model improves productivity and user experience with seamless integration and optimization for various devices, offering flexible options for developers and businesses.
+      <title>The Good, The Bad, and The Ugly in Cybersecurity — Week 41</title>
+      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-41-7/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Paul Ducklin&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2023-10-13&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Phishing", "Ransomware", "Malware", "Critical Infrastructure Security"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Microsoft added AI-driven phishing protection to Outlook.&lt;/li&gt;
+&lt;li&gt;New ransomware decryption tools help victims recover data.&lt;/li&gt;
+&lt;li&gt;ShadowStrike malware targets enterprise VPNs using zero-day exploits.&lt;/li&gt;
+&lt;li&gt;Government agencies face breaches from third-party vendors.&lt;/li&gt;
+&lt;li&gt;Critical infrastructure suffers attacks from cybercrime groups.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://blog.google/technology/google-deepmind/gemini-computer-use-model/</guid>
-      <category>Artificial Intelligence</category>
-      <category>Machine Learning</category>
-      <category>Software Development</category>
-      <category>API Integration</category>
-      <category>Productivity Tools</category>
-      <pubDate>Thu, 16 Oct 2025 21:37:20 +0000</pubDate>
-      <source url="https://deepmind.google/discover/blog/">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Introducing Veo 3.1 and advanced creative capabilities</title>
-      <link>https://blog.google/technology/ai/veo-updates-flow</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: Google DeepMind Blog
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Video Editing&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Creative Tools&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-Veo 3.1 introduces advanced AI-powered features to Flow, enhancing video editing with more precise adjustments, improved effects, and streamlined workflows. These updates aim to provide creators with a more powerful, intuitive, and accessible editing experience.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://blog.google/technology/ai/veo-updates-flow</guid>
-      <category>Video Editing</category>
-      <category>Artificial Intelligence</category>
-      <category>Creative Tools</category>
-      <category>Software Updates</category>
-      <category>Content Creation</category>
-      <pubDate>Thu, 16 Oct 2025 21:37:20 +0000</pubDate>
-      <source url="https://deepmind.google/discover/blog/">Custom Web Page</source>
-    </item>
-    <item>
-      <title>How a Gemma model helped discover a new potential cancer therapy pathway</title>
-      <link>https://blog.google/technology/ai/google-gemma-ai-cancer-therapy-discovery/</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: Google DeepMind Blog
-&lt;/div&gt;
-&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: Google AI Team&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2024-04-24&lt;/span&gt;
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cancer Research&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Single-Cell Analysis&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-Google AI developed Gemma, a 27 billion parameter foundation model for single-cell RNA sequencing analysis, which helped identify a novel cancer therapy pathway. This AI-driven approach enhances understanding of complex biological data, offering new opportunities for drug development and personalized medicine. Gemma is also applicable to other biomedical fields and is being made openly available to accelerate research collaborations.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://blog.google/technology/ai/google-gemma-ai-cancer-therapy-discovery/</guid>
-      <category>Artificial Intelligence</category>
-      <category>Cancer Research</category>
-      <category>Single-Cell Analysis</category>
-      <category>Biomedical Research</category>
-      <category>Drug Discovery</category>
-      <pubDate>Thu, 16 Oct 2025 21:37:20 +0000</pubDate>
-      <source url="https://deepmind.google/discover/blog/">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Bringing AI to the next generation of fusion energy</title>
-      <link>https://deepmind.google/discover/blog/bringing-ai-to-the-next-generation-of-fusion-energy/</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: Google DeepMind Blog
-&lt;/div&gt;
-&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: DeepMind&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: 2023-11-14&lt;/span&gt;
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Fusion Energy&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Plasma Physics&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-DeepMind is collaborating with the UK Atomic Energy Authority to apply advanced AI techniques, including reinforcement learning, to improve plasma control in fusion reactors. This AI-driven approach enhances magnetic confinement and plasma stability in tokamak devices, accelerating fusion research and bringing us closer to sustainable fusion energy. The initiative is part of a broader effort to use AI for scientific discovery across multiple fields.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://deepmind.google/discover/blog/bringing-ai-to-the-next-generation-of-fusion-energy/</guid>
-      <category>Artificial Intelligence</category>
-      <category>Fusion Energy</category>
-      <category>Plasma Physics</category>
-      <category>Reinforcement Learning</category>
-      <category>Scientific Research</category>
-      <pubDate>Thu, 16 Oct 2025 21:37:20 +0000</pubDate>
-      <source url="https://deepmind.google/discover/blog/">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Introducing Lakera Chrome Extension - Privacy Guard for Your Conversations with ChatGPT</title>
-      <link>https://www.lakera.ai/product-updates/introducing-lakera-chrome-extension-privacy-guard-for-your-conversations-with-chatgpt</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: Lakera Blog
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Privacy and Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Chatbots&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Browser Extensions&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-The Lakera Chrome Extension is a new privacy tool designed to protect users' conversations with ChatGPT and other AI chatbots by automatically detecting and redacting sensitive information before it is sent. It offers customizable privacy settings, supports multiple AI platforms, and integrates seamlessly with browsers to ensure data confidentiality and security.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.lakera.ai/product-updates/introducing-lakera-chrome-extension-privacy-guard-for-your-conversations-with-chatgpt</guid>
-      <category>Privacy and Security</category>
-      <category>AI Chatbots</category>
-      <category>Browser Extensions</category>
-      <category>Data Protection</category>
-      <category>Technology</category>
-      <pubDate>Thu, 16 Oct 2025 21:37:20 +0000</pubDate>
-      <source url="https://www.lakera.ai/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>No-Code GenAI Security with Lakera Policy Control Center</title>
-      <link>https://www.lakera.ai/product-updates/no-code-genai-security-with-lakera-policy-control-center</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: Lakera Blog
-&lt;/div&gt;
-&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;📅 Date: 2023-06-21&lt;/span&gt;
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Generative AI&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;No-Code Platforms&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-Lakera’s Policy Control Center is a no-code platform designed to help enterprises enforce security policies for generative AI usage, enabling rapid response to threats and compliance challenges. It offers granular policy creation, real-time monitoring, and integration with existing security tools to mitigate risks like data leakage and unauthorized access while supporting multiple AI models and platforms.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.lakera.ai/product-updates/no-code-genai-security-with-lakera-policy-control-center</guid>
-      <category>Generative AI</category>
-      <category>AI Security</category>
-      <category>No-Code Platforms</category>
-      <category>Enterprise Compliance</category>
-      <category>Risk Management</category>
-      <pubDate>Thu, 16 Oct 2025 21:37:20 +0000</pubDate>
-      <source url="https://www.lakera.ai/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Introducing Custom Detectors: Tailor Your AI Security with Precision</title>
-      <link>https://www.lakera.ai/product-updates/introducing-custom-detectors</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: Lakera Blog
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Security&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Machine Learning&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity Tools&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-Lakera has launched Custom Detectors, a feature that enables organizations to create tailored AI models for detecting specific security threats unique to their environment. This tool allows users to upload labeled data and train models easily without deep machine learning expertise, enhancing detection accuracy and integration with existing workflows. Custom Detectors aim to improve security response times and reduce false positives through continuous model updates.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.lakera.ai/product-updates/introducing-custom-detectors</guid>
-      <category>AI Security</category>
-      <category>Machine Learning</category>
-      <category>Cybersecurity Tools</category>
-      <category>Custom AI Models</category>
-      <category>Threat Detection</category>
-      <pubDate>Thu, 16 Oct 2025 21:37:20 +0000</pubDate>
-      <source url="https://www.lakera.ai/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>SplxAI Closes $7M Seed Funding Round to Help Organizations Secure Agentic AI Systems</title>
-      <link>https://splx.ai/blog/splxai-closes-7m-seed-funding-round-to-help-organizations-secure-</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: SPLX AI Blog
-&lt;/div&gt;
-&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;📅 Date: Mar 26, 2025&lt;/span&gt;
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Cybersecurity&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Startup Funding&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-SplxAI has secured $7 million in seed funding to advance the development of security solutions for agentic AI systems. The investment aims to help organizations protect and manage autonomous AI technologies effectively.
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://splx.ai/blog/splxai-closes-7m-seed-funding-round-to-help-organizations-secure-</guid>
-      <category>Artificial Intelligence</category>
+      <guid isPermaLink="false">https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-41-7/</guid>
       <category>Cybersecurity</category>
-      <category>Startup Funding</category>
-      <category>Agentic AI</category>
-      <category>Technology Development</category>
-      <pubDate>Thu, 16 Oct 2025 21:37:20 +0000</pubDate>
-      <source url="https://splx.ai/blog">Custom Web Page</source>
+      <category>Phishing</category>
+      <category>Ransomware</category>
+      <category>Malware</category>
+      <category>Critical Infrastructure Security</category>
+      <pubDate>Mon, 20 Oct 2025 21:35:56 +0000</pubDate>
+      <source url="https://www.sentinelone.com/blog">Custom Web Page</source>
     </item>
     <item>
-      <title>Self-fixing AI agents: already here?</title>
-      <link>https://neuraltrust.ai/blog/self-fixing-ai-agents</link>
-      <description>&lt;div style="border: 1px solid #ddd; border-radius: 8px; padding: 12px; margin: 8px 0; background-color: #f9f9f9;"&gt;
-&lt;div style="font-weight: bold; color: #2c3e50; margin-bottom: 8px;"&gt;
-📄 Source: NeuralTrust Blog
-&lt;/div&gt;
-&lt;div style="font-size: 0.9em; margin-bottom: 8px;"&gt;
-&lt;span style="color: #7f8c8d;"&gt;👤 Author: Rodrigo Fernández&lt;/span&gt; | &lt;span style="color: #7f8c8d;"&gt;📅 Date: October 16, 2025&lt;/span&gt;
-&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;
-&lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Artificial Intelligence&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;Machine Learning&lt;/span&gt; &lt;span style="background-color: #3498db; color: white; padding: 2px 6px; border-radius: 3px; font-size: 0.8em;"&gt;AI Adaptability&lt;/span&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style="line-height: 1.6;"&gt;
-The article explores a recent observation where an OpenAI model, o3, exhibited behavior akin to self-debugging by iteratively diagnosing and adjusting its inputs to fix errors without explicit programming to do so. This adaptive behavior, seen after the release of GPT-5, suggests a future where AI systems may autonomously manage and correct their own operational issues, marking a shift from deterministic responses to more flexible problem-solving approaches.
+      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 42</title>
+      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-42-7/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Paul Lanzi&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2023-10-20&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity News", "Ransomware", "Phishing Attacks", "AI in Cybersecurity", "Security Updates"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Microsoft released security updates for Windows and Azure.&lt;/li&gt;
+&lt;li&gt;A new ransomware called DarkCrypt targets healthcare in North America.&lt;/li&gt;
+&lt;li&gt;DarkCrypt encrypts patient data and demands large ransoms.&lt;/li&gt;
+&lt;li&gt;AI-generated deepfake voices are used in phishing scams.&lt;/li&gt;
+&lt;li&gt;The cybersecurity community prepares for OneCon25 conference on AI security.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://neuraltrust.ai/blog/self-fixing-ai-agents</guid>
+      <guid isPermaLink="false">https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-42-7/</guid>
+      <category>Cybersecurity News</category>
+      <category>Ransomware</category>
+      <category>Phishing Attacks</category>
+      <category>AI in Cybersecurity</category>
+      <category>Security Updates</category>
+      <pubDate>Mon, 20 Oct 2025 21:35:56 +0000</pubDate>
+      <source url="https://www.sentinelone.com/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>SentinelOne and the MITRE ATT&amp;CKⓇ Evaluations: Enterprise 2025</title>
+      <link>https://www.sentinelone.com/blog/sentinelone-and-the-mitre-attck-evaluations-enterprise-2025/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; SentinelOne&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2023-12-14&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Endpoint Detection and Response", "MITRE ATT&amp;CK", "Artificial Intelligence", "Threat Detection"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;MITRE ATT&amp;CK Evaluations assess cybersecurity vendor performance.&lt;/li&gt;
+&lt;li&gt;SentinelOne led the 2025 Enterprise Evaluation with top scores.&lt;/li&gt;
+&lt;li&gt;The test simulated advanced threat actor tactics.&lt;/li&gt;
+&lt;li&gt;SentinelOne’s AI-driven platform enabled fast detection and response.&lt;/li&gt;
+&lt;li&gt;The solution showed strong visibility and low false positives.&lt;/li&gt;
+&lt;li&gt;This proves SentinelOne’s strength in threat detection and response.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.sentinelone.com/blog/sentinelone-and-the-mitre-attck-evaluations-enterprise-2025/</guid>
+      <category>Cybersecurity</category>
+      <category>Endpoint Detection and Response</category>
+      <category>MITRE ATT&amp;CK</category>
       <category>Artificial Intelligence</category>
-      <category>Machine Learning</category>
-      <category>AI Adaptability</category>
-      <category>Self-debugging Systems</category>
+      <category>Threat Detection</category>
+      <pubDate>Mon, 20 Oct 2025 21:35:56 +0000</pubDate>
+      <source url="https://www.sentinelone.com/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>LABScon 2025 | From LLM Malware to Hotel Room Bugs: A Look at This Year’s Talks</title>
+      <link>https://www.sentinelone.com/blog/labscon-2025-from-llm-malware-to-hotel-room-bugs-a-look-at-this-years-talks/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Sean Michael Kerner&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2024-04-24&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Artificial Intelligence", "Malware", "IoT Security", "Cloud Security"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;LabsCon 2025 is a cybersecurity conference by SentinelOne.&lt;/li&gt;
+&lt;li&gt;It covers emerging threats and new defensive techniques.&lt;/li&gt;
+&lt;li&gt;Topics include LLM malware and hotel room vulnerabilities.&lt;/li&gt;
+&lt;li&gt;Sessions focus on AI-powered attacks and autonomous cybersecurity.&lt;/li&gt;
+&lt;li&gt;The event promotes collaboration among security experts.&lt;/li&gt;
+&lt;li&gt;Attendees will see live demos and AI-driven security solutions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.sentinelone.com/blog/labscon-2025-from-llm-malware-to-hotel-room-bugs-a-look-at-this-years-talks/</guid>
+      <category>Cybersecurity</category>
+      <category>Artificial Intelligence</category>
+      <category>Malware</category>
+      <category>IoT Security</category>
+      <category>Cloud Security</category>
+      <pubDate>Mon, 20 Oct 2025 21:35:56 +0000</pubDate>
+      <source url="https://www.sentinelone.com/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Sentinel’s League: Live Rankings for the Threat Hunting World Championship</title>
+      <link>https://www.sentinelone.com/blog/sentinels-league-live-rankings-for-the-threat-hunting-world-championship/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; SentinelOne Team&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2023-09-21&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Threat Hunting", "Competitive Rankings", "Professional Development", "Technology Platforms"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Sentinel’s League is a live leaderboard for the Threat Hunting World Championship.&lt;/li&gt;
+&lt;li&gt;It tracks top threat hunters in real time.&lt;/li&gt;
+&lt;li&gt;The platform promotes competition and collaboration among cybersecurity experts.&lt;/li&gt;
+&lt;li&gt;Participants face simulated attack scenarios to test their skills.&lt;/li&gt;
+&lt;li&gt;The league offers detailed scoring and competitor profiles.&lt;/li&gt;
+&lt;li&gt;It helps organizations find and recruit cybersecurity talent.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.sentinelone.com/blog/sentinels-league-live-rankings-for-the-threat-hunting-world-championship/</guid>
+      <category>Cybersecurity</category>
+      <category>Threat Hunting</category>
+      <category>Competitive Rankings</category>
+      <category>Professional Development</category>
+      <category>Technology Platforms</category>
+      <pubDate>Mon, 20 Oct 2025 21:35:56 +0000</pubDate>
+      <source url="https://www.sentinelone.com/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>From Obstacle to Accelerator: Custom Compliance for Cloud Security</title>
+      <link>https://www.sentinelone.com/blog/custom-compliance-for-cloud-security/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; SentinelOne&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2023-05-11&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cloud Security", "Compliance", "Regulatory Requirements", "DevOps", "Cybersecurity Best Practices"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Cloud computing offers scalability and cost savings.&lt;/li&gt;
+&lt;li&gt;Compliance in cloud security is complex and critical.&lt;/li&gt;
+&lt;li&gt;Custom compliance tailors controls to specific regulations.&lt;/li&gt;
+&lt;li&gt;Automation and continuous monitoring improve compliance.&lt;/li&gt;
+&lt;li&gt;Integrating compliance into DevOps enhances security.&lt;/li&gt;
+&lt;li&gt;Training and incident planning support compliance efforts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.sentinelone.com/blog/custom-compliance-for-cloud-security/</guid>
+      <category>Cloud Security</category>
+      <category>Compliance</category>
+      <category>Regulatory Requirements</category>
+      <category>DevOps</category>
+      <category>Cybersecurity Best Practices</category>
+      <pubDate>Mon, 20 Oct 2025 21:35:56 +0000</pubDate>
+      <source url="https://www.sentinelone.com/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>The Rise of AI Browsers: Smarter, Faster, and Far More Dangerous</title>
+      <link>https://www.lasso.security/blog/the-rise-of-ai-browsers-smarter-faster-and-far-more-dangerous</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; The Lasso Team&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 20, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Web Browsers", "Technology Innovation", "Human-Computer Interaction"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;AI is transforming the browsing experience.&lt;/li&gt;
+&lt;li&gt;Browsers now use large language models.&lt;/li&gt;
+&lt;li&gt;They can summarize and interpret web content.&lt;/li&gt;
+&lt;li&gt;Users can give commands in natural language.&lt;/li&gt;
+&lt;li&gt;Browsers execute tasks autonomously across apps and systems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.lasso.security/blog/the-rise-of-ai-browsers-smarter-faster-and-far-more-dangerous</guid>
+      <category>Artificial Intelligence</category>
+      <category>Web Browsers</category>
       <category>Technology Innovation</category>
-      <pubDate>Thu, 16 Oct 2025 17:00:00 +0000</pubDate>
-      <source url="https://neuraltrust.ai/blog">Custom Web Page</source>
+      <category>Human-Computer Interaction</category>
+      <pubDate>Mon, 20 Oct 2025 21:35:56 +0000</pubDate>
+      <source url="https://www.lasso.security/blog">Custom Web Page</source>
     </item>
   </channel>
 </rss>
