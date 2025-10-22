@@ -7,184 +7,191 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Oct 2025 21:35:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 21:33:45 +0000</lastBuildDate>
     <item>
-      <title>The Good, The Bad, and The Ugly in Cybersecurity — Week 41</title>
-      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-41-7/</link>
+      <title>How to Secure Your GenAI App When You Don’t Know Where to Start</title>
+      <link>https://www.lakera.ai/blog/how-to-secure-your-genai-app-when-you-dont-know-where-to-start</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Paul Ducklin&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2023-10-13&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Phishing", "Ransomware", "Malware", "Critical Infrastructure Security"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Lakera Team&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; August 27, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["GenAI Security", "Policy Management", "Cybersecurity Best Practices", "AI Application Protection"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Microsoft added AI-driven phishing protection to Outlook.&lt;/li&gt;
-&lt;li&gt;New ransomware decryption tools help victims recover data.&lt;/li&gt;
-&lt;li&gt;ShadowStrike malware targets enterprise VPNs using zero-day exploits.&lt;/li&gt;
-&lt;li&gt;Government agencies face breaches from third-party vendors.&lt;/li&gt;
-&lt;li&gt;Critical infrastructure suffers attacks from cybercrime groups.&lt;/li&gt;
+&lt;li&gt;Security teams struggle to identify needed defenses for GenAI apps.&lt;/li&gt;
+&lt;li&gt;Policy management is complex and lacks clear best practices.&lt;/li&gt;
+&lt;li&gt;Lakera Guard offers pre-built, expert security policies.&lt;/li&gt;
+&lt;li&gt;These policies balance security with usability and innovation.&lt;/li&gt;
+&lt;li&gt;Teams can start by applying recommended policies and refining them.&lt;/li&gt;
+&lt;li&gt;This approach prevents analysis paralysis and supports evolving security needs.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-41-7/</guid>
-      <category>Cybersecurity</category>
-      <category>Phishing</category>
-      <category>Ransomware</category>
-      <category>Malware</category>
-      <category>Critical Infrastructure Security</category>
-      <pubDate>Mon, 20 Oct 2025 21:35:56 +0000</pubDate>
-      <source url="https://www.sentinelone.com/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>The Good, the Bad and the Ugly in Cybersecurity – Week 42</title>
-      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-42-7/</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Paul Lanzi&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2023-10-20&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity News", "Ransomware", "Phishing Attacks", "AI in Cybersecurity", "Security Updates"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Microsoft released security updates for Windows and Azure.&lt;/li&gt;
-&lt;li&gt;A new ransomware called DarkCrypt targets healthcare in North America.&lt;/li&gt;
-&lt;li&gt;DarkCrypt encrypts patient data and demands large ransoms.&lt;/li&gt;
-&lt;li&gt;AI-generated deepfake voices are used in phishing scams.&lt;/li&gt;
-&lt;li&gt;The cybersecurity community prepares for OneCon25 conference on AI security.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-42-7/</guid>
-      <category>Cybersecurity News</category>
-      <category>Ransomware</category>
-      <category>Phishing Attacks</category>
-      <category>AI in Cybersecurity</category>
-      <category>Security Updates</category>
-      <pubDate>Mon, 20 Oct 2025 21:35:56 +0000</pubDate>
-      <source url="https://www.sentinelone.com/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>SentinelOne and the MITRE ATT&amp;CKⓇ Evaluations: Enterprise 2025</title>
-      <link>https://www.sentinelone.com/blog/sentinelone-and-the-mitre-attck-evaluations-enterprise-2025/</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; SentinelOne&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2023-12-14&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Endpoint Detection and Response", "MITRE ATT&amp;CK", "Artificial Intelligence", "Threat Detection"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;MITRE ATT&amp;CK Evaluations assess cybersecurity vendor performance.&lt;/li&gt;
-&lt;li&gt;SentinelOne led the 2025 Enterprise Evaluation with top scores.&lt;/li&gt;
-&lt;li&gt;The test simulated advanced threat actor tactics.&lt;/li&gt;
-&lt;li&gt;SentinelOne’s AI-driven platform enabled fast detection and response.&lt;/li&gt;
-&lt;li&gt;The solution showed strong visibility and low false positives.&lt;/li&gt;
-&lt;li&gt;This proves SentinelOne’s strength in threat detection and response.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.sentinelone.com/blog/sentinelone-and-the-mitre-attck-evaluations-enterprise-2025/</guid>
-      <category>Cybersecurity</category>
-      <category>Endpoint Detection and Response</category>
-      <category>MITRE ATT&amp;CK</category>
-      <category>Artificial Intelligence</category>
-      <category>Threat Detection</category>
-      <pubDate>Mon, 20 Oct 2025 21:35:56 +0000</pubDate>
-      <source url="https://www.sentinelone.com/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>LABScon 2025 | From LLM Malware to Hotel Room Bugs: A Look at This Year’s Talks</title>
-      <link>https://www.sentinelone.com/blog/labscon-2025-from-llm-malware-to-hotel-room-bugs-a-look-at-this-years-talks/</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Sean Michael Kerner&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2024-04-24&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Artificial Intelligence", "Malware", "IoT Security", "Cloud Security"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;LabsCon 2025 is a cybersecurity conference by SentinelOne.&lt;/li&gt;
-&lt;li&gt;It covers emerging threats and new defensive techniques.&lt;/li&gt;
-&lt;li&gt;Topics include LLM malware and hotel room vulnerabilities.&lt;/li&gt;
-&lt;li&gt;Sessions focus on AI-powered attacks and autonomous cybersecurity.&lt;/li&gt;
-&lt;li&gt;The event promotes collaboration among security experts.&lt;/li&gt;
-&lt;li&gt;Attendees will see live demos and AI-driven security solutions.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.sentinelone.com/blog/labscon-2025-from-llm-malware-to-hotel-room-bugs-a-look-at-this-years-talks/</guid>
-      <category>Cybersecurity</category>
-      <category>Artificial Intelligence</category>
-      <category>Malware</category>
-      <category>IoT Security</category>
-      <category>Cloud Security</category>
-      <pubDate>Mon, 20 Oct 2025 21:35:56 +0000</pubDate>
-      <source url="https://www.sentinelone.com/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Sentinel’s League: Live Rankings for the Threat Hunting World Championship</title>
-      <link>https://www.sentinelone.com/blog/sentinels-league-live-rankings-for-the-threat-hunting-world-championship/</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; SentinelOne Team&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2023-09-21&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Threat Hunting", "Competitive Rankings", "Professional Development", "Technology Platforms"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Sentinel’s League is a live leaderboard for the Threat Hunting World Championship.&lt;/li&gt;
-&lt;li&gt;It tracks top threat hunters in real time.&lt;/li&gt;
-&lt;li&gt;The platform promotes competition and collaboration among cybersecurity experts.&lt;/li&gt;
-&lt;li&gt;Participants face simulated attack scenarios to test their skills.&lt;/li&gt;
-&lt;li&gt;The league offers detailed scoring and competitor profiles.&lt;/li&gt;
-&lt;li&gt;It helps organizations find and recruit cybersecurity talent.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.sentinelone.com/blog/sentinels-league-live-rankings-for-the-threat-hunting-world-championship/</guid>
-      <category>Cybersecurity</category>
-      <category>Threat Hunting</category>
-      <category>Competitive Rankings</category>
-      <category>Professional Development</category>
-      <category>Technology Platforms</category>
-      <pubDate>Mon, 20 Oct 2025 21:35:56 +0000</pubDate>
-      <source url="https://www.sentinelone.com/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>From Obstacle to Accelerator: Custom Compliance for Cloud Security</title>
-      <link>https://www.sentinelone.com/blog/custom-compliance-for-cloud-security/</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; SentinelOne&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2023-05-11&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cloud Security", "Compliance", "Regulatory Requirements", "DevOps", "Cybersecurity Best Practices"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Cloud computing offers scalability and cost savings.&lt;/li&gt;
-&lt;li&gt;Compliance in cloud security is complex and critical.&lt;/li&gt;
-&lt;li&gt;Custom compliance tailors controls to specific regulations.&lt;/li&gt;
-&lt;li&gt;Automation and continuous monitoring improve compliance.&lt;/li&gt;
-&lt;li&gt;Integrating compliance into DevOps enhances security.&lt;/li&gt;
-&lt;li&gt;Training and incident planning support compliance efforts.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.sentinelone.com/blog/custom-compliance-for-cloud-security/</guid>
-      <category>Cloud Security</category>
-      <category>Compliance</category>
-      <category>Regulatory Requirements</category>
-      <category>DevOps</category>
+      <guid isPermaLink="false">https://www.lakera.ai/blog/how-to-secure-your-genai-app-when-you-dont-know-where-to-start</guid>
+      <category>GenAI Security</category>
+      <category>Policy Management</category>
       <category>Cybersecurity Best Practices</category>
-      <pubDate>Mon, 20 Oct 2025 21:35:56 +0000</pubDate>
-      <source url="https://www.sentinelone.com/blog">Custom Web Page</source>
+      <category>AI Application Protection</category>
+      <pubDate>Wed, 22 Oct 2025 21:33:45 +0000</pubDate>
+      <source url="https://www.lakera.ai/blog">Custom Web Page</source>
     </item>
     <item>
-      <title>The Rise of AI Browsers: Smarter, Faster, and Far More Dangerous</title>
-      <link>https://www.lasso.security/blog/the-rise-of-ai-browsers-smarter-faster-and-far-more-dangerous</link>
+      <title>Lakera Guard — Fall ’25: Adaptive at Scale</title>
+      <link>https://www.lakera.ai/blog/lakera-guard-fall-25-adaptive-at-scale</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; The Lasso Team&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Lakera Team&lt;/div&gt;
 &lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 20, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Web Browsers", "Technology Innovation", "Human-Computer Interaction"]&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Application Security", "Cybersecurity Tools", "AI Performance Optimization"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;AI is transforming the browsing experience.&lt;/li&gt;
-&lt;li&gt;Browsers now use large language models.&lt;/li&gt;
-&lt;li&gt;They can summarize and interpret web content.&lt;/li&gt;
-&lt;li&gt;Users can give commands in natural language.&lt;/li&gt;
-&lt;li&gt;Browsers execute tasks autonomously across apps and systems.&lt;/li&gt;
+&lt;li&gt;Lakera Guard adapts to changing AI applications.&lt;/li&gt;
+&lt;li&gt;It filters out noise to reduce false alerts.&lt;/li&gt;
+&lt;li&gt;The system scales protection with low latency.&lt;/li&gt;
+&lt;li&gt;This keeps global AI experiences safe and fast.&lt;/li&gt;
+&lt;li&gt;Security teams benefit from improved detection quality.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.lasso.security/blog/the-rise-of-ai-browsers-smarter-faster-and-far-more-dangerous</guid>
+      <guid isPermaLink="false">https://www.lakera.ai/blog/lakera-guard-fall-25-adaptive-at-scale</guid>
+      <category>AI Security</category>
+      <category>Application Security</category>
+      <category>Cybersecurity Tools</category>
+      <category>AI Performance Optimization</category>
+      <pubDate>Wed, 22 Oct 2025 21:33:45 +0000</pubDate>
+      <source url="https://www.lakera.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Claude Code on the Web: Power, Productivity, and a Whole Lot of New Risk</title>
+      <link>https://www.prompt.security/blog/claude-code-on-the-web-power-productivity-and-a-whole-lot-of-new-risk</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Dan Guido&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2023-11-07&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Cybersecurity", "Software Development", "AI Ethics", "Enterprise Technology"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Claude 3 is a powerful AI assistant from Anthropic.&lt;/li&gt;
+&lt;li&gt;It improves code generation and reasoning.&lt;/li&gt;
+&lt;li&gt;It can access and manipulate live web content.&lt;/li&gt;
+&lt;li&gt;This boosts productivity but raises security risks.&lt;/li&gt;
+&lt;li&gt;Organizations must update defenses and monitor AI use.&lt;/li&gt;
+&lt;li&gt;Balancing innovation with security is essential.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.prompt.security/blog/claude-code-on-the-web-power-productivity-and-a-whole-lot-of-new-risk</guid>
       <category>Artificial Intelligence</category>
-      <category>Web Browsers</category>
-      <category>Technology Innovation</category>
-      <category>Human-Computer Interaction</category>
-      <pubDate>Mon, 20 Oct 2025 21:35:56 +0000</pubDate>
+      <category>Cybersecurity</category>
+      <category>Software Development</category>
+      <category>AI Ethics</category>
+      <category>Enterprise Technology</category>
+      <pubDate>Wed, 22 Oct 2025 21:33:45 +0000</pubDate>
+      <source url="https://www.prompt.security/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Toloka podcast: How RL Gyms are redefining data for AI agents</title>
+      <link>https://toloka.ai/toloka-podcast-how-rl-gyms-are-redefining-data-for-ai-agents/</link>
+      <guid isPermaLink="false">https://toloka.ai/toloka-podcast-how-rl-gyms-are-redefining-data-for-ai-agents/</guid>
+      <pubDate>Wed, 22 Oct 2025 21:33:45 +0000</pubDate>
+      <source url="https://toloka.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>AI Agent Security: How to Protect Autonomous Systems</title>
+      <link>https://neuraltrust.ai/blog/ai-agent-security-how-to-protect-autonomous-systems</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Rodrigo Fernández&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 22, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Autonomous Systems", "Cybersecurity", "Enterprise AI", "AI Governance"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;AI agents automate tasks and make autonomous decisions.&lt;/li&gt;
+&lt;li&gt;They increase organizational attack surfaces.&lt;/li&gt;
+&lt;li&gt;Security involves managing agent identity and access.&lt;/li&gt;
+&lt;li&gt;Protecting agents requires lifecycle oversight and policy enforcement.&lt;/li&gt;
+&lt;li&gt;Different agent types need tailored security approaches.&lt;/li&gt;
+&lt;li&gt;Visibility and control ensure trustworthy AI operations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://neuraltrust.ai/blog/ai-agent-security-how-to-protect-autonomous-systems</guid>
+      <category>AI Security</category>
+      <category>Autonomous Systems</category>
+      <category>Cybersecurity</category>
+      <category>Enterprise AI</category>
+      <category>AI Governance</category>
+      <pubDate>Wed, 22 Oct 2025 12:00:00 +0000</pubDate>
+      <source url="https://neuraltrust.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>LLM Risks: Enterprise Threats and How to Secure Them</title>
+      <link>https://www.lasso.security/blog/llm-risks-enterprise-threats</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Elad Schulman&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 21, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Enterprise Security", "Artificial Intelligence", "Data Privacy", "Cybersecurity", "Large Language Models"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;LLMs introduce new security risks beyond traditional software vulnerabilities.&lt;/li&gt;
+&lt;li&gt;Risks include data leakage, prompt injection, and model poisoning.&lt;/li&gt;
+&lt;li&gt;Enterprises must adopt new security measures for LLMs.&lt;/li&gt;
+&lt;li&gt;Key strategies include data governance, prompt filtering, and access controls.&lt;/li&gt;
+&lt;li&gt;Monitoring and regular updates are essential to secure LLM deployments.&lt;/li&gt;
+&lt;li&gt;LLMs require tailored security frameworks to protect enterprise data.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.lasso.security/blog/llm-risks-enterprise-threats</guid>
+      <category>Enterprise Security</category>
+      <category>Artificial Intelligence</category>
+      <category>Data Privacy</category>
+      <category>Cybersecurity</category>
+      <category>Large Language Models</category>
+      <pubDate>Wed, 22 Oct 2025 21:33:45 +0000</pubDate>
       <source url="https://www.lasso.security/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Cross Session Leak: when your AI assistant becomes a data breach</title>
+      <link>https://www.giskard.ai/knowledge/cross-session-leak-when-your-ai-assistant-becomes-a-data-breach</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Raphaël Benitte&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2023-07-18&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Data Security", "Privacy", "Cybersecurity", "Software Development"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;AI assistants handle more sensitive data daily.&lt;/li&gt;
+&lt;li&gt;Cross-session leaks expose data between user sessions.&lt;/li&gt;
+&lt;li&gt;These leaks occur due to poor session management.&lt;/li&gt;
+&lt;li&gt;Consequences include privacy violations and reputational damage.&lt;/li&gt;
+&lt;li&gt;Developers must enforce strict security measures to prevent leaks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.giskard.ai/knowledge/cross-session-leak-when-your-ai-assistant-becomes-a-data-breach</guid>
+      <category>Artificial Intelligence</category>
+      <category>Data Security</category>
+      <category>Privacy</category>
+      <category>Cybersecurity</category>
+      <category>Software Development</category>
+      <pubDate>Wed, 22 Oct 2025 21:33:45 +0000</pubDate>
+      <source url="https://www.giskard.ai/knowledge-categories/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>LLM business alignment: Detecting AI hallucinations and misaligned agentic behavior in business systems</title>
+      <link>https://www.giskard.ai/knowledge/llm-business-alignment-detecting-ai-hallucinations-and-misaligned-agentic-behavior-in-business-systems</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Giskard Team&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2023-08-15&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Business Automation", "AI Safety", "Machine Learning", "Natural Language Processing"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;LLMs transform business automation but pose risks like hallucinations.&lt;/li&gt;
+&lt;li&gt;Hallucinations produce plausible yet incorrect outputs.&lt;/li&gt;
+&lt;li&gt;Misaligned behavior causes AI to stray from business goals.&lt;/li&gt;
+&lt;li&gt;Detection uses fact-checking and domain validators.&lt;/li&gt;
+&lt;li&gt;Alignment needs clear goals and human oversight.&lt;/li&gt;
+&lt;li&gt;Tools like Giskard help evaluate and align models.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.giskard.ai/knowledge/llm-business-alignment-detecting-ai-hallucinations-and-misaligned-agentic-behavior-in-business-systems</guid>
+      <category>Artificial Intelligence</category>
+      <category>Business Automation</category>
+      <category>AI Safety</category>
+      <category>Machine Learning</category>
+      <category>Natural Language Processing</category>
+      <pubDate>Wed, 22 Oct 2025 21:33:45 +0000</pubDate>
+      <source url="https://www.giskard.ai/knowledge-categories/blog">Custom Web Page</source>
     </item>
   </channel>
 </rss>
