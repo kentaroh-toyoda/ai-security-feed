@@ -7,184 +7,156 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Oct 2025 21:34:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 21:36:55 +0000</lastBuildDate>
     <item>
-      <title>AI Threat Intelligence: 4 Emerging Threats Facing AI Agents</title>
-      <link>https://mindgard.ai/blog/ai-threat-intelligence-emerging-threats-facing-ai-</link>
+      <title>Keller Williams: Rise of the Agent Engineer</title>
+      <link>https://arize.com/blog/keller-williams-rise-of-the-agent-engineer/</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Cybersecurity", "Threat Intelligence", "Artificial Intelligence"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 13, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Real Estate", "Artificial Intelligence", "Technology in Business", "CRM Solutions", "Workplace Efficiency"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;AI agents face new threats like memory poisoning and model extraction.&lt;/li&gt;
-&lt;li&gt;Identity spoofing is a growing concern.&lt;/li&gt;
-&lt;li&gt;Multi-agent collusion increases attack complexity.&lt;/li&gt;
-&lt;li&gt;Proactive AI threat intelligence is essential.&lt;/li&gt;
-&lt;li&gt;It helps detect anomalies and simulate attacks.&lt;/li&gt;
+&lt;li&gt;Keller Williams is the largest real estate franchise by agent count.&lt;/li&gt;
+&lt;li&gt;The company focuses on agent-centric and technology-driven culture.&lt;/li&gt;
+&lt;li&gt;They are exploring generative AI to improve CRM efficiency.&lt;/li&gt;
+&lt;li&gt;Initial AI tools target internal tech department productivity.&lt;/li&gt;
+&lt;li&gt;The goal is to empower agents through better technology.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://mindgard.ai/blog/ai-threat-intelligence-emerging-threats-facing-ai-</guid>
-      <category>AI Security</category>
-      <category>Cybersecurity</category>
-      <category>Threat Intelligence</category>
+      <guid isPermaLink="false">https://arize.com/blog/keller-williams-rise-of-the-agent-engineer/</guid>
+      <category>Real Estate</category>
       <category>Artificial Intelligence</category>
-      <pubDate>Thu, 23 Oct 2025 21:34:18 +0000</pubDate>
-      <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
+      <category>Technology in Business</category>
+      <category>CRM Solutions</category>
+      <category>Workplace Efficiency</category>
+      <pubDate>Fri, 24 Oct 2025 21:36:55 +0000</pubDate>
+      <source url="https://arize.com/blog">Custom Web Page</source>
     </item>
     <item>
-      <title>ISO/IEC 42001: AI Management System Standard Explained</title>
-      <link>https://mindgard.ai/blog/iso-iec-42001-ai-management-system-standard</link>
+      <title>Optimizing Coding Agent Rules: Claude MD Agents, MD Clinerules, Cursor Rules for Improved Accuracy</title>
+      <link>https://arize.com/blog/optimizing-coding-agent-rules-claude-md-agents-md-clinerules-cursor-rules-for-improved-accuracy/</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Fergal Glynn&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 23, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "AI Governance", "Risk Management", "Ethical AI", "Standards and Compliance"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 14, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Software Development", "Artificial Intelligence", "Coding Agents", "Prompt Engineering", "Software Tools"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;ISO/IEC 42001 is a new standard for AI management systems.&lt;/li&gt;
-&lt;li&gt;It provides a certifiable framework for ethical AI governance.&lt;/li&gt;
-&lt;li&gt;The standard helps manage risks like bias and security issues.&lt;/li&gt;
-&lt;li&gt;It promotes continuous oversight and compliance throughout the AI lifecycle.&lt;/li&gt;
-&lt;li&gt;Organizations can use it to build responsible AI policies.&lt;/li&gt;
-&lt;li&gt;The standard supports trust and accountability in AI deployment.&lt;/li&gt;
+&lt;li&gt;Coding agents are transforming software development.&lt;/li&gt;
+&lt;li&gt;They use a single, persistent system prompt for context.&lt;/li&gt;
+&lt;li&gt;Rules files let users customize agent behavior.&lt;/li&gt;
+&lt;li&gt;Writing effective rules is challenging but crucial.&lt;/li&gt;
+&lt;li&gt;The article discusses best practices for rule optimization.&lt;/li&gt;
+&lt;li&gt;It focuses on Claude and Cursor agents.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://mindgard.ai/blog/iso-iec-42001-ai-management-system-standard</guid>
-      <category>Artificial Intelligence</category>
-      <category>AI Governance</category>
-      <category>Risk Management</category>
-      <category>Ethical AI</category>
-      <category>Standards and Compliance</category>
-      <pubDate>Thu, 23 Oct 2025 21:34:18 +0000</pubDate>
-      <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>ISO/IEC 23894: AI Risk Management Standard Explained</title>
-      <link>https://mindgard.ai/blog/iso-iec-23894-ai-risk-management-standard</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Fergal Glynn&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 23, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Risk Management", "International Standards", "AI Governance", "Cybersecurity", "Compliance"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;ISO/IEC 23894 is a voluntary international AI risk management standard.&lt;/li&gt;
-&lt;li&gt;It helps identify and mitigate AI-specific risks.&lt;/li&gt;
-&lt;li&gt;The standard complements other frameworks like ISO/IEC 42001 and NIST AI RMF.&lt;/li&gt;
-&lt;li&gt;It supports responsible and secure AI deployment.&lt;/li&gt;
-&lt;li&gt;Organizations can improve trust and compliance by following it.&lt;/li&gt;
-&lt;li&gt;The article also covers implementation best practices and challenges.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://mindgard.ai/blog/iso-iec-23894-ai-risk-management-standard</guid>
-      <category>AI Risk Management</category>
-      <category>International Standards</category>
-      <category>AI Governance</category>
-      <category>Cybersecurity</category>
-      <category>Compliance</category>
-      <pubDate>Thu, 23 Oct 2025 21:34:18 +0000</pubDate>
-      <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>From word docs to data analysis: Evaluating AI agent performance across everyday apps</title>
-      <link>https://toloka.ai/blog/evaluating-ai-agent-performance-across-everyday-apps/</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Dmitry Zubanov, Magdalena Konkiewicz&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 1, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Human-Computer Interaction", "Software Testing", "Data Annotation", "Machine Learning Evaluation"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;An AI company tested its agent's ability to use everyday computer applications.&lt;/li&gt;
-&lt;li&gt;Basic actions like clicking and typing were not enough.&lt;/li&gt;
-&lt;li&gt;They created thousands of realistic tasks across various software.&lt;/li&gt;
-&lt;li&gt;Human evaluators assessed task completion and handling of software quirks.&lt;/li&gt;
-&lt;li&gt;Quality control ensured consistent and accurate evaluations.&lt;/li&gt;
-&lt;li&gt;The project revealed strengths and weaknesses in real-world AI application use.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://toloka.ai/blog/evaluating-ai-agent-performance-across-everyday-apps/</guid>
-      <category>Artificial Intelligence</category>
-      <category>Human-Computer Interaction</category>
-      <category>Software Testing</category>
-      <category>Data Annotation</category>
-      <category>Machine Learning Evaluation</category>
-      <pubDate>Thu, 23 Oct 2025 21:34:18 +0000</pubDate>
-      <source url="https://toloka.ai/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>How Toloka helped poolside define and measure AI quality for developers</title>
-      <link>https://toloka.ai/blog/how-toloka-helped-poolside-define-and-measure-ai-quality-for-developers/</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Mariya Shmatova, Mikhail Ostanin&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 15, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Evaluation", "Software Development", "Machine Learning Models", "Quality Assurance", "Developer Tools"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Poolside needed a way to measure AI answer quality beyond accuracy.&lt;/li&gt;
-&lt;li&gt;Toloka created a pairwise comparison evaluation framework.&lt;/li&gt;
-&lt;li&gt;The framework considers developer intent and task categories.&lt;/li&gt;
-&lt;li&gt;It provides consistent, context-aware assessments.&lt;/li&gt;
-&lt;li&gt;This helps identify model strengths and weaknesses.&lt;/li&gt;
-&lt;li&gt;Experts review answers to ensure clarity and usefulness.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://toloka.ai/blog/how-toloka-helped-poolside-define-and-measure-ai-quality-for-developers/</guid>
-      <category>AI Evaluation</category>
+      <guid isPermaLink="false">https://arize.com/blog/optimizing-coding-agent-rules-claude-md-agents-md-clinerules-cursor-rules-for-improved-accuracy/</guid>
       <category>Software Development</category>
-      <category>Machine Learning Models</category>
-      <category>Quality Assurance</category>
-      <category>Developer Tools</category>
-      <pubDate>Thu, 23 Oct 2025 21:34:18 +0000</pubDate>
-      <source url="https://toloka.ai/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Toloka podcast: How RL Gyms are redefining data for AI agents</title>
-      <link>https://toloka.ai/blog/toloka-podcast-how-rl-gyms-are-redefining-data-for-ai-agents/</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Toloka Team&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 21, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Reinforcement Learning", "Data Science", "Machine Learning", "AI Training Environments"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Toloka leaders discuss the shift from crowdsourced data to expert-led AI training.&lt;/li&gt;
-&lt;li&gt;Reinforcement learning (RL) Gyms create controlled environments for AI agents.&lt;/li&gt;
-&lt;li&gt;These gyms use verifiable rewards instead of static human feedback.&lt;/li&gt;
-&lt;li&gt;Private benchmarks often outperform public ones in AI training.&lt;/li&gt;
-&lt;li&gt;Achieving near-perfect data quality is costly but crucial.&lt;/li&gt;
-&lt;li&gt;The talk highlights collaboration between humans and machines in AI development.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://toloka.ai/blog/toloka-podcast-how-rl-gyms-are-redefining-data-for-ai-agents/</guid>
       <category>Artificial Intelligence</category>
-      <category>Reinforcement Learning</category>
-      <category>Data Science</category>
-      <category>Machine Learning</category>
-      <category>AI Training Environments</category>
-      <pubDate>Thu, 23 Oct 2025 21:34:18 +0000</pubDate>
-      <source url="https://toloka.ai/blog">Custom Web Page</source>
+      <category>Coding Agents</category>
+      <category>Prompt Engineering</category>
+      <category>Software Tools</category>
+      <pubDate>Fri, 24 Oct 2025 21:36:55 +0000</pubDate>
+      <source url="https://arize.com/blog">Custom Web Page</source>
     </item>
     <item>
-      <title>Model Context Protocol: How to Reduce Security Risks in Enterprise AI Deployments</title>
-      <link>https://splx.ai/blog/mcp-security-risks</link>
+      <title>Arize AI Achieves ISO IEC 27001 Certification</title>
+      <link>https://arize.com/blog/arize-ai-achieves-iso-iec-27001-certification/</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Andrija Dumančić&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; Oct 21, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Enterprise AI", "AI Security", "Model Context Protocol", "Cybersecurity", "AI Infrastructure"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 20, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Information Security", "AI Operations", "ISO Certification", "Compliance", "Data Security"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;MCP enables AI assistants to perform real-world actions using external tools.&lt;/li&gt;
-&lt;li&gt;It connects LLMs to APIs, databases, and system commands.&lt;/li&gt;
-&lt;li&gt;This increases enterprise AI usefulness but also raises security risks.&lt;/li&gt;
-&lt;li&gt;Common threats include prompt injection, tool poisoning, and command injection.&lt;/li&gt;
-&lt;li&gt;Enterprises must secure MCP workflows before deployment.&lt;/li&gt;
-&lt;li&gt;SPLX offers proactive red teaming to identify vulnerabilities.&lt;/li&gt;
+&lt;li&gt;Arize AI achieved ISO/IEC 27001 certification.&lt;/li&gt;
+&lt;li&gt;This certifies their strong information security management.&lt;/li&gt;
+&lt;li&gt;The certification was audited by A-LIGN.&lt;/li&gt;
+&lt;li&gt;Arize processes over 1 trillion AI inferences monthly.&lt;/li&gt;
+&lt;li&gt;This boosts customer confidence in security and compliance.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://splx.ai/blog/mcp-security-risks</guid>
-      <category>Enterprise AI</category>
-      <category>AI Security</category>
-      <category>Model Context Protocol</category>
+      <guid isPermaLink="false">https://arize.com/blog/arize-ai-achieves-iso-iec-27001-certification/</guid>
+      <category>Information Security</category>
+      <category>AI Operations</category>
+      <category>ISO Certification</category>
+      <category>Compliance</category>
+      <category>Data Security</category>
+      <pubDate>Fri, 24 Oct 2025 21:36:55 +0000</pubDate>
+      <source url="https://arize.com/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>What Are the Top LLM Evaluation Tools?</title>
+      <link>https://arize.com/blog/what-are-the-top-llm-evaluation-tools/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Chris Cooning&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 23, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Machine Learning", "LLM Evaluation Tools", "AI Development", "Software Engineering"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Generative AI applications are rapidly advancing across industries.&lt;/li&gt;
+&lt;li&gt;Reliable AI agents require strong evaluation and observability.&lt;/li&gt;
+&lt;li&gt;The article reviews the top five LLM evaluation tools and frameworks.&lt;/li&gt;
+&lt;li&gt;It offers practical advice for AI teams to improve agent performance.&lt;/li&gt;
+&lt;li&gt;The comparison is created by an experienced industry professional.&lt;/li&gt;
+&lt;li&gt;The article covers methodologies and best practices for LLM evaluation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://arize.com/blog/what-are-the-top-llm-evaluation-tools/</guid>
+      <category>Artificial Intelligence</category>
+      <category>Machine Learning</category>
+      <category>LLM Evaluation Tools</category>
+      <category>AI Development</category>
+      <category>Software Engineering</category>
+      <pubDate>Fri, 24 Oct 2025 21:36:55 +0000</pubDate>
+      <source url="https://arize.com/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Building the Data Flywheel for Smarter AI Systems with Arize AX and NVIDIA NeMo</title>
+      <link>https://arize.com/blog/building-the-data-flywheel-for-smarter-ai-systems-with-arize-ax-and-nvidia-nemo/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 23, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Machine Learning Operations", "Data Engineering", "Customer Service Automation", "Autonomous Systems"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Self-driving cars improve by using real-world data to train models.&lt;/li&gt;
+&lt;li&gt;AT&amp;T uses AI agents to enhance customer service.&lt;/li&gt;
+&lt;li&gt;Arize AX and NVIDIA NeMo create a data flywheel for AI.&lt;/li&gt;
+&lt;li&gt;This flywheel automates data collection, curation, training, and deployment.&lt;/li&gt;
+&lt;li&gt;Continuous feedback loops speed up AI improvements.&lt;/li&gt;
+&lt;li&gt;The platform supports scalable and adaptive AI systems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://arize.com/blog/building-the-data-flywheel-for-smarter-ai-systems-with-arize-ax-and-nvidia-nemo/</guid>
+      <category>Artificial Intelligence</category>
+      <category>Machine Learning Operations</category>
+      <category>Data Engineering</category>
+      <category>Customer Service Automation</category>
+      <category>Autonomous Systems</category>
+      <pubDate>Fri, 24 Oct 2025 21:36:55 +0000</pubDate>
+      <source url="https://arize.com/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>OpenAI Atlas Omnibox Prompt Injection: URLs That Become Jailbreaks</title>
+      <link>https://neuraltrust.ai/blog/openai-atlas-omnibox-prompt-injection</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Martí Jordà&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 24, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Prompt Injection", "Agentic Browsers", "OpenAI Atlas", "Input Validation"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;OpenAI Atlas uses an omnibox for URLs and commands.&lt;/li&gt;
+&lt;li&gt;A prompt injection disguises malicious instructions as URLs.&lt;/li&gt;
+&lt;li&gt;Malformed URL-like strings bypass URL validation.&lt;/li&gt;
+&lt;li&gt;Atlas treats these as trusted user intent.&lt;/li&gt;
+&lt;li&gt;This enables harmful actions like phishing or data deletion.&lt;/li&gt;
+&lt;li&gt;The issue reveals weak input validation in agentic browsers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://neuraltrust.ai/blog/openai-atlas-omnibox-prompt-injection</guid>
       <category>Cybersecurity</category>
-      <category>AI Infrastructure</category>
-      <pubDate>Thu, 23 Oct 2025 21:34:18 +0000</pubDate>
-      <source url="https://splx.ai/blog">Custom Web Page</source>
+      <category>Prompt Injection</category>
+      <category>Agentic Browsers</category>
+      <category>OpenAI Atlas</category>
+      <category>Input Validation</category>
+      <pubDate>Fri, 24 Oct 2025 17:00:00 +0000</pubDate>
+      <source url="https://neuraltrust.ai/blog">Custom Web Page</source>
     </item>
   </channel>
 </rss>
