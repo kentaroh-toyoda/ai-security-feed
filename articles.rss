@@ -7,156 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Oct 2025 21:36:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Oct 2025 21:42:53 +0000</lastBuildDate>
     <item>
-      <title>Keller Williams: Rise of the Agent Engineer</title>
-      <link>https://arize.com/blog/keller-williams-rise-of-the-agent-engineer/</link>
+      <title>The Rise of AI Browsers: Smarter, Faster, and Far More Dangerous</title>
+      <link>https://www.lasso.security/blog/the-rise-of-ai-browsers</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 13, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Real Estate", "Artificial Intelligence", "Technology in Business", "CRM Solutions", "Workplace Efficiency"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Keller Williams is the largest real estate franchise by agent count.&lt;/li&gt;
-&lt;li&gt;The company focuses on agent-centric and technology-driven culture.&lt;/li&gt;
-&lt;li&gt;They are exploring generative AI to improve CRM efficiency.&lt;/li&gt;
-&lt;li&gt;Initial AI tools target internal tech department productivity.&lt;/li&gt;
-&lt;li&gt;The goal is to empower agents through better technology.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://arize.com/blog/keller-williams-rise-of-the-agent-engineer/</guid>
-      <category>Real Estate</category>
-      <category>Artificial Intelligence</category>
-      <category>Technology in Business</category>
-      <category>CRM Solutions</category>
-      <category>Workplace Efficiency</category>
-      <pubDate>Fri, 24 Oct 2025 21:36:55 +0000</pubDate>
-      <source url="https://arize.com/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Optimizing Coding Agent Rules: Claude MD Agents, MD Clinerules, Cursor Rules for Improved Accuracy</title>
-      <link>https://arize.com/blog/optimizing-coding-agent-rules-claude-md-agents-md-clinerules-cursor-rules-for-improved-accuracy/</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 14, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Software Development", "Artificial Intelligence", "Coding Agents", "Prompt Engineering", "Software Tools"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Coding agents are transforming software development.&lt;/li&gt;
-&lt;li&gt;They use a single, persistent system prompt for context.&lt;/li&gt;
-&lt;li&gt;Rules files let users customize agent behavior.&lt;/li&gt;
-&lt;li&gt;Writing effective rules is challenging but crucial.&lt;/li&gt;
-&lt;li&gt;The article discusses best practices for rule optimization.&lt;/li&gt;
-&lt;li&gt;It focuses on Claude and Cursor agents.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://arize.com/blog/optimizing-coding-agent-rules-claude-md-agents-md-clinerules-cursor-rules-for-improved-accuracy/</guid>
-      <category>Software Development</category>
-      <category>Artificial Intelligence</category>
-      <category>Coding Agents</category>
-      <category>Prompt Engineering</category>
-      <category>Software Tools</category>
-      <pubDate>Fri, 24 Oct 2025 21:36:55 +0000</pubDate>
-      <source url="https://arize.com/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Arize AI Achieves ISO IEC 27001 Certification</title>
-      <link>https://arize.com/blog/arize-ai-achieves-iso-iec-27001-certification/</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; The Lasso Team&lt;/div&gt;
 &lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 20, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Information Security", "AI Operations", "ISO Certification", "Compliance", "Data Security"]&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Web Browsing", "Technology Innovation", "Natural Language Processing"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Arize AI achieved ISO/IEC 27001 certification.&lt;/li&gt;
-&lt;li&gt;This certifies their strong information security management.&lt;/li&gt;
-&lt;li&gt;The certification was audited by A-LIGN.&lt;/li&gt;
-&lt;li&gt;Arize processes over 1 trillion AI inferences monthly.&lt;/li&gt;
-&lt;li&gt;This boosts customer confidence in security and compliance.&lt;/li&gt;
+&lt;li&gt;AI is transforming the browsing experience.&lt;/li&gt;
+&lt;li&gt;Browsers now use large language models.&lt;/li&gt;
+&lt;li&gt;They can summarize and interpret content.&lt;/li&gt;
+&lt;li&gt;Users give commands in natural language.&lt;/li&gt;
+&lt;li&gt;Browsers execute complex tasks autonomously.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://arize.com/blog/arize-ai-achieves-iso-iec-27001-certification/</guid>
-      <category>Information Security</category>
-      <category>AI Operations</category>
-      <category>ISO Certification</category>
-      <category>Compliance</category>
-      <category>Data Security</category>
-      <pubDate>Fri, 24 Oct 2025 21:36:55 +0000</pubDate>
-      <source url="https://arize.com/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>What Are the Top LLM Evaluation Tools?</title>
-      <link>https://arize.com/blog/what-are-the-top-llm-evaluation-tools/</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Chris Cooning&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 23, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Machine Learning", "LLM Evaluation Tools", "AI Development", "Software Engineering"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Generative AI applications are rapidly advancing across industries.&lt;/li&gt;
-&lt;li&gt;Reliable AI agents require strong evaluation and observability.&lt;/li&gt;
-&lt;li&gt;The article reviews the top five LLM evaluation tools and frameworks.&lt;/li&gt;
-&lt;li&gt;It offers practical advice for AI teams to improve agent performance.&lt;/li&gt;
-&lt;li&gt;The comparison is created by an experienced industry professional.&lt;/li&gt;
-&lt;li&gt;The article covers methodologies and best practices for LLM evaluation.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://arize.com/blog/what-are-the-top-llm-evaluation-tools/</guid>
+      <guid isPermaLink="false">https://www.lasso.security/blog/the-rise-of-ai-browsers</guid>
       <category>Artificial Intelligence</category>
-      <category>Machine Learning</category>
-      <category>LLM Evaluation Tools</category>
-      <category>AI Development</category>
-      <category>Software Engineering</category>
-      <pubDate>Fri, 24 Oct 2025 21:36:55 +0000</pubDate>
-      <source url="https://arize.com/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Building the Data Flywheel for Smarter AI Systems with Arize AX and NVIDIA NeMo</title>
-      <link>https://arize.com/blog/building-the-data-flywheel-for-smarter-ai-systems-with-arize-ax-and-nvidia-nemo/</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 23, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Machine Learning Operations", "Data Engineering", "Customer Service Automation", "Autonomous Systems"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Self-driving cars improve by using real-world data to train models.&lt;/li&gt;
-&lt;li&gt;AT&amp;T uses AI agents to enhance customer service.&lt;/li&gt;
-&lt;li&gt;Arize AX and NVIDIA NeMo create a data flywheel for AI.&lt;/li&gt;
-&lt;li&gt;This flywheel automates data collection, curation, training, and deployment.&lt;/li&gt;
-&lt;li&gt;Continuous feedback loops speed up AI improvements.&lt;/li&gt;
-&lt;li&gt;The platform supports scalable and adaptive AI systems.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://arize.com/blog/building-the-data-flywheel-for-smarter-ai-systems-with-arize-ax-and-nvidia-nemo/</guid>
-      <category>Artificial Intelligence</category>
-      <category>Machine Learning Operations</category>
-      <category>Data Engineering</category>
-      <category>Customer Service Automation</category>
-      <category>Autonomous Systems</category>
-      <pubDate>Fri, 24 Oct 2025 21:36:55 +0000</pubDate>
-      <source url="https://arize.com/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>OpenAI Atlas Omnibox Prompt Injection: URLs That Become Jailbreaks</title>
-      <link>https://neuraltrust.ai/blog/openai-atlas-omnibox-prompt-injection</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Martí Jordà&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 24, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Prompt Injection", "Agentic Browsers", "OpenAI Atlas", "Input Validation"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;OpenAI Atlas uses an omnibox for URLs and commands.&lt;/li&gt;
-&lt;li&gt;A prompt injection disguises malicious instructions as URLs.&lt;/li&gt;
-&lt;li&gt;Malformed URL-like strings bypass URL validation.&lt;/li&gt;
-&lt;li&gt;Atlas treats these as trusted user intent.&lt;/li&gt;
-&lt;li&gt;This enables harmful actions like phishing or data deletion.&lt;/li&gt;
-&lt;li&gt;The issue reveals weak input validation in agentic browsers.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://neuraltrust.ai/blog/openai-atlas-omnibox-prompt-injection</guid>
-      <category>Cybersecurity</category>
-      <category>Prompt Injection</category>
-      <category>Agentic Browsers</category>
-      <category>OpenAI Atlas</category>
-      <category>Input Validation</category>
-      <pubDate>Fri, 24 Oct 2025 17:00:00 +0000</pubDate>
-      <source url="https://neuraltrust.ai/blog">Custom Web Page</source>
+      <category>Web Browsing</category>
+      <category>Technology Innovation</category>
+      <category>Natural Language Processing</category>
+      <pubDate>Sun, 26 Oct 2025 21:42:53 +0000</pubDate>
+      <source url="https://www.lasso.security/blog">Custom Web Page</source>
     </item>
   </channel>
 </rss>
