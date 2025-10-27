@@ -7,30 +7,78 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Oct 2025 21:42:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 21:35:12 +0000</lastBuildDate>
     <item>
-      <title>The Rise of AI Browsers: Smarter, Faster, and Far More Dangerous</title>
-      <link>https://www.lasso.security/blog/the-rise-of-ai-browsers</link>
+      <title>Lakera Recognized in Gartner's GenAI Security Risks Report</title>
+      <link>https://www.lakera.ai/news/lakera-recognized-in-gartners-genai-security-risks-report</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; The Lasso Team&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 20, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Web Browsing", "Technology Innovation", "Natural Language Processing"]&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Cybersecurity", "Generative AI", "Enterprise Technology"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;AI is transforming the browsing experience.&lt;/li&gt;
-&lt;li&gt;Browsers now use large language models.&lt;/li&gt;
-&lt;li&gt;They can summarize and interpret content.&lt;/li&gt;
-&lt;li&gt;Users give commands in natural language.&lt;/li&gt;
-&lt;li&gt;Browsers execute complex tasks autonomously.&lt;/li&gt;
+&lt;li&gt;Lakera is recognized in Gartner's GenAI security risks report.&lt;/li&gt;
+&lt;li&gt;The report highlights security challenges in GenAI technologies.&lt;/li&gt;
+&lt;li&gt;Lakera focuses on mitigating AI model vulnerabilities and data privacy risks.&lt;/li&gt;
+&lt;li&gt;Their solutions protect enterprises from adversarial attacks.&lt;/li&gt;
+&lt;li&gt;This recognition shows Lakera's commitment to AI security advancement.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.lasso.security/blog/the-rise-of-ai-browsers</guid>
+      <guid isPermaLink="false">https://www.lakera.ai/news/lakera-recognized-in-gartners-genai-security-risks-report</guid>
       <category>Artificial Intelligence</category>
-      <category>Web Browsing</category>
-      <category>Technology Innovation</category>
-      <category>Natural Language Processing</category>
-      <pubDate>Sun, 26 Oct 2025 21:42:53 +0000</pubDate>
-      <source url="https://www.lasso.security/blog">Custom Web Page</source>
+      <category>Cybersecurity</category>
+      <category>Generative AI</category>
+      <category>Enterprise Technology</category>
+      <pubDate>Mon, 27 Oct 2025 21:35:12 +0000</pubDate>
+      <source url="https://www.lakera.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Advancing AI Security With Insights From The World’s Largest AI Red Team</title>
+      <link>https://www.lakera.ai/news/advancing-ai-security-with-insights-from-the-worlds-largest-ai-red-team</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Red Teaming", "Cybersecurity", "AI Vulnerabilities", "Enterprise Security"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;AI security is crucial as AI systems grow more powerful.&lt;/li&gt;
+&lt;li&gt;Lakera.&lt;/li&gt;
+&lt;li&gt;ai led the largest AI red team exercise.&lt;/li&gt;
+&lt;li&gt;They tested AI models to find vulnerabilities.&lt;/li&gt;
+&lt;li&gt;Findings stress the need for proactive and ongoing security checks.&lt;/li&gt;
+&lt;li&gt;Lakera.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.lakera.ai/news/advancing-ai-security-with-insights-from-the-worlds-largest-ai-red-team</guid>
+      <category>AI Security</category>
+      <category>Red Teaming</category>
+      <category>Cybersecurity</category>
+      <category>AI Vulnerabilities</category>
+      <category>Enterprise Security</category>
+      <pubDate>Mon, 27 Oct 2025 21:35:12 +0000</pubDate>
+      <source url="https://www.lakera.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Best AI Red Team Tools 2025: A practical guide to features and functions</title>
+      <link>https://www.giskard.ai/knowledge/best-ai-red-teaming-tools-2025-comparison-features</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Giskard Team&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; 2024-04-15&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "AI Security", "Machine Learning", "Cybersecurity", "Software Tools"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;AI red teaming tests models for vulnerabilities.&lt;/li&gt;
+&lt;li&gt;The article reviews top AI red team tools in 2025.&lt;/li&gt;
+&lt;li&gt;Giskard and Robust Intelligence are user-friendly options.&lt;/li&gt;
+&lt;li&gt;Adversarial ML Toolkit suits advanced research.&lt;/li&gt;
+&lt;li&gt;Choosing tools depends on needs and security goals.&lt;/li&gt;
+&lt;li&gt;Red teaming improves AI safety and reliability.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.giskard.ai/knowledge/best-ai-red-teaming-tools-2025-comparison-features</guid>
+      <category>Artificial Intelligence</category>
+      <category>AI Security</category>
+      <category>Machine Learning</category>
+      <category>Cybersecurity</category>
+      <category>Software Tools</category>
+      <pubDate>Mon, 27 Oct 2025 21:35:12 +0000</pubDate>
+      <source url="https://www.giskard.ai/knowledge-categories/blog">Custom Web Page</source>
     </item>
   </channel>
 </rss>
