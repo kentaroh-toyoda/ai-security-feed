@@ -7,185 +7,104 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Oct 2025 21:31:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 21:31:09 +0000</lastBuildDate>
     <item>
-      <title>2025 GenAI Security Readiness Report: A Clearer Picture of Where Enterprises Stand</title>
-      <link>https://www.lakera.ai/blog/2025-genai-security-readiness-report-where-enterprises-stand</link>
+      <title>Schema Exploitation Jailbreak</title>
+      <link>https://www.promptfoo.dev/lm-security-db/vuln/schema-exploitation-jailbreak</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Lakera Team&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 31, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Generative AI", "Enterprise Security", "AI Risk Management", "Cybersecurity", "Technology Adoption"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; 10/31/2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Large Language Models", "Prompt Engineering", "Cybersecurity Vulnerabilities"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;GenAI is widely adopted in enterprises by 2025.&lt;/li&gt;
-&lt;li&gt;Security readiness is lagging behind adoption.&lt;/li&gt;
-&lt;li&gt;Many organizations lack AI-specific security expertise.&lt;/li&gt;
-&lt;li&gt;Common risks include prompt injections and data leakage.&lt;/li&gt;
-&lt;li&gt;The report recommends proactive risk management and training.&lt;/li&gt;
-&lt;li&gt;Integrated AI security frameworks are essential for future safety.&lt;/li&gt;
+&lt;li&gt;Large Language Models follow structured data schemas closely.&lt;/li&gt;
+&lt;li&gt;This behavior creates a security vulnerability.&lt;/li&gt;
+&lt;li&gt;The BreakFun attack exploits this with multi-part prompts.&lt;/li&gt;
+&lt;li&gt;It uses a Trojan Schema to embed harmful requests.&lt;/li&gt;
+&lt;li&gt;The attack misdirects the model's cognitive processing.&lt;/li&gt;
+&lt;li&gt;This bypasses existing safety mechanisms.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.lakera.ai/blog/2025-genai-security-readiness-report-where-enterprises-stand</guid>
-      <category>Generative AI</category>
-      <category>Enterprise Security</category>
-      <category>AI Risk Management</category>
-      <category>Cybersecurity</category>
-      <category>Technology Adoption</category>
-      <pubDate>Fri, 31 Oct 2025 21:31:10 +0000</pubDate>
-      <source url="https://www.lakera.ai/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>5 Agentic AI Strategies for Risk Management</title>
-      <link>https://mindgard.ai/blog/agentic-ai-strategies-for-risk-management</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Fergal Glynn&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 31, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Risk Management", "AI Governance", "Cybersecurity", "Compliance"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Agentic AI acts autonomously at superhuman speed.&lt;/li&gt;
-&lt;li&gt;This creates new risks for privacy and compliance.&lt;/li&gt;
-&lt;li&gt;Organizations must apply governance and human oversight.&lt;/li&gt;
-&lt;li&gt;Continuous monitoring and red teaming reduce risks.&lt;/li&gt;
-&lt;li&gt;Structured frameworks like NIST AI RMF help manage risks.&lt;/li&gt;
-&lt;li&gt;Risk management builds trust and prevents failures.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://mindgard.ai/blog/agentic-ai-strategies-for-risk-management</guid>
-      <category>Artificial Intelligence</category>
-      <category>Risk Management</category>
-      <category>AI Governance</category>
-      <category>Cybersecurity</category>
-      <category>Compliance</category>
-      <pubDate>Fri, 31 Oct 2025 21:31:10 +0000</pubDate>
-      <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>AI Model Risk Management: Key Types and Mitigation Strategies</title>
-      <link>https://mindgard.ai/blog/ai-model-risk-management</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Fergal Glynn&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 31, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Risk Management", "AI Governance", "Compliance and Ethics", "Model Security", "AI Lifecycle Management"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;AI model risk management identifies and mitigates risks in AI throughout its lifecycle.&lt;/li&gt;
-&lt;li&gt;Risks include ethical, operational, security, and compliance issues.&lt;/li&gt;
-&lt;li&gt;Continuous testing and governance ensure model reliability and accountability.&lt;/li&gt;
-&lt;li&gt;Global standards like NIST AI RMF and the EU AI Act guide risk management.&lt;/li&gt;
-&lt;li&gt;Effective management combines people, processes, and technology.&lt;/li&gt;
-&lt;li&gt;It helps maintain trustworthy and compliant AI systems.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://mindgard.ai/blog/ai-model-risk-management</guid>
-      <category>AI Risk Management</category>
-      <category>AI Governance</category>
-      <category>Compliance and Ethics</category>
-      <category>Model Security</category>
-      <category>AI Lifecycle Management</category>
-      <pubDate>Fri, 31 Oct 2025 21:31:10 +0000</pubDate>
-      <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>OpenAI’s Santosh Vempala Explains Why Language Models Hallucinate</title>
-      <link>https://arize.com/blog/openais-santosh-vempala-explains-why-language-models-hallucinate/</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 24, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Natural Language Processing", "Machine Learning", "AI Research", "Language Models"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Santosh Vempala explains why language models hallucinate.&lt;/li&gt;
-&lt;li&gt;Hallucinations arise during pre-training due to data limitations.&lt;/li&gt;
-&lt;li&gt;They are linked to misclassification and statistical calibration.&lt;/li&gt;
-&lt;li&gt;Models often produce plausible but incorrect facts.&lt;/li&gt;
-&lt;li&gt;Current training methods struggle to fix hallucinations.&lt;/li&gt;
-&lt;li&gt;Future research aims to improve uncertainty expression and reduce errors.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://arize.com/blog/openais-santosh-vempala-explains-why-language-models-hallucinate/</guid>
-      <category>Artificial Intelligence</category>
-      <category>Natural Language Processing</category>
-      <category>Machine Learning</category>
-      <category>AI Research</category>
-      <category>Language Models</category>
-      <pubDate>Fri, 31 Oct 2025 21:31:10 +0000</pubDate>
-      <source url="https://arize.com/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>ServiceNow’s Tara Bogavelli on AgentArch: Benchmarking AI Agents for Enterprise Workflows</title>
-      <link>https://arize.com/blog/servicenows-tara-bogavelli-on-agentarch-benchmarking-ai-agents-for-enterprise-workflows/</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Tara Bogavelli&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 24, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Machine Learning", "Enterprise Software", "Benchmarking", "AI Research"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;ServiceNow developed AgentArch to benchmark AI agents in enterprise workflows.&lt;/li&gt;
-&lt;li&gt;It tests planning, tool use, and memory in realistic settings.&lt;/li&gt;
-&lt;li&gt;AgentArch moves beyond static Q&amp;A benchmarks.&lt;/li&gt;
-&lt;li&gt;Maintaining coherence across steps is a key challenge.&lt;/li&gt;
-&lt;li&gt;The benchmark simulates tasks like customer service and IT operations.&lt;/li&gt;
-&lt;li&gt;This helps improve AI for real-world production environments.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://arize.com/blog/servicenows-tara-bogavelli-on-agentarch-benchmarking-ai-agents-for-enterprise-workflows/</guid>
-      <category>Artificial Intelligence</category>
-      <category>Machine Learning</category>
-      <category>Enterprise Software</category>
-      <category>Benchmarking</category>
-      <category>AI Research</category>
-      <pubDate>Fri, 31 Oct 2025 21:31:10 +0000</pubDate>
-      <source url="https://arize.com/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>8 Top Prompt Testing and Optimization Tools for LLMs and Multiagent Systems (2025)</title>
-      <link>https://arize.com/blog/8-top-prompt-testing-and-optimization-tools-for-llms-and-multiagent-systems-2025/</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 28, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Large Language Models", "Prompt Engineering", "Multiagent Systems", "AI Tooling"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;The year 2025 is called the year of AI agents.&lt;/li&gt;
-&lt;li&gt;Managing AI model inputs and outputs is challenging.&lt;/li&gt;
-&lt;li&gt;New tools help test and optimize prompts for LLMs.&lt;/li&gt;
-&lt;li&gt;Multiagent systems add complexity to AI workflows.&lt;/li&gt;
-&lt;li&gt;The article reviews eight top prompt testing tools.&lt;/li&gt;
-&lt;li&gt;It targets AI engineers and product managers.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://arize.com/blog/8-top-prompt-testing-and-optimization-tools-for-llms-and-multiagent-systems-2025/</guid>
-      <category>Artificial Intelligence</category>
+      <guid isPermaLink="false">https://www.promptfoo.dev/lm-security-db/vuln/schema-exploitation-jailbreak</guid>
+      <category>AI Security</category>
       <category>Large Language Models</category>
       <category>Prompt Engineering</category>
-      <category>Multiagent Systems</category>
-      <category>AI Tooling</category>
-      <pubDate>Fri, 31 Oct 2025 21:31:10 +0000</pubDate>
-      <source url="https://arize.com/blog">Custom Web Page</source>
+      <category>Cybersecurity Vulnerabilities</category>
+      <pubDate>Sat, 01 Nov 2025 21:31:09 +0000</pubDate>
+      <source url="https://www.promptfoo.dev/lm-security-db">Custom Web Page</source>
     </item>
     <item>
-      <title>Top LLM Tracing Tools</title>
-      <link>https://arize.com/blog/top-llm-tracing-tools/</link>
+      <title>Persuasive Jailbreak Fingerprint</title>
+      <link>https://www.promptfoo.dev/lm-security-db/vuln/persuasive-jailbreak-fingerprint-0173c1b1</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 30, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Large Language Models", "AI Lifecycle Management", "Generative AI", "AI Evaluation Tools"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 1, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence Security", "Natural Language Processing", "Machine Learning Vulnerabilities", "Social Engineering", "Ethical AI"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;82% of enterprise leaders use generative AI weekly as of October 2025.&lt;/li&gt;
-&lt;li&gt;Many face challenges scaling AI agents in production.&lt;/li&gt;
-&lt;li&gt;LLM tracing tracks inputs and outputs inside AI models.&lt;/li&gt;
-&lt;li&gt;It helps identify performance issues and optimize efficiency.&lt;/li&gt;
-&lt;li&gt;Tracing is vital for complex AI agents using multiple tools.&lt;/li&gt;
-&lt;li&gt;Top tools exist to support full LLM pipeline management.&lt;/li&gt;
+&lt;li&gt;Large Language Models are vulnerable to jailbreak attacks using persuasion.&lt;/li&gt;
+&lt;li&gt;Attackers use Cialdini's seven persuasion principles to reframe harmful prompts.&lt;/li&gt;
+&lt;li&gt;These prompts bypass safety filters and remain human-readable.&lt;/li&gt;
+&lt;li&gt;The attack varies by principle and model, showing unique persuasive fingerprints.&lt;/li&gt;
+&lt;li&gt;It affects many popular LLMs like Vicuna and Llama.&lt;/li&gt;
+&lt;li&gt;The technique is stealthy and hard to detect automatically.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://arize.com/blog/top-llm-tracing-tools/</guid>
-      <category>Artificial Intelligence</category>
+      <guid isPermaLink="false">https://www.promptfoo.dev/lm-security-db/vuln/persuasive-jailbreak-fingerprint-0173c1b1</guid>
+      <category>Artificial Intelligence Security</category>
+      <category>Natural Language Processing</category>
+      <category>Machine Learning Vulnerabilities</category>
+      <category>Social Engineering</category>
+      <category>Ethical AI</category>
+      <pubDate>Sat, 01 Nov 2025 21:31:09 +0000</pubDate>
+      <source url="https://www.promptfoo.dev/lm-security-db">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Pattern Enhanced Multi-Turn Jailbreaking</title>
+      <link>https://www.promptfoo.dev/lm-security-db/vuln/pattern-enhanced-multi-turn-jailbreaking-0a9bc0d5</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 1, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Large Language Models", "Model Vulnerabilities", "Prompt Engineering", "Cybersecurity"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;The article discusses multi-turn jailbreaking in large language models.&lt;/li&gt;
+&lt;li&gt;It reveals structural vulnerabilities in popular AI models.&lt;/li&gt;
+&lt;li&gt;Several models like GPT-4o-mini and llama3-8b are affected.&lt;/li&gt;
+&lt;li&gt;The research highlights pattern-based exploitation techniques.&lt;/li&gt;
+&lt;li&gt;This work aims to improve AI security and robustness.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.promptfoo.dev/lm-security-db/vuln/pattern-enhanced-multi-turn-jailbreaking-0a9bc0d5</guid>
+      <category>AI Security</category>
       <category>Large Language Models</category>
-      <category>AI Lifecycle Management</category>
-      <category>Generative AI</category>
-      <category>AI Evaluation Tools</category>
-      <pubDate>Fri, 31 Oct 2025 21:31:10 +0000</pubDate>
-      <source url="https://arize.com/blog">Custom Web Page</source>
+      <category>Model Vulnerabilities</category>
+      <category>Prompt Engineering</category>
+      <category>Cybersecurity</category>
+      <pubDate>Sat, 01 Nov 2025 21:31:09 +0000</pubDate>
+      <source url="https://www.promptfoo.dev/lm-security-db">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Distributed Backdoor in Multi-Agent Systems</title>
+      <link>https://www.promptfoo.dev/lm-security-db/vuln/distributed-backdoor-in-multi-agent-systems-594d535c</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; October 1, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Multi-Agent Systems", "Backdoor Attacks", "Large Language Models", "Software Vulnerabilities"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;A distributed backdoor named Collaborative Shadows targets multi-agent systems.&lt;/li&gt;
+&lt;li&gt;Attackers embed encrypted attack primitives in multiple agent tools.&lt;/li&gt;
+&lt;li&gt;A crafted user instruction triggers and decrypts these primitives.&lt;/li&gt;
+&lt;li&gt;Agents collaborate in sequence to release the payload fragments.&lt;/li&gt;
+&lt;li&gt;The full malicious payload is reassembled post-task to exfiltrate data.&lt;/li&gt;
+&lt;li&gt;The backdoor evades detection by inspecting agents individually.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.promptfoo.dev/lm-security-db/vuln/distributed-backdoor-in-multi-agent-systems-594d535c</guid>
+      <category>Cybersecurity</category>
+      <category>Multi-Agent Systems</category>
+      <category>Backdoor Attacks</category>
+      <category>Large Language Models</category>
+      <category>Software Vulnerabilities</category>
+      <pubDate>Sat, 01 Nov 2025 21:31:09 +0000</pubDate>
+      <source url="https://www.promptfoo.dev/lm-security-db">Custom Web Page</source>
     </item>
   </channel>
 </rss>
