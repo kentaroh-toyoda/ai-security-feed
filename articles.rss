@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>AI Security Digest</title>
+    <link>https://kentaroh-toyoda.github.io/ai-security-feed</link>
+    <description>Curated AI security insights and articles from various sources</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>AI Security Digest Agent</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 09 Nov 2025 21:31:05 +0000</lastBuildDate>
+    <item>
+      <title>Eliciting Personality Traits in Large Language Models</title>
+      <link>https://arxiv.org/pdf/2402.08341</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Natural Language Processing", "Machine Learning", "Personality Modeling"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;The paper studies how to elicit personality traits in large language models.&lt;/li&gt;
+&lt;li&gt;It explores various methods for trait elicitation.&lt;/li&gt;
+&lt;li&gt;The research aims to improve model interaction and personalization.&lt;/li&gt;
+&lt;li&gt;Results show potential for more human-like responses.&lt;/li&gt;
+&lt;li&gt;The study contributes to AI personality modeling.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://arxiv.org/pdf/2402.08341</guid>
+      <category>Artificial Intelligence</category>
+      <category>Natural Language Processing</category>
+      <category>Machine Learning</category>
+      <category>Personality Modeling</category>
+      <pubDate>Sun, 09 Nov 2025 21:31:05 +0000</pubDate>
+      <source url="https://www.holisticai.com/papers">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Mind the Gap: Evaluating Model- and Agentic-Level Vulnerabilities in LLMs with Action Graphs</title>
+      <link>https://arxiv.org/abs/2509.04802</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Ilham Wicaksono, Zekun Wu, Rahul Patel, Theo King, Adriano Koshiyama, Philip Treleaven&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Large Language Models", "AI Safety", "Agentic Systems", "Security Evaluation", "Machine Learning Vulnerabilities"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Large language models are evolving into agentic systems.&lt;/li&gt;
+&lt;li&gt;Current safety evaluations miss deployment-specific risks.&lt;/li&gt;
+&lt;li&gt;AgentSeer framework breaks down agent actions for detailed assessment.&lt;/li&gt;
+&lt;li&gt;Agentic-level vulnerabilities differ from model-level ones.&lt;/li&gt;
+&lt;li&gt;Tool-calling shows higher attack success rates in agentic contexts.&lt;/li&gt;
+&lt;li&gt;AgentSeer highlights the need for new evaluation methods.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://arxiv.org/abs/2509.04802</guid>
+      <category>Large Language Models</category>
+      <category>AI Safety</category>
+      <category>Agentic Systems</category>
+      <category>Security Evaluation</category>
+      <category>Machine Learning Vulnerabilities</category>
+      <pubDate>Sun, 09 Nov 2025 21:31:05 +0000</pubDate>
+      <source url="https://www.holisticai.com/papers">Custom Web Page</source>
+    </item>
+    <item>
+      <title>White Paper Regulation of HR Tech: The Key Laws You Need to Know [October 2025]</title>
+      <link>https://www.holisticai.com/papers/hr-tech-regulations</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Rahul&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["HR Technology", "AI Regulation", "Data Privacy", "Compliance", "Human Resources Management"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;HR technology compliance is increasingly important.&lt;/li&gt;
+&lt;li&gt;AI tools are widely used in recruitment and management.&lt;/li&gt;
+&lt;li&gt;Key laws include the EU AI Act and NYC Local Law 144.&lt;/li&gt;
+&lt;li&gt;Organizations must implement bias detection and regular audits.&lt;/li&gt;
+&lt;li&gt;Aligning AI with ethics and priorities is crucial.&lt;/li&gt;
+&lt;li&gt;Proactive regulation adherence builds trust and innovation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.holisticai.com/papers/hr-tech-regulations</guid>
+      <category>HR Technology</category>
+      <category>AI Regulation</category>
+      <category>Data Privacy</category>
+      <category>Compliance</category>
+      <category>Human Resources Management</category>
+      <pubDate>Sun, 09 Nov 2025 21:31:05 +0000</pubDate>
+      <source url="https://www.holisticai.com/papers">Custom Web Page</source>
+    </item>
+  </channel>
+</rss>
