@@ -7,55 +7,57 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Nov 2025 21:33:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 21:35:15 +0000</lastBuildDate>
     <item>
-      <title>Honoring Veterans Day: Stories of Service, Leadership, and Innovation at HiddenLayer</title>
-      <link>https://hiddenlayer.com/innovation-hub/honoring-veterans-day-stories-of-service-leadership-and-innovation-at-hiddenlayer/</link>
+      <title>Agentic AI Threats: Over-Privileged Tools &amp; Uncontrolled Browsing (Part 2)</title>
+      <link>https://www.lakera.ai/blog/agentic-ai-threats-p2</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; November 11, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Veterans Day", "Cybersecurity", "Military to Civilian Career Transition", "Leadership", "Technology and Innovation"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Lakera Team&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; November 12, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence Security", "Agentic AI", "Cybersecurity", "AI Risk Management", "Runtime Monitoring"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;HiddenLayer honors veterans on Veterans Day.&lt;/li&gt;
-&lt;li&gt;Two team members, Travis and Kevin, have military backgrounds.&lt;/li&gt;
-&lt;li&gt;Their service shapes their cybersecurity work.&lt;/li&gt;
-&lt;li&gt;Military values guide their leadership and innovation.&lt;/li&gt;
-&lt;li&gt;HiddenLayer supports veterans transitioning to tech careers.&lt;/li&gt;
-&lt;li&gt;The company values resilience, teamwork, and accountability.&lt;/li&gt;
+&lt;li&gt;Agentic AI systems evolve faster than current safeguards.&lt;/li&gt;
+&lt;li&gt;Over-privileged tools increase security risks.&lt;/li&gt;
+&lt;li&gt;Browsing can trigger hidden malicious instructions.&lt;/li&gt;
+&lt;li&gt;Runtime guardrails help control AI tool use.&lt;/li&gt;
+&lt;li&gt;Continuous risk assessment is essential for safe AI deployment.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://hiddenlayer.com/?p=14098</guid>
-      <category>Veterans Day</category>
+      <guid isPermaLink="false">https://www.lakera.ai/blog/agentic-ai-threats-p2</guid>
+      <category>Artificial Intelligence Security</category>
+      <category>Agentic AI</category>
       <category>Cybersecurity</category>
-      <category>Military to Civilian Career Transition</category>
-      <category>Leadership</category>
-      <category>Technology and Innovation</category>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-      <source url="https://hiddenlayer.com/feed">HiddenLayer | Security for AI</source>
+      <category>AI Risk Management</category>
+      <category>Runtime Monitoring</category>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      <source url="https://www.lakera.ai/blog">Custom Web Page</source>
     </item>
     <item>
-      <title>The Great Agent Hack 2025: Putting Agentic Performance, Transparency, and Safety to the Test</title>
-      <link>https://www.holisticai.com/blog/the-great-agent-hack-2025</link>
+      <title>Lights, Camera… Leakage: When the System Prompt Crashes the Scene</title>
+      <link>https://mindgard.ai/blog/extracting-sora-system-prompt</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; November 11, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Governance", "AI Safety", "AI Regulation Compliance", "AI Performance Testing", "Technology Competitions"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Fergal Glynn&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; November 07, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "AI Security", "Multimodal Models", "Content Moderation", "Data Privacy"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;The Great Agent Hack 2025 offers prizes totaling over £50,000.&lt;/li&gt;
-&lt;li&gt;It focuses on agentic AI performance, transparency, and safety.&lt;/li&gt;
-&lt;li&gt;The platform provides AI lifecycle governance tools.&lt;/li&gt;
-&lt;li&gt;It supports compliance with global AI regulations.&lt;/li&gt;
-&lt;li&gt;Resources include demos, technical docs, and research materials.&lt;/li&gt;
+&lt;li&gt;OpenAI's Sora 2 generates realistic videos from text prompts.&lt;/li&gt;
+&lt;li&gt;Users exploited it to create violent content.&lt;/li&gt;
+&lt;li&gt;Researchers found Sora can leak its internal system prompt.&lt;/li&gt;
+&lt;li&gt;Audio output was used to reconstruct hidden instructions.&lt;/li&gt;
+&lt;li&gt;This reveals new security risks in multimodal AI models.&lt;/li&gt;
+&lt;li&gt;System prompts should not hold sensitive info but often do.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.holisticai.com/blog/the-great-agent-hack-2025</guid>
-      <category>AI Governance</category>
-      <category>AI Safety</category>
-      <category>AI Regulation Compliance</category>
-      <category>AI Performance Testing</category>
-      <category>Technology Competitions</category>
-      <pubDate>Tue, 11 Nov 2025 21:32:55 +0000</pubDate>
-      <source url="https://www.holisticai.com/blog">Custom Web Page</source>
+      <guid isPermaLink="false">https://mindgard.ai/blog/extracting-sora-system-prompt</guid>
+      <category>Artificial Intelligence</category>
+      <category>AI Security</category>
+      <category>Multimodal Models</category>
+      <category>Content Moderation</category>
+      <category>Data Privacy</category>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
     </item>
   </channel>
 </rss>
