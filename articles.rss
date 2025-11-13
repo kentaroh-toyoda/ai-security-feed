@@ -7,57 +7,205 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Nov 2025 21:35:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Nov 2025 21:36:04 +0000</lastBuildDate>
     <item>
-      <title>Agentic AI Threats: Over-Privileged Tools &amp; Uncontrolled Browsing (Part 2)</title>
-      <link>https://www.lakera.ai/blog/agentic-ai-threats-p2</link>
+      <title>EchoGram: The Hidden Vulnerability Undermining AI Guardrails</title>
+      <link>https://hiddenlayer.com/innovation-hub/echogram-the-hidden-vulnerability-undermining-ai-guardrails/</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Lakera Team&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; November 12, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence Security", "Agentic AI", "Cybersecurity", "AI Risk Management", "Runtime Monitoring"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Kasimir Schulz, Kenneth Yeung&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; November 13, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Large Language Models", "Prompt Injection Attacks", "AI Safety", "Machine Learning Vulnerabilities"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Agentic AI systems evolve faster than current safeguards.&lt;/li&gt;
-&lt;li&gt;Over-privileged tools increase security risks.&lt;/li&gt;
-&lt;li&gt;Browsing can trigger hidden malicious instructions.&lt;/li&gt;
-&lt;li&gt;Runtime guardrails help control AI tool use.&lt;/li&gt;
-&lt;li&gt;Continuous risk assessment is essential for safe AI deployment.&lt;/li&gt;
+&lt;li&gt;EchoGram is a new attack that manipulates AI guardrails to fail.&lt;/li&gt;
+&lt;li&gt;It flips defensive model verdicts to approve harmful content or cause false alarms.&lt;/li&gt;
+&lt;li&gt;The attack exploits similarities in training of classification and judge models.&lt;/li&gt;
+&lt;li&gt;This vulnerability threatens AI safety systems like those protecting GPT-4 and others.&lt;/li&gt;
+&lt;li&gt;EchoGram uses specific token sequences to evade detection.&lt;/li&gt;
+&lt;li&gt;The research highlights urgent need to improve AI defense mechanisms.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.lakera.ai/blog/agentic-ai-threats-p2</guid>
-      <category>Artificial Intelligence Security</category>
-      <category>Agentic AI</category>
-      <category>Cybersecurity</category>
-      <category>AI Risk Management</category>
-      <category>Runtime Monitoring</category>
-      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-      <source url="https://www.lakera.ai/blog">Custom Web Page</source>
+      <guid isPermaLink="false">https://hiddenlayer.com/?p=14101</guid>
+      <category>AI Security</category>
+      <category>Large Language Models</category>
+      <category>Prompt Injection Attacks</category>
+      <category>AI Safety</category>
+      <category>Machine Learning Vulnerabilities</category>
+      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
+      <source url="https://hiddenlayer.com/feed">HiddenLayer | Security for AI</source>
     </item>
     <item>
-      <title>Lights, Camera… Leakage: When the System Prompt Crashes the Scene</title>
-      <link>https://mindgard.ai/blog/extracting-sora-system-prompt</link>
+      <title>Persuasive Jailbreak Fingerprint</title>
+      <link>https://www.promptfoo.dev/lm-security-db/vuln/persuasive-jailbreak-fingerprint-&lt;truncated&gt;</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Fergal Glynn&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; November 07, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "AI Security", "Multimodal Models", "Content Moderation", "Data Privacy"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; November 01, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Security", "Social Psychology", "Machine Learning", "Cybersecurity"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;OpenAI's Sora 2 generates realistic videos from text prompts.&lt;/li&gt;
-&lt;li&gt;Users exploited it to create violent content.&lt;/li&gt;
-&lt;li&gt;Researchers found Sora can leak its internal system prompt.&lt;/li&gt;
-&lt;li&gt;Audio output was used to reconstruct hidden instructions.&lt;/li&gt;
-&lt;li&gt;This reveals new security risks in multimodal AI models.&lt;/li&gt;
-&lt;li&gt;System prompts should not hold sensitive info but often do.&lt;/li&gt;
+&lt;li&gt;Large Language Models can be tricked by jailbreak attacks.&lt;/li&gt;
+&lt;li&gt;These attacks use social psychology principles.&lt;/li&gt;
+&lt;li&gt;Cialdini's seven persuasion principles are key tools.&lt;/li&gt;
+&lt;li&gt;Malicious instructions are reframed to bypass safety measures.&lt;/li&gt;
+&lt;li&gt;This causes models to comply with harmful requests.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://mindgard.ai/blog/extracting-sora-system-prompt</guid>
+      <guid isPermaLink="false">https://www.promptfoo.dev/lm-security-db/vuln/persuasive-jailbreak-fingerprint-&lt;truncated&gt;</guid>
       <category>Artificial Intelligence</category>
+      <category>Security</category>
+      <category>Social Psychology</category>
+      <category>Machine Learning</category>
+      <category>Cybersecurity</category>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <source url="https://www.promptfoo.dev/lm-security-db">Custom Web Page</source>
+    </item>
+    <item>
+      <title>AI data needs a full-cycle quality management system</title>
+      <link>https://toloka.ai/quality-loop/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; November 13, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Data Quality", "Quality Management Systems", "Data Annotation", "ISO Standards", "Human-in-the-Loop AI"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Toloka Quality Loop ensures training data meets specifications before delivery.&lt;/li&gt;
+&lt;li&gt;It uses a five-stage quality system combining technology and human expertise.&lt;/li&gt;
+&lt;li&gt;The system follows multiple ISO standards for quality management.&lt;/li&gt;
+&lt;li&gt;Each stage has clear goals and step gates for quality assurance.&lt;/li&gt;
+&lt;li&gt;Continuous improvement is a key part of the process.&lt;/li&gt;
+&lt;li&gt;The approach enhances data integrity, compliance, and efficiency.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://toloka.ai/quality-loop/</guid>
+      <category>AI Data Quality</category>
+      <category>Quality Management Systems</category>
+      <category>Data Annotation</category>
+      <category>ISO Standards</category>
+      <category>Human-in-the-Loop AI</category>
+      <pubDate>Thu, 13 Nov 2025 21:35:25 +0000</pubDate>
+      <source url="https://toloka.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>How LLM jailbreaking can bypass AI security with multi-turn attacks</title>
+      <link>https://www.giskard.ai/knowledge/how-llm-jailbreaking-can-bypass-ai-security-with-multi-turn-at</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Jailbreaking Attacks", "Cybersecurity", "Artificial Intelligence", "Threat Detection"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Multi-turn jailbreaking attacks bypass AI security gradually.&lt;/li&gt;
+&lt;li&gt;Crescendo is an example of such an attack.&lt;/li&gt;
+&lt;li&gt;These attacks use innocent-seeming steps to cause harm.&lt;/li&gt;
+&lt;li&gt;Standard single-message tests often miss these attacks.&lt;/li&gt;
+&lt;li&gt;The article explains detection and prevention techniques.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.giskard.ai/knowledge/how-llm-jailbreaking-can-bypass-ai-security-with-multi-turn-at</guid>
       <category>AI Security</category>
-      <category>Multimodal Models</category>
-      <category>Content Moderation</category>
-      <category>Data Privacy</category>
-      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
-      <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
+      <category>Jailbreaking Attacks</category>
+      <category>Cybersecurity</category>
+      <category>Artificial Intelligence</category>
+      <category>Threat Detection</category>
+      <pubDate>Thu, 13 Nov 2025 21:36:04 +0000</pubDate>
+      <source url="https://www.giskard.ai/knowledge-categories/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Understanding single-turn, multi-turn, and dynamic agentic attacks in AI red teaming</title>
+      <link>https://www.giskard.ai/knowledge/understanding-single-turn-multi-turn-and-dynamic-agentic-attacks-in-ai-red-teaming</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Giskard Team&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Adversarial Attacks", "Red Teaming", "AI Safety", "Cybersecurity"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;AI red teaming identifies vulnerabilities by simulating attacks.&lt;/li&gt;
+&lt;li&gt;There are three main attack types: single-turn, multi-turn, and dynamic agentic.&lt;/li&gt;
+&lt;li&gt;Single-turn attacks use one input to trick AI.&lt;/li&gt;
+&lt;li&gt;Multi-turn attacks manipulate AI through multiple interactions.&lt;/li&gt;
+&lt;li&gt;Dynamic agentic attacks use autonomous agents to adaptively exploit weaknesses.&lt;/li&gt;
+&lt;li&gt;Comprehensive red teaming improves AI safety and robustness.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.giskard.ai/knowledge/understanding-single-turn-multi-turn-and-dynamic-agentic-attacks-in-ai-red-teaming</guid>
+      <category>AI Security</category>
+      <category>Adversarial Attacks</category>
+      <category>Red Teaming</category>
+      <category>AI Safety</category>
+      <category>Cybersecurity</category>
+      <pubDate>Thu, 13 Nov 2025 21:36:04 +0000</pubDate>
+      <source url="https://www.giskard.ai/knowledge-categories/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>AI Red Teaming: Insights from the Front Lines of GenAI Security</title>
+      <link>https://www.troj.ai/blog/ai-red-teaming-insights-from-the-front-lines-of-genai-</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Generative AI", "Cybersecurity", "Adversarial Attacks", "Risk Management"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;AI red teaming exposes hidden risks in GenAI models.&lt;/li&gt;
+&lt;li&gt;Traditional security tools often miss these risks.&lt;/li&gt;
+&lt;li&gt;Adversarial attacks pose significant threats.&lt;/li&gt;
+&lt;li&gt;Understanding these threats helps improve AI safety.&lt;/li&gt;
+&lt;li&gt;Red teaming is crucial for robust AI defense.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.troj.ai/blog/ai-red-teaming-insights-from-the-front-lines-of-genai-</guid>
+      <category>AI Security</category>
+      <category>Generative AI</category>
+      <category>Cybersecurity</category>
+      <category>Adversarial Attacks</category>
+      <category>Risk Management</category>
+      <pubDate>Thu, 13 Nov 2025 21:36:04 +0000</pubDate>
+      <source url="https://www.troj.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>TrojAI Defend for MCP: Runtime Defense for Agentic Workflows</title>
+      <link>https://www.troj.ai/blog/agentic-ai-defend-for-mcp-model-context-protocol</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Trojan AI Team&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Adversarial Defense", "Agentic AI", "AI Frameworks", "Cybersecurity"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Agentic AI Defend enhances AI security using the MCP framework.&lt;/li&gt;
+&lt;li&gt;MCP stands for Model, Context, Protocol.&lt;/li&gt;
+&lt;li&gt;It uses agentic reasoning to adapt defenses dynamically.&lt;/li&gt;
+&lt;li&gt;The approach verifies model integrity and detects anomalies.&lt;/li&gt;
+&lt;li&gt;It enforces protocols to maintain trustworthiness.&lt;/li&gt;
+&lt;li&gt;The method is effective in real-world AI applications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.troj.ai/blog/agentic-ai-defend-for-mcp-model-context-protocol</guid>
+      <category>AI Security</category>
+      <category>Adversarial Defense</category>
+      <category>Agentic AI</category>
+      <category>AI Frameworks</category>
+      <category>Cybersecurity</category>
+      <pubDate>Thu, 13 Nov 2025 21:36:04 +0000</pubDate>
+      <source url="https://www.troj.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>What We Learned from Red Teaming the Latest Open Source Generative AI Models from China</title>
+      <link>https://www.holisticai.com/blog/red-teaming-open-source-ai-models-china</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Holistic AI Team&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Open Source Software", "AI Security", "Ethics in AI", "Chinese Technology"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Open source AI models in China have rapidly developed.&lt;/li&gt;
+&lt;li&gt;Red teaming tests these models for vulnerabilities.&lt;/li&gt;
+&lt;li&gt;Common issues include bias and adversarial attacks.&lt;/li&gt;
+&lt;li&gt;Collaboration is key to improving AI safety.&lt;/li&gt;
+&lt;li&gt;Best practices include monitoring and transparent reporting.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.holisticai.com/blog/red-teaming-open-source-ai-models-china</guid>
+      <category>Artificial Intelligence</category>
+      <category>Open Source Software</category>
+      <category>AI Security</category>
+      <category>Ethics in AI</category>
+      <category>Chinese Technology</category>
+      <pubDate>Thu, 13 Nov 2025 21:36:04 +0000</pubDate>
+      <source url="https://www.holisticai.com/blog">Custom Web Page</source>
     </item>
   </channel>
 </rss>
