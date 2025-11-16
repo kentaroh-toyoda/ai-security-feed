@@ -1,0 +1,319 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>AI Security Digest</title>
+    <link>https://kentaroh-toyoda.github.io/ai-security-feed</link>
+    <description>Curated AI security insights and articles from various sources</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>AI Security Digest Agent</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 16 Nov 2025 21:33:21 +0000</lastBuildDate>
+    <item>
+      <title>AlphaQubit tackles one of quantum computing’s biggest challenges</title>
+      <link>https://blog.google/technology/google-deepmind/alphaqubit-quantum-error-correction/?utm_source=deepmind.google&amp;utm_medium=referral&amp;utm_campaign=gdm&amp;utm_content=</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Google DeepMind&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Quantum Computing", "Artificial Intelligence", "Error Correction", "Machine Learning", "Technology Innovation"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Quantum computing can solve problems classical computers cannot.&lt;/li&gt;
+&lt;li&gt;Qubits are fragile and prone to errors.&lt;/li&gt;
+&lt;li&gt;AlphaQubit is an AI decoder by Google DeepMind.&lt;/li&gt;
+&lt;li&gt;It detects and corrects quantum errors with high accuracy.&lt;/li&gt;
+&lt;li&gt;This improves quantum computing reliability significantly.&lt;/li&gt;
+&lt;li&gt;AI helps overcome key challenges in quantum technology.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://blog.google/technology/google-deepmind/alphaqubit-quantum-error-correction/?utm_source=deepmind.google&amp;utm_medium=referral&amp;utm_campaign=gdm&amp;utm_content=</guid>
+      <category>Quantum Computing</category>
+      <category>Artificial Intelligence</category>
+      <category>Error Correction</category>
+      <category>Machine Learning</category>
+      <category>Technology Innovation</category>
+      <pubDate>Sun, 16 Nov 2025 21:33:21 +0000</pubDate>
+      <source url="https://deepmind.google/discover/blog/">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Accelerating fusion science through learned plasma control</title>
+      <link>https://deepmind.google/en/blog/accelerating-fusion-science-through-learned-plasma-control/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; DeepMind Team&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Fusion Energy", "Artificial Intelligence", "Plasma Physics", "Reinforcement Learning", "Energy Innovation"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Fusion energy offers clean and limitless power.&lt;/li&gt;
+&lt;li&gt;Controlling plasma in reactors is challenging.&lt;/li&gt;
+&lt;li&gt;DeepMind developed AI to improve plasma control.&lt;/li&gt;
+&lt;li&gt;They used reinforcement learning on JET tokamak data.&lt;/li&gt;
+&lt;li&gt;AI helps optimize magnetic fields and plasma stability.&lt;/li&gt;
+&lt;li&gt;This advances fusion research and energy innovation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://deepmind.google/en/blog/accelerating-fusion-science-through-learned-plasma-control/</guid>
+      <category>Fusion Energy</category>
+      <category>Artificial Intelligence</category>
+      <category>Plasma Physics</category>
+      <category>Reinforcement Learning</category>
+      <category>Energy Innovation</category>
+      <pubDate>Sun, 16 Nov 2025 21:33:21 +0000</pubDate>
+      <source url="https://deepmind.google/discover/blog/">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Millions of new materials discovered with deep learning</title>
+      <link>https://deepmind.google/en/blog/millions-of-new-materials-discovered-with-deep-learning/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Ekin D. Cubuk, Ankit Agrawal, and Shyam Dwaraknath&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Materials Science", "Deep Learning", "Artificial Intelligence", "Chemical Engineering", "Technology Innovation"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Discovering new materials is key to scientific progress.&lt;/li&gt;
+&lt;li&gt;Traditional methods are slow and costly.&lt;/li&gt;
+&lt;li&gt;Deep learning accelerates materials discovery.&lt;/li&gt;
+&lt;li&gt;Graph neural networks predict properties of millions of compounds.&lt;/li&gt;
+&lt;li&gt;Thousands of new materials with superior properties were identified.&lt;/li&gt;
+&lt;li&gt;AI enables faster and cheaper exploration in materials science.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://deepmind.google/en/blog/millions-of-new-materials-discovered-with-deep-learning/</guid>
+      <category>Materials Science</category>
+      <category>Deep Learning</category>
+      <category>Artificial Intelligence</category>
+      <category>Chemical Engineering</category>
+      <category>Technology Innovation</category>
+      <pubDate>Sun, 16 Nov 2025 21:33:21 +0000</pubDate>
+      <source url="https://deepmind.google/discover/blog/">Custom Web Page</source>
+    </item>
+    <item>
+      <title>AI solves IMO problems at silver medal level</title>
+      <link>https://deepmind.google/en/blog/ai-solves-imo-problems-at-silver-medal-level/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Mathematics", "Education", "Machine Learning", "Algorithm Development"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;The IMO is a top high school math competition.&lt;/li&gt;
+&lt;li&gt;DeepMind developed an AI called AlphaTensor.&lt;/li&gt;
+&lt;li&gt;AlphaTensor solved problems at a silver medal level.&lt;/li&gt;
+&lt;li&gt;It uses reinforcement learning to find new algorithms.&lt;/li&gt;
+&lt;li&gt;This shows AI can aid math research and education.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://deepmind.google/en/blog/ai-solves-imo-problems-at-silver-medal-level/</guid>
+      <category>Artificial Intelligence</category>
+      <category>Mathematics</category>
+      <category>Education</category>
+      <category>Machine Learning</category>
+      <category>Algorithm Development</category>
+      <pubDate>Sun, 16 Nov 2025 21:33:21 +0000</pubDate>
+      <source url="https://deepmind.google/discover/blog/">Custom Web Page</source>
+    </item>
+    <item>
+      <title>AlphaEvolve: a Gemini-powered coding agent for designing advanced algorithms</title>
+      <link>https://deepmind.google/en/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; DeepMind Team&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Algorithm Design", "Machine Learning", "Evolutionary Computation", "Software Development"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;DeepMind introduces AlphaEvolve, an AI system powered by Gemini models.&lt;/li&gt;
+&lt;li&gt;It autonomously generates and improves advanced algorithms.&lt;/li&gt;
+&lt;li&gt;AlphaEvolve uses evolutionary strategies combined with deep learning.&lt;/li&gt;
+&lt;li&gt;The system iteratively evolves solutions through mutation and recombination.&lt;/li&gt;
+&lt;li&gt;It outperforms human-designed algorithms on benchmark problems.&lt;/li&gt;
+&lt;li&gt;This approach advances AI-assisted software development and scientific discovery.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://deepmind.google/en/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/</guid>
+      <category>Artificial Intelligence</category>
+      <category>Algorithm Design</category>
+      <category>Machine Learning</category>
+      <category>Evolutionary Computation</category>
+      <category>Software Development</category>
+      <pubDate>Sun, 16 Nov 2025 21:33:21 +0000</pubDate>
+      <source url="https://deepmind.google/discover/blog/">Custom Web Page</source>
+    </item>
+    <item>
+      <title>AlphaEarth Foundations helps map our planet in unprecedented detail</title>
+      <link>https://deepmind.google/en/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; DeepMind&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Geospatial Mapping", "Environmental Science", "Climate Change", "Remote Sensing"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;AlphaEarth Foundations is a new AI system by DeepMind.&lt;/li&gt;
+&lt;li&gt;It maps the Earth in unprecedented detail using satellite imagery.&lt;/li&gt;
+&lt;li&gt;The system identifies roads, buildings, water, and vegetation globally.&lt;/li&gt;
+&lt;li&gt;It supports urban planning, disaster response, and climate science.&lt;/li&gt;
+&lt;li&gt;The AI uses large neural networks and advanced computer vision.&lt;/li&gt;
+&lt;li&gt;Outputs are accessible to foster global collaboration on environmental issues.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://deepmind.google/en/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/</guid>
+      <category>Artificial Intelligence</category>
+      <category>Geospatial Mapping</category>
+      <category>Environmental Science</category>
+      <category>Climate Change</category>
+      <category>Remote Sensing</category>
+      <pubDate>Sun, 16 Nov 2025 21:33:21 +0000</pubDate>
+      <source url="https://deepmind.google/discover/blog/">Custom Web Page</source>
+    </item>
+    <item>
+      <title>AlphaProteo generates novel proteins for biology and health research</title>
+      <link>https://deepmind.google/en/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; DeepMind&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Protein Design", "Biotechnology", "Health Research", "Synthetic Biology"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;AlphaProteo is a new AI system that generates novel protein sequences.&lt;/li&gt;
+&lt;li&gt;It builds on AlphaFold's success in predicting protein structures.&lt;/li&gt;
+&lt;li&gt;The system designs proteins with targeted functions and stable folds.&lt;/li&gt;
+&lt;li&gt;Lab tests show AlphaProteo proteins are stable and functional.&lt;/li&gt;
+&lt;li&gt;This tool speeds up protein design and aids health research.&lt;/li&gt;
+&lt;li&gt;It supports drug discovery and synthetic biology advancements.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://deepmind.google/en/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/</guid>
+      <category>Artificial Intelligence</category>
+      <category>Protein Design</category>
+      <category>Biotechnology</category>
+      <category>Health Research</category>
+      <category>Synthetic Biology</category>
+      <pubDate>Sun, 16 Nov 2025 21:33:21 +0000</pubDate>
+      <source url="https://deepmind.google/discover/blog/">Custom Web Page</source>
+    </item>
+    <item>
+      <title>A catalogue of genetic mutations to help pinpoint the cause of diseases</title>
+      <link>https://deepmind.google/en/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; DeepMind&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Genetics", "Artificial Intelligence", "Medical Research", "Genetic Diseases", "Bioinformatics"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;AlphaMissense predicts effects of missense genetic mutations.&lt;/li&gt;
+&lt;li&gt;It helps identify disease-causing mutations.&lt;/li&gt;
+&lt;li&gt;The system uses AI, structural biology, and evolutionary data.&lt;/li&gt;
+&lt;li&gt;The catalogue covers millions of mutations in human proteins.&lt;/li&gt;
+&lt;li&gt;It is freely available to support genetic research and medicine.&lt;/li&gt;
+&lt;li&gt;AlphaMissense aids personalized medicine and drug discovery.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://deepmind.google/en/blog/a-catalogue-of-genetic-mutations-to-help-pinpoint-the-cause-of-diseases/</guid>
+      <category>Genetics</category>
+      <category>Artificial Intelligence</category>
+      <category>Medical Research</category>
+      <category>Genetic Diseases</category>
+      <category>Bioinformatics</category>
+      <pubDate>Sun, 16 Nov 2025 21:33:21 +0000</pubDate>
+      <source url="https://deepmind.google/discover/blog/">Custom Web Page</source>
+    </item>
+    <item>
+      <title>AlphaGenome: AI for better understanding the genome</title>
+      <link>https://deepmind.google/en/blog/alphagenome-ai-for-better-understanding-the-genome/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; DeepMind&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Genomics", "Biomedical Research", "Genetic Disorders", "Deep Learning"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;AlphaGenome is a new AI system developed by DeepMind.&lt;/li&gt;
+&lt;li&gt;It predicts effects of genetic variations accurately.&lt;/li&gt;
+&lt;li&gt;The system uses deep learning to analyze genomic data.&lt;/li&gt;
+&lt;li&gt;It helps identify mutations that may cause diseases.&lt;/li&gt;
+&lt;li&gt;AlphaGenome builds on DeepMind’s previous AI projects.&lt;/li&gt;
+&lt;li&gt;This technology could accelerate biomedical research and treatments.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://deepmind.google/en/blog/alphagenome-ai-for-better-understanding-the-genome/</guid>
+      <category>Artificial Intelligence</category>
+      <category>Genomics</category>
+      <category>Biomedical Research</category>
+      <category>Genetic Disorders</category>
+      <category>Deep Learning</category>
+      <pubDate>Sun, 16 Nov 2025 21:33:21 +0000</pubDate>
+      <source url="https://deepmind.google/discover/blog/">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Genie 3: A new frontier for world models</title>
+      <link>https://deepmind.google/en/blog/genie-3-a-new-frontier-for-world-models/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; The DeepMind Team&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "World Models", "Reinforcement Learning", "Robotics", "Machine Learning"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;DeepMind developed Genie 3, a next-generation world model.&lt;/li&gt;
+&lt;li&gt;It learns and predicts complex environment dynamics.&lt;/li&gt;
+&lt;li&gt;Genie 3 uses neural networks and probabilistic modeling.&lt;/li&gt;
+&lt;li&gt;It performs well on video games and robot control tasks.&lt;/li&gt;
+&lt;li&gt;The model shows improved efficiency and robustness.&lt;/li&gt;
+&lt;li&gt;Genie 3 enables better long-term planning and understanding.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://deepmind.google/en/blog/genie-3-a-new-frontier-for-world-models/</guid>
+      <category>Artificial Intelligence</category>
+      <category>World Models</category>
+      <category>Reinforcement Learning</category>
+      <category>Robotics</category>
+      <category>Machine Learning</category>
+      <pubDate>Sun, 16 Nov 2025 21:33:21 +0000</pubDate>
+      <source url="https://deepmind.google/discover/blog/">Custom Web Page</source>
+    </item>
+    <item>
+      <title>LLM Data Privacy: Protecting Enterprise Data in the World of AI</title>
+      <link>https://www.lasso.security/blog/llm-data-privacy</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; The Lasso Team&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; November 16, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Data Privacy", "Artificial Intelligence", "Enterprise Security", "Compliance", "Machine Learning"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;LLMs learn from vast amounts of internet data, mixing public and private information.&lt;/li&gt;
+&lt;li&gt;This creates unique privacy and compliance challenges.&lt;/li&gt;
+&lt;li&gt;Enterprises must protect sensitive data during LLM training and use.&lt;/li&gt;
+&lt;li&gt;Techniques include encryption, masking, and access controls.&lt;/li&gt;
+&lt;li&gt;The article discusses data flows, risks, and mitigation strategies.&lt;/li&gt;
+&lt;li&gt;It emphasizes data governance and secure model training.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.lasso.security/blog/llm-data-privacy</guid>
+      <category>Data Privacy</category>
+      <category>Artificial Intelligence</category>
+      <category>Enterprise Security</category>
+      <category>Compliance</category>
+      <category>Machine Learning</category>
+      <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
+      <source url="https://www.lasso.security/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>What Is a Data Extraction Attack?</title>
+      <link>https://www.troj.ai/blog/what-is-a-data-extraction-attack</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Artificial Intelligence", "Data Protection", "Information Security"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Data extraction attacks target AI systems.&lt;/li&gt;
+&lt;li&gt;They expose sensitive information.&lt;/li&gt;
+&lt;li&gt;These attacks risk data loss and misuse.&lt;/li&gt;
+&lt;li&gt;Protecting AI models is essential.&lt;/li&gt;
+&lt;li&gt;Understanding these attacks helps improve security.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.troj.ai/blog/what-is-a-data-extraction-attack</guid>
+      <category>Cybersecurity</category>
+      <category>Artificial Intelligence</category>
+      <category>Data Protection</category>
+      <category>Information Security</category>
+      <pubDate>Sun, 16 Nov 2025 21:33:21 +0000</pubDate>
+      <source url="https://www.troj.ai/blog">Custom Web Page</source>
+    </item>
+  </channel>
+</rss>
