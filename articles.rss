@@ -7,31 +7,822 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Nov 2025 21:33:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 21:46:11 +0000</lastBuildDate>
     <item>
-      <title>2025 Predictions vs. Reality: A Year of Measured Progress in AI Security</title>
-      <link>https://www.lasso.security/blog/2025-ai-security-predictions-vs-reality</link>
+      <title>Antigravity Grounded! Security Vulnerabilities in Google's Latest IDE</title>
+      <link>https://embracethered.com/blog/posts/2025/security-keeps-google-antigravity-grounded/</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; The Lasso Team&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; November 19, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Generative AI", "Enterprise Technology", "Compliance", "Artificial Intelligence"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; wunderwuzzi&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; November 25, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Software Development", "Artificial Intelligence", "Vulnerability Analysis"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;In 2025, AI security predictions showed mixed accuracy.&lt;/li&gt;
-&lt;li&gt;AI agents gained autonomy in enterprise tasks.&lt;/li&gt;
-&lt;li&gt;Compliance frameworks boosted AI adoption.&lt;/li&gt;
-&lt;li&gt;AI tools now handle complex processes end to end.&lt;/li&gt;
-&lt;li&gt;The year revealed AI's maturation in security practices.&lt;/li&gt;
+&lt;li&gt;Google released a new IDE called Antigravity last week.&lt;/li&gt;
+&lt;li&gt;It contains known security vulnerabilities from the Windsurf codebase.&lt;/li&gt;
+&lt;li&gt;Issues include remote command execution and data exfiltration.&lt;/li&gt;
+&lt;li&gt;Google started documenting these vulnerabilities publicly after reports.&lt;/li&gt;
+&lt;li&gt;Exploits bypass AI safety checks using indirect prompt injection.&lt;/li&gt;
+&lt;li&gt;The article raises awareness and suggests mitigations.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.lasso.security/blog/2025-ai-security-predictions-vs-reality</guid>
-      <category>AI Security</category>
-      <category>Generative AI</category>
-      <category>Enterprise Technology</category>
-      <category>Compliance</category>
+      <guid isPermaLink="false">https://embracethered.com/blog/posts/2025/security-keeps-google-antigravity-grounded/</guid>
+      <category>Cybersecurity</category>
+      <category>Software Development</category>
       <category>Artificial Intelligence</category>
+      <category>Vulnerability Analysis</category>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <source url="https://embracethered.com/blog/">Custom Web Page</source>
+    </item>
+    <item>
+      <title>What the New MCP Specification Means to You, and Your Agents</title>
+      <link>https://www.lakera.ai/blog/what-the-new-mcp-specification-means-to-you-and-your-agents</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Steve Giguere&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; November 20, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Protocols", "Agentic AI", "Cybersecurity", "Software Development", "Technology Updates"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;The new MCP specification will release on 25 November 2025.&lt;/li&gt;
+&lt;li&gt;It improves context handling with granular segments.&lt;/li&gt;
+&lt;li&gt;Security features now include authentication and encryption.&lt;/li&gt;
+&lt;li&gt;MCP supports extensions without breaking compatibility.&lt;/li&gt;
+&lt;li&gt;Developers must update agents and monitoring tools.&lt;/li&gt;
+&lt;li&gt;The update ensures agents stay secure and interoperable.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.lakera.ai/blog/what-the-new-mcp-specification-means-to-you-and-your-agents</guid>
+      <category>AI Protocols</category>
+      <category>Agentic AI</category>
+      <category>Cybersecurity</category>
+      <category>Software Development</category>
+      <category>Technology Updates</category>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+      <source url="https://www.lakera.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Indirect Prompt Injection: The Hidden Threat Breaking Modern AI Systems</title>
+      <link>https://www.lakera.ai/blog/indirect-prompt-injection</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Lakera Team&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; November 24, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Prompt Injection", "Agentic AI", "Cybersecurity", "AI Safety"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Indirect Prompt Injection targets the data AI systems ingest, not the prompt itself.&lt;/li&gt;
+&lt;li&gt;Hidden instructions in data can redirect AI reasoning or cause data leaks.&lt;/li&gt;
+&lt;li&gt;Agentic AI increases risks by enabling browsing and code execution.&lt;/li&gt;
+&lt;li&gt;Real incidents show how small injections cause major security breaches.&lt;/li&gt;
+&lt;li&gt;The article explains IPI mechanisms, attack surfaces, and defenses.&lt;/li&gt;
+&lt;li&gt;Understanding IPI is crucial for AI security and safety.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.lakera.ai/blog/indirect-prompt-injection</guid>
+      <category>AI Security</category>
+      <category>Prompt Injection</category>
+      <category>Agentic AI</category>
+      <category>Cybersecurity</category>
+      <category>AI Safety</category>
+      <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
+      <source url="https://www.lakera.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>The Lethal Trifecta and How to Defend Against It</title>
+      <link>https://hiddenlayer.com/innovation-hub/the-lethal-trifecta-and-how-to-defend-against-it/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Samantha Pearcy&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; November 25, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Cybersecurity", "Enterprise AI", "Prompt Injection", "Data Protection"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;The Lethal Trifecta involves private data access, untrusted content exposure, and external communication.&lt;/li&gt;
+&lt;li&gt;These combined create major AI security risks.&lt;/li&gt;
+&lt;li&gt;Attackers can exploit AI without traditional code vulnerabilities.&lt;/li&gt;
+&lt;li&gt;Enterprise AI ecosystems amplify these risks significantly.&lt;/li&gt;
+&lt;li&gt;Defense requires real-time monitoring and control of AI behavior.&lt;/li&gt;
+&lt;li&gt;HiddenLayer offers tools to detect and respond to these threats.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://hiddenlayer.com/?p=14131</guid>
+      <category>AI Security</category>
+      <category>Cybersecurity</category>
+      <category>Enterprise AI</category>
+      <category>Prompt Injection</category>
+      <category>Data Protection</category>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <source url="https://hiddenlayer.com/feed">HiddenLayer | Security for AI</source>
+    </item>
+    <item>
+      <title>HiddenLayer Announces AWS GenAI Integrations, AI Attack Simulation Launch, and Platform Enhancements to Secure Bedrock and AgentCore Deployments</title>
+      <link>https://hiddenlayer.com/innovation-hub/hiddenlayer-announces-aws-genai-integrations/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 01, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Cloud Computing", "Generative AI", "AWS Integrations", "Cybersecurity"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;HiddenLayer announced new AWS Generative AI integrations and platform upgrades.&lt;/li&gt;
+&lt;li&gt;The update includes AI Discovery and AI Attack Simulation modules.&lt;/li&gt;
+&lt;li&gt;It enhances security for Amazon Bedrock and SageMaker users.&lt;/li&gt;
+&lt;li&gt;The platform redesign improves user experience and analytics.&lt;/li&gt;
+&lt;li&gt;HiddenLayer focuses on AI-specific threat detection and compliance.&lt;/li&gt;
+&lt;li&gt;Demonstrations will occur at AWS re:Invent 2025.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://hiddenlayer.com/?p=14138</guid>
+      <category>AI Security</category>
+      <category>Cloud Computing</category>
+      <category>Generative AI</category>
+      <category>AWS Integrations</category>
+      <category>Cybersecurity</category>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <source url="https://hiddenlayer.com/feed">HiddenLayer | Security for AI</source>
+    </item>
+    <item>
+      <title>When AI Trusts the Wrong Data: New Research from Prompt Security</title>
+      <link>https://www.prompt.security/blog/when-ai-trusts-the-wrong-data-new-research-from-prompt-security</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Prompt Security Research Team&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Data Security", "Cybersecurity", "AI Ethics", "Data Governance"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;AI systems rely heavily on trustworthy data.&lt;/li&gt;
+&lt;li&gt;Prompt Security researched risks from wrong or manipulated data.&lt;/li&gt;
+&lt;li&gt;Data poisoning can cause AI to make wrong decisions.&lt;/li&gt;
+&lt;li&gt;The study shows vulnerabilities in healthcare, finance, and autonomous systems.&lt;/li&gt;
+&lt;li&gt;Detection methods and best practices are proposed.&lt;/li&gt;
+&lt;li&gt;Vigilance in AI data management is crucial to prevent harm.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.prompt.security/blog/when-ai-trusts-the-wrong-data-new-research-from-prompt-security</guid>
+      <category>Artificial Intelligence</category>
+      <category>Data Security</category>
+      <category>Cybersecurity</category>
+      <category>AI Ethics</category>
+      <category>Data Governance</category>
+      <pubDate>Mon, 01 Dec 2025 21:46:11 +0000</pubDate>
+      <source url="https://www.prompt.security/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>The Embedded Threat in Your LLM: Poisoning RAG Pipelines via Vector Embeddings</title>
+      <link>https://www.prompt.security/blog/the-embedded-threat-in-your-llm-poisoning-rag-pipelines-via-vector-embeddings</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Nicolas Papernot&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Large Language Models", "Adversarial Attacks", "Retrieval-Augmented Generation", "Vector Embeddings"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;RAG pipelines enhance LLMs using external knowledge via vector embeddings.&lt;/li&gt;
+&lt;li&gt;Poisoning vector embeddings poses a new security risk.&lt;/li&gt;
+&lt;li&gt;Attackers can insert malicious vectors to manipulate LLM outputs.&lt;/li&gt;
+&lt;li&gt;This can cause misinformation, backdoors, or denial of service.&lt;/li&gt;
+&lt;li&gt;Defensive strategies include validation, anomaly detection, and secure ingestion.&lt;/li&gt;
+&lt;li&gt;Awareness and research on embedding poisoning are critical for safe LLM deployment.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.prompt.security/blog/the-embedded-threat-in-your-llm-poisoning-rag-pipelines-via-vector-embeddings</guid>
+      <category>AI Security</category>
+      <category>Large Language Models</category>
+      <category>Adversarial Attacks</category>
+      <category>Retrieval-Augmented Generation</category>
+      <category>Vector Embeddings</category>
+      <pubDate>Mon, 01 Dec 2025 21:46:11 +0000</pubDate>
+      <source url="https://www.prompt.security/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Evolutionary Language Model Jailbreak</title>
+      <link>https://www.promptfoo.dev/lm-security-db/vuln/evolutionary-language-model-jailbreak</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 01, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Machine Learning Security", "Natural Language Processing", "Adversarial Attacks", "AI Safety"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Aligned large language models have vulnerabilities.&lt;/li&gt;
+&lt;li&gt;FORGEDAN uses evolutionary methods to exploit these flaws.&lt;/li&gt;
+&lt;li&gt;It applies genetic algorithms and textual changes.&lt;/li&gt;
+&lt;li&gt;The framework creates adversarial prompts that bypass safety measures.&lt;/li&gt;
+&lt;li&gt;These prompts cause harmful or policy-violating outputs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.promptfoo.dev/lm-security-db/vuln/evolutionary-language-model-jailbreak</guid>
+      <category>Artificial Intelligence</category>
+      <category>Machine Learning Security</category>
+      <category>Natural Language Processing</category>
+      <category>Adversarial Attacks</category>
+      <category>AI Safety</category>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <source url="https://www.promptfoo.dev/lm-security-db">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Diffusion LLM Direct Jailbreaking</title>
+      <link>https://www.promptfoo.dev/lm-security-db/vuln/diffusion-llm-direct-jailbreaking-f6c63623</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; November 20, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Language Models", "Cybersecurity", "Adversarial Attacks"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;A vulnerability affects non-autoregressive Diffusion Language Models.&lt;/li&gt;
+&lt;li&gt;These models create effective adversarial prompts for autoregressive LLMs.&lt;/li&gt;
+&lt;li&gt;The method is called INPAINTING.&lt;/li&gt;
+&lt;li&gt;It turns prompt search into an efficient inference task.&lt;/li&gt;
+&lt;li&gt;The prompts bypass standard filters easily.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.promptfoo.dev/lm-security-db/vuln/diffusion-llm-direct-jailbreaking-f6c63623</guid>
+      <category>Artificial Intelligence</category>
+      <category>Language Models</category>
+      <category>Cybersecurity</category>
+      <category>Adversarial Attacks</category>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+      <source url="https://www.promptfoo.dev/lm-security-db">Custom Web Page</source>
+    </item>
+    <item>
+      <title>10 Best AI Security Tools for LLM and GenAI Application Protection (2025) Securing LLMs and GenAI applications requires specialized tools like Mindgard that offer capabilities such as red teaming, federated learning, and real-time monitoring to address AI-specific threats.</title>
+      <link>https://mindgard.ai/blog/best-ai-security-tools-for-llm-and-genai</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Fergal Glynn&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 01, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Large Language Models", "Generative AI", "Cybersecurity Tools", "Federated Learning"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;LLMs and GenAI apps face unique security threats.&lt;/li&gt;
+&lt;li&gt;Specialized AI security tools address these risks.&lt;/li&gt;
+&lt;li&gt;Mindgard and others offer red teaming and real-time monitoring.&lt;/li&gt;
+&lt;li&gt;Tools also support federated learning and compliance.&lt;/li&gt;
+&lt;li&gt;Traditional cybersecurity tools are insufficient for AI threats.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://mindgard.ai/blog/best-ai-security-tools-for-llm-and-genai</guid>
+      <category>AI Security</category>
+      <category>Large Language Models</category>
+      <category>Generative AI</category>
+      <category>Cybersecurity Tools</category>
+      <category>Federated Learning</category>
+      <pubDate>Mon, 01 Dec 2025 21:42:22 +0000</pubDate>
+      <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Manus Rubra: The Browser Extension With Its Hand in Everything Mindgard discovered that the Manus AI browser extension is for all intents and purposes, a full browser remote control backdoor.</title>
+      <link>https://mindgard.ai/blog/manus-rubra-full-browser-remote-control</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Rich Smith&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; November 18, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Browser Extensions", "Artificial Intelligence", "Privacy", "Software Risk Analysis"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Mindgard found Manus AI browser extension acts as a full remote control backdoor.&lt;/li&gt;
+&lt;li&gt;Manus AI aims to automate complex tasks across services.&lt;/li&gt;
+&lt;li&gt;The extension inherits all user sessions and bypasses access barriers.&lt;/li&gt;
+&lt;li&gt;It has high-risk permissions like debugger and cookies.&lt;/li&gt;
+&lt;li&gt;Over 40,000 users installed it within a week.&lt;/li&gt;
+&lt;li&gt;Experts warn this poses serious security risks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://mindgard.ai/blog/manus-rubra-full-browser-remote-control</guid>
+      <category>Cybersecurity</category>
+      <category>Browser Extensions</category>
+      <category>Artificial Intelligence</category>
+      <category>Privacy</category>
+      <category>Software Risk Analysis</category>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Forced Descent: Google Antigravity Persistent Code Execution Vulnerability Mindgard identified a flaw in Google's Antigravity IDE that shows how traditional trust assumptions break down in AI-driven software.</title>
+      <link>https://mindgard.ai/blog/google-antigravity-persistent-code-execution-vulnerability</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Aaron Portnoy&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; November 18, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Artificial Intelligence", "Software Vulnerabilities", "Development Tools", "Google Antigravity IDE"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Mindgard found a flaw in Google's Antigravity IDE.&lt;/li&gt;
+&lt;li&gt;A trusted workspace can embed a persistent backdoor.&lt;/li&gt;
+&lt;li&gt;This backdoor runs code on every launch.&lt;/li&gt;
+&lt;li&gt;It remains after uninstall and reinstall.&lt;/li&gt;
+&lt;li&gt;The flaw breaks traditional trust in AI software.&lt;/li&gt;
+&lt;li&gt;AI development environments need stricter security controls.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://mindgard.ai/blog/google-antigravity-persistent-code-execution-vulnerability</guid>
+      <category>Cybersecurity</category>
+      <category>Artificial Intelligence</category>
+      <category>Software Vulnerabilities</category>
+      <category>Development Tools</category>
+      <category>Google Antigravity IDE</category>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>How Toloka evaluates search relevance in the age of AI search</title>
+      <link>https://toloka.ai/search-relevance/</link>
+      <guid isPermaLink="false">https://toloka.ai/search-relevance/</guid>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      <source url="https://toloka.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Hyland’s Approach To AI, Agent Engineering</title>
+      <link>https://arize.com/blog/hylands-approach-to-ai-agent-engineering/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Gabriel Keith&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; November 03, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Enterprise Content Management", "AI Agent Engineering", "Document Processing", "Software Reliability"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Hyland integrates AI agents with document platforms like Onbase and Alfresco.&lt;/li&gt;
+&lt;li&gt;Their AI focuses on reliability over cleverness.&lt;/li&gt;
+&lt;li&gt;Gabriel Keith emphasizes agents must perform tasks consistently.&lt;/li&gt;
+&lt;li&gt;They use Arize AX to reduce hallucinations and improve evaluations.&lt;/li&gt;
+&lt;li&gt;Hyland serves thousands of enterprises, including many Fortune 100 companies.&lt;/li&gt;
+&lt;li&gt;The company offers both cloud and on-premises ECM solutions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://arize.com/blog/hylands-approach-to-ai-agent-engineering/</guid>
+      <category>Artificial Intelligence</category>
+      <category>Enterprise Content Management</category>
+      <category>AI Agent Engineering</category>
+      <category>Document Processing</category>
+      <category>Software Reliability</category>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+      <source url="https://arize.com/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>New in Arize: AX Tags, Data Fabric, Automatic Threshold Ranges for Monitors, and More</title>
+      <link>https://arize.com/blog/new-in-arize-ax-tags-data-fabric-automatic-threshold-ranges-for-monitors-and-more/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; November 04, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Monitoring", "Data Management", "Software Updates", "Machine Learning Operations"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Arize AX released multiple new features in October 2025.&lt;/li&gt;
+&lt;li&gt;Tags help organize and label entities across the platform.&lt;/li&gt;
+&lt;li&gt;Data Fabric syncs AI data to cloud warehouses every hour.&lt;/li&gt;
+&lt;li&gt;Automatic threshold ranges improve alert accuracy for monitors.&lt;/li&gt;
+&lt;li&gt;A timeline tab visualizes trace data over time.&lt;/li&gt;
+&lt;li&gt;Additional updates enhance UI, integrations, and performance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://arize.com/blog/new-in-arize-ax-tags-data-fabric-automatic-threshold-ranges-for-monitors-and-more/</guid>
+      <category>AI Monitoring</category>
+      <category>Data Management</category>
+      <category>Software Updates</category>
+      <category>Machine Learning Operations</category>
+      <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
+      <source url="https://arize.com/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Meta AI Researcher Explains ARE and Gaia2: Scaling Up Agent Environments and Evaluations</title>
+      <link>https://arize.com/blog/meta-ai-researcher-explains-are-and-gaia2/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Grégoire Mialon&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; November 06, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Agent Environments", "Benchmarking", "Machine Learning Evaluation", "Meta AI Research"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Meta AI developed ARE to build dynamic agent environments.&lt;/li&gt;
+&lt;li&gt;Gaia2 is a benchmark with 1,120 smartphone-like scenarios.&lt;/li&gt;
+&lt;li&gt;Scenarios test adaptability, ambiguity handling, collaboration, and timing.&lt;/li&gt;
+&lt;li&gt;No model excels in all areas simultaneously.&lt;/li&gt;
+&lt;li&gt;Strong reasoning can reduce speed in time-sensitive tasks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://arize.com/blog/meta-ai-researcher-explains-are-and-gaia2/</guid>
+      <category>Artificial Intelligence</category>
+      <category>Agent Environments</category>
+      <category>Benchmarking</category>
+      <category>Machine Learning Evaluation</category>
+      <category>Meta AI Research</category>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+      <source url="https://arize.com/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Top 5 AI Prompt Management Tools of 2025</title>
+      <link>https://arize.com/blog/top-5-ai-prompt-management-tools-of-2025/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; November 07, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Prompt Engineering", "Software Tools", "AI Workflow Management", "Technology Trends"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Prompts shape how people experience AI systems.&lt;/li&gt;
+&lt;li&gt;Prompt management tools organize and refine these prompts.&lt;/li&gt;
+&lt;li&gt;They enable sharing, versioning, and collaboration.&lt;/li&gt;
+&lt;li&gt;The article lists the top 5 prompt management tools for 2025.&lt;/li&gt;
+&lt;li&gt;It explains how to integrate these tools into AI workflows.&lt;/li&gt;
+&lt;li&gt;Prompt management is key for effective AI use.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://arize.com/blog/top-5-ai-prompt-management-tools-of-2025/</guid>
+      <category>Artificial Intelligence</category>
+      <category>Prompt Engineering</category>
+      <category>Software Tools</category>
+      <category>AI Workflow Management</category>
+      <category>Technology Trends</category>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <source url="https://arize.com/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Tracing, Evaluation, and Observability for Google ADK (How To)</title>
+      <link>https://arize.com/blog/tracing-evaluation-and-observability-for-google-adk-how-to/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; November 14, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Multi-agent Systems", "Google ADK", "Observability", "Artificial Intelligence", "Software Development"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Multi-agent systems are evolving from prototypes to production.&lt;/li&gt;
+&lt;li&gt;Google ADK manages complex agent orchestration.&lt;/li&gt;
+&lt;li&gt;Arize AX offers observability for agent behavior.&lt;/li&gt;
+&lt;li&gt;The article shows a travel concierge system example.&lt;/li&gt;
+&lt;li&gt;ADK supports modular, code-first development in Python.&lt;/li&gt;
+&lt;li&gt;It integrates well with Google Cloud and Vertex AI.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://arize.com/blog/tracing-evaluation-and-observability-for-google-adk-how-to/</guid>
+      <category>Multi-agent Systems</category>
+      <category>Google ADK</category>
+      <category>Observability</category>
+      <category>Artificial Intelligence</category>
+      <category>Software Development</category>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+      <source url="https://arize.com/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>GEPA vs Prompt Learning: Benchmarking Different Prompt Optimization Approaches</title>
+      <link>https://arize.com/blog/gepa-vs-prompt-learning-benchmarking-different-prompt-optimization-approaches/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; November 17, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Prompt Engineering", "Machine Learning Optimization", "Natural Language Processing", "Software Development", "AI Agent Design"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Software 3.&lt;/li&gt;
+&lt;li&gt;0 shifts development from coding to natural language prompting.&lt;/li&gt;
+&lt;li&gt;Prompts define agent logic and control reasoning paths.&lt;/li&gt;
+&lt;li&gt;The article benchmarks GEPA against traditional prompt learning methods.&lt;/li&gt;
+&lt;li&gt;It compares performance across tasks and datasets.&lt;/li&gt;
+&lt;li&gt;Results highlight prompt length and structure impact.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://arize.com/blog/gepa-vs-prompt-learning-benchmarking-different-prompt-optimization-approaches/</guid>
+      <category>AI Prompt Engineering</category>
+      <category>Machine Learning Optimization</category>
+      <category>Natural Language Processing</category>
+      <category>Software Development</category>
+      <category>AI Agent Design</category>
+      <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
+      <source url="https://arize.com/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Evaluating and Improving AI Agents at Scale with Microsoft Foundry</title>
+      <link>https://arize.com/blog/evaluating-and-improving-ai-agents-at-scale-with-microsoft-foundry/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; November 18, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Machine Learning", "AI Evaluation", "Enterprise Technology", "AI Monitoring"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Enterprises need to trust AI systems, not just build them.&lt;/li&gt;
+&lt;li&gt;Continuous evaluation ensures AI behaves responsibly.&lt;/li&gt;
+&lt;li&gt;Traditional evaluation methods no longer suffice for modern AI.&lt;/li&gt;
+&lt;li&gt;Microsoft Foundry and Arize AI offer integrated tools for AI monitoring.&lt;/li&gt;
+&lt;li&gt;These tools help improve AI agents at scale in production.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://arize.com/blog/evaluating-and-improving-ai-agents-at-scale-with-microsoft-foundry/</guid>
+      <category>Artificial Intelligence</category>
+      <category>Machine Learning</category>
+      <category>AI Evaluation</category>
+      <category>Enterprise Technology</category>
+      <category>AI Monitoring</category>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <source url="https://arize.com/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>How to Improve AI Agent Security with Microsoft’s AI Red Teaming Agent in Microsoft Foundry</title>
+      <link>https://arize.com/blog/how-to-improve-ai-agent-security-with-microsofts-ai-red-teaming-agent-in-microsoft-foundry/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; November 19, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Adversarial AI", "Microsoft Foundry", "AI Red Teaming", "AI Observability"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Building safe AI is essential due to adversarial users.&lt;/li&gt;
+&lt;li&gt;Microsoft Foundry offers automated AI red teaming.&lt;/li&gt;
+&lt;li&gt;Arize AX adds observability to detect attack patterns.&lt;/li&gt;
+&lt;li&gt;Feedback from attacks improves AI prompts automatically.&lt;/li&gt;
+&lt;li&gt;This creates a self-improving security loop.&lt;/li&gt;
+&lt;li&gt;The integration ensures safer AI deployments in production.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://arize.com/blog/how-to-improve-ai-agent-security-with-microsofts-ai-red-teaming-agent-in-microsoft-foundry/</guid>
+      <category>AI Security</category>
+      <category>Adversarial AI</category>
+      <category>Microsoft Foundry</category>
+      <category>AI Red Teaming</category>
+      <category>AI Observability</category>
       <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <source url="https://arize.com/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>CLAUDE.md: Best Practices Learned from Optimizing Claude Code with Prompt Learning</title>
+      <link>https://arize.com/blog/claude-md-best-practices-learned-from-optimizing-claude-code-with-prompt-learning/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; November 20, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Coding Agents", "Prompt Engineering", "Code Optimization", "Machine Learning Models"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;The article discusses optimizing Claude Code using prompt learning.&lt;/li&gt;
+&lt;li&gt;Claude Code is a top coding agent using Claude Sonnet 4-5.&lt;/li&gt;
+&lt;li&gt;It leads in the SWE bench code generation benchmark.&lt;/li&gt;
+&lt;li&gt;Developers can improve performance by editing system prompts.&lt;/li&gt;
+&lt;li&gt;The article shares best practices and examples for prompt optimization.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://arize.com/blog/claude-md-best-practices-learned-from-optimizing-claude-code-with-prompt-learning/</guid>
+      <category>AI Coding Agents</category>
+      <category>Prompt Engineering</category>
+      <category>Code Optimization</category>
+      <category>Machine Learning Models</category>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
+      <source url="https://arize.com/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Google TUMIX AI Agent Paper, Explained By Its Author</title>
+      <link>https://arize.com/blog/google-tumix-ai-agent-paper-explained-by-its-author/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; David Burch&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; November 24, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Machine Learning", "Multi-Agent Systems", "Tool-Augmented Models", "Research Papers"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Yongchao Chen presented the TUMIX paper.&lt;/li&gt;
+&lt;li&gt;TUMIX uses multiple agents with different tool strategies.&lt;/li&gt;
+&lt;li&gt;Agents share and refine answers iteratively.&lt;/li&gt;
+&lt;li&gt;TUMIX outperforms current tool-augmented methods.&lt;/li&gt;
+&lt;li&gt;The framework improves test-time scaling in AI.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://arize.com/blog/google-tumix-ai-agent-paper-explained-by-its-author/</guid>
+      <category>Artificial Intelligence</category>
+      <category>Machine Learning</category>
+      <category>Multi-Agent Systems</category>
+      <category>Tool-Augmented Models</category>
+      <category>Research Papers</category>
+      <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
+      <source url="https://arize.com/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>AWS Bedrock AgentCore Observability with Arize AX: Operationalizing AI Agents At Scale</title>
+      <link>https://arize.com/blog/aws-bedrock-agentcore-observability-operationalizing-ai-agents-at-scale/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Venu Kanamatareddy, Nolan Chen, Richard Young&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 01, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Operations", "Cloud Infrastructure", "Observability", "AI Agent Deployment", "AWS Services"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Building AI agents in notebooks is easy.&lt;/li&gt;
+&lt;li&gt;Scaling agents in production is challenging.&lt;/li&gt;
+&lt;li&gt;AWS Bedrock AgentCore manages infrastructure and scaling.&lt;/li&gt;
+&lt;li&gt;Arize AX provides observability and debugging tools.&lt;/li&gt;
+&lt;li&gt;Together, they enable reliable deployment and continuous improvement.&lt;/li&gt;
+&lt;li&gt;The article shows deploying a travel planning agent with these tools.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://arize.com/blog/aws-bedrock-agentcore-observability-operationalizing-ai-agents-at-scale/</guid>
+      <category>AI Operations</category>
+      <category>Cloud Infrastructure</category>
+      <category>Observability</category>
+      <category>AI Agent Deployment</category>
+      <category>AWS Services</category>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <source url="https://arize.com/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Red Teaming AI Agents: Breaking and Fixing Multi-Chained Agent Workflows Andrija Dumančić</title>
+      <link>https://splx.ai/blog/red-teaming-multi-chained-ai-agents</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Andrija Dumančić&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; November 21, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Multi-Agent Systems", "Cybersecurity", "Prompt Engineering", "AI Safety"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Agentic AI systems act on data using multiple specialized agents.&lt;/li&gt;
+&lt;li&gt;A fitness coach multi-agent system was tested for security.&lt;/li&gt;
+&lt;li&gt;Simple prompt injection attacks failed due to layered agent defenses.&lt;/li&gt;
+&lt;li&gt;Each agent filters or halts malicious requests.&lt;/li&gt;
+&lt;li&gt;The system shows improved security over single-agent models.&lt;/li&gt;
+&lt;li&gt;Prompt engineering strengthens system resilience.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://splx.ai/blog/red-teaming-multi-chained-ai-agents</guid>
+      <category>Artificial Intelligence</category>
+      <category>Multi-Agent Systems</category>
+      <category>Cybersecurity</category>
+      <category>Prompt Engineering</category>
+      <category>AI Safety</category>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+      <source url="https://splx.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Introducing Policy Generator: Turn Red Teaming Insights into Guardrail Policies Luka Kamber</title>
+      <link>https://splx.ai/blog/policy-generator-launch</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Luka Kamber&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; November 24, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Red Teaming", "Policy Automation", "Risk Mitigation", "AI Governance"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Policy Generator automates guardrail policy creation from AI red teaming results.&lt;/li&gt;
+&lt;li&gt;It reduces manual work for AI security teams.&lt;/li&gt;
+&lt;li&gt;Policies are tailored to specific risks and probe configurations.&lt;/li&gt;
+&lt;li&gt;The tool supports multiple guardrail providers with provider-aware mapping.&lt;/li&gt;
+&lt;li&gt;This accelerates risk mitigation and enforcement of AI protections.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://splx.ai/blog/policy-generator-launch</guid>
+      <category>AI Security</category>
+      <category>Red Teaming</category>
+      <category>Policy Automation</category>
+      <category>Risk Mitigation</category>
+      <category>AI Governance</category>
+      <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
+      <source url="https://splx.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>A New Chapter for SPLX: Joining Forces with Zscaler to Secure the Future of AI</title>
+      <link>https://splx.ai/blog/zscaler-acquires-splx</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Kristian Kamber&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; November 03, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Enterprise Technology", "Cybersecurity", "Mergers and Acquisitions", "Artificial Intelligence"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;SPLX has been acquired by Zscaler Inc.&lt;/li&gt;
+&lt;li&gt;SPLX focuses on AI security and risk management.&lt;/li&gt;
+&lt;li&gt;They offer automated AI red teaming and threat detection.&lt;/li&gt;
+&lt;li&gt;Zscaler provides a Zero Trust platform for enterprise security.&lt;/li&gt;
+&lt;li&gt;Together, they aim to secure the entire AI lifecycle.&lt;/li&gt;
+&lt;li&gt;This partnership expands AI security capabilities at scale.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://splx.ai/blog/zscaler-acquires-splx</guid>
+      <category>AI Security</category>
+      <category>Enterprise Technology</category>
+      <category>Cybersecurity</category>
+      <category>Mergers and Acquisitions</category>
+      <category>Artificial Intelligence</category>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+      <source url="https://splx.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>5 Predictions for AI Agent Security in 2026</title>
+      <link>https://neuraltrust.ai/blog/5-predictions-for-ai-agent-security-in-2026</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Alessandro Pignati&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 01, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Cybersecurity", "Autonomous Systems", "Threat Predictions", "Enterprise Technology"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Autonomous AI agents are widely adopted but lack comprehensive security.&lt;/li&gt;
+&lt;li&gt;Indirect Prompt Injection will become the main attack vector.&lt;/li&gt;
+&lt;li&gt;Agentic browsers will enable new web-based attacks.&lt;/li&gt;
+&lt;li&gt;The Model Context Protocol will be a prime target.&lt;/li&gt;
+&lt;li&gt;New agent-native defenses are essential for future security.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://neuraltrust.ai/blog/5-predictions-for-ai-agent-security-in-2026</guid>
+      <category>AI Security</category>
+      <category>Cybersecurity</category>
+      <category>Autonomous Systems</category>
+      <category>Threat Predictions</category>
+      <category>Enterprise Technology</category>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <source url="https://neuraltrust.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Top Agentic AI Use Cases Transforming Enterprise Operations</title>
+      <link>https://www.lasso.security/blog/agentic-ai-use-cases</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Gil Ben&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; November 26, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Enterprise Automation", "Cybersecurity", "Customer Support", "Compliance and Risk Management"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Agentic AI combines reasoning, memory, and action to perform tasks autonomously.&lt;/li&gt;
+&lt;li&gt;It breaks goals into steps and acts via connected tools.&lt;/li&gt;
+&lt;li&gt;Enterprises use it to automate workflows and improve efficiency.&lt;/li&gt;
+&lt;li&gt;Key use cases include security, process automation, and customer engagement.&lt;/li&gt;
+&lt;li&gt;Challenges include transparency and ethical governance.&lt;/li&gt;
+&lt;li&gt;Proper integration offers a competitive edge.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.lasso.security/blog/agentic-ai-use-cases</guid>
+      <category>Artificial Intelligence</category>
+      <category>Enterprise Automation</category>
+      <category>Cybersecurity</category>
+      <category>Customer Support</category>
+      <category>Compliance and Risk Management</category>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
       <source url="https://www.lasso.security/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>OWASP Top 10 for LLM 2025: Understanding the Risks of Large Language Models</title>
+      <link>https://www.giskard.ai/knowledge/owasp-top-10-for-llm-2025-understanding-the-risks-of-large-language-models</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Giskard Team&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Large Language Models", "Cybersecurity Risks", "Data Privacy", "AI Governance"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Large Language Models (LLMs) enable diverse AI applications.&lt;/li&gt;
+&lt;li&gt;They face unique security risks as usage grows.&lt;/li&gt;
+&lt;li&gt;The article lists OWASP Top 10 risks for LLMs in 2025.&lt;/li&gt;
+&lt;li&gt;Risks include data poisoning, prompt injection, and model theft.&lt;/li&gt;
+&lt;li&gt;Mitigation involves validation, access control, and monitoring.&lt;/li&gt;
+&lt;li&gt;Understanding these risks helps secure AI systems effectively.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.giskard.ai/knowledge/owasp-top-10-for-llm-2025-understanding-the-risks-of-large-language-models</guid>
+      <category>AI Security</category>
+      <category>Large Language Models</category>
+      <category>Cybersecurity Risks</category>
+      <category>Data Privacy</category>
+      <category>AI Governance</category>
+      <pubDate>Mon, 01 Dec 2025 21:46:11 +0000</pubDate>
+      <source url="https://www.giskard.ai/knowledge-categories/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>AI phishing attack in Australia: 270,000 fake government emails expose AI security gap</title>
+      <link>https://www.giskard.ai/knowledge/ai-phishing-attack-in-australia-270-000-fake-government-emails-expose-ai-security-gap</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Giskard Team&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Phishing Attacks", "Artificial Intelligence", "Government Security", "Data Protection"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Australia faced an AI-driven phishing attack with 270,000 fake government emails.&lt;/li&gt;
+&lt;li&gt;The emails mimicked official agencies like the ATO.&lt;/li&gt;
+&lt;li&gt;Attackers used AI to create convincing phishing content at scale.&lt;/li&gt;
+&lt;li&gt;Traditional spam filters struggle to detect AI-generated phishing.&lt;/li&gt;
+&lt;li&gt;The ACSC issued warnings and guidelines to combat these threats.&lt;/li&gt;
+&lt;li&gt;This incident highlights the need for improved AI security measures.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.giskard.ai/knowledge/ai-phishing-attack-in-australia-270-000-fake-government-emails-expose-ai-security-gap</guid>
+      <category>Cybersecurity</category>
+      <category>Phishing Attacks</category>
+      <category>Artificial Intelligence</category>
+      <category>Government Security</category>
+      <category>Data Protection</category>
+      <pubDate>Mon, 01 Dec 2025 21:46:11 +0000</pubDate>
+      <source url="https://www.giskard.ai/knowledge-categories/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Tree of attacks with pruning: The automated method for jailbreaking LLMs</title>
+      <link>https://www.giskard.ai/knowledge/tree-of-attacks-with-pruning-the-automated-method-for-jailbreaking-llms</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Nicolas Papernot&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Machine Learning Security", "Natural Language Processing", "Cybersecurity", "Reinforcement Learning"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Large Language Models can be vulnerable to jailbreaking attacks.&lt;/li&gt;
+&lt;li&gt;The article presents a method called Tree of Attacks with Pruning (ToAP).&lt;/li&gt;
+&lt;li&gt;ToAP builds and prunes a tree of attack prompts to find jailbreaks.&lt;/li&gt;
+&lt;li&gt;It uses reinforcement learning and heuristics to improve efficiency.&lt;/li&gt;
+&lt;li&gt;Experiments show ToAP finds diverse and effective jailbreaks.&lt;/li&gt;
+&lt;li&gt;The method helps improve LLM safety and vulnerability understanding.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.giskard.ai/knowledge/tree-of-attacks-with-pruning-the-automated-method-for-jailbreaking-llms</guid>
+      <category>Artificial Intelligence</category>
+      <category>Machine Learning Security</category>
+      <category>Natural Language Processing</category>
+      <category>Cybersecurity</category>
+      <category>Reinforcement Learning</category>
+      <pubDate>Mon, 01 Dec 2025 21:46:11 +0000</pubDate>
+      <source url="https://www.giskard.ai/knowledge-categories/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>AI Regulations If Compliance is Soley your North Star, You’ve Already Lost</title>
+      <link>https://www.holisticai.com/blog/why-compliance-alone-fails</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Holistic AI Team&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Governance", "Regulatory Compliance", "Risk Management", "Ethics in AI", "Innovation"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Compliance is essential but not sufficient for AI governance.&lt;/li&gt;
+&lt;li&gt;Compliance frameworks are often reactive and static.&lt;/li&gt;
+&lt;li&gt;They miss nuanced ethical and operational AI challenges.&lt;/li&gt;
+&lt;li&gt;A holistic approach includes risk management and ethical alignment.&lt;/li&gt;
+&lt;li&gt;This approach fosters innovation and builds trust.&lt;/li&gt;
+&lt;li&gt;Organizations must go beyond compliance to manage AI risks effectively.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.holisticai.com/blog/why-compliance-alone-fails</guid>
+      <category>AI Governance</category>
+      <category>Regulatory Compliance</category>
+      <category>Risk Management</category>
+      <category>Ethics in AI</category>
+      <category>Innovation</category>
+      <pubDate>Mon, 01 Dec 2025 21:46:11 +0000</pubDate>
+      <source url="https://www.holisticai.com/blog">Custom Web Page</source>
     </item>
   </channel>
 </rss>
