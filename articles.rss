@@ -7,31 +7,188 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Dec 2025 21:32:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 21:34:08 +0000</lastBuildDate>
     <item>
-      <title>New in Arize AX: OpenInference, TypeScript 2.0, Session Annotations, Integrations Revamp</title>
-      <link>https://arize.com/blog/new-in-arize-ax-openinference-typescript-2-0-session-annotations-integrations-revamp/</link>
+      <title>AI Security Realized: Innovation Highlights from OneCon25</title>
+      <link>https://www.sentinelone.com/blog/ai-security-realized-innovation-highlights-from-onecon25/</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 04, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Software Updates", "OpenInference", "TypeScript", "Telemetry", "Software Integrations"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; SentinelOne Team&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI in Cybersecurity", "Endpoint Protection", "Security Automation", "Cloud Security", "Cybersecurity Conferences"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Arize AX released multiple updates in November 2025.&lt;/li&gt;
-&lt;li&gt;OpenInference TypeScript 2.&lt;/li&gt;
-&lt;li&gt;0 adds manual instrumentation features.&lt;/li&gt;
-&lt;li&gt;It supports function tracing and decorator-based method tracing.&lt;/li&gt;
-&lt;li&gt;Attribute helpers standardize OpenTelemetry metadata creation.&lt;/li&gt;
-&lt;li&gt;Integrations have been revamped for better performance.&lt;/li&gt;
+&lt;li&gt;ONECon25 showcased AI innovations in cybersecurity.&lt;/li&gt;
+&lt;li&gt;SentinelOne enhanced its Singularity Platform.&lt;/li&gt;
+&lt;li&gt;New AI features improve endpoint and cloud security.&lt;/li&gt;
+&lt;li&gt;Purple AI and Singularity Hyperautomation were launched.&lt;/li&gt;
+&lt;li&gt;The event highlighted autonomous threat detection and response.&lt;/li&gt;
+&lt;li&gt;SentinelOne leads in endpoint protection for five years.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://arize.com/blog/new-in-arize-ax-openinference-typescript-2-0-session-annotations-integrations-revamp/</guid>
-      <category>Software Updates</category>
-      <category>OpenInference</category>
-      <category>TypeScript</category>
-      <category>Telemetry</category>
-      <category>Software Integrations</category>
-      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-      <source url="https://arize.com/blog">Custom Web Page</source>
+      <guid isPermaLink="false">https://www.sentinelone.com/blog/ai-security-realized-innovation-highlights-from-onecon25/</guid>
+      <category>AI in Cybersecurity</category>
+      <category>Endpoint Protection</category>
+      <category>Security Automation</category>
+      <category>Cloud Security</category>
+      <category>Cybersecurity Conferences</category>
+      <pubDate>Sun, 07 Dec 2025 21:34:08 +0000</pubDate>
+      <source url="https://www.sentinelone.com/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>AI Security: Defining and Defending Cybersecurity’s Next Frontier</title>
+      <link>https://www.sentinelone.com/blog/ai-security-defining-and-defending-cybersecuritys-next-frontier/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Dr. Alon Cohen&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Cybersecurity", "AI Security", "Threat Detection", "Cyber Defense"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;AI is transforming cybersecurity with new opportunities and challenges.&lt;/li&gt;
+&lt;li&gt;Defenders use AI for threat detection and response automation.&lt;/li&gt;
+&lt;li&gt;Attackers exploit AI to create advanced cyber threats.&lt;/li&gt;
+&lt;li&gt;AI security must protect AI systems and enhance defenses.&lt;/li&gt;
+&lt;li&gt;Collaboration and standards are crucial for safe AI use.&lt;/li&gt;
+&lt;li&gt;Investment in AI security research is essential for future protection.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.sentinelone.com/blog/ai-security-defining-and-defending-cybersecuritys-next-frontier/</guid>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>AI Security</category>
+      <category>Threat Detection</category>
+      <category>Cyber Defense</category>
+      <pubDate>Sun, 07 Dec 2025 21:34:08 +0000</pubDate>
+      <source url="https://www.sentinelone.com/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Managed Defense Reimagined: Introducing Wayfinder Threat Detection and Response</title>
+      <link>https://www.sentinelone.com/blog/managed-defense-reimagined-introducing-wayfinder-threat-detection-and-response/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; SentinelOne&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Threat Detection", "Managed Security Services", "Artificial Intelligence", "Incident Response"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;SentinelOne introduces Wayfinder Threat Detection and Response.&lt;/li&gt;
+&lt;li&gt;It combines AI detection with expert threat hunting.&lt;/li&gt;
+&lt;li&gt;The service offers 24/7 monitoring and tailored response strategies.&lt;/li&gt;
+&lt;li&gt;Wayfinder integrates with the Singularity Platform for unified security operations.&lt;/li&gt;
+&lt;li&gt;It provides detailed reporting and actionable security insights.&lt;/li&gt;
+&lt;li&gt;This solution enhances proactive threat detection and rapid incident response.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.sentinelone.com/blog/managed-defense-reimagined-introducing-wayfinder-threat-detection-and-response/</guid>
+      <category>Cybersecurity</category>
+      <category>Threat Detection</category>
+      <category>Managed Security Services</category>
+      <category>Artificial Intelligence</category>
+      <category>Incident Response</category>
+      <pubDate>Sun, 07 Dec 2025 21:34:08 +0000</pubDate>
+      <source url="https://www.sentinelone.com/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Defending Against Sha1-Hulud: The Second Coming</title>
+      <link>https://www.sentinelone.com/blog/defending-against-sha1-hulud-the-second-coming/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Simon Bennetts&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Cryptography", "Threat Detection", "Endpoint Security", "Malware Campaigns"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;SHA1 vulnerabilities are being exploited in recent attacks.&lt;/li&gt;
+&lt;li&gt;The SHA1 Hulud campaign uses advanced evasion techniques.&lt;/li&gt;
+&lt;li&gt;Legacy systems relying on SHA1 remain at risk.&lt;/li&gt;
+&lt;li&gt;Multi-layered security and AI detection are recommended defenses.&lt;/li&gt;
+&lt;li&gt;SentinelOne’s platform helps detect and respond to these threats.&lt;/li&gt;
+&lt;li&gt;Organizations must patch systems and train security teams.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.sentinelone.com/blog/defending-against-sha1-hulud-the-second-coming/</guid>
+      <category>Cybersecurity</category>
+      <category>Cryptography</category>
+      <category>Threat Detection</category>
+      <category>Endpoint Security</category>
+      <category>Malware Campaigns</category>
+      <pubDate>Sun, 07 Dec 2025 21:34:08 +0000</pubDate>
+      <source url="https://www.sentinelone.com/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>The Good, the Bad, and the Ugly in Cybersecurity — Week 49</title>
+      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-49-7/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Paul Ducklin&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity News", "Ransomware", "Data Breaches", "Phishing", "Security Strategies"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;This article summarizes cybersecurity news for Week 49 of 2023.&lt;/li&gt;
+&lt;li&gt;It covers cyber attacks, vulnerabilities, and security trends.&lt;/li&gt;
+&lt;li&gt;Key topics include ransomware, data breaches, and phishing tactics.&lt;/li&gt;
+&lt;li&gt;The article highlights new defensive technologies and strategies.&lt;/li&gt;
+&lt;li&gt;It offers practical advice for security professionals.&lt;/li&gt;
+&lt;li&gt;The focus is on staying vigilant and mitigating risks effectively.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-49-7/</guid>
+      <category>Cybersecurity News</category>
+      <category>Ransomware</category>
+      <category>Data Breaches</category>
+      <category>Phishing</category>
+      <category>Security Strategies</category>
+      <pubDate>Sun, 07 Dec 2025 21:34:08 +0000</pubDate>
+      <source url="https://www.sentinelone.com/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>From React to Remote Code – Protecting Against the Critical React2Shell RCE, Exposure</title>
+      <link>https://www.sentinelone.com/blog/protecting-against-critical-react2shell-rce-exposure/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; SentinelOne Research Team&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Vulnerability Management", "Remote Code Execution", "Apache Log4j", "Threat Intelligence"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;A critical RCE vulnerability named React2Shell affects Apache Log4j2.&lt;/li&gt;
+&lt;li&gt;Attackers can execute arbitrary code via crafted inputs.&lt;/li&gt;
+&lt;li&gt;The flaw arises from improper input sanitization.&lt;/li&gt;
+&lt;li&gt;SentinelOne urges immediate patching and asset identification.&lt;/li&gt;
+&lt;li&gt;Network protections and monitoring are also recommended.&lt;/li&gt;
+&lt;li&gt;SentinelOne offers detection tools and ongoing threat updates.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.sentinelone.com/blog/protecting-against-critical-react2shell-rce-exposure/</guid>
+      <category>Cybersecurity</category>
+      <category>Vulnerability Management</category>
+      <category>Remote Code Execution</category>
+      <category>Apache Log4j</category>
+      <category>Threat Intelligence</category>
+      <pubDate>Sun, 07 Dec 2025 21:34:08 +0000</pubDate>
+      <source url="https://www.sentinelone.com/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>LLM as a Judge: Using LLMs to Secure Other LLMs</title>
+      <link>https://www.lasso.security/blog/llm-as-a-judge</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Ophir Dror&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 07, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence Security", "Large Language Models", "Cybersecurity", "Enterprise Technology", "AI Risk Management"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;LLMs pose new security risks that traditional tools struggle to prevent.&lt;/li&gt;
+&lt;li&gt;Attackers can exploit LLMs to leak sensitive data or bypass safety rules.&lt;/li&gt;
+&lt;li&gt;Existing tools miss AI-native threats like prompt injection and semantic leaks.&lt;/li&gt;
+&lt;li&gt;LLM-as-a-Judge uses one model to monitor and control another.&lt;/li&gt;
+&lt;li&gt;This method offers dynamic, context-aware security enforcement.&lt;/li&gt;
+&lt;li&gt;The article explores implementation, challenges, and future prospects of LLM security.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.lasso.security/blog/llm-as-a-judge</guid>
+      <category>Artificial Intelligence Security</category>
+      <category>Large Language Models</category>
+      <category>Cybersecurity</category>
+      <category>Enterprise Technology</category>
+      <category>AI Risk Management</category>
+      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
+      <source url="https://www.lasso.security/blog">Custom Web Page</source>
     </item>
   </channel>
 </rss>
