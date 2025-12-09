@@ -7,58 +7,109 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Dec 2025 21:36:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 21:35:13 +0000</lastBuildDate>
     <item>
-      <title>Risk assessment for LLMs and AI agents: OWASP, MITRE Atlas, and NIST AI RMF explained</title>
-      <link>https://www.giskard.ai/knowledge/risk-assessment-for-llms-and-ai-agents-owasp-mitre-atlas-and-nist-ai-rmf-explained</link>
+      <title>From Prompt to Pwn: Cline Bot AI Coding Agent Vulnerabilities</title>
+      <link>https://mindgard.ai/blog/cline-coding-agent-vulnerabilities</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Maxime Beauchemin&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Risk Management", "Cybersecurity Frameworks", "Artificial Intelligence", "Technology Governance"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Aaron Portnoy&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 09, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Prompt Injection", "Software Vulnerabilities", "Machine Learning", "Cybersecurity"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;LLMs and AI agents pose new security and risk challenges.&lt;/li&gt;
-&lt;li&gt;OWASP lists common AI vulnerabilities.&lt;/li&gt;
-&lt;li&gt;MITRE ATLAS catalogs adversarial AI attack methods.&lt;/li&gt;
-&lt;li&gt;NIST AI RMF guides AI risk governance and accountability.&lt;/li&gt;
-&lt;li&gt;Combining these frameworks improves risk assessment.&lt;/li&gt;
-&lt;li&gt;Organizations can better secure AI systems using these tools.&lt;/li&gt;
+&lt;li&gt;AI coding assistants can be exploited via prompt injections.&lt;/li&gt;
+&lt;li&gt;Cline Bot AI has vulnerabilities including API key theft and code execution.&lt;/li&gt;
+&lt;li&gt;Exploits need only opening a malicious repo for analysis.&lt;/li&gt;
+&lt;li&gt;System prompts contain sensitive operational logic.&lt;/li&gt;
+&lt;li&gt;Disclosure of prompts increases attacker capabilities.&lt;/li&gt;
+&lt;li&gt;Security risks stem from prompt design and stored sensitive data.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.giskard.ai/knowledge/risk-assessment-for-llms-and-ai-agents-owasp-mitre-atlas-and-nist-ai-rmf-explained</guid>
+      <guid isPermaLink="false">https://mindgard.ai/blog/cline-coding-agent-vulnerabilities</guid>
       <category>AI Security</category>
-      <category>Risk Management</category>
-      <category>Cybersecurity Frameworks</category>
-      <category>Artificial Intelligence</category>
-      <category>Technology Governance</category>
-      <pubDate>Mon, 08 Dec 2025 21:36:28 +0000</pubDate>
-      <source url="https://www.giskard.ai/knowledge-categories/blog">Custom Web Page</source>
+      <category>Prompt Injection</category>
+      <category>Software Vulnerabilities</category>
+      <category>Machine Learning</category>
+      <category>Cybersecurity</category>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+      <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
     </item>
     <item>
-      <title>Agentic Tool Extraction: A Multi-Turn Attack that Exposes the Agent’s Internal Functions</title>
-      <link>https://www.giskard.ai/knowledge/agentic-tool-extraction-multi-turn-attack-that-exposes-the-agents-internal-functions</link>
+      <title>Inside OpenAI Sora 2: Uncovering System Prompts Driving Multi-Modal LLMs</title>
+      <link>https://mindgard.ai/blog/openai-sora-system-prompts</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Alexandre Lebrun&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Cybersecurity", "AI Vulnerabilities", "Adversarial Attacks", "Agentic Systems"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Aaron Portnoy&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 09, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Large Language Models", "Multi-modal Models", "Prompt Engineering", "AI Security"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Agentic AI systems use internal tools to perform tasks autonomously.&lt;/li&gt;
-&lt;li&gt;A multi-turn attack called Agentic Tool Extraction reveals these internal functions.&lt;/li&gt;
-&lt;li&gt;The attack extracts sensitive tool information through iterative dialogue.&lt;/li&gt;
-&lt;li&gt;This vulnerability poses security risks and potential misuse.&lt;/li&gt;
-&lt;li&gt;The article discusses defenses to protect agentic systems.&lt;/li&gt;
-&lt;li&gt;It stresses balancing transparency with security in AI design.&lt;/li&gt;
+&lt;li&gt;We revealed Sora 2's system prompt using multi-modal experiments.&lt;/li&gt;
+&lt;li&gt;Data transformations can cause errors and meaning shifts.&lt;/li&gt;
+&lt;li&gt;Multi-modal models increase semantic drift risks.&lt;/li&gt;
+&lt;li&gt;Prompt extraction helps understand model behavior.&lt;/li&gt;
+&lt;li&gt;Models resist prompt disclosure but can be circumvented.&lt;/li&gt;
+&lt;li&gt;This affects AI security and research.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.giskard.ai/knowledge/agentic-tool-extraction-multi-turn-attack-that-exposes-the-agents-internal-functions</guid>
+      <guid isPermaLink="false">https://mindgard.ai/blog/openai-sora-system-prompts</guid>
       <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
-      <category>AI Vulnerabilities</category>
-      <category>Adversarial Attacks</category>
-      <category>Agentic Systems</category>
-      <pubDate>Mon, 08 Dec 2025 21:36:28 +0000</pubDate>
-      <source url="https://www.giskard.ai/knowledge-categories/blog">Custom Web Page</source>
+      <category>Large Language Models</category>
+      <category>Multi-modal Models</category>
+      <category>Prompt Engineering</category>
+      <category>AI Security</category>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+      <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Can a 14B Model Match a 100B+ Model? We Fine-Tuned 8+ Models to Find Out</title>
+      <link>https://orq.ai/blog/can-a-14b-model-match-a-100b-model-we-fine-tuned-8-models-to-find-out</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Bauke Brenninkmeijer&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 05, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Machine Learning", "Natural Language Processing", "Model Fine-Tuning", "Text Classification"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;We fine-tuned over 8 language models for text classification.&lt;/li&gt;
+&lt;li&gt;A 14B model outperformed 100B+ base models with 93.&lt;/li&gt;
+&lt;li&gt;4% accuracy.&lt;/li&gt;
+&lt;li&gt;Prompt engineering improved accuracy by 34%.&lt;/li&gt;
+&lt;li&gt;Using LLM labeling cost $26 for 8,000 labels.&lt;/li&gt;
+&lt;li&gt;Smaller models can match much larger ones when well-tuned.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://orq.ai/blog/can-a-14b-model-match-a-100b-model-we-fine-tuned-8-models-to-find-out</guid>
+      <category>Machine Learning</category>
+      <category>Natural Language Processing</category>
+      <category>Model Fine-Tuning</category>
+      <category>Text Classification</category>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+      <source url="https://orq.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Top 7 Reasons to Try the Free TrojAI Red Team Report Card</title>
+      <link>https://www.troj.ai/blog/top-7-reasons-to-try-the-trojai-free-red-team-report-card</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; TrojAI Team&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Model Vulnerability Assessment", "Cybersecurity Tools", "AI Frameworks", "Risk Management"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;The TrojAI Red Team Report Card helps identify AI model vulnerabilities.&lt;/li&gt;
+&lt;li&gt;It benchmarks security against industry standards.&lt;/li&gt;
+&lt;li&gt;The tool is easy to use and accessible.&lt;/li&gt;
+&lt;li&gt;It provides comprehensive analysis of multiple attack types.&lt;/li&gt;
+&lt;li&gt;Users receive actionable security improvement recommendations.&lt;/li&gt;
+&lt;li&gt;The tool supports various AI frameworks and is free to use.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.troj.ai/blog/top-7-reasons-to-try-the-trojai-free-red-team-report-card</guid>
+      <category>AI Security</category>
+      <category>Model Vulnerability Assessment</category>
+      <category>Cybersecurity Tools</category>
+      <category>AI Frameworks</category>
+      <category>Risk Management</category>
+      <pubDate>Tue, 09 Dec 2025 21:35:13 +0000</pubDate>
+      <source url="https://www.troj.ai/blog">Custom Web Page</source>
     </item>
   </channel>
 </rss>
