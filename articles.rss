@@ -7,330 +7,107 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Dec 2025 21:37:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 21:41:54 +0000</lastBuildDate>
     <item>
-      <title>The Road to Secure and Trusted AI</title>
-      <link>https://adversa.ai/report-secure-and-trusted-ai/</link>
+      <title>Securing AI: The Technology Playbook</title>
+      <link>https://hiddenlayer.com/innovation-hub/securing-ai-the-technology-playbook/</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 10, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Trusted AI", "Adversarial AI", "Cybersecurity", "Technology Trends"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 11, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Technology Governance", "Cybersecurity", "Artificial Intelligence", "Tech Industry"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Adversa published a detailed report on Trusted AI.&lt;/li&gt;
-&lt;li&gt;It explains threats and protection methods for AI technology.&lt;/li&gt;
-&lt;li&gt;The report reviews a decade of AI security with data and visuals.&lt;/li&gt;
-&lt;li&gt;It highlights targeted AI areas impacting business and economy.&lt;/li&gt;
-&lt;li&gt;The report offers steps for companies to secure AI.&lt;/li&gt;
-&lt;li&gt;It analyzes over 2000 research papers on adversarial AI attacks.&lt;/li&gt;
+&lt;li&gt;The playbook guides securing and scaling AI in tech companies.&lt;/li&gt;
+&lt;li&gt;It targets CISOs and ML practitioners.&lt;/li&gt;
+&lt;li&gt;It covers AI visibility, ethics, and proactive defenses.&lt;/li&gt;
+&lt;li&gt;HiddenLayer offers a platform protecting AI systems.&lt;/li&gt;
+&lt;li&gt;The company is backed by major tech investors.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://adversa.ai/report-secure-and-trusted-ai/</guid>
+      <guid isPermaLink="false">https://hiddenlayer.com/?p=14178</guid>
       <category>AI Security</category>
-      <category>Trusted AI</category>
-      <category>Adversarial AI</category>
+      <category>Technology Governance</category>
       <category>Cybersecurity</category>
-      <category>Technology Trends</category>
-      <pubDate>Wed, 10 Dec 2025 21:36:31 +0000</pubDate>
-      <source url="https://adversa.ai/topic/trusted-ai-blog">Custom Web Page</source>
+      <category>Artificial Intelligence</category>
+      <category>Tech Industry</category>
+      <pubDate>Thu, 11 Dec 2025 21:41:43 +0000</pubDate>
+      <source url="https://hiddenlayer.com/feed">HiddenLayer | Security for AI</source>
     </item>
     <item>
-      <title>MLSec 2022: BlackBox AI Hacking Competition Results And Review By Organizers</title>
-      <link>https://adversa.ai/ai-hacking-competition-results-and-review-by-organizers/</link>
+      <title>Indirect Prompt Injection: The Complete Guide</title>
+      <link>https://neuraltrust.ai/blog/indirect-prompt-injection-complete-guide</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; admin&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Cybersecurity Competitions", "Adversarial Machine Learning", "AI Vulnerabilities", "Black-box AI Attacks"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Alessandro Pignati&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 11, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Cybersecurity", "Prompt Injection", "Language Models", "Enterprise AI"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;MLSec 2022 was organized by Adversa AI and partners.&lt;/li&gt;
-&lt;li&gt;The competition focused on black-box AI hacking techniques.&lt;/li&gt;
-&lt;li&gt;Participants shared new AI evasion strategies.&lt;/li&gt;
-&lt;li&gt;Organizers reviewed the most effective attack methods.&lt;/li&gt;
-&lt;li&gt;The event highlighted the need for AI security collaboration.&lt;/li&gt;
-&lt;li&gt;Future AI defense research was emphasized.&lt;/li&gt;
+&lt;li&gt;Indirect Prompt Injection (IPI) is a hidden AI security threat.&lt;/li&gt;
+&lt;li&gt;It uses trusted content to deliver malicious instructions.&lt;/li&gt;
+&lt;li&gt;IPI can cause data leaks and unauthorized actions.&lt;/li&gt;
+&lt;li&gt;It is hard to detect and mitigate.&lt;/li&gt;
+&lt;li&gt;Defenses include validation, filtering, and human review.&lt;/li&gt;
+&lt;li&gt;IPI is a critical vulnerability in AI systems.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://adversa.ai/ai-hacking-competition-results-and-review-by-organizers/</guid>
+      <guid isPermaLink="false">https://neuraltrust.ai/blog/indirect-prompt-injection-complete-guide</guid>
       <category>AI Security</category>
-      <category>Cybersecurity Competitions</category>
-      <category>Adversarial Machine Learning</category>
-      <category>AI Vulnerabilities</category>
-      <category>Black-box AI Attacks</category>
-      <pubDate>Wed, 10 Dec 2025 21:37:03 +0000</pubDate>
-      <source url="https://adversa.ai/topic/trusted-ai-blog">Custom Web Page</source>
+      <category>Cybersecurity</category>
+      <category>Prompt Injection</category>
+      <category>Language Models</category>
+      <category>Enterprise AI</category>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+      <source url="https://neuraltrust.ai/blog">Custom Web Page</source>
     </item>
     <item>
-      <title>Adversarial ML, Digest</title>
-      <link>https://adversa.ai/topic/trusted-ai-blog/digests/adversarial-ml-digest/</link>
+      <title>OWASP Top 10 for Agentic Applications</title>
+      <link>https://www.lasso.security/blog/owasp-top-10-for-agentic-applications</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; admin&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Adversarial Machine Learning", "AI Security", "Large Language Models", "Vision-Language Models", "AI Research"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; The Lasso Team&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 10, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Agentic AI", "Cybersecurity Frameworks", "Enterprise AI Adoption", "Vulnerability Management"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;This digest compiles recent research on adversarial machine learning.&lt;/li&gt;
-&lt;li&gt;It covers vulnerabilities in AI models like LLMs and VLMs.&lt;/li&gt;
-&lt;li&gt;Topics include jailbreak prompts and transferable attacks.&lt;/li&gt;
-&lt;li&gt;The digest highlights both advances and security challenges.&lt;/li&gt;
-&lt;li&gt;It links to detailed papers and blog posts.&lt;/li&gt;
+&lt;li&gt;Enterprises are adopting fully autonomous agentic AI applications rapidly.&lt;/li&gt;
+&lt;li&gt;These agents perform complex, multi-step tasks beyond text generation.&lt;/li&gt;
+&lt;li&gt;Agentic AI introduces new security risks due to probabilistic reasoning and untrusted inputs.&lt;/li&gt;
+&lt;li&gt;OWASP released a Top 10 framework to address these vulnerabilities.&lt;/li&gt;
+&lt;li&gt;The framework helps identify and mitigate critical risks in agentic AI systems.&lt;/li&gt;
+&lt;li&gt;The article details these risks and offers security best practices.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://adversa.ai/topic/trusted-ai-blog/digests/adversarial-ml-digest/</guid>
-      <category>Adversarial Machine Learning</category>
+      <guid isPermaLink="false">https://www.lasso.security/blog/owasp-top-10-for-agentic-applications</guid>
       <category>AI Security</category>
-      <category>Large Language Models</category>
-      <category>Vision-Language Models</category>
-      <category>AI Research</category>
-      <pubDate>Wed, 10 Dec 2025 21:37:03 +0000</pubDate>
-      <source url="https://adversa.ai/topic/trusted-ai-blog">Custom Web Page</source>
+      <category>Agentic AI</category>
+      <category>Cybersecurity Frameworks</category>
+      <category>Enterprise AI Adoption</category>
+      <category>Vulnerability Management</category>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      <source url="https://www.lasso.security/blog">Custom Web Page</source>
     </item>
     <item>
-      <title>LLM, Security Digest</title>
-      <link>https://adversa.ai/topic/trusted-ai-blog/digests/llm-security-digest/</link>
+      <title>AI Discovery Comes First</title>
+      <link>https://www.holisticai.com/blog/ai-discovery-comes-first</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; admin&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Large Language Models", "Cybersecurity", "Generative AI", "Threat Analysis"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 11, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "AI Governance", "Risk Management", "Regulatory Compliance", "Enterprise Technology"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;This digest covers vulnerabilities in Large Language Models and Generative AI.&lt;/li&gt;
-&lt;li&gt;It provides guides to protect AI systems.&lt;/li&gt;
-&lt;li&gt;Topics include prompt injection and AI hacking techniques.&lt;/li&gt;
-&lt;li&gt;Reports on AI security incidents are included.&lt;/li&gt;
-&lt;li&gt;Expert commentary offers insights on AI threat defenses.&lt;/li&gt;
+&lt;li&gt;Organizations must identify all AI systems they use.&lt;/li&gt;
+&lt;li&gt;AI discovery is key to managing AI risks and compliance.&lt;/li&gt;
+&lt;li&gt;It involves cataloging AI assets across the enterprise.&lt;/li&gt;
+&lt;li&gt;Holistic AI offers tools for comprehensive AI asset discovery.&lt;/li&gt;
+&lt;li&gt;This process supports governance and regulatory adherence.&lt;/li&gt;
+&lt;li&gt;AI discovery ensures responsible and ethical AI use.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://adversa.ai/topic/trusted-ai-blog/digests/llm-security-digest/</guid>
-      <category>AI Security</category>
-      <category>Large Language Models</category>
-      <category>Cybersecurity</category>
-      <category>Generative AI</category>
-      <category>Threat Analysis</category>
-      <pubDate>Wed, 10 Dec 2025 21:37:03 +0000</pubDate>
-      <source url="https://adversa.ai/topic/trusted-ai-blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>AI risk management for smart city</title>
-      <link>https://adversa.ai/ai-risk-management-smart-city/</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 10, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Smart Cities", "Artificial Intelligence", "Risk Management", "Internet of Things", "Urban Technology"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Smart cities use electronic methods and IoT to collect data.&lt;/li&gt;
-&lt;li&gt;AI optimizes transport, parking, and utility management.&lt;/li&gt;
-&lt;li&gt;Smart city systems improve safety and comfort.&lt;/li&gt;
-&lt;li&gt;AI risks include data theft and system sabotage.&lt;/li&gt;
-&lt;li&gt;Security is critical for protecting residents and infrastructure.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://adversa.ai/ai-risk-management-smart-city/</guid>
-      <category>Smart Cities</category>
+      <guid isPermaLink="false">https://www.holisticai.com/blog/ai-discovery-comes-first</guid>
       <category>Artificial Intelligence</category>
+      <category>AI Governance</category>
       <category>Risk Management</category>
-      <category>Internet of Things</category>
-      <category>Urban Technology</category>
-      <pubDate>Wed, 10 Dec 2025 21:35:53 +0000</pubDate>
-      <source url="https://adversa.ai/topic/trusted-ai-blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>AI risk management for marketplaces</title>
-      <link>https://adversa.ai/ai-risk-management-marketplaces/</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 10, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Digital Marketplaces", "Regulation and Compliance", "Cybersecurity", "E-commerce"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Most large digital marketplaces use AI technologies.&lt;/li&gt;
-&lt;li&gt;AI helps with content moderation and product recommendations.&lt;/li&gt;
-&lt;li&gt;The EU has regulations to manage AI risks in marketplaces.&lt;/li&gt;
-&lt;li&gt;Non-compliance with these laws can lead to heavy fines.&lt;/li&gt;
-&lt;li&gt;Marketplaces face threats from AI-based attacks.&lt;/li&gt;
-&lt;li&gt;Awareness of AI risks is crucial for marketplace owners.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://adversa.ai/ai-risk-management-marketplaces/</guid>
-      <category>Artificial Intelligence</category>
-      <category>Digital Marketplaces</category>
-      <category>Regulation and Compliance</category>
-      <category>Cybersecurity</category>
-      <category>E-commerce</category>
-      <pubDate>Wed, 10 Dec 2025 21:35:40 +0000</pubDate>
-      <source url="https://adversa.ai/topic/trusted-ai-blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>AI risk management for media</title>
-      <link>https://adversa.ai/ai-risk-management-media/</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 10, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Media Industry", "Regulation and Compliance", "Content Moderation", "Cybersecurity"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;AI benefits the media industry by enhancing content sharing and recommendations.&lt;/li&gt;
-&lt;li&gt;It helps filter and ban prohibited content automatically.&lt;/li&gt;
-&lt;li&gt;Media platforms face risks due to the volume of posts and potential misuse.&lt;/li&gt;
-&lt;li&gt;The EU introduced DMA and DSA regulations to combat illegal content and disinformation.&lt;/li&gt;
-&lt;li&gt;Non-compliance with these laws can lead to heavy fines.&lt;/li&gt;
-&lt;li&gt;Media companies using AI are vulnerable to cyberattacks.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://adversa.ai/ai-risk-management-media/</guid>
-      <category>Artificial Intelligence</category>
-      <category>Media Industry</category>
-      <category>Regulation and Compliance</category>
-      <category>Content Moderation</category>
-      <category>Cybersecurity</category>
-      <pubDate>Wed, 10 Dec 2025 21:35:32 +0000</pubDate>
-      <source url="https://adversa.ai/topic/trusted-ai-blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>AI risk management for Internet Industry</title>
-      <link>https://adversa.ai/ai-risk-management-internet-industry/</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 10, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Internet Industry", "Privacy and Security", "Risk Management", "Copyright Protection"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;The Internet industry widely uses AI technologies.&lt;/li&gt;
-&lt;li&gt;AI applications include face and voice recognition.&lt;/li&gt;
-&lt;li&gt;AI systems face risks like privacy violations.&lt;/li&gt;
-&lt;li&gt;Attackers can deceive recognition systems.&lt;/li&gt;
-&lt;li&gt;Copyright detection may fail due to evasive content.&lt;/li&gt;
-&lt;li&gt;These risks highlight the need for AI risk management.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://adversa.ai/ai-risk-management-internet-industry/</guid>
-      <category>Artificial Intelligence</category>
-      <category>Internet Industry</category>
-      <category>Privacy and Security</category>
-      <category>Risk Management</category>
-      <category>Copyright Protection</category>
-      <pubDate>Wed, 10 Dec 2025 21:35:25 +0000</pubDate>
-      <source url="https://adversa.ai/topic/trusted-ai-blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>AI Risk Management for Automotive industry</title>
-      <link>https://adversa.ai/ai-risk-management-automotive-industry/</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 10, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Automotive Industry", "Autonomous Vehicles", "Risk Management", "Transportation Technology"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Autonomous vehicles have advanced automotive technology.&lt;/li&gt;
-&lt;li&gt;AI handles driving tasks like parking and cruise control.&lt;/li&gt;
-&lt;li&gt;AI can alert drivers to hazards and control vehicle functions.&lt;/li&gt;
-&lt;li&gt;AI risks include traffic sign misrecognition.&lt;/li&gt;
-&lt;li&gt;Malicious stickers can trick AI systems.&lt;/li&gt;
-&lt;li&gt;Complete safety is still not guaranteed.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://adversa.ai/ai-risk-management-automotive-industry/</guid>
-      <category>Artificial Intelligence</category>
-      <category>Automotive Industry</category>
-      <category>Autonomous Vehicles</category>
-      <category>Risk Management</category>
-      <category>Transportation Technology</category>
-      <pubDate>Wed, 10 Dec 2025 21:35:13 +0000</pubDate>
-      <source url="https://adversa.ai/topic/trusted-ai-blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>AI risk management for insurance</title>
-      <link>https://adversa.ai/ai-risk-management-insurance/</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 10, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Insurance Technology", "Risk Management", "Predictive Analytics", "Regulatory Compliance"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;AI is transforming the insurance industry and enabling innovation.&lt;/li&gt;
-&lt;li&gt;AI improves customer service through chatbots.&lt;/li&gt;
-&lt;li&gt;It enhances underwriting using drone and satellite data.&lt;/li&gt;
-&lt;li&gt;Predictive analytics help manage risks and forecast claims.&lt;/li&gt;
-&lt;li&gt;AI risk management is crucial due to ethical and regulatory challenges.&lt;/li&gt;
-&lt;li&gt;Specialized platforms support secure AI adoption in insurance.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://adversa.ai/ai-risk-management-insurance/</guid>
-      <category>Artificial Intelligence</category>
-      <category>Insurance Technology</category>
-      <category>Risk Management</category>
-      <category>Predictive Analytics</category>
       <category>Regulatory Compliance</category>
-      <pubDate>Wed, 10 Dec 2025 21:34:59 +0000</pubDate>
-      <source url="https://adversa.ai/topic/trusted-ai-blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>AI risk management for financial industry</title>
-      <link>https://adversa.ai/ai-risk-management-financial-industry/</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 10, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Financial Technology", "Risk Management", "Cybersecurity", "Regulatory Compliance"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;AI improves efficiency and risk management in finance.&lt;/li&gt;
-&lt;li&gt;It enables faster decisions and personalized customer support.&lt;/li&gt;
-&lt;li&gt;AI poses risks like bias, errors, and cybersecurity threats.&lt;/li&gt;
-&lt;li&gt;Financial firms must ensure strong governance and compliance.&lt;/li&gt;
-&lt;li&gt;Collaboration with regulators is essential for safe AI use.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://adversa.ai/ai-risk-management-financial-industry/</guid>
-      <category>Artificial Intelligence</category>
-      <category>Financial Technology</category>
-      <category>Risk Management</category>
-      <category>Cybersecurity</category>
-      <category>Regulatory Compliance</category>
-      <pubDate>Wed, 10 Dec 2025 21:34:46 +0000</pubDate>
-      <source url="https://adversa.ai/topic/trusted-ai-blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Top AI Security Incidents (2025 Edition)</title>
-      <link>https://adversa.ai/top-ai-security-incidents-report-2025-edition/</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 10, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Cybersecurity", "Artificial Intelligence", "GenAI Vulnerabilities", "Incident Analysis"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Adversa AI released a report on AI security incidents in 2025.&lt;/li&gt;
-&lt;li&gt;AI systems are failing in real-world scenarios.&lt;/li&gt;
-&lt;li&gt;Common failures include prompt injections and agent misalignment.&lt;/li&gt;
-&lt;li&gt;Attacks target APIs, memory, and control logic.&lt;/li&gt;
-&lt;li&gt;The report offers actionable defenses beyond standard security.&lt;/li&gt;
-&lt;li&gt;It is aimed at AI builders and defenders.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://adversa.ai/top-ai-security-incidents-report-2025-edition/</guid>
-      <category>AI Security</category>
-      <category>Cybersecurity</category>
-      <category>Artificial Intelligence</category>
-      <category>GenAI Vulnerabilities</category>
-      <category>Incident Analysis</category>
-      <pubDate>Wed, 10 Dec 2025 21:34:32 +0000</pubDate>
-      <source url="https://adversa.ai/topic/trusted-ai-blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>How TheFork Leverages Online Evals To Boost Conversions with Arize AX on AWS</title>
-      <link>https://arize.com/blog/how-thefork-leverages-online-evals-to-boost-conversions-with-arize-ax-on-aws/</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Yesmine Rouis, Natalia Skaczkowska-Drabczyk&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 09, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Machine Learning Operations", "Restaurant Technology", "Cloud Computing", "Customer Experience"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;TheFork is a leading restaurant booking platform in Europe.&lt;/li&gt;
-&lt;li&gt;AI enhances customer experiences through review analysis and content extraction.&lt;/li&gt;
-&lt;li&gt;They use Arize AX on AWS to monitor and improve AI models.&lt;/li&gt;
-&lt;li&gt;This boosts conversion rates and reduces latency.&lt;/li&gt;
-&lt;li&gt;TheFork's AI approach shows strong enterprise AI practices.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://arize.com/blog/how-thefork-leverages-online-evals-to-boost-conversions-with-arize-ax-on-aws/</guid>
-      <category>Artificial Intelligence</category>
-      <category>Machine Learning Operations</category>
-      <category>Restaurant Technology</category>
-      <category>Cloud Computing</category>
-      <category>Customer Experience</category>
-      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-      <source url="https://arize.com/blog">Custom Web Page</source>
+      <category>Enterprise Technology</category>
+      <pubDate>Thu, 11 Dec 2025 21:41:08 +0000</pubDate>
+      <source url="https://www.holisticai.com/blog">Custom Web Page</source>
     </item>
   </channel>
 </rss>
