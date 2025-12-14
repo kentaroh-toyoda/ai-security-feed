@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>AI Security Digest</title>
+    <link>https://kentaroh-toyoda.github.io/ai-security-feed</link>
+    <description>Curated AI security insights and articles from various sources</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>AI Security Digest Agent</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 14 Dec 2025 21:32:49 +0000</lastBuildDate>
+    <item>
+      <title>Prompt Security’s AI Security Predictions for 2026</title>
+      <link>https://www.prompt.security/blog/prompt-securitys-ai-security-predictions-for-2026</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Prompt Security Team&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Cybersecurity", "AI Governance", "Identity and Access Management", "Privacy and Data Protection"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;AI-driven cyber threats will become more sophisticated by 2026.&lt;/li&gt;
+&lt;li&gt;AI-powered defense systems will improve threat detection and response.&lt;/li&gt;
+&lt;li&gt;New AI security governance and regulations will emerge.&lt;/li&gt;
+&lt;li&gt;Demand for AI security talent will increase significantly.&lt;/li&gt;
+&lt;li&gt;AI will enhance identity management and privacy protection.&lt;/li&gt;
+&lt;li&gt;AI tools will aid in incident response and digital forensics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.prompt.security/blog/prompt-securitys-ai-security-predictions-for-2026</guid>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>AI Governance</category>
+      <category>Identity and Access Management</category>
+      <category>Privacy and Data Protection</category>
+      <pubDate>Sun, 14 Dec 2025 21:32:49 +0000</pubDate>
+      <source url="https://www.prompt.security/blog">Custom Web Page</source>
+    </item>
+  </channel>
+</rss>
