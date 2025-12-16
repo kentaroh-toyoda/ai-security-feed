@@ -7,31 +7,57 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Dec 2025 21:35:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 21:36:00 +0000</lastBuildDate>
     <item>
-      <title>Top Agentic AI Security Resources —December 2025</title>
-      <link>https://adversa.ai/blog/top-agentic-ai-security-resources-december-2025/</link>
+      <title>California’s AI Laws Are About to Meet Reality</title>
+      <link>https://www.lakera.ai/blog/californias-ai-laws-are-about-to-meet-reality</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; admin&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 12, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Agentic AI", "AI Security", "Cybersecurity Resources", "Autonomous Systems", "Threat Mitigation"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Lakera Team&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 16, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Regulation", "California Law", "Artificial Intelligence", "Healthcare Technology", "Consumer Protection"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Agentic AI systems act with minimal human oversight.&lt;/li&gt;
-&lt;li&gt;They create new security risks like prompt injection.&lt;/li&gt;
-&lt;li&gt;This article lists key resources from December 2025.&lt;/li&gt;
-&lt;li&gt;It helps security experts defend autonomous AI.&lt;/li&gt;
-&lt;li&gt;The focus is on frameworks and guides for AI security.&lt;/li&gt;
+&lt;li&gt;California will enforce new AI laws starting January 1, 2026.&lt;/li&gt;
+&lt;li&gt;The laws focus on AI systems that interact directly with people.&lt;/li&gt;
+&lt;li&gt;AI chatbots must prevent self-harm content and intervene when users are at risk.&lt;/li&gt;
+&lt;li&gt;Healthcare and wellness AI face stricter regulations.&lt;/li&gt;
+&lt;li&gt;These laws mark a shift from theory to practical AI governance.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://adversa.ai/blog/top-agentic-ai-security-resources-december-2025/</guid>
-      <category>Agentic AI</category>
+      <guid isPermaLink="false">https://www.lakera.ai/blog/californias-ai-laws-are-about-to-meet-reality</guid>
+      <category>AI Regulation</category>
+      <category>California Law</category>
+      <category>Artificial Intelligence</category>
+      <category>Healthcare Technology</category>
+      <category>Consumer Protection</category>
+      <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
+      <source url="https://www.lakera.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Phare LLM benchmark V2: Reasoning models don't guarantee better security</title>
+      <link>https://www.giskard.ai/knowledge/reasoning-models-dont-guarantee-better-security</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Alexandre Bouchard&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "AI Security", "Machine Learning", "Model Robustness", "Adversarial Attacks"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Reasoning models improve logical problem-solving in AI.&lt;/li&gt;
+&lt;li&gt;They do not inherently enhance security.&lt;/li&gt;
+&lt;li&gt;Security threats exploit weaknesses beyond reasoning.&lt;/li&gt;
+&lt;li&gt;Robust training and verification are crucial for AI safety.&lt;/li&gt;
+&lt;li&gt;Reasoning models can still be manipulated by adversaries.&lt;/li&gt;
+&lt;li&gt;A layered security approach is necessary for trustworthy AI.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.giskard.ai/knowledge/reasoning-models-dont-guarantee-better-security</guid>
+      <category>Artificial Intelligence</category>
       <category>AI Security</category>
-      <category>Cybersecurity Resources</category>
-      <category>Autonomous Systems</category>
-      <category>Threat Mitigation</category>
-      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-      <source url="https://adversa.ai/topic/trusted-ai-blog/">Custom Web Page</source>
+      <category>Machine Learning</category>
+      <category>Model Robustness</category>
+      <category>Adversarial Attacks</category>
+      <pubDate>Tue, 16 Dec 2025 21:36:00 +0000</pubDate>
+      <source url="https://www.giskard.ai/knowledge-categories/blog">Custom Web Page</source>
     </item>
   </channel>
 </rss>
