@@ -7,56 +7,156 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Dec 2025 21:36:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 21:37:39 +0000</lastBuildDate>
     <item>
-      <title>California’s AI Laws Are About to Meet Reality</title>
-      <link>https://www.lakera.ai/blog/californias-ai-laws-are-about-to-meet-reality</link>
+      <title>The Year of the Agent: What Recent Attacks Revealed in Q4 2025 (and What It Means for 2026)</title>
+      <link>https://www.lakera.ai/blog/the-year-of-the-agent-what-recent-attacks-revealed-in-q4-2025-and-what-it-means-for-2026</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
 &lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Lakera Team&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 16, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Regulation", "California Law", "Artificial Intelligence", "Healthcare Technology", "Consumer Protection"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 17, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Cybersecurity Threats", "Machine Learning Attacks", "Data Privacy", "AI Agent Vulnerabilities"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;California will enforce new AI laws starting January 1, 2026.&lt;/li&gt;
-&lt;li&gt;The laws focus on AI systems that interact directly with people.&lt;/li&gt;
-&lt;li&gt;AI chatbots must prevent self-harm content and intervene when users are at risk.&lt;/li&gt;
-&lt;li&gt;Healthcare and wellness AI face stricter regulations.&lt;/li&gt;
-&lt;li&gt;These laws mark a shift from theory to practical AI governance.&lt;/li&gt;
+&lt;li&gt;Attackers quickly adapted to new AI agent capabilities in Q4 2025.&lt;/li&gt;
+&lt;li&gt;Common attacks included system-prompt extraction and content-safety bypasses.&lt;/li&gt;
+&lt;li&gt;Role-play and obfuscation were key techniques used by attackers.&lt;/li&gt;
+&lt;li&gt;Early agent-specific attacks targeted confidential data and hidden instructions.&lt;/li&gt;
+&lt;li&gt;Indirect attacks manipulated external context with fewer assumptions.&lt;/li&gt;
+&lt;li&gt;The study stresses urgent AI agent security improvements for 2026.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.lakera.ai/blog/californias-ai-laws-are-about-to-meet-reality</guid>
-      <category>AI Regulation</category>
-      <category>California Law</category>
-      <category>Artificial Intelligence</category>
-      <category>Healthcare Technology</category>
-      <category>Consumer Protection</category>
-      <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://www.lakera.ai/blog/the-year-of-the-agent-what-recent-attacks-revealed-in-q4-2025-and-what-it-means-for-2026</guid>
+      <category>AI Security</category>
+      <category>Cybersecurity Threats</category>
+      <category>Machine Learning Attacks</category>
+      <category>Data Privacy</category>
+      <category>AI Agent Vulnerabilities</category>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
       <source url="https://www.lakera.ai/blog">Custom Web Page</source>
     </item>
     <item>
-      <title>Phare LLM benchmark V2: Reasoning models don't guarantee better security</title>
-      <link>https://www.giskard.ai/knowledge/reasoning-models-dont-guarantee-better-security</link>
+      <title>The Good, The Bad, and The Ugly in Cybersecurity – Week 50</title>
+      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-50-7/</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Alexandre Bouchard&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; SentinelOne Research Team&lt;/div&gt;
 &lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "AI Security", "Machine Learning", "Model Robustness", "Adversarial Attacks"]&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity Threats", "Ransomware", "Cyber Espionage", "Vulnerabilities", "Supply Chain Security"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Reasoning models improve logical problem-solving in AI.&lt;/li&gt;
-&lt;li&gt;They do not inherently enhance security.&lt;/li&gt;
-&lt;li&gt;Security threats exploit weaknesses beyond reasoning.&lt;/li&gt;
-&lt;li&gt;Robust training and verification are crucial for AI safety.&lt;/li&gt;
-&lt;li&gt;Reasoning models can still be manipulated by adversaries.&lt;/li&gt;
-&lt;li&gt;A layered security approach is necessary for trustworthy AI.&lt;/li&gt;
+&lt;li&gt;A new ransomware variant called BlackCat was discovered.&lt;/li&gt;
+&lt;li&gt;Multi-factor authentication helped stop phishing attacks.&lt;/li&gt;
+&lt;li&gt;A nation-state group targeted governments and infrastructure.&lt;/li&gt;
+&lt;li&gt;A zero-day VPN vulnerability caused breaches before patching.&lt;/li&gt;
+&lt;li&gt;Supply chain attacks compromised multiple software vendors.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.giskard.ai/knowledge/reasoning-models-dont-guarantee-better-security</guid>
+      <guid isPermaLink="false">https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-50-7/</guid>
+      <category>Cybersecurity Threats</category>
+      <category>Ransomware</category>
+      <category>Cyber Espionage</category>
+      <category>Vulnerabilities</category>
+      <category>Supply Chain Security</category>
+      <pubDate>Wed, 17 Dec 2025 21:37:39 +0000</pubDate>
+      <source url="https://www.sentinelone.com/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Cybersecurity 2026 | The Year Ahead in AI, Adversaries, and Global Change</title>
+      <link>https://www.sentinelone.com/blog/cybersecurity-2026-the-year-ahead-in-ai-adversaries-and-global-change/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Christopher Budd&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Artificial Intelligence", "Geopolitics", "Cloud Security", "Threat Intelligence"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Cybersecurity is rapidly evolving due to AI and geopolitical shifts.&lt;/li&gt;
+&lt;li&gt;AI enhances both defense and attacks in cybersecurity.&lt;/li&gt;
+&lt;li&gt;State-sponsored threats target critical infrastructure globally.&lt;/li&gt;
+&lt;li&gt;Zero trust and identity security are vital for protection.&lt;/li&gt;
+&lt;li&gt;Cloud security in hybrid environments faces new challenges.&lt;/li&gt;
+&lt;li&gt;Collaboration and AI-driven tools are key for future readiness.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.sentinelone.com/blog/cybersecurity-2026-the-year-ahead-in-ai-adversaries-and-global-change/</guid>
+      <category>Cybersecurity</category>
       <category>Artificial Intelligence</category>
-      <category>AI Security</category>
-      <category>Machine Learning</category>
-      <category>Model Robustness</category>
-      <category>Adversarial Attacks</category>
-      <pubDate>Tue, 16 Dec 2025 21:36:00 +0000</pubDate>
+      <category>Geopolitics</category>
+      <category>Cloud Security</category>
+      <category>Threat Intelligence</category>
+      <pubDate>Wed, 17 Dec 2025 21:37:39 +0000</pubDate>
+      <source url="https://www.sentinelone.com/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>CyberVolk Returns | Flawed VolkLocker, Brings New Features With Growing Pains</title>
+      <link>https://www.sentinelone.com/blog/cybervolk-returns-flawed-volklocker-brings-new-features-with-growing-pains/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Jon DiMaggio&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Ransomware", "Malware Analysis", "Threat Intelligence", "Data Protection"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;VolkLocker ransomware operated by CyberVolk has returned with new features.&lt;/li&gt;
+&lt;li&gt;It still has significant flaws and coding errors.&lt;/li&gt;
+&lt;li&gt;The latest version has improved encryption and communication protocols.&lt;/li&gt;
+&lt;li&gt;Bugs may allow victims to recover data without paying.&lt;/li&gt;
+&lt;li&gt;CyberVolk targets organizations globally with ransom demands.&lt;/li&gt;
+&lt;li&gt;SentinelOne advises strong endpoint protection and regular backups.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.sentinelone.com/blog/cybervolk-returns-flawed-volklocker-brings-new-features-with-growing-pains/</guid>
+      <category>Cybersecurity</category>
+      <category>Ransomware</category>
+      <category>Malware Analysis</category>
+      <category>Threat Intelligence</category>
+      <category>Data Protection</category>
+      <pubDate>Wed, 17 Dec 2025 21:37:39 +0000</pubDate>
+      <source url="https://www.sentinelone.com/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>VIST: A new benchmark for brand style transfer in AI image generation</title>
+      <link>https://toloka.ai/vist-a-new-benchmark-for-brand-style-transfer-in-ai-image-generation/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 16, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Image Generation", "Brand Style Transfer", "Machine Learning Benchmarks", "Computer Vision"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;VIST is a new benchmark for AI image generation.&lt;/li&gt;
+&lt;li&gt;It focuses on brand style transfer.&lt;/li&gt;
+&lt;li&gt;The benchmark improves accuracy in visual outputs.&lt;/li&gt;
+&lt;li&gt;It helps align images with brand identities.&lt;/li&gt;
+&lt;li&gt;VIST supports more creative AI-generated visuals.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://toloka.ai/vist-a-new-benchmark-for-brand-style-transfer-in-ai-image-generation/</guid>
+      <category>AI Image Generation</category>
+      <category>Brand Style Transfer</category>
+      <category>Machine Learning Benchmarks</category>
+      <category>Computer Vision</category>
+      <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
+      <source url="https://toloka.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>OWASP Top 10 for Agentic Application 2026: Understanding the Risks of Agents and Tools</title>
+      <link>https://www.giskard.ai/knowledge/owasp-top-10-for-agentic-application-2026</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Giskard Team&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Agentic Applications", "Autonomous Systems", "Data Security", "Software Risk Management"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;OWASP released the Top 10 security risks for agentic applications in 2026.&lt;/li&gt;
+&lt;li&gt;These apps make autonomous decisions and face unique threats.&lt;/li&gt;
+&lt;li&gt;Key risks include data poisoning, unauthorized access, and privacy violations.&lt;/li&gt;
+&lt;li&gt;The guide stresses monitoring, ethical compliance, and collaboration.&lt;/li&gt;
+&lt;li&gt;Developers should follow best practices to secure these systems.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.giskard.ai/knowledge/owasp-top-10-for-agentic-application-2026</guid>
+      <category>Cybersecurity</category>
+      <category>Agentic Applications</category>
+      <category>Autonomous Systems</category>
+      <category>Data Security</category>
+      <category>Software Risk Management</category>
+      <pubDate>Wed, 17 Dec 2025 21:37:39 +0000</pubDate>
       <source url="https://www.giskard.ai/knowledge-categories/blog">Custom Web Page</source>
     </item>
   </channel>
