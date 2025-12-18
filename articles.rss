@@ -7,157 +7,84 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Dec 2025 21:37:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 21:34:48 +0000</lastBuildDate>
     <item>
-      <title>The Year of the Agent: What Recent Attacks Revealed in Q4 2025 (and What It Means for 2026)</title>
-      <link>https://www.lakera.ai/blog/the-year-of-the-agent-what-recent-attacks-revealed-in-q4-2025-and-what-it-means-for-2026</link>
+      <title>MCP and the Shift to AI Systems</title>
+      <link>https://hiddenlayer.com/innovation-hub/mcp-and-the-shift-to-ai-systems/</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Lakera Team&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 17, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Cybersecurity Threats", "Machine Learning Attacks", "Data Privacy", "AI Agent Vulnerabilities"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Ryan Dougherty&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 18, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Cybersecurity", "AI Security", "Model Context Protocol", "Enterprise Technology"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Attackers quickly adapted to new AI agent capabilities in Q4 2025.&lt;/li&gt;
-&lt;li&gt;Common attacks included system-prompt extraction and content-safety bypasses.&lt;/li&gt;
-&lt;li&gt;Role-play and obfuscation were key techniques used by attackers.&lt;/li&gt;
-&lt;li&gt;Early agent-specific attacks targeted confidential data and hidden instructions.&lt;/li&gt;
-&lt;li&gt;Indirect attacks manipulated external context with fewer assumptions.&lt;/li&gt;
-&lt;li&gt;The study stresses urgent AI agent security improvements for 2026.&lt;/li&gt;
+&lt;li&gt;AI is evolving into fully connected systems with the Model Context Protocol (MCP).&lt;/li&gt;
+&lt;li&gt;MCP links models directly to tools, data, and workflows.&lt;/li&gt;
+&lt;li&gt;This creates new security risks and expands the attack surface.&lt;/li&gt;
+&lt;li&gt;Threat actors exploit MCP servers and tools for malicious purposes.&lt;/li&gt;
+&lt;li&gt;Limited runtime visibility hinders detection and response.&lt;/li&gt;
+&lt;li&gt;Continuous AI runtime security is critical for protecting MCP ecosystems.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.lakera.ai/blog/the-year-of-the-agent-what-recent-attacks-revealed-in-q4-2025-and-what-it-means-for-2026</guid>
-      <category>AI Security</category>
-      <category>Cybersecurity Threats</category>
-      <category>Machine Learning Attacks</category>
-      <category>Data Privacy</category>
-      <category>AI Agent Vulnerabilities</category>
-      <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
-      <source url="https://www.lakera.ai/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>The Good, The Bad, and The Ugly in Cybersecurity – Week 50</title>
-      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-50-7/</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; SentinelOne Research Team&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity Threats", "Ransomware", "Cyber Espionage", "Vulnerabilities", "Supply Chain Security"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;A new ransomware variant called BlackCat was discovered.&lt;/li&gt;
-&lt;li&gt;Multi-factor authentication helped stop phishing attacks.&lt;/li&gt;
-&lt;li&gt;A nation-state group targeted governments and infrastructure.&lt;/li&gt;
-&lt;li&gt;A zero-day VPN vulnerability caused breaches before patching.&lt;/li&gt;
-&lt;li&gt;Supply chain attacks compromised multiple software vendors.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-50-7/</guid>
-      <category>Cybersecurity Threats</category>
-      <category>Ransomware</category>
-      <category>Cyber Espionage</category>
-      <category>Vulnerabilities</category>
-      <category>Supply Chain Security</category>
-      <pubDate>Wed, 17 Dec 2025 21:37:39 +0000</pubDate>
-      <source url="https://www.sentinelone.com/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Cybersecurity 2026 | The Year Ahead in AI, Adversaries, and Global Change</title>
-      <link>https://www.sentinelone.com/blog/cybersecurity-2026-the-year-ahead-in-ai-adversaries-and-global-change/</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Christopher Budd&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Artificial Intelligence", "Geopolitics", "Cloud Security", "Threat Intelligence"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Cybersecurity is rapidly evolving due to AI and geopolitical shifts.&lt;/li&gt;
-&lt;li&gt;AI enhances both defense and attacks in cybersecurity.&lt;/li&gt;
-&lt;li&gt;State-sponsored threats target critical infrastructure globally.&lt;/li&gt;
-&lt;li&gt;Zero trust and identity security are vital for protection.&lt;/li&gt;
-&lt;li&gt;Cloud security in hybrid environments faces new challenges.&lt;/li&gt;
-&lt;li&gt;Collaboration and AI-driven tools are key for future readiness.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.sentinelone.com/blog/cybersecurity-2026-the-year-ahead-in-ai-adversaries-and-global-change/</guid>
-      <category>Cybersecurity</category>
+      <guid isPermaLink="false">https://hiddenlayer.com/?p=14191</guid>
       <category>Artificial Intelligence</category>
-      <category>Geopolitics</category>
-      <category>Cloud Security</category>
-      <category>Threat Intelligence</category>
-      <pubDate>Wed, 17 Dec 2025 21:37:39 +0000</pubDate>
-      <source url="https://www.sentinelone.com/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>CyberVolk Returns | Flawed VolkLocker, Brings New Features With Growing Pains</title>
-      <link>https://www.sentinelone.com/blog/cybervolk-returns-flawed-volklocker-brings-new-features-with-growing-pains/</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Jon DiMaggio&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Ransomware", "Malware Analysis", "Threat Intelligence", "Data Protection"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;VolkLocker ransomware operated by CyberVolk has returned with new features.&lt;/li&gt;
-&lt;li&gt;It still has significant flaws and coding errors.&lt;/li&gt;
-&lt;li&gt;The latest version has improved encryption and communication protocols.&lt;/li&gt;
-&lt;li&gt;Bugs may allow victims to recover data without paying.&lt;/li&gt;
-&lt;li&gt;CyberVolk targets organizations globally with ransom demands.&lt;/li&gt;
-&lt;li&gt;SentinelOne advises strong endpoint protection and regular backups.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.sentinelone.com/blog/cybervolk-returns-flawed-volklocker-brings-new-features-with-growing-pains/</guid>
       <category>Cybersecurity</category>
-      <category>Ransomware</category>
-      <category>Malware Analysis</category>
-      <category>Threat Intelligence</category>
-      <category>Data Protection</category>
-      <pubDate>Wed, 17 Dec 2025 21:37:39 +0000</pubDate>
-      <source url="https://www.sentinelone.com/blog">Custom Web Page</source>
+      <category>AI Security</category>
+      <category>Model Context Protocol</category>
+      <category>Enterprise Technology</category>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+      <source url="https://hiddenlayer.com/feed">HiddenLayer | Security for AI</source>
     </item>
     <item>
-      <title>VIST: A new benchmark for brand style transfer in AI image generation</title>
-      <link>https://toloka.ai/vist-a-new-benchmark-for-brand-style-transfer-in-ai-image-generation/</link>
+      <title>Zed IDE Vulnerabilities &amp; Coordinated Disclosure The Mindgard solution identified two vulnerabilities in the Zed IDE and our team worked with the developers on a coordinated remediation process.</title>
+      <link>https://mindgard.ai/blog/zed-ide-vulnerabilities-coordinated-disclosure</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 16, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Image Generation", "Brand Style Transfer", "Machine Learning Benchmarks", "Computer Vision"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Aaron Portnoy&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 18, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Software Vulnerabilities", "Integrated Development Environments", "AI Security", "Coordinated Vulnerability Disclosure"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;VIST is a new benchmark for AI image generation.&lt;/li&gt;
-&lt;li&gt;It focuses on brand style transfer.&lt;/li&gt;
-&lt;li&gt;The benchmark improves accuracy in visual outputs.&lt;/li&gt;
-&lt;li&gt;It helps align images with brand identities.&lt;/li&gt;
-&lt;li&gt;VIST supports more creative AI-generated visuals.&lt;/li&gt;
+&lt;li&gt;Mindgard found two high severity vulnerabilities in the Zed IDE.&lt;/li&gt;
+&lt;li&gt;The flaws allowed arbitrary code execution from malicious repositories.&lt;/li&gt;
+&lt;li&gt;Mindgard worked closely with Zed developers on fixes.&lt;/li&gt;
+&lt;li&gt;Zed released an update and coordinated disclosure followed.&lt;/li&gt;
+&lt;li&gt;The issues stemmed from implicit trust in project configuration files.&lt;/li&gt;
+&lt;li&gt;This highlights risks in AI-augmented IDEs trusting workspace files.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://toloka.ai/vist-a-new-benchmark-for-brand-style-transfer-in-ai-image-generation/</guid>
-      <category>AI Image Generation</category>
-      <category>Brand Style Transfer</category>
-      <category>Machine Learning Benchmarks</category>
-      <category>Computer Vision</category>
-      <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
-      <source url="https://toloka.ai/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>OWASP Top 10 for Agentic Application 2026: Understanding the Risks of Agents and Tools</title>
-      <link>https://www.giskard.ai/knowledge/owasp-top-10-for-agentic-application-2026</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Giskard Team&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Agentic Applications", "Autonomous Systems", "Data Security", "Software Risk Management"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;OWASP released the Top 10 security risks for agentic applications in 2026.&lt;/li&gt;
-&lt;li&gt;These apps make autonomous decisions and face unique threats.&lt;/li&gt;
-&lt;li&gt;Key risks include data poisoning, unauthorized access, and privacy violations.&lt;/li&gt;
-&lt;li&gt;The guide stresses monitoring, ethical compliance, and collaboration.&lt;/li&gt;
-&lt;li&gt;Developers should follow best practices to secure these systems.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.giskard.ai/knowledge/owasp-top-10-for-agentic-application-2026</guid>
+      <guid isPermaLink="false">https://mindgard.ai/blog/zed-ide-vulnerabilities-coordinated-disclosure</guid>
       <category>Cybersecurity</category>
-      <category>Agentic Applications</category>
-      <category>Autonomous Systems</category>
-      <category>Data Security</category>
-      <category>Software Risk Management</category>
-      <pubDate>Wed, 17 Dec 2025 21:37:39 +0000</pubDate>
-      <source url="https://www.giskard.ai/knowledge-categories/blog">Custom Web Page</source>
+      <category>Software Vulnerabilities</category>
+      <category>Integrated Development Environments</category>
+      <category>AI Security</category>
+      <category>Coordinated Vulnerability Disclosure</category>
+      <pubDate>Thu, 18 Dec 2025 21:34:27 +0000</pubDate>
+      <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>TheLibrarian.io's AI Security Is Checked Out, and Their Disclosure Response Is Overdue The Mindgard platform identified high severity vulnerabilities in TheLibrarian.io platform</title>
+      <link>https://mindgard.ai/blog/thelibrarian-ios-ai-security-disclosure</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Aaron Portnoy&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "AI Security", "Data Privacy", "Vulnerability Disclosure", "Tech Startups"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Mindgard found high severity vulnerabilities in TheLibrarian.&lt;/li&gt;
+&lt;li&gt;io platform.&lt;/li&gt;
+&lt;li&gt;These flaws risk exposing confidential user data.&lt;/li&gt;
+&lt;li&gt;TheLibrarian.&lt;/li&gt;
+&lt;li&gt;io did not respond to vulnerability reports.&lt;/li&gt;
+&lt;li&gt;The startup offers an AI assistant for email and scheduling.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://mindgard.ai/blog/thelibrarian-ios-ai-security-disclosure</guid>
+      <category>Cybersecurity</category>
+      <category>AI Security</category>
+      <category>Data Privacy</category>
+      <category>Vulnerability Disclosure</category>
+      <category>Tech Startups</category>
+      <pubDate>Thu, 18 Dec 2025 21:34:48 +0000</pubDate>
+      <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
     </item>
   </channel>
 </rss>
