@@ -7,84 +7,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Dec 2025 21:34:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 21:35:12 +0000</lastBuildDate>
     <item>
-      <title>MCP and the Shift to AI Systems</title>
-      <link>https://hiddenlayer.com/innovation-hub/mcp-and-the-shift-to-ai-systems/</link>
+      <title>A Deep Dive into the OWASP Top 10 for Agentic Applications 2026</title>
+      <link>https://neuraltrust.ai/blog/owasp-top-10-for-agentic-applications-2026</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Ryan Dougherty&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 18, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Cybersecurity", "AI Security", "Model Context Protocol", "Enterprise Technology"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Alessandro Pignati&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 19, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Autonomous Systems", "OWASP", "Agentic Applications", "Cybersecurity Vulnerabilities"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;AI is evolving into fully connected systems with the Model Context Protocol (MCP).&lt;/li&gt;
-&lt;li&gt;MCP links models directly to tools, data, and workflows.&lt;/li&gt;
-&lt;li&gt;This creates new security risks and expands the attack surface.&lt;/li&gt;
-&lt;li&gt;Threat actors exploit MCP servers and tools for malicious purposes.&lt;/li&gt;
-&lt;li&gt;Limited runtime visibility hinders detection and response.&lt;/li&gt;
-&lt;li&gt;Continuous AI runtime security is critical for protecting MCP ecosystems.&lt;/li&gt;
+&lt;li&gt;Agentic Applications are autonomous AI systems performing multi-step tasks.&lt;/li&gt;
+&lt;li&gt;Existing OWASP LLM security guidelines are insufficient.&lt;/li&gt;
+&lt;li&gt;OWASP published a new Top 10 for Agentic Applications in 2026.&lt;/li&gt;
+&lt;li&gt;Key risks include Agent Goal Hijack and excessive autonomy vulnerabilities.&lt;/li&gt;
+&lt;li&gt;Security principles include Least-Agency and Strong Observability.&lt;/li&gt;
+&lt;li&gt;The article details these threats and architectural security recommendations.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://hiddenlayer.com/?p=14191</guid>
-      <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
+      <guid isPermaLink="false">https://neuraltrust.ai/blog/owasp-top-10-for-agentic-applications-2026</guid>
       <category>AI Security</category>
-      <category>Model Context Protocol</category>
-      <category>Enterprise Technology</category>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-      <source url="https://hiddenlayer.com/feed">HiddenLayer | Security for AI</source>
-    </item>
-    <item>
-      <title>Zed IDE Vulnerabilities &amp; Coordinated Disclosure The Mindgard solution identified two vulnerabilities in the Zed IDE and our team worked with the developers on a coordinated remediation process.</title>
-      <link>https://mindgard.ai/blog/zed-ide-vulnerabilities-coordinated-disclosure</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Aaron Portnoy&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 18, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Software Vulnerabilities", "Integrated Development Environments", "AI Security", "Coordinated Vulnerability Disclosure"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Mindgard found two high severity vulnerabilities in the Zed IDE.&lt;/li&gt;
-&lt;li&gt;The flaws allowed arbitrary code execution from malicious repositories.&lt;/li&gt;
-&lt;li&gt;Mindgard worked closely with Zed developers on fixes.&lt;/li&gt;
-&lt;li&gt;Zed released an update and coordinated disclosure followed.&lt;/li&gt;
-&lt;li&gt;The issues stemmed from implicit trust in project configuration files.&lt;/li&gt;
-&lt;li&gt;This highlights risks in AI-augmented IDEs trusting workspace files.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://mindgard.ai/blog/zed-ide-vulnerabilities-coordinated-disclosure</guid>
-      <category>Cybersecurity</category>
-      <category>Software Vulnerabilities</category>
-      <category>Integrated Development Environments</category>
-      <category>AI Security</category>
-      <category>Coordinated Vulnerability Disclosure</category>
-      <pubDate>Thu, 18 Dec 2025 21:34:27 +0000</pubDate>
-      <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>TheLibrarian.io's AI Security Is Checked Out, and Their Disclosure Response Is Overdue The Mindgard platform identified high severity vulnerabilities in TheLibrarian.io platform</title>
-      <link>https://mindgard.ai/blog/thelibrarian-ios-ai-security-disclosure</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Aaron Portnoy&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "AI Security", "Data Privacy", "Vulnerability Disclosure", "Tech Startups"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Mindgard found high severity vulnerabilities in TheLibrarian.&lt;/li&gt;
-&lt;li&gt;io platform.&lt;/li&gt;
-&lt;li&gt;These flaws risk exposing confidential user data.&lt;/li&gt;
-&lt;li&gt;TheLibrarian.&lt;/li&gt;
-&lt;li&gt;io did not respond to vulnerability reports.&lt;/li&gt;
-&lt;li&gt;The startup offers an AI assistant for email and scheduling.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://mindgard.ai/blog/thelibrarian-ios-ai-security-disclosure</guid>
-      <category>Cybersecurity</category>
-      <category>AI Security</category>
-      <category>Data Privacy</category>
-      <category>Vulnerability Disclosure</category>
-      <category>Tech Startups</category>
-      <pubDate>Thu, 18 Dec 2025 21:34:48 +0000</pubDate>
-      <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
+      <category>Autonomous Systems</category>
+      <category>OWASP</category>
+      <category>Agentic Applications</category>
+      <category>Cybersecurity Vulnerabilities</category>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+      <source url="https://neuraltrust.ai/blog">Custom Web Page</source>
     </item>
   </channel>
 </rss>
