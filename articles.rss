@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>AI Security Digest</title>
+    <link>https://kentaroh-toyoda.github.io/ai-security-feed</link>
+    <description>Curated AI security insights and articles from various sources</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>AI Security Digest Agent</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 22 Dec 2025 21:34:59 +0000</lastBuildDate>
+    <item>
+      <title>Introducing Workflow-Aligned Modules in the HiddenLayer AI Security Platform</title>
+      <link>https://hiddenlayer.com/innovation-hub/introducing-workflow-aligned-modules-in-the-hiddenlayer-ai-security-platform/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Arman Abdulhayoglu&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 22, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Software Updates", "Platform Development", "Cybersecurity", "Enterprise Software"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;HiddenLayer updated its AI Security Platform with workflow-aligned modules.&lt;/li&gt;
+&lt;li&gt;The Console features a unified Security Dashboard and improved navigation.&lt;/li&gt;
+&lt;li&gt;Modules now map directly to AI lifecycle stages.&lt;/li&gt;
+&lt;li&gt;Exportable data and a new Learning Center support teams.&lt;/li&gt;
+&lt;li&gt;Usability and performance enhancements improve daily operations.&lt;/li&gt;
+&lt;li&gt;The platform aims for end-to-end AI security and continuous improvement.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://hiddenlayer.com/?p=14194</guid>
+      <category>AI Security</category>
+      <category>Software Updates</category>
+      <category>Platform Development</category>
+      <category>Cybersecurity</category>
+      <category>Enterprise Software</category>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+      <source url="https://hiddenlayer.com/feed">HiddenLayer | Security for AI</source>
+    </item>
+    <item>
+      <title>What are Secret Knowledge Defenses?</title>
+      <link>https://neuraltrust.ai/blog/what-are-secret-knowledge-defenses</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Alessandro Pignati&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 22, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Prompt Injection", "Language Models", "Cybersecurity", "Machine Learning Defenses"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Prompt injection exploits how language models interpret instructions.&lt;/li&gt;
+&lt;li&gt;Traditional defenses often fail against indirect attacks.&lt;/li&gt;
+&lt;li&gt;Secret knowledge defenses embed hidden signals in prompts.&lt;/li&gt;
+&lt;li&gt;These signals help detect if the model's behavior changes.&lt;/li&gt;
+&lt;li&gt;Attackers cannot see or manipulate these hidden instructions.&lt;/li&gt;
+&lt;li&gt;This approach assumes secrecy protects the model's integrity.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://neuraltrust.ai/blog/what-are-secret-knowledge-defenses</guid>
+      <category>AI Security</category>
+      <category>Prompt Injection</category>
+      <category>Language Models</category>
+      <category>Cybersecurity</category>
+      <category>Machine Learning Defenses</category>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+      <source url="https://neuraltrust.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Red Teaming BrowseSafe: Prompt Injection Risks in Perplexity’s Open-Source Model</title>
+      <link>https://www.lasso.security/blog/red-teaming-browsesafe-perplexity-prompt-injections-risks</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Ophir Dror, Or Oxenberg, Eliran Suisa&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 21, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Open Source Software", "Prompt Injection", "Cybersecurity", "AI Browser Models"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;BrowseSafe is an open-source model to secure AI browsers.&lt;/li&gt;
+&lt;li&gt;We tested it for prompt injection vulnerabilities.&lt;/li&gt;
+&lt;li&gt;Some security mechanisms are effective but not foolproof.&lt;/li&gt;
+&lt;li&gt;Attackers can still manipulate AI behavior.&lt;/li&gt;
+&lt;li&gt;We recommend ongoing research to improve AI security.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.lasso.security/blog/red-teaming-browsesafe-perplexity-prompt-injections-risks</guid>
+      <category>AI Security</category>
+      <category>Open Source Software</category>
+      <category>Prompt Injection</category>
+      <category>Cybersecurity</category>
+      <category>AI Browser Models</category>
+      <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
+      <source url="https://www.lasso.security/blog">Custom Web Page</source>
+    </item>
+  </channel>
+</rss>
