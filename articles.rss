@@ -7,82 +7,31 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Dec 2025 21:34:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 21:33:28 +0000</lastBuildDate>
     <item>
-      <title>EU AI Act Compliance: What AI Engineering Teams Should Monitor</title>
-      <link>https://arize.com/blog/eu-ai-act-compliance-what-ai-engineering-teams-should-monitor/</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 22, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["EU AI Regulation", "AI Compliance", "Risk Management", "AI Engineering", "Data Governance"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;The EU AI Act is now in force as of August 2024.&lt;/li&gt;
-&lt;li&gt;It imposes phased obligations on AI systems and providers.&lt;/li&gt;
-&lt;li&gt;Compliance requires engineering and product teams to implement safeguards.&lt;/li&gt;
-&lt;li&gt;Risk management and transparency are key compliance areas.&lt;/li&gt;
-&lt;li&gt;Legal teams set rules; engineers make them operational.&lt;/li&gt;
-&lt;li&gt;Monitoring and data governance are essential ongoing tasks.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://arize.com/blog/eu-ai-act-compliance-what-ai-engineering-teams-should-monitor/</guid>
-      <category>EU AI Regulation</category>
-      <category>AI Compliance</category>
-      <category>Risk Management</category>
-      <category>AI Engineering</category>
-      <category>Data Governance</category>
-      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-      <source url="https://arize.com/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>From Noise to Signal: How Cohere Rerank-4 Improves RAG</title>
-      <link>https://orq.ai/blog/from-noise-to-signal-how-cohere-rerank-4-improves-rag</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Ewa Szyszka&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 19, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Retrieval-Augmented Generation", "Natural Language Processing", "Machine Learning Models", "Information Retrieval", "AI Model Optimization"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;RAG pipelines often retrieve relevant but noisy documents.&lt;/li&gt;
-&lt;li&gt;Cohere Rerank-4 is a cross-encoder reranker that improves retrieval quality.&lt;/li&gt;
-&lt;li&gt;It captures deeper semantic relationships than bi-encoders.&lt;/li&gt;
-&lt;li&gt;RAGAS evaluation showed perfect relevance scores with Cohere Rerank-4.&lt;/li&gt;
-&lt;li&gt;The article explains integration and practical usage of this reranker.&lt;/li&gt;
-&lt;li&gt;This improves precision and accuracy in AI-generated answers.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://orq.ai/blog/from-noise-to-signal-how-cohere-rerank-4-improves-rag</guid>
-      <category>Retrieval-Augmented Generation</category>
-      <category>Natural Language Processing</category>
-      <category>Machine Learning Models</category>
-      <category>Information Retrieval</category>
-      <category>AI Model Optimization</category>
-      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
-      <source url="https://orq.ai/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Agent Security 101</title>
-      <link>https://neuraltrust.ai/blog/agent-security-101</link>
+      <title>MCP Security 101</title>
+      <link>https://neuraltrust.ai/blog/mcp-security-101</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
 &lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Alessandro Pignati&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 23, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "AI Security", "Enterprise Technology", "Autonomous Systems", "Machine Learning"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 24, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Enterprise Technology", "Model Context Protocol", "Cybersecurity", "Autonomous AI Agents"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;LLMs have driven recent AI adoption in enterprises.&lt;/li&gt;
-&lt;li&gt;AI agents represent a major shift beyond static LLMs.&lt;/li&gt;
-&lt;li&gt;Agents operate autonomously with planning and memory.&lt;/li&gt;
-&lt;li&gt;This autonomy introduces new and complex security risks.&lt;/li&gt;
-&lt;li&gt;Securing AI agents is critical for safe enterprise deployment.&lt;/li&gt;
-&lt;li&gt;The article outlines agent components and security challenges.&lt;/li&gt;
+&lt;li&gt;AI agents now perform complex, multi-step workflows beyond text generation.&lt;/li&gt;
+&lt;li&gt;The Model Context Protocol (MCP) enables AI agents to access external tools and services.&lt;/li&gt;
+&lt;li&gt;MCP introduces a new security perimeter with high-privilege permissions.&lt;/li&gt;
+&lt;li&gt;The 'God-Mode' problem arises from unvetted access granted to AI tools.&lt;/li&gt;
+&lt;li&gt;Securing AI agent actions is critical for enterprise risk and compliance.&lt;/li&gt;
+&lt;li&gt;Traditional security models must evolve to address MCP-related threats.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://neuraltrust.ai/blog/agent-security-101</guid>
-      <category>Artificial Intelligence</category>
+      <guid isPermaLink="false">https://neuraltrust.ai/blog/mcp-security-101</guid>
       <category>AI Security</category>
       <category>Enterprise Technology</category>
-      <category>Autonomous Systems</category>
-      <category>Machine Learning</category>
-      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+      <category>Model Context Protocol</category>
+      <category>Cybersecurity</category>
+      <category>Autonomous AI Agents</category>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
       <source url="https://neuraltrust.ai/blog">Custom Web Page</source>
     </item>
   </channel>
