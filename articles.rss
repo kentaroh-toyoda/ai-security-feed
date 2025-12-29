@@ -7,31 +7,130 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Dec 2025 21:32:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 21:35:44 +0000</lastBuildDate>
     <item>
-      <title>MCP: Enabling Controlled &amp; Composable AI Systems</title>
-      <link>https://www.lasso.security/blog/securing-mcp-workflows</link>
+      <title>OWASP Top 10 for LLM 2025: Understanding the Risks of Large Language Models</title>
+      <link>https://www.giskard.ai/knowledge/owasp-top-10-for-llm-2025-understanding-th</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; The Lasso Team&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 28, 2025&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Large Language Models", "API Integration", "Software Standards", "Automation"]&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Large Language Models", "Cybersecurity Risks", "Generative AI", "Risk Management"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;MCP is an open standard for connecting LLMs to external systems.&lt;/li&gt;
-&lt;li&gt;It enables structured discovery of tools and context retrieval.&lt;/li&gt;
-&lt;li&gt;MCP reduces reliance on custom integrations and improvised wrappers.&lt;/li&gt;
-&lt;li&gt;It provides a predictable interface for managing model behavior.&lt;/li&gt;
-&lt;li&gt;MCP supports more reliable and composable AI workflows.&lt;/li&gt;
+&lt;li&gt;OWASP updated its Top 10 risks for large language models in 2025.&lt;/li&gt;
+&lt;li&gt;The update reflects new insights from real-world AI deployments.&lt;/li&gt;
+&lt;li&gt;MITRE’s Atlas framework also evolves alongside these changes.&lt;/li&gt;
+&lt;li&gt;The update includes feedback from global AI security experts.&lt;/li&gt;
+&lt;li&gt;It highlights emerging security challenges in generative AI systems.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.lasso.security/blog/securing-mcp-workflows</guid>
-      <category>Artificial Intelligence</category>
+      <guid isPermaLink="false">https://www.giskard.ai/knowledge/owasp-top-10-for-llm-2025-understanding-th</guid>
+      <category>AI Security</category>
       <category>Large Language Models</category>
-      <category>API Integration</category>
-      <category>Software Standards</category>
-      <category>Automation</category>
-      <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
-      <source url="https://www.lasso.security/blog">Custom Web Page</source>
+      <category>Cybersecurity Risks</category>
+      <category>Generative AI</category>
+      <category>Risk Management</category>
+      <pubDate>Mon, 29 Dec 2025 21:35:44 +0000</pubDate>
+      <source url="https://www.giskard.ai/knowledge-categories/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>When AI financial advice goes wrong: ChatGPT, Copilot, and Gemini failed UK consumers</title>
+      <link>https://www.giskard.ai/knowledge/when-ai-financial-advice-goes-wrong-chatgpt-copilot-and-gemini-failed-uk-consumers</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Giskard Team&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Financial Advice", "Consumer Protection", "Regulation", "Technology Failures"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;AI tools like ChatGPT, Copilot, and Gemini gave poor financial advice to UK users.&lt;/li&gt;
+&lt;li&gt;They often provided outdated or incorrect information.&lt;/li&gt;
+&lt;li&gt;UK-specific financial rules were frequently ignored.&lt;/li&gt;
+&lt;li&gt;The article urges stricter regulation and better AI training.&lt;/li&gt;
+&lt;li&gt;Consumers should consult human advisors for important financial decisions.&lt;/li&gt;
+&lt;li&gt;AI has potential but needs improvements for safe use.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.giskard.ai/knowledge/when-ai-financial-advice-goes-wrong-chatgpt-copilot-and-gemini-failed-uk-consumers</guid>
+      <category>Artificial Intelligence</category>
+      <category>Financial Advice</category>
+      <category>Consumer Protection</category>
+      <category>Regulation</category>
+      <category>Technology Failures</category>
+      <pubDate>Mon, 29 Dec 2025 21:35:44 +0000</pubDate>
+      <source url="https://www.giskard.ai/knowledge-categories/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Red Teaming Challenge</title>
+      <link>https://www.imda.gov.sg/resources/blog/blog-articles/2025/01/red-teaming-challenge</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Red Teaming", "Cybersecurity Training", "Information Security", "Cyber Defense"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;The Red Teaming Challenge improves cybersecurity skills.&lt;/li&gt;
+&lt;li&gt;Participants face real-world cyber attack simulations.&lt;/li&gt;
+&lt;li&gt;It tests vulnerability identification and defense abilities.&lt;/li&gt;
+&lt;li&gt;The challenge promotes collaboration and knowledge sharing.&lt;/li&gt;
+&lt;li&gt;It builds a strong cybersecurity community.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.imda.gov.sg/resources/blog/blog-articles/2025/01/red-teaming-challenge</guid>
+      <category>Cybersecurity</category>
+      <category>Red Teaming</category>
+      <category>Cybersecurity Training</category>
+      <category>Information Security</category>
+      <category>Cyber Defense</category>
+      <pubDate>Mon, 29 Dec 2025 21:35:44 +0000</pubDate>
+      <source url="https://sgaisi.sg/resources/">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Improving Methodologies for AI Model Evaluations Across Global Languages</title>
+      <link>https://sgaisi.sg/resources/improving-methodologies-for-ai-model-evaluations-across-global-languages/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Lead Authors: Singapore, Japan, United Kingdom; Contributors: Members of the International Network of AI Safety Institutes&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Evaluation", "Multilingual AI", "Cybersecurity", "International Collaboration", "AI Safety"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Singapore, Japan, and the UK led a global AI evaluation study.&lt;/li&gt;
+&lt;li&gt;They tested AI models across ten different languages.&lt;/li&gt;
+&lt;li&gt;Over 130,000 cybersecurity prompts were used in the tests.&lt;/li&gt;
+&lt;li&gt;The study created 6,000 new multilingual prompts.&lt;/li&gt;
+&lt;li&gt;Results showed language impacts AI model responses.&lt;/li&gt;
+&lt;li&gt;Limitations include grading subjectivity and limited human review.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://sgaisi.sg/resources/improving-methodologies-for-ai-model-evaluations-across-global-languages/</guid>
+      <category>AI Evaluation</category>
+      <category>Multilingual AI</category>
+      <category>Cybersecurity</category>
+      <category>International Collaboration</category>
+      <category>AI Safety</category>
+      <pubDate>Mon, 29 Dec 2025 21:35:44 +0000</pubDate>
+      <source url="https://sgaisi.sg/resources/">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Advancing Methodologies for Agentic Evaluations Across Domains</title>
+      <link>https://sgaisi.sg/resources/international-joint-testing-exercise-agentic-testing/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "AI Evaluation", "Cybersecurity", "Multilingual AI", "International Collaboration"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;International Network participants collaborated on agentic AI evaluations.&lt;/li&gt;
+&lt;li&gt;The third exercise focused on LLM agents and their risks.&lt;/li&gt;
+&lt;li&gt;Two strands addressed sensitive information leakage, fraud, and cybersecurity.&lt;/li&gt;
+&lt;li&gt;Testing involved multiple languages and models.&lt;/li&gt;
+&lt;li&gt;The goal was to improve evaluation methodologies.&lt;/li&gt;
+&lt;li&gt;Collaboration enhanced understanding of autonomous AI agent testing challenges.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://sgaisi.sg/resources/international-joint-testing-exercise-agentic-testing/</guid>
+      <category>Artificial Intelligence</category>
+      <category>AI Evaluation</category>
+      <category>Cybersecurity</category>
+      <category>Multilingual AI</category>
+      <category>International Collaboration</category>
+      <pubDate>Mon, 29 Dec 2025 21:35:44 +0000</pubDate>
+      <source url="https://sgaisi.sg/resources/">Custom Web Page</source>
     </item>
   </channel>
 </rss>
