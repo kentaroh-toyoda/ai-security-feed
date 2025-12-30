@@ -7,130 +7,56 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Dec 2025 21:35:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 21:32:09 +0000</lastBuildDate>
     <item>
-      <title>OWASP Top 10 for LLM 2025: Understanding the Risks of Large Language Models</title>
-      <link>https://www.giskard.ai/knowledge/owasp-top-10-for-llm-2025-understanding-th</link>
+      <title>The Good, the Bad, and the Ugly in Cybersecurity — Week 51</title>
+      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-51-8/</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Large Language Models", "Cybersecurity Risks", "Generative AI", "Risk Management"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Paul Lanois&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Data Breaches", "Ransomware", "Phishing", "Supply Chain Attacks"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;OWASP updated its Top 10 risks for large language models in 2025.&lt;/li&gt;
-&lt;li&gt;The update reflects new insights from real-world AI deployments.&lt;/li&gt;
-&lt;li&gt;MITRE’s Atlas framework also evolves alongside these changes.&lt;/li&gt;
-&lt;li&gt;The update includes feedback from global AI security experts.&lt;/li&gt;
-&lt;li&gt;It highlights emerging security challenges in generative AI systems.&lt;/li&gt;
+&lt;li&gt;Microsoft fixed critical vulnerabilities including an active zero-day.&lt;/li&gt;
+&lt;li&gt;A ransomware group declared a ceasefire.&lt;/li&gt;
+&lt;li&gt;A major data breach exposed millions of records.&lt;/li&gt;
+&lt;li&gt;Phishing campaigns hit financial institutions causing fraud.&lt;/li&gt;
+&lt;li&gt;Supply chain attacks and insider threats increased during the holidays.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.giskard.ai/knowledge/owasp-top-10-for-llm-2025-understanding-th</guid>
-      <category>AI Security</category>
-      <category>Large Language Models</category>
-      <category>Cybersecurity Risks</category>
-      <category>Generative AI</category>
-      <category>Risk Management</category>
-      <pubDate>Mon, 29 Dec 2025 21:35:44 +0000</pubDate>
-      <source url="https://www.giskard.ai/knowledge-categories/blog">Custom Web Page</source>
+      <guid isPermaLink="false">https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-51-8/</guid>
+      <category>Cybersecurity</category>
+      <category>Data Breaches</category>
+      <category>Ransomware</category>
+      <category>Phishing</category>
+      <category>Supply Chain Attacks</category>
+      <pubDate>Tue, 30 Dec 2025 21:32:09 +0000</pubDate>
+      <source url="https://www.sentinelone.com/blog">Custom Web Page</source>
     </item>
     <item>
-      <title>When AI financial advice goes wrong: ChatGPT, Copilot, and Gemini failed UK consumers</title>
-      <link>https://www.giskard.ai/knowledge/when-ai-financial-advice-goes-wrong-chatgpt-copilot-and-gemini-failed-uk-consumers</link>
+      <title>The Best, the Worst and the Ugliest in Cybersecurity | 2025 Edition</title>
+      <link>https://www.sentinelone.com/blog/the-best-the-worst-and-the-ugliest-in-cybersecurity-2025-edition/</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Giskard Team&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Christopher Budd&lt;/div&gt;
 &lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Financial Advice", "Consumer Protection", "Regulation", "Technology Failures"]&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity Trends", "Artificial Intelligence", "Ransomware", "Supply Chain Security", "Insider Threats"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;AI tools like ChatGPT, Copilot, and Gemini gave poor financial advice to UK users.&lt;/li&gt;
-&lt;li&gt;They often provided outdated or incorrect information.&lt;/li&gt;
-&lt;li&gt;UK-specific financial rules were frequently ignored.&lt;/li&gt;
-&lt;li&gt;The article urges stricter regulation and better AI training.&lt;/li&gt;
-&lt;li&gt;Consumers should consult human advisors for important financial decisions.&lt;/li&gt;
-&lt;li&gt;AI has potential but needs improvements for safe use.&lt;/li&gt;
+&lt;li&gt;Cybersecurity trends for 2025 show mixed progress.&lt;/li&gt;
+&lt;li&gt;AI-driven security innovations improve threat detection.&lt;/li&gt;
+&lt;li&gt;Ransomware remains a major and persistent threat.&lt;/li&gt;
+&lt;li&gt;Supply chain and insider attacks are highly dangerous.&lt;/li&gt;
+&lt;li&gt;Collaboration and AI adoption are key for future security.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.giskard.ai/knowledge/when-ai-financial-advice-goes-wrong-chatgpt-copilot-and-gemini-failed-uk-consumers</guid>
+      <guid isPermaLink="false">https://www.sentinelone.com/blog/the-best-the-worst-and-the-ugliest-in-cybersecurity-2025-edition/</guid>
+      <category>Cybersecurity Trends</category>
       <category>Artificial Intelligence</category>
-      <category>Financial Advice</category>
-      <category>Consumer Protection</category>
-      <category>Regulation</category>
-      <category>Technology Failures</category>
-      <pubDate>Mon, 29 Dec 2025 21:35:44 +0000</pubDate>
-      <source url="https://www.giskard.ai/knowledge-categories/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Red Teaming Challenge</title>
-      <link>https://www.imda.gov.sg/resources/blog/blog-articles/2025/01/red-teaming-challenge</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Red Teaming", "Cybersecurity Training", "Information Security", "Cyber Defense"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;The Red Teaming Challenge improves cybersecurity skills.&lt;/li&gt;
-&lt;li&gt;Participants face real-world cyber attack simulations.&lt;/li&gt;
-&lt;li&gt;It tests vulnerability identification and defense abilities.&lt;/li&gt;
-&lt;li&gt;The challenge promotes collaboration and knowledge sharing.&lt;/li&gt;
-&lt;li&gt;It builds a strong cybersecurity community.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.imda.gov.sg/resources/blog/blog-articles/2025/01/red-teaming-challenge</guid>
-      <category>Cybersecurity</category>
-      <category>Red Teaming</category>
-      <category>Cybersecurity Training</category>
-      <category>Information Security</category>
-      <category>Cyber Defense</category>
-      <pubDate>Mon, 29 Dec 2025 21:35:44 +0000</pubDate>
-      <source url="https://sgaisi.sg/resources/">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Improving Methodologies for AI Model Evaluations Across Global Languages</title>
-      <link>https://sgaisi.sg/resources/improving-methodologies-for-ai-model-evaluations-across-global-languages/</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Lead Authors: Singapore, Japan, United Kingdom; Contributors: Members of the International Network of AI Safety Institutes&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Evaluation", "Multilingual AI", "Cybersecurity", "International Collaboration", "AI Safety"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Singapore, Japan, and the UK led a global AI evaluation study.&lt;/li&gt;
-&lt;li&gt;They tested AI models across ten different languages.&lt;/li&gt;
-&lt;li&gt;Over 130,000 cybersecurity prompts were used in the tests.&lt;/li&gt;
-&lt;li&gt;The study created 6,000 new multilingual prompts.&lt;/li&gt;
-&lt;li&gt;Results showed language impacts AI model responses.&lt;/li&gt;
-&lt;li&gt;Limitations include grading subjectivity and limited human review.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://sgaisi.sg/resources/improving-methodologies-for-ai-model-evaluations-across-global-languages/</guid>
-      <category>AI Evaluation</category>
-      <category>Multilingual AI</category>
-      <category>Cybersecurity</category>
-      <category>International Collaboration</category>
-      <category>AI Safety</category>
-      <pubDate>Mon, 29 Dec 2025 21:35:44 +0000</pubDate>
-      <source url="https://sgaisi.sg/resources/">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Advancing Methodologies for Agentic Evaluations Across Domains</title>
-      <link>https://sgaisi.sg/resources/international-joint-testing-exercise-agentic-testing/</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "AI Evaluation", "Cybersecurity", "Multilingual AI", "International Collaboration"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;International Network participants collaborated on agentic AI evaluations.&lt;/li&gt;
-&lt;li&gt;The third exercise focused on LLM agents and their risks.&lt;/li&gt;
-&lt;li&gt;Two strands addressed sensitive information leakage, fraud, and cybersecurity.&lt;/li&gt;
-&lt;li&gt;Testing involved multiple languages and models.&lt;/li&gt;
-&lt;li&gt;The goal was to improve evaluation methodologies.&lt;/li&gt;
-&lt;li&gt;Collaboration enhanced understanding of autonomous AI agent testing challenges.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://sgaisi.sg/resources/international-joint-testing-exercise-agentic-testing/</guid>
-      <category>Artificial Intelligence</category>
-      <category>AI Evaluation</category>
-      <category>Cybersecurity</category>
-      <category>Multilingual AI</category>
-      <category>International Collaboration</category>
-      <pubDate>Mon, 29 Dec 2025 21:35:44 +0000</pubDate>
-      <source url="https://sgaisi.sg/resources/">Custom Web Page</source>
+      <category>Ransomware</category>
+      <category>Supply Chain Security</category>
+      <category>Insider Threats</category>
+      <pubDate>Tue, 30 Dec 2025 21:32:09 +0000</pubDate>
+      <source url="https://www.sentinelone.com/blog">Custom Web Page</source>
     </item>
   </channel>
 </rss>
