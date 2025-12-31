@@ -7,56 +7,30 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Dec 2025 21:32:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Dec 2025 21:32:02 +0000</lastBuildDate>
     <item>
-      <title>The Good, the Bad, and the Ugly in Cybersecurity — Week 51</title>
-      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-51-8/</link>
+      <title>Agentic ProbLLMs: Exploiting AI Computer-Use And Coding Agents (39C3 Video + Slides)</title>
+      <link>https://embracethered.com/blog/posts/2025/39c3-agentic-probllms-exploiting-computer-use-and-coding-agents/</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Paul Lanois&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Data Breaches", "Ransomware", "Phishing", "Supply Chain Attacks"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Johann&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 30, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Chaos Communication Congress", "Agentic Systems", "Cybersecurity Research"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Microsoft fixed critical vulnerabilities including an active zero-day.&lt;/li&gt;
-&lt;li&gt;A ransomware group declared a ceasefire.&lt;/li&gt;
-&lt;li&gt;A major data breach exposed millions of records.&lt;/li&gt;
-&lt;li&gt;Phishing campaigns hit financial institutions causing fraud.&lt;/li&gt;
-&lt;li&gt;Supply chain attacks and insider threats increased during the holidays.&lt;/li&gt;
+&lt;li&gt;The author attended the 39C3 Chaos Communication Congress in Hamburg.&lt;/li&gt;
+&lt;li&gt;They presented a talk on agentic ProbLLMs and AI security.&lt;/li&gt;
+&lt;li&gt;The talk covers vulnerabilities in AI coding agents.&lt;/li&gt;
+&lt;li&gt;Videos and slides are available online.&lt;/li&gt;
+&lt;li&gt;The author looks forward to the next event.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-51-8/</guid>
-      <category>Cybersecurity</category>
-      <category>Data Breaches</category>
-      <category>Ransomware</category>
-      <category>Phishing</category>
-      <category>Supply Chain Attacks</category>
-      <pubDate>Tue, 30 Dec 2025 21:32:09 +0000</pubDate>
-      <source url="https://www.sentinelone.com/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>The Best, the Worst and the Ugliest in Cybersecurity | 2025 Edition</title>
-      <link>https://www.sentinelone.com/blog/the-best-the-worst-and-the-ugliest-in-cybersecurity-2025-edition/</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Christopher Budd&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity Trends", "Artificial Intelligence", "Ransomware", "Supply Chain Security", "Insider Threats"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Cybersecurity trends for 2025 show mixed progress.&lt;/li&gt;
-&lt;li&gt;AI-driven security innovations improve threat detection.&lt;/li&gt;
-&lt;li&gt;Ransomware remains a major and persistent threat.&lt;/li&gt;
-&lt;li&gt;Supply chain and insider attacks are highly dangerous.&lt;/li&gt;
-&lt;li&gt;Collaboration and AI adoption are key for future security.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.sentinelone.com/blog/the-best-the-worst-and-the-ugliest-in-cybersecurity-2025-edition/</guid>
-      <category>Cybersecurity Trends</category>
-      <category>Artificial Intelligence</category>
-      <category>Ransomware</category>
-      <category>Supply Chain Security</category>
-      <category>Insider Threats</category>
-      <pubDate>Tue, 30 Dec 2025 21:32:09 +0000</pubDate>
-      <source url="https://www.sentinelone.com/blog">Custom Web Page</source>
+      <guid isPermaLink="false">https://embracethered.com/blog/posts/2025/39c3-agentic-probllms-exploiting-computer-use-and-coding-agents/</guid>
+      <category>AI Security</category>
+      <category>Chaos Communication Congress</category>
+      <category>Agentic Systems</category>
+      <category>Cybersecurity Research</category>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
+      <source url="https://embracethered.com/blog/">Custom Web Page</source>
     </item>
   </channel>
 </rss>
