@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>AI Security Digest</title>
+    <link>https://kentaroh-toyoda.github.io/ai-security-feed</link>
+    <description>Curated AI security insights and articles from various sources</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>AI Security Digest Agent</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 04 Jan 2026 21:34:13 +0000</lastBuildDate>
+    <item>
+      <title>Taint Analysis for Agent Tool Calls</title>
+      <link>https://www.codeintegrity.ai/blog/taint-analysis</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Steven Jung&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Static Code Analysis", "Data Flow Analysis", "Software Development", "Machine Learning"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;AI agents use multiple tools chained together.&lt;/li&gt;
+&lt;li&gt;Taint analysis tracks data flow between these tools.&lt;/li&gt;
+&lt;li&gt;Tools are categorized as private sources, untrusted sources, or state-changing sinks.&lt;/li&gt;
+&lt;li&gt;Risks include data leaks and tampering.&lt;/li&gt;
+&lt;li&gt;Signals like schema overlap and runtime analysis help identify risky chains.&lt;/li&gt;
+&lt;li&gt;This approach improves security for AI-driven workflows.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.codeintegrity.ai/blog/taint-analysis</guid>
+      <category>AI Security</category>
+      <category>Static Code Analysis</category>
+      <category>Data Flow Analysis</category>
+      <category>Software Development</category>
+      <category>Machine Learning</category>
+      <pubDate>Sun, 04 Jan 2026 21:34:13 +0000</pubDate>
+      <source url="https://www.codeintegrity.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Latest Research 98% Accurate and Still Broken</title>
+      <link>https://www.codeintegrity.ai/blog/prompt-injection-limits</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Steven Jung&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 03, 2026&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Machine Learning", "Prompt Injection Detection", "Natural Language Processing", "Security", "Large Language Models"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;A ModernBERT classifier achieved 98% accuracy in prompt injection detection.&lt;/li&gt;
+&lt;li&gt;However, it struggles with novel attack patterns.&lt;/li&gt;
+&lt;li&gt;Embedding-based methods improve generalization but add latency.&lt;/li&gt;
+&lt;li&gt;Small language models detect new attacks better but are slower.&lt;/li&gt;
+&lt;li&gt;Large LLMs used zero-shot show the best detection but are impractical for real-time use.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.codeintegrity.ai/blog/prompt-injection-limits</guid>
+      <category>Machine Learning</category>
+      <category>Prompt Injection Detection</category>
+      <category>Natural Language Processing</category>
+      <category>Security</category>
+      <category>Large Language Models</category>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.codeintegrity.ai/blog">Custom Web Page</source>
+    </item>
+  </channel>
+</rss>
