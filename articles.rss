@@ -7,240 +7,181 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Jan 2026 21:39:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 21:37:26 +0000</lastBuildDate>
     <item>
-      <title>Cascading Failures in Agentic AI: Complete OWASP ASI08 Security Guide 2026</title>
-      <link>https://adversa.ai/blog/cascading-failures-in-agentic-ai-complete-owasp-asi08-security-guide-2026/</link>
+      <title>Adversa AI founder named one of AI Security Hub’s top 10 AI security thought leaders</title>
+      <link>https://adversa.ai/blog/adversa-ai-founder-named-top-10-ai-security-thought-leaders/</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
 &lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; admin&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 04, 2026&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Agentic AI", "Cascading Failures", "OWASP Standards", "Risk Management"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 06, 2026&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Artificial Intelligence", "Cybersecurity", "Thought Leadership"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;The article explains cascading failures in agentic AI systems.&lt;/li&gt;
-&lt;li&gt;It focuses on the OWASP ASI08 security standard.&lt;/li&gt;
-&lt;li&gt;It covers detection, prevention, and mitigation strategies.&lt;/li&gt;
-&lt;li&gt;The guide includes risk assessment and incident response plans.&lt;/li&gt;
-&lt;li&gt;It highlights recent research and case studies.&lt;/li&gt;
-&lt;li&gt;The article targets AI security professionals and developers.&lt;/li&gt;
+&lt;li&gt;Adversa AI is a leader in continuous Red Teaming for AI systems.&lt;/li&gt;
+&lt;li&gt;Alex Polyakov is the founder of Adversa AI.&lt;/li&gt;
+&lt;li&gt;He was named a Top 10 AI Security 2025 Thought Leader.&lt;/li&gt;
+&lt;li&gt;The recognition comes from AI Security Hub.&lt;/li&gt;
+&lt;li&gt;This highlights his influence in AI security standards.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://adversa.ai/blog/cascading-failures-in-agentic-ai-complete-owasp-asi08-security-guide-2026/</guid>
+      <guid isPermaLink="false">https://adversa.ai/blog/adversa-ai-founder-named-top-10-ai-security-thought-leaders/</guid>
       <category>AI Security</category>
-      <category>Agentic AI</category>
-      <category>Cascading Failures</category>
-      <category>OWASP Standards</category>
-      <category>Risk Management</category>
-      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      <category>Artificial Intelligence</category>
+      <category>Cybersecurity</category>
+      <category>Thought Leadership</category>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
       <source url="https://adversa.ai/topic/trusted-ai-blog/">Custom Web Page</source>
     </item>
     <item>
-      <title>Top MCP security resources — January 2026</title>
-      <link>https://adversa.ai/blog/top-mcp-security-resources-january-2026/</link>
+      <title>HiddenLayer Selected as Awardee on $151B Missile Defense Agency SHIELD IDIQ Supporting the Golden Dome Initiative</title>
+      <link>https://hiddenlayer.com/innovation-hub/hiddenlayer-selected-as-awardee-on-missile-defense-agency-shield-idiq/</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Sergey&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 05, 2026&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Protocol Vulnerabilities", "Cybersecurity Research", "MCP Security", "Threat Mitigation"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 23, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Defense Technology", "Missile Defense", "Government Contracts", "Cybersecurity"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;The Model Context Protocol is now a standard for AI agent connections.&lt;/li&gt;
-&lt;li&gt;Security experts focus on its unique vulnerabilities.&lt;/li&gt;
-&lt;li&gt;Recent research highlights metadata poisoning and protocol flaws.&lt;/li&gt;
-&lt;li&gt;Critical CVEs enable localhost breaches and prompt hijacking.&lt;/li&gt;
-&lt;li&gt;AI workflow security needs protocol-specific defenses.&lt;/li&gt;
-&lt;li&gt;The community is developing targeted security strategies.&lt;/li&gt;
+&lt;li&gt;HiddenLayer won a contract on the Missile Defense Agency's SHIELD IDIQ program.&lt;/li&gt;
+&lt;li&gt;The contract supports the $151 billion Golden Dome initiative.&lt;/li&gt;
+&lt;li&gt;HiddenLayer provides AI security for classified defense environments.&lt;/li&gt;
+&lt;li&gt;Their Airgapped AI Security Platform protects AI models in disconnected settings.&lt;/li&gt;
+&lt;li&gt;The platform ensures compliance with federal security standards.&lt;/li&gt;
+&lt;li&gt;This award highlights the importance of AI security in defense.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://adversa.ai/blog/top-mcp-security-resources-january-2026/</guid>
+      <guid isPermaLink="false">https://hiddenlayer.com/?p=14200</guid>
       <category>AI Security</category>
-      <category>Protocol Vulnerabilities</category>
-      <category>Cybersecurity Research</category>
-      <category>MCP Security</category>
-      <category>Threat Mitigation</category>
-      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
-      <source url="https://adversa.ai/topic/trusted-ai-blog/">Custom Web Page</source>
-    </item>
-    <item>
-      <title>What is a Prompt Injection Attack? How It Works, Types, and Defensive Techniques Prompt injection is a systemic risk where LLMs follow malicious instructions hidden in inputs because they lack native trust boundaries. As models gain tools, memory, and autonomy, these attacks can trigger real data leaks and unauthorized actions unless controls exist outside the model.</title>
-      <link>https://mindgard.ai/blog/what-is-a-prompt-injection-attack</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Fergal Glynn&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 05, 2026&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Artificial Intelligence", "Large Language Models", "Prompt Injection Attacks", "Data Security"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Prompt injection tricks language models into following malicious instructions.&lt;/li&gt;
-&lt;li&gt;These attacks exploit the lack of trust boundaries in LLMs.&lt;/li&gt;
-&lt;li&gt;They can cause data leaks and unauthorized actions.&lt;/li&gt;
-&lt;li&gt;Attacks can be direct or hidden in content.&lt;/li&gt;
-&lt;li&gt;Traditional injection differs as prompt injection targets instruction execution.&lt;/li&gt;
-&lt;li&gt;Defenses require controls outside the model itself.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://mindgard.ai/blog/what-is-a-prompt-injection-attack</guid>
+      <category>Defense Technology</category>
+      <category>Missile Defense</category>
+      <category>Government Contracts</category>
       <category>Cybersecurity</category>
-      <category>Artificial Intelligence</category>
-      <category>Large Language Models</category>
-      <category>Prompt Injection Attacks</category>
-      <category>Data Security</category>
-      <pubDate>Mon, 05 Jan 2026 21:38:30 +0000</pubDate>
-      <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+      <source url="https://hiddenlayer.com/feed">HiddenLayer | Security for AI</source>
     </item>
     <item>
-      <title>7 Ways to Secure LLMs Against Prompt Injections Prompt injection attacks exploit LLMs’ inability to separate trusted instructions from untrusted content. The only effective defense is layered security that limits impact when injections slip through.</title>
-      <link>https://mindgard.ai/blog/secure-llms-against-prompt-injections</link>
+      <title>The Good, the Bad, and the Ugly in Cybersecurity: Week 1-7</title>
+      <link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-1-7/</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Fergal Glynn&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 05, 2026&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Large Language Models", "Cybersecurity", "Prompt Injection Attacks", "Data Protection"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Prompt injections exploit LLMs' inability to separate trusted from untrusted instructions.&lt;/li&gt;
-&lt;li&gt;Attacks can be direct or indirect, with indirect being harder to detect.&lt;/li&gt;
-&lt;li&gt;Layered security is the only effective defense against these attacks.&lt;/li&gt;
-&lt;li&gt;Indirect injections hide in documents and data sources, tricking models silently.&lt;/li&gt;
-&lt;li&gt;Organizations must use adversarial testing and monitoring to secure LLMs.&lt;/li&gt;
-&lt;li&gt;Mindgard technology helps uncover hidden risks in LLM deployments.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://mindgard.ai/blog/secure-llms-against-prompt-injections</guid>
-      <category>AI Security</category>
-      <category>Large Language Models</category>
-      <category>Cybersecurity</category>
-      <category>Prompt Injection Attacks</category>
-      <category>Data Protection</category>
-      <pubDate>Mon, 05 Jan 2026 21:38:14 +0000</pubDate>
-      <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Indirect Prompt Injections: 5 Real World Examples (and How to Prevent Them) Indirect prompt injections embed malicious instructions in trusted content, letting attackers hijack LLMs without direct user input. Effective prevention requires layered defenses, including input sanitization, strict instruction boundaries, least-privilege tools, and continuous testing.</title>
-      <link>https://mindgard.ai/blog/indirect-prompt-injection-examples</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Fergal Glynn&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 05, 2026&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Artificial Intelligence", "Large Language Models", "Adversarial Attacks", "Data Protection"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Indirect prompt injections hide malicious instructions in trusted content.&lt;/li&gt;
-&lt;li&gt;They exploit AI systems without direct user input.&lt;/li&gt;
-&lt;li&gt;These attacks are harder to detect than direct injections.&lt;/li&gt;
-&lt;li&gt;Prevention needs layered defenses and continuous testing.&lt;/li&gt;
-&lt;li&gt;Examples include email footers, web pages, and internal knowledge bases.&lt;/li&gt;
-&lt;li&gt;Organizations must sanitize inputs and enforce strict controls.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://mindgard.ai/blog/indirect-prompt-injection-examples</guid>
-      <category>Cybersecurity</category>
-      <category>Artificial Intelligence</category>
-      <category>Large Language Models</category>
-      <category>Adversarial Attacks</category>
-      <category>Data Protection</category>
-      <pubDate>Mon, 05 Jan 2026 21:37:57 +0000</pubDate>
-      <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Prompt Injection Attacks in ChatGPT: Vulnerabilities, Examples &amp; Prevention Prompt injection attacks exploit LLMs’ lack of trust boundaries, allowing malicious instructions to override safeguards in ChatGPT, especially in RAG and agentic systems. Reducing risk requires layered defenses such as policy enforcement, prompt hardening, continuous testing, and output filtering.</title>
-      <link>https://mindgard.ai/blog/prompt-injection-attacks-in-chatgpt</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Fergal Glynn&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 05, 2026&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Prompt Injection Attacks", "Large Language Models", "ChatGPT Vulnerabilities", "Cybersecurity"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Prompt injection attacks exploit LLMs' lack of trust boundaries.&lt;/li&gt;
-&lt;li&gt;ChatGPT is vulnerable to these attacks, especially in RAG and agentic systems.&lt;/li&gt;
-&lt;li&gt;Attacks include direct, indirect, and multi-step injections.&lt;/li&gt;
-&lt;li&gt;Defenses include policy enforcement, prompt hardening, and output filtering.&lt;/li&gt;
-&lt;li&gt;Continuous testing and layered security reduce risks.&lt;/li&gt;
-&lt;li&gt;No LLM is fully immune to prompt injection attacks.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://mindgard.ai/blog/prompt-injection-attacks-in-chatgpt</guid>
-      <category>AI Security</category>
-      <category>Prompt Injection Attacks</category>
-      <category>Large Language Models</category>
-      <category>ChatGPT Vulnerabilities</category>
-      <category>Cybersecurity</category>
-      <pubDate>Mon, 05 Jan 2026 21:37:42 +0000</pubDate>
-      <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Prompt Injection Techniques: 5 Most Malicious Types Prompt injection exploits LLMs’ lack of trust boundaries and grows more dangerous as models gain context, tools, and autonomy. The most harmful techniques manipulate instruction handling to trigger data leaks and unauthorized actions across workflows.</title>
-      <link>https://mindgard.ai/blog/prompt-injection-techniques</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Fergal Glynn&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 05, 2026&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Large Language Models", "Prompt Injection", "Data Privacy", "AI Risk Management"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Prompt injection exploits LLMs' lack of trust boundaries.&lt;/li&gt;
-&lt;li&gt;It grows more dangerous as models gain context and autonomy.&lt;/li&gt;
-&lt;li&gt;Attackers hide instructions in trusted data sources.&lt;/li&gt;
-&lt;li&gt;This can cause data leaks and unauthorized actions.&lt;/li&gt;
-&lt;li&gt;Structural issues in LLMs make prompt injection hard to prevent.&lt;/li&gt;
-&lt;li&gt;System-level boundaries are needed to secure AI workflows.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://mindgard.ai/blog/prompt-injection-techniques</guid>
-      <category>AI Security</category>
-      <category>Large Language Models</category>
-      <category>Prompt Injection</category>
-      <category>Data Privacy</category>
-      <category>AI Risk Management</category>
-      <pubDate>Mon, 05 Jan 2026 21:37:25 +0000</pubDate>
-      <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Agent Security vs Agent Safety</title>
-      <link>https://neuraltrust.ai/blog/agent-security-vs-agent-safety</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Alessandro Pignati&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 05, 2026&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "AI Safety", "Cybersecurity", "Autonomous Systems", "Enterprise Technology"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Agentic AI is becoming common in enterprise applications.&lt;/li&gt;
-&lt;li&gt;Agent safety prevents unintentional harm by AI agents.&lt;/li&gt;
-&lt;li&gt;Agent security defends against intentional attacks by adversaries.&lt;/li&gt;
-&lt;li&gt;Safety focuses on alignment, robustness, and bias mitigation.&lt;/li&gt;
-&lt;li&gt;Security covers prompt injection, data theft, and unauthorized access.&lt;/li&gt;
-&lt;li&gt;Both are vital for trustworthy AI systems.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://neuraltrust.ai/blog/agent-security-vs-agent-safety</guid>
-      <category>Artificial Intelligence</category>
-      <category>AI Safety</category>
-      <category>Cybersecurity</category>
-      <category>Autonomous Systems</category>
-      <category>Enterprise Technology</category>
-      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
-      <source url="https://neuraltrust.ai/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Best-of-N jailbreaking: The automated LLM attack that takes only seconds</title>
-      <link>https://www.giskard.ai/knowledge/best-of-n-jailbreaking-the-automated-llm-attack-that-takes-only-seconds</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Giskard Team&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Paul Ducklin&lt;/div&gt;
 &lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Security", "Machine Learning", "Adversarial Attacks", "AI Safety"]&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Data Breaches", "Ransomware", "Phishing", "Cyber Espionage"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Large Language Models face security risks from jailbreaking attacks.&lt;/li&gt;
-&lt;li&gt;The 'Best of N' method automates finding jailbreak prompts quickly.&lt;/li&gt;
-&lt;li&gt;It generates multiple prompts and selects the most effective one.&lt;/li&gt;
-&lt;li&gt;This attack bypasses safety filters in seconds.&lt;/li&gt;
-&lt;li&gt;Developers need strong defenses and monitoring.&lt;/li&gt;
-&lt;li&gt;Understanding these attacks helps build safer AI systems.&lt;/li&gt;
+&lt;li&gt;Microsoft's AI security tools improve threat detection.&lt;/li&gt;
+&lt;li&gt;Organizations patch critical vulnerabilities promptly.&lt;/li&gt;
+&lt;li&gt;Phishing attacks target remote workers more.&lt;/li&gt;
+&lt;li&gt;Ransomware groups focus on supply chain attacks.&lt;/li&gt;
+&lt;li&gt;A healthcare data breach exposes sensitive information.&lt;/li&gt;
+&lt;li&gt;State-sponsored cyber espionage targets critical infrastructure.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.giskard.ai/knowledge/best-of-n-jailbreaking-the-automated-llm-attack-that-takes-only-seconds</guid>
+      <guid isPermaLink="false">https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-1-7/</guid>
+      <category>Cybersecurity</category>
+      <category>Data Breaches</category>
+      <category>Ransomware</category>
+      <category>Phishing</category>
+      <category>Cyber Espionage</category>
+      <pubDate>Tue, 06 Jan 2026 21:37:26 +0000</pubDate>
+      <source url="https://www.sentinelone.com/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>When Your AI Coding Plugin Starts Picking Your Dependencies: Marketplace Skills and Dependency Hijack in Claude Code</title>
+      <link>https://www.sentinelone.com/blog/marketplace-skills-and-dependency-hijack-in-claude-code/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; SentinelOne Research Team&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "AI Security", "Software Supply Chain", "Dependency Management", "AI Development"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Cybersecurity attacks target AI codebases like Claude.&lt;/li&gt;
+&lt;li&gt;Marketplace skills and dependency hijacking are common attack methods.&lt;/li&gt;
+&lt;li&gt;These attacks exploit third-party libraries and plugins.&lt;/li&gt;
+&lt;li&gt;Consequences include data breaches and service disruptions.&lt;/li&gt;
+&lt;li&gt;Mitigation requires strict dependency management and security assessments.&lt;/li&gt;
+&lt;li&gt;Runtime monitoring helps detect suspicious activities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.sentinelone.com/blog/marketplace-skills-and-dependency-hijack-in-claude-code/</guid>
+      <category>Cybersecurity</category>
+      <category>AI Security</category>
+      <category>Software Supply Chain</category>
+      <category>Dependency Management</category>
+      <category>AI Development</category>
+      <pubDate>Tue, 06 Jan 2026 21:37:26 +0000</pubDate>
+      <source url="https://www.sentinelone.com/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>12 Months of Fighting Cybercrime &amp; Defending Enterprises | The SentinelLABS 2025 Review</title>
+      <link>https://www.sentinelone.com/blog/12-months-of-fighting-cybercrime-defending-enterprises-the-sentinellabs-2025-review/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; SentinelLabs&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Cybercrime", "Threat Intelligence", "AI in Security", "Enterprise Security"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;SentinelLabs defended enterprises against evolving cybercrime in 2024.&lt;/li&gt;
+&lt;li&gt;Cybercriminals used AI, automation, and social engineering.&lt;/li&gt;
+&lt;li&gt;SentinelLabs employed advanced research and threat intelligence.&lt;/li&gt;
+&lt;li&gt;Major threats included ransomware and supply chain attacks.&lt;/li&gt;
+&lt;li&gt;AI-powered detection improved security posture.&lt;/li&gt;
+&lt;li&gt;Collaboration helped disrupt attacker operations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.sentinelone.com/blog/12-months-of-fighting-cybercrime-defending-enterprises-the-sentinellabs-2025-review/</guid>
+      <category>Cybersecurity</category>
+      <category>Cybercrime</category>
+      <category>Threat Intelligence</category>
+      <category>AI in Security</category>
+      <category>Enterprise Security</category>
+      <pubDate>Tue, 06 Jan 2026 21:37:26 +0000</pubDate>
+      <source url="https://www.sentinelone.com/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>5 Critical Security Risks Associated With AI Agents Agentic AI creates new, evolving attack surfaces that require strict access controls and continuous monitoring to prevent large-scale security incidents.</title>
+      <link>https://mindgard.ai/blog/5-critical-security-risks-associated-with-ai-agents</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Cybersecurity", "Risk Management", "Information Security"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Agentic AI introduces new security risks.&lt;/li&gt;
+&lt;li&gt;These risks evolve over time.&lt;/li&gt;
+&lt;li&gt;Strict access controls are essential.&lt;/li&gt;
+&lt;li&gt;Continuous monitoring is required.&lt;/li&gt;
+&lt;li&gt;This prevents large-scale incidents.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://mindgard.ai/blog/5-critical-security-risks-associated-with-ai-agents</guid>
       <category>Artificial Intelligence</category>
-      <category>Security</category>
-      <category>Machine Learning</category>
-      <category>Adversarial Attacks</category>
-      <category>AI Safety</category>
-      <pubDate>Mon, 05 Jan 2026 21:39:21 +0000</pubDate>
-      <source url="https://www.giskard.ai/knowledge-categories/blog">Custom Web Page</source>
+      <category>Cybersecurity</category>
+      <category>Risk Management</category>
+      <category>Information Security</category>
+      <pubDate>Tue, 06 Jan 2026 21:37:26 +0000</pubDate>
+      <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>How to Prevent Prompt Injection Attacks: From Detection to Mitigation Prompt injection attacks exploit missing trust boundaries in LLMs to override instructions and cause real-world harm, and cannot be stopped with prompts alone. Effective defense requires layered controls for detection, mitigation, and protection enforced outside the model to limit damage and prevent escalation.</title>
+      <link>https://mindgard.ai/blog/how-to-prevent-prompt-injection-attacks</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Fergal Glynn&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 06, 2026&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Artificial Intelligence", "Large Language Models", "Prompt Injection Attacks", "Threat Detection and Mitigation"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Prompt injection attacks exploit trust gaps in large language models.&lt;/li&gt;
+&lt;li&gt;These attacks can bypass safeguards and cause harm.&lt;/li&gt;
+&lt;li&gt;Defense requires detection, mitigation, and protection layers.&lt;/li&gt;
+&lt;li&gt;Detection finds suspicious inputs or outputs early.&lt;/li&gt;
+&lt;li&gt;Mitigation limits damage after an attack occurs.&lt;/li&gt;
+&lt;li&gt;Protection enforces strict boundaries outside the model.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://mindgard.ai/blog/how-to-prevent-prompt-injection-attacks</guid>
+      <category>Cybersecurity</category>
+      <category>Artificial Intelligence</category>
+      <category>Large Language Models</category>
+      <category>Prompt Injection Attacks</category>
+      <category>Threat Detection and Mitigation</category>
+      <pubDate>Tue, 06 Jan 2026 21:36:15 +0000</pubDate>
+      <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
     </item>
   </channel>
 </rss>
