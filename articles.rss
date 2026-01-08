@@ -7,158 +7,104 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Jan 2026 21:38:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 21:38:44 +0000</lastBuildDate>
     <item>
-      <title>Top Agentic AI security resources — January 2026</title>
-      <link>https://adversa.ai/blog/top-agentic-ai-security-resources-january-2026/</link>
+      <title>New In Arize AX: Multi-Span Filters and Improved Playground Views</title>
+      <link>https://arize.com/blog/new-in-arize-ax-multi-span-filters-and-new-playground-views/</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Sergey&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 07, 2026&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Agentic AI", "Cybersecurity Vulnerabilities", "AI Exploits", "Security Frameworks"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 06, 2026&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Model Management", "Software Updates", "User Interface", "Data Filtering", "Prompt Engineering"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;AI is evolving from passive models to autonomous agents.&lt;/li&gt;
-&lt;li&gt;Security threats now include complex systemic exploits.&lt;/li&gt;
-&lt;li&gt;Recent vulnerabilities include Anthropic and GeminiJack.&lt;/li&gt;
-&lt;li&gt;Protecting agentic AI needs architectural changes.&lt;/li&gt;
-&lt;li&gt;Runtime sandboxing is essential for defense.&lt;/li&gt;
+&lt;li&gt;Arize AX released updates in December 2025.&lt;/li&gt;
+&lt;li&gt;Multi-span filters now support complex trace queries.&lt;/li&gt;
+&lt;li&gt;Playground Views save and share prompt configurations.&lt;/li&gt;
+&lt;li&gt;The interface and filtering options have improved.&lt;/li&gt;
+&lt;li&gt;Updates enhance user experience and AI model analysis.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://adversa.ai/blog/top-agentic-ai-security-resources-january-2026/</guid>
+      <guid isPermaLink="false">https://arize.com/blog/new-in-arize-ax-multi-span-filters-and-new-playground-views/</guid>
+      <category>AI Model Management</category>
+      <category>Software Updates</category>
+      <category>User Interface</category>
+      <category>Data Filtering</category>
+      <category>Prompt Engineering</category>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+      <source url="https://arize.com/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>How Context Graphs Turn Agent Traces into Durable Business Assets</title>
+      <link>https://arize.com/blog/how-context-graphs-turn-agent-traces-into-durable-business-assets/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 08, 2026&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Enterprise AI", "Data Management", "Context Graphs", "Decision Tracing", "Business Intelligence"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Context graphs capture decision traces in enterprise data.&lt;/li&gt;
+&lt;li&gt;They record why agents took specific actions.&lt;/li&gt;
+&lt;li&gt;This creates durable, queryable business assets.&lt;/li&gt;
+&lt;li&gt;Agents combine structured data with human context.&lt;/li&gt;
+&lt;li&gt;These assets improve over time through auditing and querying.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://arize.com/blog/how-context-graphs-turn-agent-traces-into-durable-business-assets/</guid>
+      <category>Enterprise AI</category>
+      <category>Data Management</category>
+      <category>Context Graphs</category>
+      <category>Decision Tracing</category>
+      <category>Business Intelligence</category>
+      <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
+      <source url="https://arize.com/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Why Enterprises Need a Real AI Security Standard for LLMs and Agents</title>
+      <link>https://www.lasso.security/blog/ai-security-framework</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Lasso Security Team&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Enterprise Technology", "Large Language Models", "Cybersecurity", "Risk Management"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;LLMs and AI agents bring new security risks to enterprises.&lt;/li&gt;
+&lt;li&gt;Existing standards do not address AI-specific threats.&lt;/li&gt;
+&lt;li&gt;A dedicated AI security framework is needed.&lt;/li&gt;
+&lt;li&gt;Key risks include prompt injection and data leakage.&lt;/li&gt;
+&lt;li&gt;The framework should cover risk assessment, monitoring, and incident response.&lt;/li&gt;
+&lt;li&gt;Collaboration on AI security standards is essential.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://www.lasso.security/blog/ai-security-framework</guid>
       <category>AI Security</category>
-      <category>Agentic AI</category>
-      <category>Cybersecurity Vulnerabilities</category>
-      <category>AI Exploits</category>
-      <category>Security Frameworks</category>
-      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
-      <source url="https://adversa.ai/topic/trusted-ai-blog/">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Digging Deeper: Expanding AI Safety Evaluation with Adversarial Techniques Sharpen your AI model safety with single-shot and multi-turn techniques.</title>
-      <link>https://mindgard.ai/blog/expanding-ai-safety-evaluation-with-adversarial-techniques</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; William Hackett&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 07, 2026&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Safety", "Adversarial Testing", "AI Evaluation", "Model Security", "AI Risk Management"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;AI safety datasets provide broad but shallow model evaluations.&lt;/li&gt;
-&lt;li&gt;Mindgard platform offers targeted safety categories.&lt;/li&gt;
-&lt;li&gt;It uses single-shot and multi-turn adversarial techniques.&lt;/li&gt;
-&lt;li&gt;These methods deepen safety assessments beyond basic prompts.&lt;/li&gt;
-&lt;li&gt;Adversarial testing reveals hidden model vulnerabilities.&lt;/li&gt;
-&lt;li&gt;Organizations can tailor evaluations to their safety concerns.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://mindgard.ai/blog/expanding-ai-safety-evaluation-with-adversarial-techniques</guid>
-      <category>AI Safety</category>
-      <category>Adversarial Testing</category>
-      <category>AI Evaluation</category>
-      <category>Model Security</category>
-      <category>AI Risk Management</category>
-      <pubDate>Wed, 07 Jan 2026 21:37:16 +0000</pubDate>
-      <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Top Agentic AI security resources — January 2026</title>
-      <link>https://adversa.ai/blog/top-agentic-ai-security-resources-january-2026/</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Sergey&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 07, 2026&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Agentic AI Security", "AI Vulnerabilities", "Cybersecurity", "Autonomous AI Agents"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;AI is evolving from passive models to autonomous agents.&lt;/li&gt;
-&lt;li&gt;New vulnerabilities target complex system exploits.&lt;/li&gt;
-&lt;li&gt;Anthropic and GeminiJack are key examples.&lt;/li&gt;
-&lt;li&gt;Securing agentic AI needs architectural changes.&lt;/li&gt;
-&lt;li&gt;Runtime sandboxing is essential for defense.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://adversa.ai/blog/top-agentic-ai-security-resources-january-2026/</guid>
-      <category>Agentic AI Security</category>
-      <category>AI Vulnerabilities</category>
+      <category>Enterprise Technology</category>
+      <category>Large Language Models</category>
       <category>Cybersecurity</category>
-      <category>Autonomous AI Agents</category>
-      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
-      <source url="https://adversa.ai/topic/trusted-ai-blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>What is Memory &amp; Context Poisoning?</title>
-      <link>https://neuraltrust.ai/blog/memory-context-poisoning</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Alessandro Pignati&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 07, 2026&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Cybersecurity Threats", "Autonomous Agents", "Data Integrity", "Artificial Intelligence"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Memory and Context Poisoning are major threats to AI agents.&lt;/li&gt;
-&lt;li&gt;They corrupt an agent's long-term knowledge persistently.&lt;/li&gt;
-&lt;li&gt;This differs from prompt injection, which is a one-time attack.&lt;/li&gt;
-&lt;li&gt;Poisoning manipulates the agent's understanding and decisions over time.&lt;/li&gt;
-&lt;li&gt;It is hard to detect with traditional security tools.&lt;/li&gt;
-&lt;li&gt;Protecting agent memory integrity is crucial for future AI security.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://neuraltrust.ai/blog/memory-context-poisoning</guid>
-      <category>AI Security</category>
-      <category>Cybersecurity Threats</category>
-      <category>Autonomous Agents</category>
-      <category>Data Integrity</category>
-      <category>Artificial Intelligence</category>
-      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
-      <source url="https://neuraltrust.ai/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>The Hidden Backdoor in Claude Code: Why Its Power Is Also Its Greatest Vulnerability</title>
-      <link>https://www.lasso.security/blog/the-hidden-backdoor-in-claude-coding-assistant</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Or Oxenberg Eliran Suisa&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 07, 2026&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI security", "Software development tools", "Cybersecurity", "Prompt injection attacks", "Open-source software"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Claude Code is a powerful developer tool with broad system access.&lt;/li&gt;
-&lt;li&gt;It is vulnerable to indirect prompt injection attacks.&lt;/li&gt;
-&lt;li&gt;These attacks exploit its dynamic code execution capabilities.&lt;/li&gt;
-&lt;li&gt;A backdoor could lead to severe security breaches.&lt;/li&gt;
-&lt;li&gt;The open-source tool claude-hooks helps detect and block such threats.&lt;/li&gt;
-&lt;li&gt;Developers must use protective tools to ensure safe automation.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.lasso.security/blog/the-hidden-backdoor-in-claude-coding-assistant</guid>
-      <category>AI security</category>
-      <category>Software development tools</category>
-      <category>Cybersecurity</category>
-      <category>Prompt injection attacks</category>
-      <category>Open-source software</category>
-      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <category>Risk Management</category>
+      <pubDate>Thu, 08 Jan 2026 21:38:44 +0000</pubDate>
       <source url="https://www.lasso.security/blog">Custom Web Page</source>
     </item>
     <item>
-      <title>AI hallucinations and the AI failure in a French Court</title>
-      <link>https://www.giskard.ai/knowledge/ai-hallucinations-and-the-ai-failure-in-a-french-court</link>
+      <title>Predictions 2026: AI, Security, and the Next Wave of Tech</title>
+      <link>https://www.troj.ai/blog/predictions-2026-ai-security-and-the-next-wave-of-tech</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Luca Massaron&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "AI Ethics", "Legal Technology", "AI Safety", "Machine Learning"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 08, 2026&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Cybersecurity", "Technology Trends", "Regulation", "Risk Management"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;AI hallucinations produce plausible but incorrect outputs.&lt;/li&gt;
-&lt;li&gt;A French court case showed AI failures in legal decisions.&lt;/li&gt;
-&lt;li&gt;AI models lack true understanding and can mislead.&lt;/li&gt;
-&lt;li&gt;Human oversight is crucial in sensitive AI applications.&lt;/li&gt;
-&lt;li&gt;Continuous testing helps improve AI reliability and safety.&lt;/li&gt;
+&lt;li&gt;Experts predict key AI and security trends for 2026.&lt;/li&gt;
+&lt;li&gt;Discussions focus on attackers versus defenders.&lt;/li&gt;
+&lt;li&gt;AI triage and regulation are major topics.&lt;/li&gt;
+&lt;li&gt;Agent risk assessment is highlighted.&lt;/li&gt;
+&lt;li&gt;The article explores what changes in tech this year.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.giskard.ai/knowledge/ai-hallucinations-and-the-ai-failure-in-a-french-court</guid>
+      <guid isPermaLink="false">https://www.troj.ai/blog/predictions-2026-ai-security-and-the-next-wave-of-tech</guid>
       <category>Artificial Intelligence</category>
-      <category>AI Ethics</category>
-      <category>Legal Technology</category>
-      <category>AI Safety</category>
-      <category>Machine Learning</category>
-      <pubDate>Wed, 07 Jan 2026 21:38:02 +0000</pubDate>
-      <source url="https://www.giskard.ai/knowledge-categories/blog">Custom Web Page</source>
+      <category>Cybersecurity</category>
+      <category>Technology Trends</category>
+      <category>Regulation</category>
+      <category>Risk Management</category>
+      <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.troj.ai/blog">Custom Web Page</source>
     </item>
   </channel>
 </rss>
