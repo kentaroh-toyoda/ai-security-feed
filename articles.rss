@@ -7,104 +7,65 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Jan 2026 21:38:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 21:35:49 +0000</lastBuildDate>
     <item>
-      <title>New In Arize AX: Multi-Span Filters and Improved Playground Views</title>
-      <link>https://arize.com/blog/new-in-arize-ax-multi-span-filters-and-new-playground-views/</link>
+      <title>Pentesting as a Service: 10 Top Pentesting Service Providers (2026) As cyber threats evolve, organizations use penetration testing to stay ahead, and this guide spotlights 10 top providers—like BugCrowd, Deloitte, and Mindgard—offering expert services across industries and technologies.</title>
+      <link>https://mindgard.ai/blog/top-pentesting-service-providers</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 06, 2026&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Model Management", "Software Updates", "User Interface", "Data Filtering", "Prompt Engineering"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Fergal Glynn&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 09, 2026&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Penetration Testing", "Information Security", "Risk Management", "IT Compliance"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Arize AX released updates in December 2025.&lt;/li&gt;
-&lt;li&gt;Multi-span filters now support complex trace queries.&lt;/li&gt;
-&lt;li&gt;Playground Views save and share prompt configurations.&lt;/li&gt;
-&lt;li&gt;The interface and filtering options have improved.&lt;/li&gt;
-&lt;li&gt;Updates enhance user experience and AI model analysis.&lt;/li&gt;
+&lt;li&gt;Pentesting helps organizations identify security weaknesses early.&lt;/li&gt;
+&lt;li&gt;Top providers include BugCrowd, Deloitte, and Mindgard.&lt;/li&gt;
+&lt;li&gt;Providers offer services for AI, mobile, and cloud security.&lt;/li&gt;
+&lt;li&gt;Choosing the right provider requires checking expertise, reputation, and methodology.&lt;/li&gt;
+&lt;li&gt;Compliance, cost, and innovation are also key factors.&lt;/li&gt;
+&lt;li&gt;Effective pentesting improves overall security posture.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://arize.com/blog/new-in-arize-ax-multi-span-filters-and-new-playground-views/</guid>
-      <category>AI Model Management</category>
-      <category>Software Updates</category>
-      <category>User Interface</category>
-      <category>Data Filtering</category>
-      <category>Prompt Engineering</category>
-      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
-      <source url="https://arize.com/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>How Context Graphs Turn Agent Traces into Durable Business Assets</title>
-      <link>https://arize.com/blog/how-context-graphs-turn-agent-traces-into-durable-business-assets/</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 08, 2026&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Enterprise AI", "Data Management", "Context Graphs", "Decision Tracing", "Business Intelligence"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Context graphs capture decision traces in enterprise data.&lt;/li&gt;
-&lt;li&gt;They record why agents took specific actions.&lt;/li&gt;
-&lt;li&gt;This creates durable, queryable business assets.&lt;/li&gt;
-&lt;li&gt;Agents combine structured data with human context.&lt;/li&gt;
-&lt;li&gt;These assets improve over time through auditing and querying.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://arize.com/blog/how-context-graphs-turn-agent-traces-into-durable-business-assets/</guid>
-      <category>Enterprise AI</category>
-      <category>Data Management</category>
-      <category>Context Graphs</category>
-      <category>Decision Tracing</category>
-      <category>Business Intelligence</category>
-      <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
-      <source url="https://arize.com/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Why Enterprises Need a Real AI Security Standard for LLMs and Agents</title>
-      <link>https://www.lasso.security/blog/ai-security-framework</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Lasso Security Team&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Enterprise Technology", "Large Language Models", "Cybersecurity", "Risk Management"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;LLMs and AI agents bring new security risks to enterprises.&lt;/li&gt;
-&lt;li&gt;Existing standards do not address AI-specific threats.&lt;/li&gt;
-&lt;li&gt;A dedicated AI security framework is needed.&lt;/li&gt;
-&lt;li&gt;Key risks include prompt injection and data leakage.&lt;/li&gt;
-&lt;li&gt;The framework should cover risk assessment, monitoring, and incident response.&lt;/li&gt;
-&lt;li&gt;Collaboration on AI security standards is essential.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.lasso.security/blog/ai-security-framework</guid>
-      <category>AI Security</category>
-      <category>Enterprise Technology</category>
-      <category>Large Language Models</category>
+      <guid isPermaLink="false">https://mindgard.ai/blog/top-pentesting-service-providers</guid>
       <category>Cybersecurity</category>
+      <category>Penetration Testing</category>
+      <category>Information Security</category>
       <category>Risk Management</category>
-      <pubDate>Thu, 08 Jan 2026 21:38:44 +0000</pubDate>
-      <source url="https://www.lasso.security/blog">Custom Web Page</source>
+      <category>IT Compliance</category>
+      <pubDate>Fri, 09 Jan 2026 21:35:42 +0000</pubDate>
+      <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
     </item>
     <item>
-      <title>Predictions 2026: AI, Security, and the Next Wave of Tech</title>
-      <link>https://www.troj.ai/blog/predictions-2026-ai-security-and-the-next-wave-of-tech</link>
+      <title>Data annotation as the foundation of reliable AI systems</title>
+      <link>https://toloka.ai/data-annotation-as-the-foundation-of-reliable-ai-systems/</link>
+      <guid isPermaLink="false">https://toloka.ai/data-annotation-as-the-foundation-of-reliable-ai-systems/</guid>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <source url="https://toloka.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Why AI Agents need RBAC?</title>
+      <link>https://neuraltrust.ai/blog/rbac-ai-agents</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 08, 2026&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Cybersecurity", "Technology Trends", "Regulation", "Risk Management"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Alessandro Pignati&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 09, 2026&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Cybersecurity", "Access Control", "Identity and Access Management", "Enterprise Security"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Experts predict key AI and security trends for 2026.&lt;/li&gt;
-&lt;li&gt;Discussions focus on attackers versus defenders.&lt;/li&gt;
-&lt;li&gt;AI triage and regulation are major topics.&lt;/li&gt;
-&lt;li&gt;Agent risk assessment is highlighted.&lt;/li&gt;
-&lt;li&gt;The article explores what changes in tech this year.&lt;/li&gt;
+&lt;li&gt;AI agents act much faster than humans.&lt;/li&gt;
+&lt;li&gt;Their decision-making is probabilistic, not fixed.&lt;/li&gt;
+&lt;li&gt;Traditional RBAC fails to control AI actions properly.&lt;/li&gt;
+&lt;li&gt;AI agents need precise rules and boundaries.&lt;/li&gt;
+&lt;li&gt;Current IAM models are inadequate for AI governance.&lt;/li&gt;
+&lt;li&gt;New RBAC paradigms must suit autonomous AI agents.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.troj.ai/blog/predictions-2026-ai-security-and-the-next-wave-of-tech</guid>
+      <guid isPermaLink="false">https://neuraltrust.ai/blog/rbac-ai-agents</guid>
       <category>Artificial Intelligence</category>
       <category>Cybersecurity</category>
-      <category>Technology Trends</category>
-      <category>Regulation</category>
-      <category>Risk Management</category>
-      <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
-      <source url="https://www.troj.ai/blog">Custom Web Page</source>
+      <category>Access Control</category>
+      <category>Identity and Access Management</category>
+      <category>Enterprise Security</category>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+      <source url="https://neuraltrust.ai/blog">Custom Web Page</source>
     </item>
   </channel>
 </rss>
