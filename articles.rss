@@ -7,82 +7,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Jan 2026 21:35:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 21:37:03 +0000</lastBuildDate>
     <item>
-      <title>The Mindgard Philosophy Mindgard’s attacker-aligned, research-driven approach provides security leaders with the insight and operational leverage needed to reduce risk, support compliance, and enable the confident use of AI.</title>
-      <link>https://mindgard.ai/blog/the-mindgard-philosophy</link>
+      <title>California’s AI Laws: What Changes in January 2026</title>
+      <link>https://neuraltrust.ai/blog/california-ai-laws</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Dr. Peter Garraghan&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 12, 2026&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Offensive Security", "Cybersecurity Research", "Artificial Intelligence", "Risk Management"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Alessandro Pignati&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 13, 2026&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence Regulation", "Technology Law", "AI Safety and Ethics", "Risk Management", "California Legislation"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Mindgard uses attacker-aligned, research-driven methods to secure AI systems.&lt;/li&gt;
-&lt;li&gt;It originated from research at Lancaster University.&lt;/li&gt;
-&lt;li&gt;The platform emulates attacker behavior to identify AI risks.&lt;/li&gt;
-&lt;li&gt;Mindgard tests entire AI systems, not just models.&lt;/li&gt;
-&lt;li&gt;Continuous research keeps Mindgard ahead of evolving AI threats.&lt;/li&gt;
-&lt;li&gt;It focuses on real security vulnerabilities to reduce risk effectively.&lt;/li&gt;
+&lt;li&gt;California's new AI laws take effect January 1, 2026.&lt;/li&gt;
+&lt;li&gt;They require active risk management and real-time safety monitoring.&lt;/li&gt;
+&lt;li&gt;Companies must document and report AI system behaviors continuously.&lt;/li&gt;
+&lt;li&gt;The laws focus on preventing real-world harms from AI deployment.&lt;/li&gt;
+&lt;li&gt;SB 53 targets large-scale AI developers with strict compliance rules.&lt;/li&gt;
+&lt;li&gt;This marks a shift from voluntary ethics to enforceable legal obligations.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://mindgard.ai/blog/the-mindgard-philosophy</guid>
-      <category>AI Security</category>
-      <category>Offensive Security</category>
-      <category>Cybersecurity Research</category>
-      <category>Artificial Intelligence</category>
+      <guid isPermaLink="false">https://neuraltrust.ai/blog/california-ai-laws</guid>
+      <category>Artificial Intelligence Regulation</category>
+      <category>Technology Law</category>
+      <category>AI Safety and Ethics</category>
       <category>Risk Management</category>
-      <pubDate>Mon, 12 Jan 2026 21:35:28 +0000</pubDate>
-      <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Evaluatorq: An Open-Source Framework for GenAI Evaluations</title>
-      <link>https://orq.ai/blog/evaluatorq</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Ewa Szyszka&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 12, 2026&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Software Development", "Machine Learning Evaluation", "Open Source Tools"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Evaluatorq is an open-source framework for testing GenAI systems.&lt;/li&gt;
-&lt;li&gt;It supports TypeScript and Python environments.&lt;/li&gt;
-&lt;li&gt;The tool runs evaluations locally or in CI/CD pipelines.&lt;/li&gt;
-&lt;li&gt;It uses jobs, evaluators, and datasets as core components.&lt;/li&gt;
-&lt;li&gt;Users can share data and track model quality via Orq integration.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://orq.ai/blog/evaluatorq</guid>
-      <category>Artificial Intelligence</category>
-      <category>Software Development</category>
-      <category>Machine Learning Evaluation</category>
-      <category>Open Source Tools</category>
-      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-      <source url="https://orq.ai/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>Don’t Throw Good Agents After Bad: Smarter Agentic AI Deployment</title>
-      <link>https://www.holisticai.com/blog/dont-throw-good-agents-after-bad</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Holistic AI Team&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Governance", "AI Risk Management", "Regulatory Compliance", "AI Asset Management", "Enterprise AI Strategy"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Organizations face challenges managing AI agents of varying quality.&lt;/li&gt;
-&lt;li&gt;Discarding entire AI systems wastes resources.&lt;/li&gt;
-&lt;li&gt;Effective governance identifies and retains good agents.&lt;/li&gt;
-&lt;li&gt;Tools like Holistic AI help map and audit AI assets.&lt;/li&gt;
-&lt;li&gt;Regulatory frameworks guide ethical AI deployment.&lt;/li&gt;
-&lt;li&gt;Case studies show benefits of holistic AI governance.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.holisticai.com/blog/dont-throw-good-agents-after-bad</guid>
-      <category>AI Governance</category>
-      <category>AI Risk Management</category>
-      <category>Regulatory Compliance</category>
-      <category>AI Asset Management</category>
-      <category>Enterprise AI Strategy</category>
-      <pubDate>Mon, 12 Jan 2026 21:35:36 +0000</pubDate>
-      <source url="https://www.holisticai.com/blog">Custom Web Page</source>
+      <category>California Legislation</category>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <source url="https://neuraltrust.ai/blog">Custom Web Page</source>
     </item>
   </channel>
 </rss>
