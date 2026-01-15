@@ -7,84 +7,31 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Jan 2026 21:37:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 21:38:19 +0000</lastBuildDate>
     <item>
-      <title>Why Agent Engineering Needs a Full-Stack Platform, Not Another Point Solution</title>
-      <link>https://orq.ai/blog/full-stack-agent-engineering-platform</link>
+      <title>Minting Next.js, Authentication Cookies</title>
+      <link>https://embracethered.com/blog/posts/2026/minting-next-auth-nextjs-auth-cookies-react2shell-threat/</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Sohrab Hosseini&lt;/div&gt;
 &lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 14, 2026&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Agent Engineering", "Full-Stack Platforms", "Enterprise AI", "Software Development Tools", "AI Operations"]&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Web Security", "Next.js", "Authentication", "Vulnerabilities", "Cybersecurity Best Practices"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;AI agents require complex coordination at scale.&lt;/li&gt;
-&lt;li&gt;Fragmented tools fail in production environments.&lt;/li&gt;
-&lt;li&gt;Evaluation alone is no longer enough.&lt;/li&gt;
-&lt;li&gt;Full-stack platforms integrate experimentation, deployment, and monitoring.&lt;/li&gt;
-&lt;li&gt;Consolidation reduces operational costs and improves efficiency.&lt;/li&gt;
-&lt;li&gt;Enterprises benefit from better scalability and coordination.&lt;/li&gt;
+&lt;li&gt;Next.&lt;/li&gt;
+&lt;li&gt;js apps using next-auth can have their authentication cookies minted by adversaries.&lt;/li&gt;
+&lt;li&gt;React2Shell vulnerability enables arbitrary code execution with little trace.&lt;/li&gt;
+&lt;li&gt;The NEXTAUTH_SECRET is critical and must be rotated regularly.&lt;/li&gt;
+&lt;li&gt;Attackers can impersonate any user if they obtain this secret.&lt;/li&gt;
+&lt;li&gt;Detection involves monitoring JWT IDs and unusual login patterns.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://orq.ai/blog/full-stack-agent-engineering-platform</guid>
-      <category>AI Agent Engineering</category>
-      <category>Full-Stack Platforms</category>
-      <category>Enterprise AI</category>
-      <category>Software Development Tools</category>
-      <category>AI Operations</category>
+      <guid isPermaLink="false">https://embracethered.com/blog/posts/2026/minting-next-auth-nextjs-auth-cookies-react2shell-threat/</guid>
+      <category>Web Security</category>
+      <category>Next.js</category>
+      <category>Authentication</category>
+      <category>Vulnerabilities</category>
+      <category>Cybersecurity Best Practices</category>
       <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-      <source url="https://orq.ai/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>The Kiro Agentic IDE Vulnerability (CVE-2026-0830)</title>
-      <link>https://neuraltrust.ai/blog/cve-2026-0830</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Alessandro Pignati&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 14, 2026&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Cybersecurity", "Software Development", "Artificial Intelligence", "Vulnerability Analysis", "DevSecOps"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;LLMs now power agentic IDEs that execute shell commands and manage workflows.&lt;/li&gt;
-&lt;li&gt;AWS Kiro IDE had a critical RCE vulnerability, CVE-2026-0830.&lt;/li&gt;
-&lt;li&gt;The flaw was in unsafe command string construction using unsanitized workspace paths.&lt;/li&gt;
-&lt;li&gt;Attackers exploit this by crafting malicious repository names.&lt;/li&gt;
-&lt;li&gt;This breaks the trust model of opening folders in IDEs.&lt;/li&gt;
-&lt;li&gt;The article analyzes the root cause and suggests security improvements.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://neuraltrust.ai/blog/cve-2026-0830</guid>
-      <category>Cybersecurity</category>
-      <category>Software Development</category>
-      <category>Artificial Intelligence</category>
-      <category>Vulnerability Analysis</category>
-      <category>DevSecOps</category>
-      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-      <source url="https://neuraltrust.ai/blog">Custom Web Page</source>
-    </item>
-    <item>
-      <title>The New York Times lawsuit against Perplexity exposes AI copyright issues and AI hallucinations</title>
-      <link>https://www.giskard.ai/knowledge/the-new-york-times-lawsuit-against-perplexity-exposes-ai-copyright-issues-and-ai-hallucinations</link>
-      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Emmanuel Straschnov&lt;/div&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Copyright Law", "Media and Journalism", "Legal Issues", "Technology Ethics"]&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
-&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;The New York Times sued Perplexity AI for copyright infringement.&lt;/li&gt;
-&lt;li&gt;Perplexity AI used Times content without permission.&lt;/li&gt;
-&lt;li&gt;The case highlights AI copyright and reliability issues.&lt;/li&gt;
-&lt;li&gt;AI hallucinations complicate content accuracy concerns.&lt;/li&gt;
-&lt;li&gt;The lawsuit may impact future AI content regulations.&lt;/li&gt;
-&lt;li&gt;Journalistic integrity is a key concern in the case.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.giskard.ai/knowledge/the-new-york-times-lawsuit-against-perplexity-exposes-ai-copyright-issues-and-ai-hallucinations</guid>
-      <category>Artificial Intelligence</category>
-      <category>Copyright Law</category>
-      <category>Media and Journalism</category>
-      <category>Legal Issues</category>
-      <category>Technology Ethics</category>
-      <pubDate>Wed, 14 Jan 2026 21:37:47 +0000</pubDate>
-      <source url="https://www.giskard.ai/knowledge-categories/blog">Custom Web Page</source>
+      <source url="https://embracethered.com/blog/">Custom Web Page</source>
     </item>
   </channel>
 </rss>
