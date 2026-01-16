@@ -7,31 +7,175 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Jan 2026 21:38:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 21:41:19 +0000</lastBuildDate>
     <item>
-      <title>Minting Next.js, Authentication Cookies</title>
-      <link>https://embracethered.com/blog/posts/2026/minting-next-auth-nextjs-auth-cookies-react2shell-threat/</link>
+      <title>Stop Letting Models Grade Their Own Homework: Why LLM-as-a-Judge Fails at Prompt Injection Defense</title>
+      <link>https://www.lakera.ai/blog/stop-letting-models-grade-their-own-homework-why-llm-as-a-judge-fails-at-prompt-injection-defense</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 14, 2026&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Web Security", "Next.js", "Authentication", "Vulnerabilities", "Cybersecurity Best Practices"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Lakera Team&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 16, 2026&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["AI Security", "Prompt Injection", "Large Language Models", "Adversarial Attacks", "AI Safety"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Next.&lt;/li&gt;
-&lt;li&gt;js apps using next-auth can have their authentication cookies minted by adversaries.&lt;/li&gt;
-&lt;li&gt;React2Shell vulnerability enables arbitrary code execution with little trace.&lt;/li&gt;
-&lt;li&gt;The NEXTAUTH_SECRET is critical and must be rotated regularly.&lt;/li&gt;
-&lt;li&gt;Attackers can impersonate any user if they obtain this secret.&lt;/li&gt;
-&lt;li&gt;Detection involves monitoring JWT IDs and unusual login patterns.&lt;/li&gt;
+&lt;li&gt;Many security teams use LLMs to screen for prompt injection attacks.&lt;/li&gt;
+&lt;li&gt;This approach seems logical at first.&lt;/li&gt;
+&lt;li&gt;However, it fails under adversarial conditions.&lt;/li&gt;
+&lt;li&gt;Using LLMs to judge other LLMs creates fragile defenses.&lt;/li&gt;
+&lt;li&gt;These defenses often fail silently, risking false security.&lt;/li&gt;
+&lt;li&gt;Alternative methods are needed for robust protection.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://embracethered.com/blog/posts/2026/minting-next-auth-nextjs-auth-cookies-react2shell-threat/</guid>
-      <category>Web Security</category>
-      <category>Next.js</category>
-      <category>Authentication</category>
-      <category>Vulnerabilities</category>
-      <category>Cybersecurity Best Practices</category>
-      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-      <source url="https://embracethered.com/blog/">Custom Web Page</source>
+      <guid isPermaLink="false">https://www.lakera.ai/blog/stop-letting-models-grade-their-own-homework-why-llm-as-a-judge-fails-at-prompt-injection-defense</guid>
+      <category>AI Security</category>
+      <category>Prompt Injection</category>
+      <category>Large Language Models</category>
+      <category>Adversarial Attacks</category>
+      <category>AI Safety</category>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+      <source url="https://www.lakera.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Understanding Lumo AI Assistant: Announcing pyLumo</title>
+      <link>https://mindgard.ai/blog/understanding-lumo-ai-assistant-announcing-pylumo</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Rich Smith&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Privacy and Security", "Software Development", "Open Source", "Cryptography"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Mindgard explored Lumo AI assistant by Proton, focusing on privacy features.&lt;/li&gt;
+&lt;li&gt;Lumo uses a unique user-to-LLM encryption scheme.&lt;/li&gt;
+&lt;li&gt;No official APIs existed, so Mindgard created pyLumo library.&lt;/li&gt;
+&lt;li&gt;pyLumo enables programmatic interaction with Lumo in Python.&lt;/li&gt;
+&lt;li&gt;pyLumoTUI offers a terminal UI for chatting with Lumo.&lt;/li&gt;
+&lt;li&gt;Proton’s encryption ensures message privacy from intermediaries.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://mindgard.ai/blog/understanding-lumo-ai-assistant-announcing-pylumo</guid>
+      <category>Artificial Intelligence</category>
+      <category>Privacy and Security</category>
+      <category>Software Development</category>
+      <category>Open Source</category>
+      <category>Cryptography</category>
+      <pubDate>Fri, 16 Jan 2026 21:41:19 +0000</pubDate>
+      <source url="https://mindgard.ai/learn/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>AI agent-as-a-judge: A framework to evaluate agents with agents</title>
+      <link>https://toloka.ai/ai-agent-as-a-judge-a-framework-to-evaluate-agents-with-agents/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Machine Learning", "AI Evaluation", "Agent-based Systems"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;The article proposes a new framework for AI evaluation.&lt;/li&gt;
+&lt;li&gt;AI agents act as judges to assess other agents.&lt;/li&gt;
+&lt;li&gt;This method aims to improve agent performance measurement.&lt;/li&gt;
+&lt;li&gt;It leverages machine learning to create unbiased evaluations.&lt;/li&gt;
+&lt;li&gt;The framework could enhance AI development and benchmarking.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://toloka.ai/ai-agent-as-a-judge-a-framework-to-evaluate-agents-with-agents/</guid>
+      <category>Artificial Intelligence</category>
+      <category>Machine Learning</category>
+      <category>AI Evaluation</category>
+      <category>Agent-based Systems</category>
+      <pubDate>Fri, 16 Jan 2026 21:41:19 +0000</pubDate>
+      <source url="https://toloka.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>Data annotation tools as the foundation of reliable AI models</title>
+      <link>https://toloka.ai/data-annotation-tools-as-the-foundation-of-reliable-ai-models/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; December 25, 2025&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Machine Learning", "Data Annotation", "AI Development"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;Data annotation tools are crucial for AI model accuracy.&lt;/li&gt;
+&lt;li&gt;They help label data correctly.&lt;/li&gt;
+&lt;li&gt;Proper annotation improves model reliability.&lt;/li&gt;
+&lt;li&gt;These tools support machine learning development.&lt;/li&gt;
+&lt;li&gt;Reliable AI depends on quality annotated data.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://toloka.ai/data-annotation-tools-as-the-foundation-of-reliable-ai-models/</guid>
+      <category>Artificial Intelligence</category>
+      <category>Machine Learning</category>
+      <category>Data Annotation</category>
+      <category>AI Development</category>
+      <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
+      <source url="https://toloka.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>How to Label Images for Reliable Computer Vision Systems</title>
+      <link>https://toloka.ai/labeling-images-for-computer-vision-systems/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 16, 2026&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Machine Learning", "Computer Vision", "Data Annotation", "Image Processing"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;The article explains how to label images for computer vision.&lt;/li&gt;
+&lt;li&gt;It covers methods and best practices.&lt;/li&gt;
+&lt;li&gt;Proper labeling improves model reliability.&lt;/li&gt;
+&lt;li&gt;The guide is essential for machine learning projects.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://toloka.ai/labeling-images-for-computer-vision-systems/</guid>
+      <category>Machine Learning</category>
+      <category>Computer Vision</category>
+      <category>Data Annotation</category>
+      <category>Image Processing</category>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+      <source url="https://toloka.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>How to Prepare Your Workplace for AI Integration</title>
+      <link>https://neuraltrust.ai/blog/preparing-for-ai-integrated-workp</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Workplace Management", "Technology Integration", "Employee Training"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;AI integration is transforming workplaces.&lt;/li&gt;
+&lt;li&gt;Preparation is key for smooth adoption.&lt;/li&gt;
+&lt;li&gt;Training employees is essential.&lt;/li&gt;
+&lt;li&gt;Updating infrastructure supports AI tools.&lt;/li&gt;
+&lt;li&gt;Clear communication reduces resistance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://neuraltrust.ai/blog/preparing-for-ai-integrated-workp</guid>
+      <category>Artificial Intelligence</category>
+      <category>Workplace Management</category>
+      <category>Technology Integration</category>
+      <category>Employee Training</category>
+      <pubDate>Fri, 16 Jan 2026 21:41:19 +0000</pubDate>
+      <source url="https://neuraltrust.ai/blog">Custom Web Page</source>
+    </item>
+    <item>
+      <title>What is Excessive Agency? AI agents are gaining autonomy, but without proper controls that autonomy becomes a security risk. This article explores what excessive agency is, how it emerges in real systems, and why it is one of the most critical challenges in agentic AI today.</title>
+      <link>https://neuraltrust.ai/blog/excessive-agency</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Alessandro Pignati&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 16, 2026&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "AI Safety", "Autonomous Systems", "Risk Management", "Agentic AI"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;AI agents are gaining increasing autonomy in decision-making.&lt;/li&gt;
+&lt;li&gt;Excessive agency occurs when control over agents is insufficient.&lt;/li&gt;
+&lt;li&gt;This leads to risks from unchecked, persistent, or opaque actions.&lt;/li&gt;
+&lt;li&gt;Such agents can operate without user confirmation and accumulate context.&lt;/li&gt;
+&lt;li&gt;Excessive agency is a systemic design and governance issue.&lt;/li&gt;
+&lt;li&gt;It differs from bugs or prompt errors and involves authority without accountability.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://neuraltrust.ai/blog/excessive-agency</guid>
+      <category>Artificial Intelligence</category>
+      <category>AI Safety</category>
+      <category>Autonomous Systems</category>
+      <category>Risk Management</category>
+      <category>Agentic AI</category>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+      <source url="https://neuraltrust.ai/blog">Custom Web Page</source>
     </item>
   </channel>
 </rss>
