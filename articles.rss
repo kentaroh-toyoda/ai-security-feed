@@ -7,30 +7,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Jan 2026 21:34:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 21:38:06 +0000</lastBuildDate>
     <item>
-      <title>Multimodal data annotation: the infrastructure layer behind today’s AI</title>
-      <link>https://toloka.ai/multimodal-data-annotation-the-infrastructure-layer-behind-today’s-ai/</link>
+      <title>AI Runtime Security is the Security Layer AI Can’t Outgrow</title>
+      <link>https://www.lasso.security/blog/ai-runtime-security</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 02, 2026&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Machine Learning", "Data Annotation", "Multimodal Data", "AI Infrastructure"]&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Alexandra Shulman&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Cybersecurity", "AI Security", "Runtime Security", "Technology Risk Management"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;Multimodal data annotation is crucial for AI development.&lt;/li&gt;
-&lt;li&gt;It involves labeling diverse data types like text, images, and audio.&lt;/li&gt;
-&lt;li&gt;This process improves machine learning model accuracy.&lt;/li&gt;
-&lt;li&gt;Infrastructure supports efficient and scalable annotation workflows.&lt;/li&gt;
-&lt;li&gt;Advances in tools enhance annotation quality and speed.&lt;/li&gt;
+&lt;li&gt;AI introduces unique security challenges traditional methods miss.&lt;/li&gt;
+&lt;li&gt;Runtime security protects AI during operation.&lt;/li&gt;
+&lt;li&gt;It monitors behavior and detects anomalies in real-time.&lt;/li&gt;
+&lt;li&gt;AI systems change over time, requiring ongoing security.&lt;/li&gt;
+&lt;li&gt;Key components include monitoring, anomaly detection, and incident response.&lt;/li&gt;
+&lt;li&gt;Runtime security is essential for future AI trust and safety.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://toloka.ai/multimodal-data-annotation-the-infrastructure-layer-behind-today’s-ai/</guid>
+      <guid isPermaLink="false">https://www.lasso.security/blog/ai-runtime-security</guid>
       <category>Artificial Intelligence</category>
-      <category>Machine Learning</category>
-      <category>Data Annotation</category>
-      <category>Multimodal Data</category>
-      <category>AI Infrastructure</category>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
-      <source url="https://toloka.ai/blog">Custom Web Page</source>
+      <category>Cybersecurity</category>
+      <category>AI Security</category>
+      <category>Runtime Security</category>
+      <category>Technology Risk Management</category>
+      <pubDate>Sun, 18 Jan 2026 21:38:06 +0000</pubDate>
+      <source url="https://www.lasso.security/blog">Custom Web Page</source>
     </item>
   </channel>
 </rss>
