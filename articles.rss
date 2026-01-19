@@ -7,32 +7,32 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>AI Security Digest Agent</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Jan 2026 21:38:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 21:39:58 +0000</lastBuildDate>
     <item>
-      <title>AI Runtime Security is the Security Layer AI Can’t Outgrow</title>
-      <link>https://www.lasso.security/blog/ai-runtime-security</link>
+      <title>AI Regulation in 2026: Navigating an Uncertain Landscape</title>
+      <link>https://www.holisticai.com/blog/ai-regulation-in-2026-navigating-an-uncertain-landscape</link>
       <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
-&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Alexandra Shulman&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Holistic AI Team&lt;/div&gt;
 &lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; N/A&lt;/div&gt;
-&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Cybersecurity", "AI Security", "Runtime Security", "Technology Risk Management"]&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["Artificial Intelligence", "Regulation and Compliance", "AI Governance", "Risk Management", "Technology Policy"]&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
 &lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
-&lt;li&gt;AI introduces unique security challenges traditional methods miss.&lt;/li&gt;
-&lt;li&gt;Runtime security protects AI during operation.&lt;/li&gt;
-&lt;li&gt;It monitors behavior and detects anomalies in real-time.&lt;/li&gt;
-&lt;li&gt;AI systems change over time, requiring ongoing security.&lt;/li&gt;
-&lt;li&gt;Key components include monitoring, anomaly detection, and incident response.&lt;/li&gt;
-&lt;li&gt;Runtime security is essential for future AI trust and safety.&lt;/li&gt;
+&lt;li&gt;AI regulation will be complex and varied by 2026.&lt;/li&gt;
+&lt;li&gt;Organizations must navigate global and local rules carefully.&lt;/li&gt;
+&lt;li&gt;Key frameworks include the EU AI Act and NIST guidelines.&lt;/li&gt;
+&lt;li&gt;Transparency and risk management are critical themes.&lt;/li&gt;
+&lt;li&gt;Proactive AI governance and audits are essential.&lt;/li&gt;
+&lt;li&gt;Collaboration among stakeholders will drive responsible AI innovation.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;</description>
-      <guid isPermaLink="false">https://www.lasso.security/blog/ai-runtime-security</guid>
+      <guid isPermaLink="false">https://www.holisticai.com/blog/ai-regulation-in-2026-navigating-an-uncertain-landscape</guid>
       <category>Artificial Intelligence</category>
-      <category>Cybersecurity</category>
-      <category>AI Security</category>
-      <category>Runtime Security</category>
-      <category>Technology Risk Management</category>
-      <pubDate>Sun, 18 Jan 2026 21:38:06 +0000</pubDate>
-      <source url="https://www.lasso.security/blog">Custom Web Page</source>
+      <category>Regulation and Compliance</category>
+      <category>AI Governance</category>
+      <category>Risk Management</category>
+      <category>Technology Policy</category>
+      <pubDate>Mon, 19 Jan 2026 21:39:58 +0000</pubDate>
+      <source url="https://www.holisticai.com/blog">Custom Web Page</source>
     </item>
   </channel>
 </rss>
