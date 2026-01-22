@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>AI Security Digest</title>
+    <link>https://kentaroh-toyoda.github.io/ai-security-feed</link>
+    <description>Curated AI security insights and articles from various sources</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>AI Security Digest Agent</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 22 Jan 2026 21:16:20 +0000</lastBuildDate>
+    <item>
+      <title>Agentic ShadowLogic</title>
+      <link>https://hiddenlayer.com/innovation-hub/agentic-shadowlogic/</link>
+      <description>&lt;div style="font-family: Arial, sans-serif; max-width: 600px;"&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Author:&lt;/strong&gt; Sam Pearcy&lt;/div&gt;
+&lt;div style="margin-bottom: 4px;"&gt;&lt;strong&gt;Date:&lt;/strong&gt; January 22, 2026&lt;/div&gt;
+&lt;div style="margin-bottom: 8px;"&gt;&lt;strong&gt;Tags:&lt;/strong&gt; ["General"]&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Summary:&lt;/strong&gt;&lt;/div&gt;
+&lt;ul style="margin: 4px 0; padding-left: 20px;"&gt;
+&lt;li&gt;&lt;a href="https://hiddenlayer.&lt;/li&gt;
+&lt;li&gt;com/innovation-hub/agentic-shadowlogic/" rel="nofollow" title="Agentic ShadowLogic"&gt;&lt;img alt="" class="webfeedsFeaturedVisual wp-post-image" height="140" src="https://hiddenlayer.&lt;/li&gt;
+&lt;li&gt;com/wp-content/uploads/Agentic-ShadowLogic_FeaturedImage-300x140.&lt;/li&gt;
+&lt;li&gt;jpg" style="display: block;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+      <guid isPermaLink="false">https://hiddenlayer.com/?p=14359</guid>
+      <category>General</category>
+      <pubDate>Thu, 22 Jan 2026 15:00:00 +0000</pubDate>
+      <source url="https://hiddenlayer.com/feed">HiddenLayer | Security for AI</source>
+    </item>
+  </channel>
+</rss>
